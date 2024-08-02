@@ -46,26 +46,27 @@
  
     <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
     
-   <label for="sideToggle" class="-m-2.5 inline-flex items-center bg-red-300 justify-center rounded-md p-2.5">
+   <label for="sideToggle" class="-m-2.5 inline-flex items-center md:hidden justify-center rounded-md p-2.5 ">
         <span class="sr-only">Open menu</span>
         <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
           <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
         </svg>
       </label>
-    <div class="fixed flex flex-col h-screen inset-y-0 right-0 z-[1011] w-full overflow-y-auto select-none text-white  sm:max-w-sm bg-red-500  peer-checked/sideToggle:translate-x-0 peer-checked/sideToggle:opacity-100 translate-x-full opacity-0 duration-300">
-    <div class=" bg-white top-0 left-0 w-full ">
-   <nav class="sticky top-0 p-3 bg-white shadow-lg flex items-center justify-between">
+    <div class="fixed flex flex-col inset-y-0 right-0 z-[1011] w-full overflow-y-auto select-none text-white bg-white/60 backdrop-blur-lg peer-checked/sideToggle:translate-x-0 peer-checked/sideToggle:opacity-100
+     translate-x-full opacity-0 duration-300">
+    <div class="ms-auto overflow-y-auto w-full border-l h-screen  sm:w-1/2">
+   <nav class="sticky top-0 bg-white  p-3 ms-auto shadow-lg flex items-center justify-between">
    <a href="" class="*:size-14">
     <img src="../assets/img/edoovi.webp" alt="">
   </a>
   <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
-      <span class="sr-only">Close menu</span>
-      <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+      <span class="sr-only *:">Close menu</span>
+      <svg class="h-6 w-6 text-slate-900" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
         <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
       </svg>
     </label>
    </nav>
-   <div>
+   <div class="flex flex-col !content-between">
    <ul>
   <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
     <a href="" >Home</a>
@@ -96,13 +97,14 @@
     <a href="" >Contact</a>
   </li>
  </ul>
-
-
- </div>
- <div class="flex justify-between p-4  mt-auto ">
- <button class="h-max bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</button>
- <button class="h-max mt-auto bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</button>
+ <div class="mt-auto ">
+ <div class="flex justify-between px-4 pt-10 bg-white w-full">
+  <button class="h-max bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</button>
+ <button class="h-max mt-auto bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white ">Contant Us</button>
    </div>
+ </div>
+ </div>
+ 
    </div>
 </div>
     </div>
