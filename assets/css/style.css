@@ -699,6 +699,10 @@ video {
   isolation: auto;
 }
 
+.z-10{
+  z-index: 10;
+}
+
 .z-\[1011\]{
   z-index: 1011;
 }
@@ -770,6 +774,10 @@ video {
 
 .mt-5{
   margin-top: 1.25rem;
+}
+
+.mt-8{
+  margin-top: 2rem;
 }
 
 .mt-auto{
@@ -901,6 +909,10 @@ video {
   height: 1.5rem;
 }
 
+.h-\[83px\]{
+  height: 83px;
+}
+
 .h-full{
   height: 100%;
 }
@@ -936,6 +948,10 @@ video {
 
 .w-\[weird-and-invalid\]{
   width: weird-and-invalid;
+}
+
+.w-auto{
+  width: auto;
 }
 
 .w-full{
@@ -2164,6 +2180,11 @@ video {
   padding-right: 1.75rem;
 }
 
+.py-12{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
 .py-2{
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
@@ -2248,6 +2269,11 @@ video {
   line-height: 2.5rem;
 }
 
+.text-4xl\/tight{
+  font-size: 2.25rem;
+  line-height: 1.25;
+}
+
 .text-base{
   font-size: 1rem;
   line-height: 1.5rem;
@@ -2274,6 +2300,10 @@ video {
 
 .font-medium{
   font-weight: 500;
+}
+
+.font-normal{
+  font-weight: 400;
 }
 
 .font-semibold{
@@ -2352,8 +2382,21 @@ video {
   line-height: 1.5;
 }
 
+.tracking-\[-0\.04em\]{
+  letter-spacing: -0.04em;
+}
+
 .text-\[\#336699\]\/\[\.35\]{
   color: rgb(51 102 153 / .35);
+}
+
+.text-black{
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
+}
+
+.text-black\/70{
+  color: rgb(0 0 0 / 0.7);
 }
 
 .text-blue-500{
@@ -2384,6 +2427,11 @@ video {
 .text-slate-900{
   --tw-text-opacity: 1;
   color: rgb(15 23 42 / var(--tw-text-opacity));
+}
+
+.text-theme1{
+  --tw-text-opacity: 1;
+  color: rgb(230 117 41 / var(--tw-text-opacity));
 }
 
 .text-white{
@@ -2732,6 +2780,10 @@ video {
   transition-duration: 300ms;
 }
 
+.\!ease-linear{
+  transition-timing-function: linear !important;
+}
+
 .ease-in{
   transition-timing-function: cubic-bezier(0.4, 0, 1, 1);
 }
@@ -2917,6 +2969,13 @@ body{
   opacity: 1;
 }
 
+@media not all and (min-width: 1280px){
+  .max-xl\:text-3xl\/tight{
+    font-size: 1.875rem;
+    line-height: 1.25;
+  }
+}
+
 @media not all and (min-width: 1024px){
   .max-lg\:flex-col-reverse{
     flex-direction: column-reverse;
@@ -2928,6 +2987,13 @@ body{
 
   .max-lg\:text-center{
     text-align: center;
+  }
+}
+
+@media not all and (min-width: 768px){
+  .max-md\:text-2xl\/tight{
+    font-size: 1.5rem;
+    line-height: 1.25;
   }
 }
 
@@ -2981,6 +3047,11 @@ body{
     padding: 2.5rem;
   }
 
+  .md\:px-6{
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
   .md\:pt-28{
     padding-top: 7rem;
   }
@@ -2993,6 +3064,11 @@ body{
   .md\:text-6xl{
     font-size: 3.75rem;
     line-height: 1;
+  }
+
+  .md\:text-base{
+    font-size: 1rem;
+    line-height: 1.5rem;
   }
 }
 
@@ -3007,10 +3083,6 @@ body{
 
   .lg\:w-1\/2{
     width: 50%;
-  }
-
-  .lg\:flex-col-reverse{
-    flex-direction: column-reverse;
   }
 
   .lg\:gap-0{
