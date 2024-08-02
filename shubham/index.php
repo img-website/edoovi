@@ -21,7 +21,7 @@
                     Embark on an Automation Journey with Us
                 </div>
             </div>
-            <div class="mt-8">
+            <div class="mt-3 sm:mt-8">
                 <div class="swiper mySwiper2 swiper-initialized swiper-horizontal swiper-backface-hidden">
                     <div class="swiper-wrapper !ease-linear" id="swiper-wrapper-dd31f7415a72d890" aria-live="off" style="transition-duration: 2000ms; transform: translate3d(-382.4px, 0px, 0px);">
                         <div class="swiper-slide" role="group" aria-label="7 / 7" data-swiper-slide-index="6" style="width: 176.2px; margin-right: 15px;">
@@ -77,7 +77,7 @@
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
                 </div>
             </div>
-            <div class="mt-8">
+            <div class="mt-3 sm:mt-8">
                 <div class="swiper  mySwiper3 swiper-initialized swiper-horizontal swiper-backface-hidden" dir="rtl">
                     <div class="swiper-wrapper !ease-linear" id="swiper-wrapper-dd31f7415a72d890" aria-live="off" style="transition-duration: 2000ms; transform: translate3d(-382.4px, 0px, 0px);">
                         <div class="swiper-slide" role="group" aria-label="7 / 7" data-swiper-slide-index="6" style="width: 176.2px; margin-right: 15px;">
@@ -135,7 +135,6 @@
             </div>
         </div>
     </div>
-
 
 
 

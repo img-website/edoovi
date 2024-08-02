@@ -728,8 +728,8 @@ video {
   margin-top: 0.5rem;
 }
 
-.mt-8 {
-  margin-top: 2rem;
+.mt-3 {
+  margin-top: 0.75rem;
 }
 
 .box-border {
@@ -2585,6 +2585,10 @@ video {
 }
 
 @media (min-width: 640px) {
+  .sm\:mt-8 {
+    margin-top: 2rem;
+  }
+
   .sm\:underline {
     text-decoration-line: underline;
   }
