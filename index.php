@@ -7,6 +7,6 @@
   <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
-  <h1 class="text-4xl text-red-300">hello</h1>
+  <h1 class="text-3xl text-red-700 py-5">hello</h1>
 </body>
 </html>
