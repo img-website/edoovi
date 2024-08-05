@@ -274,17 +274,17 @@ rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:r
           <!-- footer -->
           <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
     <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
-        <div class="grid grid-cols-2 md:grid-cols-3 gap-y-16 gap-x-12">
+        <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 gap-y-16 gap-x-12">
             <div class=" lg:pr-8">
                 <img class="w-auto h-16" src="../assets/img/edoovi.webp" alt="" />
 
                 <p class="text-base leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>  
             </div>
 
-            <div class="ms-auto">
+            <div class="md:ms-auto">
                 <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 before:border-orange-500 before:w-1/4 before:inset-0">About</p>
 
-                <ul class="mt-6 space-y-4">
+                <ul class=" mt-6 flex flex-col gap-3">
                      <li class="flex items-center gap-2 group">
                     <span class="relative flex h-3 w-3">
   <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
@@ -319,10 +319,10 @@ rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:r
                 </ul>
             </div>
 
-            <div class="ms-auto">
+            <div class="md:ms-auto">
             <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 text-nowrap before:border-orange-500 before:w-1/2 before:inset-0">Product & Services</p>
 
-                <ul class="mt-6 space-y-4">
+                <ul class=" mt-6 flex flex-col gap-3">
                      <li class="flex items-center gap-2 group">
                     <span class="relative flex h-3 w-3">
   <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
@@ -367,14 +367,14 @@ rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:r
         </div>
 
         <hr class="mt-16 mb-10 border-gray-200" />
-        <div class="flex items-center justify-between">
-                <div class="flex gap-3 ">
+        <div class="flex items-center justify-between flex-wrap">
+                <div class="flex gap-2 sm:gap-3  ">
                 
-                  <a href="" class="flex items-center gap-3 px-4 border-2 border-orange-500 py-3">
+                  <a href="" class="flex items-center rounded-3xl gap-3 sm:px-4 px-2 border-2 border-orange-500 py-3">
                   <svg class="size-6 text-orange-500" stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" viewBox="0 0 16 16" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path d="M4.5 9h-1v7h1c0.275 0 0.5-0.225 0.5-0.5v-6c0-0.275-0.225-0.5-0.5-0.5z"></path><path d="M11.5 9c-0.275 0-0.5 0.225-0.5 0.5v6c0 0.275 0.225 0.5 0.5 0.5h1v-7h-1z"></path><path d="M16 8c0-4.418-3.582-8-8-8s-8 3.582-8 8c0 0.96 0.169 1.88 0.479 2.732-0.304 0.519-0.479 1.123-0.479 1.768 0 1.763 1.304 3.222 3 3.464v-6.928c-0.499 0.071-0.963 0.248-1.371 0.506-0.084-0.417-0.129-0.849-0.129-1.292 0-3.59 2.91-6.5 6.5-6.5s6.5 2.91 6.5 6.5c0 0.442-0.044 0.874-0.128 1.292-0.408-0.259-0.873-0.435-1.372-0.507v6.929c1.696-0.243 3-1.701 3-3.464 0-0.645-0.175-1.249-0.479-1.768 0.31-0.853 0.479-1.773 0.479-2.732z"></path></svg>
                 <span class="text-sm font-semibold text-orange-500 mt-1">Customer Support</span>
                   </a>
-                  <a href="" class="flex items-center gap-3 px-4 border-2 border-orange-500 py-3">
+                  <a href="" class="flex items-center rounded-3xl gap-3 sm:px-4 px-2 border-2 border-orange-500 py-3">
                   <svg class="size-6 text-orange-500" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M21 6h-7.59l3.29-3.29L16 2l-4 4-4-4-.71.71L10.59 6H3a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8a2 2 0 0 0-2-2zm0 14H3V8h18v12zM9 10v8l7-4z"></path>
                 </svg>
                 <span class="text-sm font-semibold text-orange-500 mt-1">Live Demo</span>
@@ -382,7 +382,7 @@ rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:r
                 
                 
                 </div>
-          <p class="text-sm  text-white">© Copyright 2024, All Rights Reserved by Edoovi</p>
+          <p class="text-sm mt-3 md:mt-0 text-white">© Copyright 2024, All Rights Reserved by Edoovi</p>
         </div>
     </div>
 </section>
