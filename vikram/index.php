@@ -35,7 +35,8 @@
           </div>
         </div>
         <div class="col-auto ">
-          <div class="size-full hover:[box-shadow:0px_0px_23px_0px_#a194e7] duration-300 px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-2xl     bg-gradient-to-r from-[#8f7ceb]/90 via-[#856dfb] to-[#8777e3]
+          <div
+            class="size-full hover:[box-shadow:0px_0px_23px_0px_#a194e7] duration-300 px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-2xl     bg-gradient-to-r from-[#8f7ceb]/90 via-[#856dfb] to-[#8777e3]
                 before:absolute before:inset-10 before:bg- before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#a497e5]">
             <div class=" *:size-7 sm:*:size-9 text-white pb-4">
               <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="1em"
@@ -138,7 +139,7 @@
           <div class="size-full p-5 rounded-2xl  [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]  text-center flex flex-col justify-center items-center
          group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-            <div class="*:size-12 sm:*:size-14 group-hover:text-white"> 
+            <div class="*:size-12 sm:*:size-14 group-hover:text-white">
               <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"
                 height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                 <path stroke-linecap="round" stroke-linejoin="round"
@@ -149,7 +150,7 @@
             <div class="py-3 font-semibold text-xl group-hover:text-white">
               Use Number Of Your Choice
             </div>
-            <div class="text-cente group-hover:text-white" >
+            <div class="text-cente group-hover:text-white">
               No restriction on Number, choose the number you want for WhatsApp Business Solution. It can be Mobile,
               landline, or toll-free.
             </div>
@@ -202,7 +203,7 @@
           <div class="size-full p-5 rounded-2xl text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] flex flex-col justify-center items-center
          group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-            <div class="*:size-12 sm:*:size-14 group-hover:text-white" >
+            <div class="*:size-12 sm:*:size-14 group-hover:text-white">
               <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em"
                 width="1em" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="128" cy="256" r="48" fill="none" stroke-linecap="round" stroke-linejoin="round"
@@ -252,214 +253,350 @@
   </section>
 
   <!-- ----blog -->
-<section class="pb-20">
-  <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
-    <div class="grid grid-cols-12 gap-x-2 gap-y-6  lg:gap-6">
-     <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
-  <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]" >
-    <div class=" w-full rounded-lg">
-      <img class="size-full object-cover rounded-lg" src="../assets/img/award2.png" alt="">
-    </div>
-    <div class="text-box ">
-     <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
-      <div class="flex items-center gap-2">
-        <div class="*:text-sm">
-        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path></svg>
-        </div>
-      <div class="text-xs lg:text-sm">
-        09/01/2024
-      </div>
-      </div>
-      <div class="flex items-center gap-2 ms-auto">
-        <div class="*:text-sm">
-        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path></svg>
-        </div>
-      <div class="text-xs lg:text-sm">
-         Rupendra Chauhan
-      </div>
-      </div>
-     </div>
-     <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
-      Leading the Way in School ERP Software Solutions
-      </div>
-      <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
-      Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
-      </div>
-      <div class="pt-2 lg:pt-4">
-        <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
-          <div class="group-hover:translate-x-3 duration-300 *:size-4">
-          <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"  xmlns="http://www.w3.org/2000/svg"><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path></svg>
+  <section class="pb-20">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
+      <div class="grid grid-cols-12 gap-x-2 gap-y-6  lg:gap-6">
+        <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+          <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+            <div class=" w-full rounded-lg">
+              <img class="size-full object-cover rounded-lg" src="../assets/img/award2.png" alt="">
+            </div>
+            <div class="text-box ">
+              <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+                <div class="flex items-center gap-2">
+                  <div class="*:text-sm">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em"
+                      width="1em" xmlns="http://www.w3.org/2000/svg">
+                      <path fill="none" d="M0 0h24v24H0z"></path>
+                      <path
+                        d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z">
+                      </path>
+                    </svg>
+                  </div>
+                  <div class="text-xs lg:text-sm">
+                    09/01/2024
+                  </div>
+                </div>
+                <div class="flex items-center gap-2 ms-auto">
+                  <div class="*:text-sm">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em"
+                      width="1em" xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z">
+                      </path>
+                    </svg>
+                  </div>
+                  <div class="text-xs lg:text-sm">
+                    Rupendra Chauhan
+                  </div>
+                </div>
+              </div>
+              <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+                Leading the Way in School ERP Software Solutions
+              </div>
+              <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
+                Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming
+                with boundless possibilities and untapped potential. As we dive into the realm of social app
+                development, the burning
+              </div>
+              <div class="pt-2 lg:pt-4">
+                <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
+                  <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
+                      xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z">
+                      </path>
+                    </svg>
+                  </div>
+                </a>
+              </div>
+            </div>
           </div>
-        </a>
-      </div>
-    </div>
-  </div>
-     </div>
-     <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-6 lg:row-span-2">
-  <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]" >
-    <div class=" w-full rounded-lg">
-      <img class="size-full lg:aspect-[1/.8] object-cover rounded-lg" src="../assets/img/award1.png" alt="">
-    </div>
-    <div class="text-box ">
-    <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
-      <div class="flex items-center gap-2">
-        <div class="*:text-sm">
-        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path></svg>
         </div>
-      <div class="text-xs lg:text-sm">
-        09/01/2024
-      </div>
-      </div>
-      <div class="flex items-center gap-2 ms-auto">
-        <div class="*:text-sm">
-        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path></svg>
-        </div>
-      <div class="text-xs lg:text-sm">
-         Rupendra Chauhan
-      </div>
-      </div>
-     </div>
-     <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
-      Leading the Way in School ERP Software Solutions
-      </div>
-      <div class="text-sm lg:text-base max-lg:text-ellipsis max-lg:overflow-hidden max-lg:line-clamp-2">
-      Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
-      </div>
-      <div class="pt-2 lg:pt-4">
-        <a class="text-sm lg:text-base flex items-center lg:justify-center gap-2 group" href="#">Read more
-          <div class="group-hover:translate-x-3 duration-300 *:size-4">
-          <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"  xmlns="http://www.w3.org/2000/svg"><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path></svg>
+        <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-6 lg:row-span-2">
+          <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+            <div class=" w-full rounded-lg">
+              <img class="size-full lg:aspect-[1/.8] object-cover rounded-lg" src="../assets/img/award1.png" alt="">
+            </div>
+            <div class="text-box ">
+              <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+                <div class="flex items-center gap-2">
+                  <div class="*:text-sm">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em"
+                      width="1em" xmlns="http://www.w3.org/2000/svg">
+                      <path fill="none" d="M0 0h24v24H0z"></path>
+                      <path
+                        d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z">
+                      </path>
+                    </svg>
+                  </div>
+                  <div class="text-xs lg:text-sm">
+                    09/01/2024
+                  </div>
+                </div>
+                <div class="flex items-center gap-2 ms-auto">
+                  <div class="*:text-sm">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em"
+                      width="1em" xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z">
+                      </path>
+                    </svg>
+                  </div>
+                  <div class="text-xs lg:text-sm">
+                    Rupendra Chauhan
+                  </div>
+                </div>
+              </div>
+              <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+                Leading the Way in School ERP Software Solutions
+              </div>
+              <div class="text-sm lg:text-base max-lg:text-ellipsis max-lg:overflow-hidden max-lg:line-clamp-2">
+                Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming
+                with boundless possibilities and untapped potential. As we dive into the realm of social app
+                development, the burning
+              </div>
+              <div class="pt-2 lg:pt-4">
+                <a class="text-sm lg:text-base flex items-center lg:justify-center gap-2 group" href="#">Read more
+                  <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
+                      xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z">
+                      </path>
+                    </svg>
+                  </div>
+                </a>
+              </div>
+            </div>
           </div>
-        </a>
-      </div>
-    </div>
-  </div>
-     </div>
-     <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
-  <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]" >
-    <div class=" w-full rounded-lg">
-      <img class="size-full object-cover rounded-lg" src="../assets/img/award2.png" alt="">
-    </div>
-    <div class="text-box ">
-     <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
-      <div class="flex items-center gap-2">
-        <div class="*:text-sm">
-        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path></svg>
         </div>
-      <div class="text-xs lg:text-sm">
-        09/01/2024
-      </div>
-      </div>
-      <div class="flex items-center gap-2 ms-auto">
-        <div class="*:text-sm">
-        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path></svg>
-        </div>
-      <div class="text-xs lg:text-sm">
-         Rupendra Chauhan
-      </div>
-      </div>
-     </div>
-     <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
-      Leading the Way in School ERP Software Solutions
-      </div>
-      <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
-      Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
-      </div>
-      <div class="pt-2 lg:pt-4">
-        <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
-          <div class="group-hover:translate-x-3 duration-300 *:size-4">
-          <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"  xmlns="http://www.w3.org/2000/svg"><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path></svg>
+        <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+          <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+            <div class=" w-full rounded-lg">
+              <img class="size-full object-cover rounded-lg" src="../assets/img/award2.png" alt="">
+            </div>
+            <div class="text-box ">
+              <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+                <div class="flex items-center gap-2">
+                  <div class="*:text-sm">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em"
+                      width="1em" xmlns="http://www.w3.org/2000/svg">
+                      <path fill="none" d="M0 0h24v24H0z"></path>
+                      <path
+                        d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z">
+                      </path>
+                    </svg>
+                  </div>
+                  <div class="text-xs lg:text-sm">
+                    09/01/2024
+                  </div>
+                </div>
+                <div class="flex items-center gap-2 ms-auto">
+                  <div class="*:text-sm">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em"
+                      width="1em" xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z">
+                      </path>
+                    </svg>
+                  </div>
+                  <div class="text-xs lg:text-sm">
+                    Rupendra Chauhan
+                  </div>
+                </div>
+              </div>
+              <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+                Leading the Way in School ERP Software Solutions
+              </div>
+              <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
+                Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming
+                with boundless possibilities and untapped potential. As we dive into the realm of social app
+                development, the burning
+              </div>
+              <div class="pt-2 lg:pt-4">
+                <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
+                  <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
+                      xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z">
+                      </path>
+                    </svg>
+                  </div>
+                </a>
+              </div>
+            </div>
           </div>
-        </a>
-      </div>
-    </div>
-  </div>
-     </div>
-     <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
-  <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]" >
-    <div class=" w-full rounded-lg">
-      <img class="size-full object-cover rounded-lg" src="../assets/img/award1.png" alt="">
-    </div>
-    <div class="text-box ">
-     <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
-      <div class="flex items-center gap-2">
-        <div class="*:text-sm">
-        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path></svg>
         </div>
-      <div class="text-xs lg:text-sm">
-        09/01/2024
-      </div>
-      </div>
-      <div class="flex items-center gap-2 ms-auto">
-        <div class="*:text-sm">
-        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path></svg>
-        </div>
-      <div class="text-xs lg:text-sm">
-         Rupendra Chauhan
-      </div>
-      </div>
-     </div>
-     <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
-      Leading the Way in School ERP Software Solutions
-      </div>
-      <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
-      Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
-      </div>
-      <div class="pt-2 lg:pt-4">
-        <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
-          <div class="group-hover:translate-x-3 duration-300 *:size-4">
-          <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"  xmlns="http://www.w3.org/2000/svg"><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path></svg>
+        <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+          <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+            <div class=" w-full rounded-lg">
+              <img class="size-full object-cover rounded-lg" src="../assets/img/award1.png" alt="">
+            </div>
+            <div class="text-box ">
+              <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+                <div class="flex items-center gap-2">
+                  <div class="*:text-sm">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em"
+                      width="1em" xmlns="http://www.w3.org/2000/svg">
+                      <path fill="none" d="M0 0h24v24H0z"></path>
+                      <path
+                        d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z">
+                      </path>
+                    </svg>
+                  </div>
+                  <div class="text-xs lg:text-sm">
+                    09/01/2024
+                  </div>
+                </div>
+                <div class="flex items-center gap-2 ms-auto">
+                  <div class="*:text-sm">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em"
+                      width="1em" xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z">
+                      </path>
+                    </svg>
+                  </div>
+                  <div class="text-xs lg:text-sm">
+                    Rupendra Chauhan
+                  </div>
+                </div>
+              </div>
+              <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+                Leading the Way in School ERP Software Solutions
+              </div>
+              <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
+                Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming
+                with boundless possibilities and untapped potential. As we dive into the realm of social app
+                development, the burning
+              </div>
+              <div class="pt-2 lg:pt-4">
+                <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
+                  <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
+                      xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z">
+                      </path>
+                    </svg>
+                  </div>
+                </a>
+              </div>
+            </div>
           </div>
-        </a>
-      </div>
-    </div>
-  </div>
-     </div>
-     <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
-  <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]" >
-    <div class=" w-full rounded-lg">
-      <img class="size-full object-cover rounded-lg" src="../assets/img/award2.png" alt="">
-    </div>
-    <div class="text-box ">
-     <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
-      <div class="flex items-center gap-2">
-        <div class="*:text-sm">
-        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path></svg>
         </div>
-      <div class="text-xs lg:text-sm">
-        09/01/2024
-      </div>
-      </div>
-      <div class="flex items-center gap-2 ms-auto">
-        <div class="*:text-sm">
-        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path></svg>
-        </div>
-      <div class="text-xs lg:text-sm">
-         Rupendra Chauhan
-      </div>
-      </div>
-     </div>
-     <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
-      Leading the Way in School ERP Software Solutions
-      </div>
-      <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
-      Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
-      </div>
-      <div class="pt-2 lg:pt-4">
-        <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
-          <div class="group-hover:translate-x-3 duration-300 *:size-4">
-          <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"  xmlns="http://www.w3.org/2000/svg"><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path></svg>
+        <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+          <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+            <div class=" w-full rounded-lg">
+              <img class="size-full object-cover rounded-lg" src="../assets/img/award2.png" alt="">
+            </div>
+            <div class="text-box ">
+              <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+                <div class="flex items-center gap-2">
+                  <div class="*:text-sm">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em"
+                      width="1em" xmlns="http://www.w3.org/2000/svg">
+                      <path fill="none" d="M0 0h24v24H0z"></path>
+                      <path
+                        d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z">
+                      </path>
+                    </svg>
+                  </div>
+                  <div class="text-xs lg:text-sm">
+                    09/01/2024
+                  </div>
+                </div>
+                <div class="flex items-center gap-2 ms-auto">
+                  <div class="*:text-sm">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em"
+                      width="1em" xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z">
+                      </path>
+                    </svg>
+                  </div>
+                  <div class="text-xs lg:text-sm">
+                    Rupendra Chauhan
+                  </div>
+                </div>
+              </div>
+              <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+                Leading the Way in School ERP Software Solutions
+              </div>
+              <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
+                Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming
+                with boundless possibilities and untapped potential. As we dive into the realm of social app
+                development, the burning
+              </div>
+              <div class="pt-2 lg:pt-4">
+                <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
+                  <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
+                      xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z">
+                      </path>
+                    </svg>
+                  </div>
+                </a>
+              </div>
+            </div>
           </div>
-        </a>
+        </div>
       </div>
     </div>
-  </div>
-     </div>
-    </div>
-  </div>
-</section>
+  </section>
   <!-- ----blog-end -->
-   
+
+
+
+  <!-- -------schl-softwre -->
+
+  <section class="py-20  relative overflow-hidden">
+          <div class="absolute inset-0 size-full ">
+            <img src="https://html.hixstudio.net/acadia-prev/acadia/assets/img/bg/banner-3-bg-1.png" alt="" class="size-full">
+        </div>
+    <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full relative z-10">
+      <div class="grid grid-cols-12 gap-y-10 lg:gap-8 group">
+      <div class="col-span-12 lg:col-span-6">
+          <div class="size-full relative flex items-center justify-center group">
+            <div class=" h-full w-[70%]">
+              <img class="aspect-[1/1]  object-cover rounded-3xl" src="../assets/img/students.avif" alt="">
+            </div>
+        
+           <div class=" absolute -top-7  z-[3] w-[40%] right-0 sm:group-hover:right-[58%]  duration-300 ">
+            <img class="aspect-[1/.8] rounded-3xl object-cover" src="../assets/img/students4.avif" alt="">
+           </div>
+           <div class=" absolute -bottom-5 z-[3] w-[40%] left-0 sm:group-hover:left-[58%]  duration-300 ">
+            <img class="aspect-[1/.8] rounded-3xl object-cover" src="../assets/img/students5.avif" alt="">
+           </div>
+          </div>
+        </div>
+        <div class="col-span-12 lg:col-span-6">
+          <div class="size-full">
+            <div class="text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold pb-4">
+              What is School Management Software?
+            </div>
+            <div class="md:text-base text-sm text-black/70 mt-2 font-boldtext-ellipsis line-clamp-[10] overflow-hidden">
+              School management software introduces a new platform by embedding new-edge technology into the educational
+              sector. The digital platform is capable of managing the school management activities making them smarter.
+              The comprehensive features of school management software not only reduce the workload of the institution’s
+              employees but also streamline the major functionalities like fee collection, academic timetable
+              scheduling, results declaration. School management can focus on other productive activities like
+              increasing student enrollment ratio, embedding new ways of learning as they are relieved from the workload
+              hassles.
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+
+  <!-- -------schl-softwre -->
 
 </body>
 
