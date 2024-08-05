@@ -1164,7 +1164,7 @@
                                 Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
                             </div>
                             <div class="pt-2 lg:pt-4">
-                                <a class="text-sm lg:text-base flex items-center lg:justify-center gap-2 group" href="#">Read more
+                                <a class="text-sm lg:text-base flex items-center  gap-2 group" href="#">Read more
                                     <div class="group-hover:translate-x-3 duration-300 *:size-4">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path>
