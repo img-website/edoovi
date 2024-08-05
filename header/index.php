@@ -195,18 +195,78 @@ rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:r
   <!-- card start -->
 
    <!-- cta -->
-    <div class="bg-violet-400/50 mt-10 relative">
-      <div class="max-w-7xl px-6 lg:px-8 mx-auto grid grid-cols-12">
+    <!-- <div class="bg-gradient-to-b from-violet-300 to-violet-500 my-10 relative">
+      <div class="max-w-7xl px-6 lg:px-8 mx-auto grid grid-cols-12 items-center gap-10">
         <div class="col-span-4 ">
           <img src="../assets/img/case-study-tractor.webp" alt="" class="size-full object-cover">
         </div>
-        <div class="col-span-7 bg-red-600">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae aspernatur totam exercitationem ea tempore cumque doloribus quaerat dicta. Optio est nesciunt maxime eveniet odit. Enim eius nesciunt quia voluptates porro. Perferendis praesentium ea, ipsum doloribus iusto perspiciatis similique ipsam eius laudantium! Iure veritatis laudantium nulla neque aliquid dolores. Pariatur, inventore! Alias, explicabo laudantium debitis nobis obcaecati veniam ab iste quis quisquam ipsa eaque doloribus incidunt? Velit!
+        <div class="col-span-8 ">
+     <p class="text-base text-white font-medium">
+     Comprehensive, Easy To Use Web Based School ERP System Helps You To Move Faster, Save Money, Integrate On-Premises Apps And Data Anytime Anywhere Explore the online school ERP with built-in School App features and start the new education administration journey with the new-edge technology! Along with School App, We offer Management App - bringing the entire school in the palm of your hand, making the whole school management experience effortless.
+     </p>
+     <p class="text-lg font-semibold text-white mt-4 mb-2">Available on the</p>
+    <div class="flex gap-4">
+    
+    <button class="text-lg w-44  text-white rounded-md px-4 py-2 justify-center font-sembold border-white border  flex">
+        Google Play 
+        <span class="*:size-6 ms-3">
+          <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path d="m12.954 11.616 2.957-2.957L6.36 3.291c-.633-.342-1.226-.39-1.746-.016l8.34 8.341zm3.461 3.462 3.074-1.729c.6-.336.929-.812.929-1.34 0-.527-.329-1.004-.928-1.34l-2.783-1.563-3.133 3.132 2.841 2.84zM4.1 4.002c-.064.197-.1.417-.1.658v14.705c0 .381.084.709.236.97l8.097-8.098L4.1 4.002zm8.854 8.855L4.902 20.91c.154.059.32.09.495.09.312 0 .637-.092.968-.276l9.255-5.197-2.666-2.67z"></path></svg></span>
+      </button>
+      <button class="text-lg w-44  text-white bg-gradient-to-r from-[#fdad50] via-[#ffa944] to-[#ff971d]  rounded-md px-4 py-2 font-sembold  justify-center flex">
+        App Store
+        <span class="*:size-6 ms-3">
+        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 384 512" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"></path></svg></span>
+      </button>
+    </div>
         </div>
       </div>
 
-    </div>
+    </div> -->
    <!-- cta end -->
+   <div class="py-24  mx-auto max-w-7xl px-6 lg:px-8">
+            <div class="relative py-14 isolate  text-center justify-center :relative :z-10 bg-gray-900/70 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:px-24">
+                <img class="rounded-3xl !absolute !z-0 inset-0 size-full mix-blend-overlay object-cover object-center" src="https://www.imgglobalinfotech.com/public/tailwind/img/cta/school-cta-2.webp?id=7a2551bcc85c9d67d2863e9d0af57dd0">
+              
+              <div class=" gap-x-7 max-sm:gap-0 flex items-center max-lg:flex-col-reverse">
+                  <div class="lg:w-6/12 w-full relative z-20 h-auto shrink-1 grow-0 py-8 max-lg:pt-0 max-lg:px-10 max-sm:px-0">
+                      <div class="w-full max-lg:flex max-md:pt-5 max-sm:pt-0">
+                          <div class="w-full">
+                          <p class="text-start max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-white">
+            <span class="font-normal">
+            The Ultimate School ERP With Mobile App For Modern School System</span>
+            
+            <span class="font-bold text-orange-500">Modern School System</span>
+        </p>
+                          </div>
+                      </div>
+                      <div class="text-start mt-4 text-sm md:text-base opacity-80 text-white">
+                        
+                      Comprehensive, Easy To Use Web Based School ERP System Helps You To Move Faster, Save Money, Integrate On-Premises Apps And Data Anytime Anywhere Explore the online school ERP with built-in School App features and start the new education administration journey with the new-edge technology! Along with School App, We offer Management App - bringing the entire school in the palm of your hand, making the whole school management experience effortless.</div>
+                        <p class="text-lg font-semibold text-white text-start mt-4 mb-2">Available on the</p>
+    <div class="flex gap-4  flex-wrap">
+    
+    <button class="text-lg w-44  text-white rounded-md px-4 py-2 justify-center font-sembold border-white border  flex">
+        Google Play 
+        <span class="*:size-6 ms-3">
+          <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path d="m12.954 11.616 2.957-2.957L6.36 3.291c-.633-.342-1.226-.39-1.746-.016l8.34 8.341zm3.461 3.462 3.074-1.729c.6-.336.929-.812.929-1.34 0-.527-.329-1.004-.928-1.34l-2.783-1.563-3.133 3.132 2.841 2.84zM4.1 4.002c-.064.197-.1.417-.1.658v14.705c0 .381.084.709.236.97l8.097-8.098L4.1 4.002zm8.854 8.855L4.902 20.91c.154.059.32.09.495.09.312 0 .637-.092.968-.276l9.255-5.197-2.666-2.67z"></path></svg></span>
+      </button>
+      <button class="text-lg w-44  text-white bg-gradient-to-b from-violet-300 to-violet-500  rounded-md px-4 py-2 font-sembold  justify-center flex">
+        App Store
+        <span class="*:size-6 ms-3">
+        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 384 512" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"></path></svg></span>
+      </button>
+    </div>
+                  </div>
+                  <div class="lg:w-5/12 w-full relative z-10 ms-auto max-lg:px-10 max-sm:px-2">
+                      <div class="flex gap-10 max-sm:gap-8 justify-center ">
+                          <div class=" self-baseline object-cover object-center aspect-[1/1] ">
+                              <img class="w-full h-full object-contain " src="../assets/img/school-management-app-development-mobile.webp" alt="">
+                          </div>
+                      </div>
+                  </div>
+              </div>
+            </div>
+          </div>
   
 </body>
 </html>
