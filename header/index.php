@@ -116,8 +116,8 @@
     <div class="h-full w-full inset-0 absolute ">
       <img src="../assets/img/library.jpg" alt="" class="size-full object-cover">
     </div>
-       <div class="flex flex-wrap">
-        <div class="bg-white lg:w-1/2 w-full flex justify-start px-5 items-center">
+       <div class="flex flex-wrap max-w-7xl mx-auto px-6 lg:px-8">
+        <div class="bg-white lg:w-1/2 w-full flex justify-start items-center">
          <div  class="max-w-sm relative z-50 text-white bg-black/50 backdrop-blur-sm p-6 rounded-xl ">
           <h1 class="font-bold text-xl md:text-3xl">Empowering Institutions</h1>
           <p class="text-base text-white mt-4">We aim at contributing to the educational system with best-in-class edTech solutions that create maximum value for Institutions.</p>
@@ -125,7 +125,7 @@
          </div>
 
         </div>
-        <div class="lg:w-1/2 w-full overflow-hidden relative px-5 ">
+        <div class="lg:w-1/2 w-full overflow-hidden relative">
             <div class="flex  overflow-hidden flex-wrap relative item-stretch">
                 <div class="sm:w-1/2 w-full h-auto py-3">
                     <div class="flex m-3 justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:rounded-full ">
@@ -195,7 +195,7 @@
    <!-- cta -->
     <div class="bg-violet-400/50 mt-10">
       <div class="max-w-7xl px-6 lg:px-8 mx-auto grid grid-cols-12">
-        <div class="col-span-4">
+        <div class="col-span-4 ">
           <img src="../assets/img/case-study-tractor.webp" alt="" class="size-full object-cover">
         </div>
       </div>
