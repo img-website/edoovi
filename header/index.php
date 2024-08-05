@@ -193,10 +193,13 @@
   <!-- card start -->
 
    <!-- cta -->
-    <div class="bg-violet-400/50 mt-10">
+    <div class="bg-violet-400/50 mt-10 relative">
       <div class="max-w-7xl px-6 lg:px-8 mx-auto grid grid-cols-12">
         <div class="col-span-4 ">
           <img src="../assets/img/case-study-tractor.webp" alt="" class="size-full object-cover">
+        </div>
+        <div class="col-span-8">
+        The Ultimate School ERP With Mobile App For Modern School System
         </div>
       </div>
 
