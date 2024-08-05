@@ -128,15 +128,15 @@
         <div class="lg:w-1/2 w-full overflow-hidden relative">
             <div class="flex  overflow-hidden flex-wrap relative item-stretch">
                 <div class="sm:w-1/2 w-full h-auto py-3">
-                    <div class="flex m-3 justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:rounded-full ">
+                    <div class="flex m-3 justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-gradient-to-b from-violet-300 to-violet-500 rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:rounded-full ">
                         <div class="*:size-16 *:md:group-hover:text-sky-400 *:md:group-hover:shadow-2xl *:rounded-full *:duration-300 *:md:group-hoversky-100">
                             <img src="../assets/img/ic_successful_years.svg" alt="">
                         </div>
                        
-                        <div class="font-semibold text-xl text-gray-500">
+                        <div class="font-semibold text-xl text-white">
                         22+
                         </div>
-                        <div class="mt-2 text-center sm:text-text-lg text-[#9971f7] font-semibold text-base leading-6 line-clamp-4 text-ellipsis">
+                        <div class="mt-2 text-center sm:text-text-lg text-white font-semibold text-base leading-6 line-clamp-4 text-ellipsis">
                         Successful Years
                           </div>
                     </div>
@@ -198,8 +198,8 @@
         <div class="col-span-4 ">
           <img src="../assets/img/case-study-tractor.webp" alt="" class="size-full object-cover">
         </div>
-        <div class="col-span-8">
-        The Ultimate School ERP With Mobile App For Modern School System
+        <div class="col-span-7 bg-red-600">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae aspernatur totam exercitationem ea tempore cumque doloribus quaerat dicta. Optio est nesciunt maxime eveniet odit. Enim eius nesciunt quia voluptates porro. Perferendis praesentium ea, ipsum doloribus iusto perspiciatis similique ipsam eius laudantium! Iure veritatis laudantium nulla neque aliquid dolores. Pariatur, inventore! Alias, explicabo laudantium debitis nobis obcaecati veniam ab iste quis quisquam ipsa eaque doloribus incidunt? Velit!
         </div>
       </div>
 
