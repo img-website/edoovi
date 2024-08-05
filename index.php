@@ -159,7 +159,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="sm:flex hidden bg-white shadow-md rounded-xl overflow-hidden absolute sm:top-20 top-12 lg:left-0 sm:left-32 left-16 ">
+                    <div class="sm:flex hidden duration-300 hover:scale-95 bg-white shadow-md rounded-xl overflow-hidden absolute sm:top-20 top-12 lg:left-0 sm:left-32 left-16 ">
                         <div class="relative flex flex-col-reverse bg-white p-4  dark:bg-slate-800 dark:highlight-white/5">
 
                             <figcaption class="flex items-center space-x-4">
@@ -180,7 +180,7 @@
                             </figcaption>
                         </div>
                     </div>
-                    <div class="sm:flex hidden bg-white shadow-md rounded-xl overflow-hidden absolute sm:bottom-28 bottom-20 lg:left-0 sm:left-20 left-10 ">
+                    <div class="sm:flex hidden duration-300 hover:scale-95 bg-white shadow-md rounded-xl overflow-hidden absolute sm:bottom-28 bottom-20 lg:left-0 sm:left-20 left-10 ">
                         <div class="relative flex flex-col-reverse bg-white p-4  dark:bg-slate-800 dark:highlight-white/5">
 
                             <figcaption class="flex items-center space-x-4">
@@ -199,7 +199,7 @@
                             </figcaption>
                         </div>
                     </div>
-                    <div class="sm:flex hidden bg-white shadow-md rounded-xl overflow-hidden absolute bottom-1/2 lg:right-0 sm:right-20 right-10">
+                    <div class="sm:flex hidden duration-300 hover:scale-95 bg-white shadow-md rounded-xl overflow-hidden absolute bottom-1/2 lg:right-0 sm:right-20 right-10">
                         <div class="relative flex flex-col-reverse bg-white p-4  dark:bg-slate-800 dark:highlight-white/5">
 
                             <figcaption class="flex items-center space-x-4">
