@@ -141,9 +141,15 @@
     <div class="overflow-hidden">
         <div class="relative max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
             <div class="max-w-2xl w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
-                <h2 class="text-2xl sm:text-3xl lg:text-4xl font-semibold">
-                    Why Institutes Love Edoovi ERP System?
-                </h2>
+                <div class="relative container mx-auto max-w-7xl md:px-6 lg:px-8 z-10">
+                    <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
+                        <span class="font-normal">Why Institutes Love </span>
+                        <span class="font-bold text-theme1">Edoovi ERP System?</span>
+                    </p>
+                    <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
+                        Our Client Says
+                    </div>
+                </div>
             </div>
 
             <div class="absolute bottom-0 end-0 transform lg:translate-x-32" aria-hidden="true">
@@ -216,7 +222,7 @@
                                         <blockquote>
 
                                             <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
-                                                "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact.     The statistics speak volumes about this digital revolution. According to recent surveys, mobile banking users in India are expected to surpass 800 million by the end of 2023, underscoring the role of fintech apps in our daily financial activities. As technology continues to influence every aspect."
+                                                "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact. The statistics speak volumes about this digital revolution. According to recent surveys, mobile banking users in India are expected to surpass 800 million by the end of 2023, underscoring the role of fintech apps in our daily financial activities. As technology continues to influence every aspect."
                                             </p>
 
                                             <footer class="mt-6">
@@ -304,7 +310,7 @@
                                         <blockquote>
 
                                             <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
-                                                "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact.     The statistics speak volumes about this digital revolution. According to recent surveys, mobile banking users in India are expected to surpass 800 million by the end of 2023, underscoring the role of fintech apps in our daily financial activities. As technology continues to influence every aspect."
+                                                "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact. The statistics speak volumes about this digital revolution. According to recent surveys, mobile banking users in India are expected to surpass 800 million by the end of 2023, underscoring the role of fintech apps in our daily financial activities. As technology continues to influence every aspect."
                                             </p>
 
                                             <footer class="mt-6">
