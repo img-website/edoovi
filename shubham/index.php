@@ -334,7 +334,7 @@
     <!-- key benifits section start -->
     <div class="container mx-auto max-w-7xl md:px-6 lg:px-8 py-10 sm:px-6  lg:py-14">
         <div class="relative p-6 md:p-16">
-            <div class="relative container mx-auto max-w-7xl z-10 mb-16">
+            <div class="relative container mx-auto max-w-7xl z-10 mb-8 md:mb-16">
                 <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
                     <span class="font-normal">The Key Benefit Is You Can Save Money, Save Lots Of Time & Making Best Of Resources.</span>
                     <span class="font-bold text-theme1">Lots Of Time & Making Best Of Resources.</span>
@@ -344,7 +344,7 @@
                 </div>
             </div>
             <div class="relative z-10 lg:grid lg:grid-cols-12 lg:items-center">
-                <div class="mb-10 lg:mb-0 lg:col-span-7 lg:order-2 bg-purple-50 px-16 py-12 rounded-3xl">
+                <div class="mb-5 sm:mb-10 lg:mb-0 lg:col-span-7 lg:order-2 bg-purple-50 px-4 sm:px-8 md:px-16 py-12 rounded-3xl">
                     <div class="relative container mx-auto max-w-7xl md:px-6 lg:px-8 z-10">
                         <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
                             <span class="font-normal">We Provide </span>
@@ -406,22 +406,22 @@
                     </nav>
                 </div>
 
-                <div class="lg:col-span-5 -mr-5">
+                <div class="lg:col-span-5 lg:-mr-5">
                     <div class="relative">
                         <div>
-                            <div id="tabs-with-card-1" role="tabpanel" aria-labelledby="tabs-with-card-item-1">
-                                <img class="shadow-xl shadow-gray-200 rounded-3xl" src="https://images.unsplash.com/photo-1605629921711-2f6b00c6bbf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            <div id="tabs-with-card-1" role="tabpanel" class="aspect-[3/2] lg:aspect-[1/1.3]" aria-labelledby="tabs-with-card-item-1">
+                                <img class="shadow-xl shadow-gray-200 rounded-3xl size-full" src="https://images.unsplash.com/photo-1605629921711-2f6b00c6bbf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
                             </div>
 
-                            <div id="tabs-with-card-2" class="hidden" role="tabpanel" aria-labelledby="tabs-with-card-item-2">
-                                <img class="shadow-xl shadow-gray-200 rounded-3xl" src="https://images.unsplash.com/photo-1665686306574-1ace09918530?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            <div id="tabs-with-card-2" class="hidden aspect-[3/2] lg:aspect-[1/1.3]" role="tabpanel" aria-labelledby="tabs-with-card-item-2">
+                                <img class="shadow-xl shadow-gray-200 rounded-3xl size-full" src="https://images.unsplash.com/photo-1665686306574-1ace09918530?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
                             </div>
 
-                            <div id="tabs-with-card-3" class="hidden" role="tabpanel" aria-labelledby="tabs-with-card-item-3">
-                                <img class="shadow-xl shadow-gray-200 rounded-3xl" src="https://images.unsplash.com/photo-1598929213452-52d72f63e307?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            <div id="tabs-with-card-3" class="hidden aspect-[3/2] lg:aspect-[1/1.3]" role="tabpanel" aria-labelledby="tabs-with-card-item-3">
+                                <img class="shadow-xl shadow-gray-200 rounded-3xl size-full" src="https://images.unsplash.com/photo-1598929213452-52d72f63e307?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
                             </div>
-                            <div id="tabs-with-card-4" class="hidden" role="tabpanel" aria-labelledby="tabs-with-card-item-4">
-                                <img class="shadow-xl shadow-gray-200 rounded-3xl" src="https://images.unsplash.com/photo-1605629921711-2f6b00c6bbf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            <div id="tabs-with-card-4" class="hidden aspect-[3/2] lg:aspect-[1/1.3]" role="tabpanel" aria-labelledby="tabs-with-card-item-4">
+                                <img class="shadow-xl shadow-gray-200 rounded-3xl size-full" src="https://images.unsplash.com/photo-1605629921711-2f6b00c6bbf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
                             </div>
                         </div>
                     </div>
