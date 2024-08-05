@@ -3050,10 +3050,6 @@ video {
   transition-duration: 150ms;
 }
 
-.duration-200{
-  transition-duration: 200ms;
-}
-
 .duration-300{
   transition-duration: 300ms;
 }
@@ -3277,20 +3273,8 @@ body{
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.hover\:\[box-shadow\:0px_0px_23px_0px_\#6ab6cb\]:hover{
-  box-shadow: 0px 0px 23px 0px #6ab6cb;
-}
-
 .hover\:\[box-shadow\:0px_0px_23px_0px_\#72cee7\]:hover{
   box-shadow: 0px 0px 23px 0px #72cee7;
-}
-
-.hover\:\[box-shadow\:0px_0px_23px_0px_\#8f7ceb\]:hover{
-  box-shadow: 0px 0px 23px 0px #8f7ceb;
-}
-
-.hover\:\[box-shadow\:0px_0px_23px_0px_\#9b93c7\]:hover{
-  box-shadow: 0px 0px 23px 0px #9b93c7;
 }
 
 .hover\:\[box-shadow\:0px_0px_23px_0px_\#a194e7\]:hover{
@@ -3301,16 +3285,8 @@ body{
   box-shadow: 0px 0px 23px 0px #e39943;
 }
 
-.hover\:\[box-shadow\:0px_0px_23px_0px_\#ed6190\]:hover{
-  box-shadow: 0px 0px 23px 0px #ed6190;
-}
-
 .hover\:\[box-shadow\:0px_0px_23px_0px_\#f378a2\]:hover{
   box-shadow: 0px 0px 23px 0px #f378a2;
-}
-
-.hover\:\[box-shadow\:0px_0px_23px_0px_\#fdad50\]:hover{
-  box-shadow: 0px 0px 23px 0px #fdad50;
 }
 
 .hover\:\[box-shadow\:0px_0px_32px_0px_rgba\(36\2c 40\2c 46\2c \.12\)\]:hover{
