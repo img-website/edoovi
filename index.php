@@ -223,64 +223,98 @@
         </div> -->
     </div>
   <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
-    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-5 ">
-    <div class="col-auto ">
-        <div class="size-full px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-3xl   bg-gradient-to-r from-[#ed6190] via-[#ff5890] to-[#ff3679]
-        before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#fd97b8]">
-        <div class="*:size-7 sm:*:size-9 text-white pb-4">
-            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M12.48 3 7.73 7.75 3 12.59a2 2 0 0 0 0 2.82l4.3 4.3A1 1 0 0 0 8 20h12v-2h-7l7.22-7.22a2 2 0 0 0 0-2.83L15.31 3a2 2 0 0 0-2.83 0zM8.41 18l-4-4 4.75-4.84.74-.75 4.95 4.95-4.56 4.56-.07.08z"></path></svg>
+  <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-5 ">
+        <div class="col-auto ">
+          <div
+            class="size-full hover:[box-shadow:0px_0px_23px_0px_#f378a2] duration-300   px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-2xl   bg-gradient-to-r from-[#ed6190] via-[#ff5890] to-[#ff3679]
+            before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#fd97b8]">
+            <div class="*:size-7 sm:*:size-9 text-white pb-4">
+              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em"
+                width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M12.48 3 7.73 7.75 3 12.59a2 2 0 0 0 0 2.82l4.3 4.3A1 1 0 0 0 8 20h12v-2h-7l7.22-7.22a2 2 0 0 0 0-2.83L15.31 3a2 2 0 0 0-2.83 0zM8.41 18l-4-4 4.75-4.84.74-.75 4.95 4.95-4.56 4.56-.07.08z">
+                </path>
+              </svg>
+            </div>
+            <div
+              class="text-white text-base sm:text-lg font-semibold sm:font-bold pb-2 sm:pb-3 border-b border-white/50">
+              <span class="w-full block ">UI/UX</span>
+              <span> Design</span>
+            </div>
+          </div>
         </div>
-        <div class="text-white text-base sm:text-lg font-semibold sm:font-bold pb-2 sm:pb-3 border-b border-white/50">
-            <span class="w-full block ">UI/UX</span> 
-            <span> Design</span>
+        <div class="col-auto ">
+          <div class="size-full hover:[box-shadow:0px_0px_23px_0px_#a194e7] duration-300 px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-2xl     bg-gradient-to-r from-[#8f7ceb]/90 via-[#856dfb] to-[#8777e3]
+                before:absolute before:inset-10 before:bg- before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#a497e5]">
+            <div class=" *:size-7 sm:*:size-9 text-white pb-4">
+              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="1em"
+                width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M216,40H40A16,16,0,0,0,24,56V200a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A16,16,0,0,0,216,40ZM92.8,145.6a8,8,0,1,1-9.6,12.8l-32-24a8,8,0,0,1,0-12.8l32-24a8,8,0,0,1,9.6,12.8L69.33,128Zm58.89-71.4-32,112a8,8,0,1,1-15.38-4.4l32-112a8,8,0,0,1,15.38,4.4Zm53.11,60.2-32,24a8,8,0,0,1-9.6-12.8L186.67,128,163.2,110.4a8,8,0,1,1,9.6-12.8l32,24a8,8,0,0,1,0,12.8Z">
+                </path>
+              </svg>
+            </div>
+            <div
+              class="text-white text-base sm:text-lg font-semibold sm:font-bold pb-2 sm:pb-3 border-b border-white/50">
+              <span class="w-full block">Web</span>
+              <span> Development</span>
+            </div>
+          </div>
         </div>
+        <div class="col-auto ">
+          <div
+            class="size-full hover:[box-shadow:0px_0px_23px_0px_#72cee7] duration-300 px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-2xl     bg-gradient-to-r from-[#6ab6cb] via-[#46c3e5] to-[#09afdd]
+           before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#78d1e9]">
+            <div class="*:size-7 sm:*:size-9 text-white pb-4">
+              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em"
+                width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path fill="none" stroke-width="2"
+                  d="M11,15 C14,15 19,19 19,19 L19,3 C19,3 14,7 11,7 C11,7 11,15 11,15 Z M5,15 L8,23 L12,23 L9,15 M19,14 C20.657,14 22,12.657 22,11 C22,9.343 20.657,8 19,8 M11,19 C11.9999997,18.9999994 14,18 14,16 M2,11 C2,7.88888889 3.7912,7 6,7 L11,7 L11,15 L6,15 C3.7912,15 2,14.1111111 2,11 Z">
+                </path>
+              </svg>
+            </div>
+            <div
+              class="text-white text-base sm:text-lg font-semibold sm:font-bold pb-2 sm:pb-3 border-b border-white/50">
+              <span class="w-full block">Digital</span>
+              <span> Marketing</span>
+            </div>
+          </div>
         </div>
-    </div>
-    <div class="col-auto ">
-        <div class="size-full px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-3xl     bg-gradient-to-r from-[#8f7ceb]/90 via-[#856dfb] to-[#8777e3]
-        before:absolute before:inset-10 before:bg- before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#a497e5]">
-        <div class=" *:size-7 sm:*:size-9 text-white pb-4">
-            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M216,40H40A16,16,0,0,0,24,56V200a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A16,16,0,0,0,216,40ZM92.8,145.6a8,8,0,1,1-9.6,12.8l-32-24a8,8,0,0,1,0-12.8l32-24a8,8,0,0,1,9.6,12.8L69.33,128Zm58.89-71.4-32,112a8,8,0,1,1-15.38-4.4l32-112a8,8,0,0,1,15.38,4.4Zm53.11,60.2-32,24a8,8,0,0,1-9.6-12.8L186.67,128,163.2,110.4a8,8,0,1,1,9.6-12.8l32,24a8,8,0,0,1,0,12.8Z"></path></svg>
+        <div class="col-auto ">
+          <div
+            class="size-full hover:[box-shadow:0px_0px_23px_0px_#e39943] duration-300 px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-2xl   bg-gradient-to-r from-[#fdad50] via-[#ffa944] to-[#ff971d]
+            before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#ffb55f]">
+            <div class=" *:size-7 sm:*:size-9 text-white pb-4">
+              <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round"
+                stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M3 16v-6a2 2 0 1 1 4 0v6"></path>
+                <path d="M3 13h4"></path>
+                <path d="M10 8v6a2 2 0 1 0 4 0v-1a2 2 0 1 0 -4 0v1"></path>
+                <path d="M20.732 12a2 2 0 0 0 -3.732 1v1a2 2 0 0 0 3.726 1.01"></path>
+              </svg>
+            </div>
+            <div
+              class="text-white text-base sm:text-lg font-semibold sm:font-bold pb-2 sm:pb-3 border-b border-white/50">
+              <span class="w-full block">Practical</span>
+              <span> Learning</span>
+            </div>
+          </div>
         </div>
-        <div class="text-white text-base sm:text-lg font-semibold sm:font-bold pb-2 sm:pb-3 border-b border-white/50">
-            <span class="w-full block">Web</span> 
-            <span> Development</span>
-        </div>
-        </div>
-    </div>
-    <div class="col-auto ">
-        <div class="size-full px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-3xl     bg-gradient-to-r from-[#6ab6cb] via-[#46c3e5] to-[#09afdd]
-        before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#78d1e9]">
-        <div class="*:size-7 sm:*:size-9 text-white pb-4">
-            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke-width="2" d="M11,15 C14,15 19,19 19,19 L19,3 C19,3 14,7 11,7 C11,7 11,15 11,15 Z M5,15 L8,23 L12,23 L9,15 M19,14 C20.657,14 22,12.657 22,11 C22,9.343 20.657,8 19,8 M11,19 C11.9999997,18.9999994 14,18 14,16 M2,11 C2,7.88888889 3.7912,7 6,7 L11,7 L11,15 L6,15 C3.7912,15 2,14.1111111 2,11 Z"></path></svg>
-        </div>
-        <div class="text-white text-base sm:text-lg font-semibold sm:font-bold pb-2 sm:pb-3 border-b border-white/50">
-            <span class="w-full block">Digital</span> 
-            <span> Marketing</span>
-        </div>
-        </div>
-    </div>
-    <div class="col-auto ">
-        <div class="size-full px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-3xl   bg-gradient-to-r from-[#fdad50] via-[#ffa944] to-[#ff971d]
-        before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#ffb55f]">
-        <div class=" *:size-7 sm:*:size-9 text-white pb-4">
-            <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M3 16v-6a2 2 0 1 1 4 0v6"></path><path d="M3 13h4"></path><path d="M10 8v6a2 2 0 1 0 4 0v-1a2 2 0 1 0 -4 0v1"></path><path d="M20.732 12a2 2 0 0 0 -3.732 1v1a2 2 0 0 0 3.726 1.01"></path></svg>
-        </div>
-        <div class="text-white text-base sm:text-lg font-semibold sm:font-bold pb-2 sm:pb-3 border-b border-white/50">
-            <span class="w-full block">Practical</span> 
-            <span> Learning</span>
-        </div>
-        </div>
-    </div>
-    <div class="col-span-2 sm:col-auto">
-        <div class="size-full flex justify-center items-center flex-row sm:flex-col gap-x-3 sm:gap-y-4">
-            <div class="order-2 sm:order-1 *:size-6 rounded-full text-white bg-[#937ffb] px-4 py-4 shadow-md shadow-[#937ffb]">
-                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"></path></svg>
+        <div class="col-span-2 sm:col-auto">
+          <div class="size-full flex justify-center items-center flex-row sm:flex-col gap-x-3 sm:gap-y-4">
+            <div
+              class="order-2 sm:order-1 *:size-6 rounded-full text-white bg-[#937ffb] px-4 py-4 shadow-md shadow-[#937ffb]">
+              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em"
+                width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd"
+                  d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8">
+                </path>
+              </svg>
             </div>
             <div class="order-1 sm:order-2 font-semibold">Browse All</div>
+          </div>
         </div>
-    </div>
-    </div>
+      </div>
   </div>
 </section>
  <!-- career Courses end  -->
@@ -419,112 +453,146 @@
 
 <!-- seamless solution for  -->
 <section class="relative md:py-16 py-10">
-    <div class="relative container mx-auto max-w-7xl md:px-6 lg:px-8 z-10 mb-10">
-        <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
-            <span class="font-normal">Seamless Solutions for</span>
-            <br>
-            <span class="font-bold text-orange-500">Institutional Management</span>
-        </p>
-        <!-- <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
-        Edoovi Provide
-        </div> -->
-    </div>
     <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full ">
-    <div class="grid grid-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-9">
-    <div class="col-auto group">
-        <div class="size-full p-5 rounded-3xl  [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]   flex flex-col justify-center items-center text-center
-         group-hover:bg-gradient-to-r from-[skyblue]/20 via-[skyblue]/50 to-[skyblue]/20 group-hover:border-transparent duration-300 transition-all 
+      <div class="grid grid-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-9">
+        <div class="col-auto group">
+          <div class="size-full p-5 rounded-2xl  [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]   flex flex-col justify-center items-center text-center
+         group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-          <div class="*:size-12 sm:*:size-14">
-            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M12 1 3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm7 10c0 4.52-2.98 8.69-7 9.93-4.02-1.24-7-5.41-7-9.93V6.3l7-3.11 7 3.11V11zm-11.59.59L6 13l4 4 8-8-1.41-1.42L10 14.17z"></path></svg>
-          </div>
-          <div class="py-3 font-semibold text-xl ">
-            Verified School Profile
-          </div>
-          <div class="text-center">
-            WhatsApp Business API enables Schools with Green Badge upon profile verification that confirms school authenticity.
+            <div class="*:size-12 sm:*:size-14 group-hover:text-white">
+              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em"
+                width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path fill="none" d="M0 0h24v24H0V0z"></path>
+                <path
+                  d="M12 1 3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm7 10c0 4.52-2.98 8.69-7 9.93-4.02-1.24-7-5.41-7-9.93V6.3l7-3.11 7 3.11V11zm-11.59.59L6 13l4 4 8-8-1.41-1.42L10 14.17z">
+                </path>
+              </svg>
+            </div>
+            <div class="py-3 font-semibold text-xl group-hover:text-white">
+              Verified School Profile
+            </div>
+            <div class="text-center group-hover:text-white">
+              WhatsApp Business API enables Schools with Green Badge upon profile verification that confirms school
+              authenticity.
+            </div>
           </div>
         </div>
-    </div>
-    <div class="col-auto group">
-        <div class="size-full p-5 rounded-3xl  [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]  text-center flex flex-col justify-center items-center
-         group-hover:bg-gradient-to-r from-[skyblue]/20 via-[skyblue]/50 to-[skyblue]/20 group-hover:border-transparent duration-300 transition-all 
+        <div class="col-auto group">
+          <div class="size-full p-5 rounded-2xl  [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]  text-center flex flex-col justify-center items-center
+         group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-          <div class="*:size-12 sm:*:size-14">
-            <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
-          </div>
-          <div class="py-3 font-semibold text-xl ">
-            Use Number Of Your Choice
-          </div>
-          <div class="text-center">
-            No restriction on Number, choose the number you want for WhatsApp Business Solution. It can be Mobile, landline, or toll-free.
+            <div class="*:size-12 sm:*:size-14 group-hover:text-white"> 
+              <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"
+                height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round"
+                  d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z">
+                </path>
+              </svg>
+            </div>
+            <div class="py-3 font-semibold text-xl group-hover:text-white">
+              Use Number Of Your Choice
+            </div>
+            <div class="text-cente group-hover:text-white" >
+              No restriction on Number, choose the number you want for WhatsApp Business Solution. It can be Mobile,
+              landline, or toll-free.
+            </div>
           </div>
         </div>
-    </div>
-    <div class="col-auto group">
-        <div class="size-full p-5 rounded-3xl text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] flex flex-col justify-center items-center
-         group-hover:bg-gradient-to-r from-[skyblue]/20 via-[skyblue]/50 to-[skyblue]/20 group-hover:border-transparent duration-300 transition-all 
+        <div class="col-auto group">
+          <div class="size-full p-5 rounded-2xl text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] flex flex-col justify-center items-center
+         group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-          <div class="*:size-12 sm:*:size-14">
-            <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" d="M11 5.882V19.24a1.76 1.76 0 01-3.417.592l-2.147-6.15M18 13a3 3 0 100-6M5.436 13.683A4.001 4.001 0 017 6h1.832c4.1 0 7.625-1.234 9.168-3v14c-1.543-1.766-5.067-3-9.168-3H7a3.988 3.988 0 01-1.564-.317z"></path></svg>
-          </div>
-          <div class="py-3 font-semibold text-xl ">
-            Broadcast To All
-          </div>
-          <div class="text-center">
-            Send Bulk Messages to all Students, Parents, Teachers in Single Click with WhatsApp Business Solutions.
+            <div class="*:size-12 sm:*:size-14 group-hover:text-white">
+              <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"
+                height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round"
+                  d="M11 5.882V19.24a1.76 1.76 0 01-3.417.592l-2.147-6.15M18 13a3 3 0 100-6M5.436 13.683A4.001 4.001 0 017 6h1.832c4.1 0 7.625-1.234 9.168-3v14c-1.543-1.766-5.067-3-9.168-3H7a3.988 3.988 0 01-1.564-.317z">
+                </path>
+              </svg>
+            </div>
+            <div class="py-3 font-semibold text-xl group-hover:text-white">
+              Broadcast To All
+            </div>
+            <div class="text-center group-hover:text-white">
+              Send Bulk Messages to all Students, Parents, Teachers in Single Click with WhatsApp Business Solutions.
+            </div>
           </div>
         </div>
-    </div>
-    <div class="col-auto group">
-        <div class="size-full p-5 rounded-3xl text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]  flex flex-col justify-center items-center
-         group-hover:bg-gradient-to-r from-[skyblue]/20 via-[skyblue]/50 to-[skyblue]/20 group-hover:border-transparent duration-300 transition-all 
+        <div class="col-auto group">
+          <div class="size-full p-5 rounded-2xl text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]  flex flex-col justify-center items-center
+         group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-          <div class="*:size-12 sm:*:size-14">
-            
-            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M12 17c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm6-9h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zM8.9 6c0-1.71 1.39-3.1 3.1-3.1s3.1 1.39 3.1 3.1v2H8.9V6zM18 20H6V10h12v10z"></path></svg>
-          </div>
-          <div class="py-3 font-semibold text-xl ">
-            Secure Encrypted Chat
-          </div>
-          <div class="text-center">
-            All chat with clients is in encrypted form. WhatsApp ensures completely secure and reliable communication for seamless experience.
+            <div class="*:size-12 sm:*:size-14 group-hover:text-white">
+
+              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em"
+                width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path fill="none" d="M0 0h24v24H0z"></path>
+                <path
+                  d="M12 17c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm6-9h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zM8.9 6c0-1.71 1.39-3.1 3.1-3.1s3.1 1.39 3.1 3.1v2H8.9V6zM18 20H6V10h12v10z">
+                </path>
+              </svg>
+            </div>
+            <div class="py-3 font-semibold text-xl group-hover:text-white">
+              Secure Encrypted Chat
+            </div>
+            <div class="text-center group-hover:text-white">
+              All chat with clients is in encrypted form. WhatsApp ensures completely secure and reliable communication
+              for seamless experience.
+            </div>
           </div>
         </div>
-    </div>
-    <div class="col-auto group">
-        <div class="size-full p-5 rounded-3xl text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] flex flex-col justify-center items-center
-         group-hover:bg-gradient-to-r from-[skyblue]/20 via-[skyblue]/50 to-[skyblue]/20 group-hover:border-transparent duration-300 transition-all 
+        <div class="col-auto group">
+          <div class="size-full p-5 rounded-2xl text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] flex flex-col justify-center items-center
+         group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-          <div class="*:size-12 sm:*:size-14">
-            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="128" cy="256" r="48" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"></circle><circle cx="384" cy="112" r="48" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"></circle><circle cx="384" cy="400" r="48" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"></circle><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="m169.83 279.53 172.34 96.94m0-240.94-172.34 96.94"></path></svg>
-          </div>
-          <div class="py-3 font-semibold text-xl ">
-            Rich Media Sharing
-          </div>
-          <div class="text-center">
-            Take Advantage of WhatsApp's ability to share rich media content like Photos, Video, Location, Documents, Link, etc. with your Users.
+            <div class="*:size-12 sm:*:size-14 group-hover:text-white" >
+              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em"
+                width="1em" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="128" cy="256" r="48" fill="none" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-width="32"></circle>
+                <circle cx="384" cy="112" r="48" fill="none" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-width="32"></circle>
+                <circle cx="384" cy="400" r="48" fill="none" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-width="32"></circle>
+                <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"
+                  d="m169.83 279.53 172.34 96.94m0-240.94-172.34 96.94"></path>
+              </svg>
+            </div>
+            <div class="py-3 font-semibold text-xl group-hover:text-white">
+              Rich Media Sharing
+            </div>
+            <div class="text-center group-hover:text-white">
+              Take Advantage of WhatsApp's ability to share rich media content like Photos, Video, Location, Documents,
+              Link, etc. with your Users.
+            </div>
           </div>
         </div>
-    </div>
-    <div class="col-auto group">
-        <div class="size-full p-5 rounded-3xl  text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] flex flex-col justify-center items-center
-         group-hover:bg-gradient-to-r from-[skyblue]/20 via-[skyblue]/50 to-[skyblue]/20 group-hover:border-transparent duration-300 transition-all 
+        <div class="col-auto group">
+          <div class="size-full p-5 rounded-2xl  text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] flex flex-col justify-center items-center
+         group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-          <div class="*:size-12 sm:*:size-14">
-            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><rect width="336" height="336" x="128" y="128" fill="none" stroke-linejoin="round" stroke-width="32" rx="57" ry="57"></rect><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="m383.5 128 .5-24a56.16 56.16 0 0 0-56-56H112a64.19 64.19 0 0 0-64 64v216a56.16 56.16 0 0 0 56 56h24"></path></svg>
-          </div>
-          <div class="py-3 font-semibold text-xl ">
-            Easy API Integration
-          </div>
-          <div class="text-center">
-            Edoovi offers Integrated Solutions with school management System with the facility to design personalized ChatBot.
+            <div class="*:size-12 sm:*:size-14 group-hover:text-white">
+              <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em"
+                width="1em" xmlns="http://www.w3.org/2000/svg">
+                <rect width="336" height="336" x="128" y="128" fill="none" stroke-linejoin="round" stroke-width="32"
+                  rx="57" ry="57"></rect>
+                <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"
+                  d="m383.5 128 .5-24a56.16 56.16 0 0 0-56-56H112a64.19 64.19 0 0 0-64 64v216a56.16 56.16 0 0 0 56 56h24">
+                </path>
+              </svg>
+            </div>
+            <div class="py-3 font-semibold text-xl group-hover:text-white">
+              Easy API Integration
+            </div>
+            <div class="text-center group-hover:text-white">
+              Edoovi offers Integrated Solutions with school management System with the facility to design personalized
+              ChatBot.
+            </div>
           </div>
         </div>
+      </div>
     </div>
-    </div>
-    </div>
-</section>
+  </section>
 <!-- end  -->
 
   <!-- card start -->
@@ -627,7 +695,7 @@
                 <svg class="w-40 h-auto sm:w-72" width="1115" height="636" viewBox="0 0 1115 636" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M0.990203 279.321C-1.11035 287.334 3.68307 295.534 11.6966 297.634L142.285 331.865C150.298 333.965 158.497 329.172 160.598 321.158C162.699 313.145 157.905 304.946 149.892 302.845L33.8132 272.418L64.2403 156.339C66.3409 148.326 61.5475 140.127 53.5339 138.026C45.5204 135.926 37.3213 140.719 35.2207 148.733L0.990203 279.321ZM424.31 252.289C431.581 256.26 440.694 253.585 444.664 246.314C448.635 239.044 445.961 229.931 438.69 225.96L424.31 252.289ZM23.0706 296.074C72.7581 267.025 123.056 230.059 187.043 212.864C249.583 196.057 325.63 198.393 424.31 252.289L438.69 225.96C333.77 168.656 249.817 164.929 179.257 183.892C110.144 202.465 54.2419 243.099 7.92943 270.175L23.0706 296.074Z" fill="currentColor" class="fill-orange-500" />
                     <path d="M451.609 382.417C446.219 388.708 446.95 398.178 453.241 403.567L555.763 491.398C562.054 496.788 571.524 496.057 576.913 489.766C582.303 483.474 581.572 474.005 575.281 468.615L484.15 390.544L562.222 299.413C567.612 293.122 566.881 283.652 560.59 278.263C554.299 272.873 544.829 273.604 539.44 279.895L451.609 382.417ZM837.202 559.655C841.706 566.608 850.994 568.593 857.947 564.09C864.9 559.586 866.885 550.298 862.381 543.345L837.202 559.655ZM464.154 407.131C508.387 403.718 570.802 395.25 638.136 410.928C704.591 426.401 776.318 465.66 837.202 559.655L862.381 543.345C797.144 442.631 718.724 398.89 644.939 381.709C572.033 364.734 504.114 373.958 461.846 377.22L464.154 407.131Z" fill="currentColor" class="fill-cyan-500" />
-                    <path d="M447.448 0.194357C439.203 -0.605554 431.87 5.43034 431.07 13.6759L418.035 148.045C417.235 156.291 423.271 163.623 431.516 164.423C439.762 165.223 447.095 159.187 447.895 150.942L459.482 31.5025L578.921 43.0895C587.166 43.8894 594.499 37.8535 595.299 29.6079C596.099 21.3624 590.063 14.0296 581.818 13.2297L447.448 0.194357ZM1086.03 431.727C1089.68 439.166 1098.66 442.239 1106.1 438.593C1113.54 434.946 1116.62 425.96 1112.97 418.521L1086.03 431.727ZM434.419 24.6572C449.463 42.934 474.586 81.0463 521.375 116.908C568.556 153.07 637.546 187.063 742.018 200.993L745.982 171.256C646.454 157.985 582.444 125.917 539.625 93.0974C496.414 59.978 474.537 26.1903 457.581 5.59138L434.419 24.6572ZM742.018 200.993C939.862 227.372 1054.15 366.703 1086.03 431.727L1112.97 418.521C1077.85 346.879 956.138 199.277 745.982 171.256L742.018 200.993Z" fill="currentColor" class="fill-white" />
+                    <path d="M447.448 0.194357C439.203 -0.605554 431.87 5.43034 431.07 13.6759L418.035 148.045C417.235 156.291 423.271 163.623 431.516 164.423C439.762 165.223 447.095 159.187 447.895 150.942L459.482 31.5025L578.921 43.0895C587.166 43.8894 594.499 37.8535 595.299 29.6079C596.099 21.3624 590.063 14.0296 581.818 13.2297L447.448 0.194357ZM1086.03 431.727C1089.68 439.166 1098.66 442.239 1106.1 438.593C1113.54 434.946 1116.62 425.96 1112.97 418.521L1086.03 431.727ZM434.419 24.6572C449.463 42.934 474.586 81.0463 521.375 116.908C568.556 153.07 637.546 187.063 742.018 200.993L745.982 171.256C646.454 157.985 582.444 125.917 539.625 93.0974C496.414 59.978 474.537 26.1903 457.581 5.59138L434.419 24.6572ZM742.018 200.993C939.862 227.372 1054.15 366.703 1086.03 431.727L1112.97 418.521C1077.85 346.879 956.138 199.277 745.982 171.256L742.018 200.993Z" fill="currentColor" class="fill-red" />
                 </svg>
             </div>
 
@@ -816,10 +884,316 @@
     </div>
     <!-- testimonial section ends -->
 
+    <!-- key benifits section start -->
+    <div class="container mx-auto max-w-7xl md:px-6 lg:px-8 py-10 sm:px-6  lg:py-14">
+        <div class="relative p-6 md:p-16">
+            <div class="relative container mx-auto max-w-7xl z-10 mb-8 md:mb-16">
+                <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
+                    <span class="font-normal">The Key Benefit Is You Can Save Money, Save Lots Of Time & Making Best Of Resources.</span>
+                    <span class="font-bold text-theme1">Lots Of Time & Making Best Of Resources.</span>
+                </p>
+                <div class="md:text-base text-sm text-black/70 mt-2 font-semibold">
+                    Vidyalaya, the comprehensive school management system software meets all your school management requirements. It is best in class software covers all academic & administrative management functionalities that require to drive an educational institute. Starting from admissions to regular academic activities, exam management, fees collection, employee payroll, Edoovi school management system can relieve the staff and make the process hassle-free!
+                </div>
+            </div>
+            <div class="relative z-10 lg:grid lg:grid-cols-12 lg:items-center">
+                <div class="mb-5 sm:mb-10 lg:mb-0 lg:col-span-7 lg:order-2 bg-purple-50 px-4 sm:px-8 md:px-16 py-12 rounded-3xl">
+                    <div class="relative container mx-auto max-w-7xl md:px-6 lg:px-8 z-10">
+                        <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
+                            <span class="font-normal">We Provide </span>
+                            <span class="font-bold text-theme1">Everything You Need</span>
+                        </p>
+                    </div>
+
+                    <nav class="grid gap-4 mt-5 md:mt-10" aria-label="Tabs" role="tablist" aria-orientation="vertical">
+                        <button type="button" class="text-start hover:bg-purple-50 shadow-xl focus:outline-none  p-4 md:px-6 md:py-8 rounded-3xl active bg-white border-transparent text-blue-600" id="tabs-with-card-item-1" aria-selected="true" data-hs-tab="#tabs-with-card-1" aria-controls="tabs-with-card-1" role="tab">
+                            <span class="flex gap-x-6">
+                                <svg class="shrink-0 mt-2 size-6 md:size-7 text-gray-800" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path d="M16.3303 13.497C17.9562 12.2151 19 10.2278 19 7.9967H21C21 10.9687 19.5595 13.6043 17.3385 15.2432L19.8661 19.6211C20.4183 20.5776 20.0906 21.8008 19.134 22.3531L15.6073 16.2447C14.5029 16.7283 13.2828 16.9967 12 16.9967C10.7172 16.9967 9.49712 16.7283 8.39278 16.2447L4.86606 22.3531C3.90947 21.8008 3.58172 20.5776 4.13401 19.6211L9.19751 10.8508C8.45844 10.125 8.00003 9.11439 8.00003 7.9967C8.00003 6.13286 9.2748 4.56676 11 4.12272V1.9967H13V4.12272C14.7253 4.56676 16 6.13286 16 7.9967C16 9.11439 15.5416 10.125 14.8025 10.8508L16.3303 13.497ZM14.599 14.4983L13.071 11.8517C12.7302 11.9462 12.371 11.9967 12 11.9967C11.6291 11.9967 11.2699 11.9462 10.929 11.8517L9.40101 14.4983C10.2046 14.8198 11.0817 14.9967 12 14.9967C12.9184 14.9967 13.7955 14.8198 14.599 14.4983ZM12 8.9967C12.5523 8.9967 13 8.54899 13 7.9967C13 7.44442 12.5523 6.9967 12 6.9967C11.4477 6.9967 11 7.44442 11 7.9967C11 8.54899 11.4477 8.9967 12 8.9967Z"></path></svg>
+                                <span class="grow">
+                                    <span class="block text-lg font-semibold text-gray-800">Compatible For All</span>
+                                    <span class="block mt-1 text-gray-800">Edoovi provide complete management tools and compatible for
+                                        schools and other educational Institutions. </span>
+                                </span>
+                            </span>
+                        </button>
+
+                        <button type="button" class="text-start hover:bg-purple-50 shadow-xl focus:outline-none  p-4 md:px-6 md:py-8 rounded-3xl" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-2" aria-controls="tabs-with-card-2" role="tab">
+                            <span class="flex gap-x-6">
+                                <svg class="shrink-0 mt-2 size-6 md:size-7 text-gray-800" stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4"></path></svg>
+                                <span class="grow">
+                                    <span class="block text-lg font-semibold text-gray-800">Data Storage</span>
+                                    <span class="block mt-1 text-gray-800">Edoovi offers the flexible hosting options to store your data like
+                                        in premises, enterprise or in the cloud, the choice is yours. </span>
+                                </span>
+                            </span>
+                        </button>
+
+                        <button type="button" class="text-start hover:bg-purple-50 shadow-xl focus:outline-none  p-4 md:px-6 md:py-8 rounded-3xl" id="tabs-with-card-item-3" aria-selected="false" data-hs-tab="#tabs-with-card-3" aria-controls="tabs-with-card-3" role="tab">
+                            <span class="flex gap-x-6">
+                                <svg class="shrink-0 mt-2 size-6 md:size-7 text-gray-800" stroke="currentColor" fill="currentColor" stroke-width="0" role="img" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path d="M12 0a12 12 0 1012 12A12 12 0 0012 0zm-.412 1.377A10.648 10.648 0 0122.664 12 10.648 10.648 0 0112 22.664a10.648 10.648 0 01-.412-21.287zM12 1.9a.184.184 0 00-.172.131l-.883 2.526a.39.39 0 000 .097.3.3 0 00.133.25.926.926 0 01.074 1.465 2.345 2.345 0 00-.82 1.79v.903L5.865 6.498l-.547.953 4.987 2.877v.692l-.602.347-4.978-2.88-.551.954L8.602 12l-.782.45a2.345 2.345 0 00-1.127 1.616.93.93 0 01-1.312.668.293.293 0 00-.277 0 .324.324 0 00-.079.063l-1.742 2.037a.188.188 0 00.176.305l2.633-.493a.36.36 0 00.09-.035.3.3 0 00.152-.238.926.926 0 011.232-.781 2.345 2.345 0 001.954-.184l.78-.451v5.104h1.098v-5.756l.598-.344.598.344v5.756h1.1v-5.123l.78.45a2.345 2.345 0 001.954.184.926.926 0 011.234.782.285.285 0 00.149.238.36.36 0 00.09.035l2.634.492a.184.184 0 00.176-.305l.004.02-1.744-2.037a.39.39 0 00-.075-.063.3.3 0 00-.28 0 .938.938 0 01-.864-.035.93.93 0 01-.434-.633 2.368 2.368 0 00-1.14-1.609l-.782-.45 4.436-2.558-.549-.955-4.98 2.873-.602-.347v-.692l4.985-2.877-.547-.953L13.7 9.062v-.904a2.345 2.345 0 00-.803-1.789.922.922 0 01.079-1.465.309.309 0 00.128-.25.27.27 0 000-.097L12.18 2.03a.184.184 0 00-.18-.13zm.021 5.512a.598.598 0 01.58.598V9.7l-.597.347-.598-.348V8.01a.598.598 0 01.615-.597zm-.017 3.818l.687.391v.781l-.687.391-.688-.39v-.782zm2.299 1.403l1.46.847a.598.598 0 01.223.817v.004a.602.602 0 01-.82.219l-1.465-.844v-.696zm-4.596.004l.602.347v.692l-1.465.844a.598.598 0 11-.598-1.036z"></path></svg>
+                                <span class="grow">
+                                    <span class="block text-lg font-semibold text-gray-800">Corporative Service</span>
+                                    <span class="block mt-1 text-gray-800">Access to our support team for assistance, guidance, trouble
+                                        shooting when you need it, we provide you the assurance of best
+                                        service.</span>
+                                </span>
+                            </span>
+                        </button>
+
+                        <button type="button" class="text-start hover:bg-purple-50 shadow-xl focus:outline-none  p-4 md:px-6 md:py-8 rounded-3xl" id="tabs-with-card-item-4" aria-selected="false" data-hs-tab="#tabs-with-card-4" aria-controls="tabs-with-card-4" role="tab">
+                            <span class="flex gap-x-6">
+                                <svg class="shrink-0 mt-2 size-6 md:size-7 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z" />
+                                    <path d="M5 3v4" />
+                                    <path d="M19 17v4" />
+                                    <path d="M3 5h4" />
+                                    <path d="M17 19h4" />
+                                </svg>
+                                <span class="grow">
+                                    <span class="block text-lg font-semibold text-gray-800">More Accessible</span>
+                                    <span class="block mt-1 text-gray-800">Edoovi is online Student information system provide anytime,
+                                        anywhere access.</span>
+                                </span>
+                            </span>
+                        </button>
+                    </nav>
+                </div>
+
+                <div class="lg:col-span-5 lg:-mr-5">
+                    <div class="relative">
+                        <div>
+                            <div id="tabs-with-card-1" role="tabpanel" class="aspect-[3/2] lg:aspect-[1/1.3]" aria-labelledby="tabs-with-card-item-1">
+                                <img class="shadow-xl shadow-gray-200 rounded-3xl size-full" src="https://images.unsplash.com/photo-1605629921711-2f6b00c6bbf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            </div>
+
+                            <div id="tabs-with-card-2" class="hidden aspect-[3/2] lg:aspect-[1/1.3]" role="tabpanel" aria-labelledby="tabs-with-card-item-2">
+                                <img class="shadow-xl shadow-gray-200 rounded-3xl size-full" src="https://images.unsplash.com/photo-1665686306574-1ace09918530?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            </div>
+
+                            <div id="tabs-with-card-3" class="hidden aspect-[3/2] lg:aspect-[1/1.3]" role="tabpanel" aria-labelledby="tabs-with-card-item-3">
+                                <img class="shadow-xl shadow-gray-200 rounded-3xl size-full" src="https://images.unsplash.com/photo-1598929213452-52d72f63e307?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            </div>
+                            <div id="tabs-with-card-4" class="hidden aspect-[3/2] lg:aspect-[1/1.3]" role="tabpanel" aria-labelledby="tabs-with-card-item-4">
+                                <img class="shadow-xl shadow-gray-200 rounded-3xl size-full" src="https://images.unsplash.com/photo-1605629921711-2f6b00c6bbf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- key benifits section Ends -->
+
+
 
     <!-- blog section  -->
 
-
+    <section class="pb-20">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
+            <div class="grid grid-cols-12 gap-x-2 gap-y-6  lg:gap-6">
+            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+        <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]" >
+            <div class=" w-full rounded-lg">
+            <img class="size-full object-cover rounded-lg" src="./assets/img/award2.png" alt="">
+            </div>
+            <div class="text-box ">
+            <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+            <div class="flex items-center gap-2">
+                <div class="*:text-sm">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path></svg>
+                </div>
+            <div class="text-xs lg:text-sm">
+                09/01/2024
+            </div>
+            </div>
+            <div class="flex items-center gap-2 ms-auto">
+                <div class="*:text-sm">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path></svg>
+                </div>
+            <div class="text-xs lg:text-sm">
+                Rupendra Chauhan
+            </div>
+            </div>
+            </div>
+            <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+            Leading the Way in School ERP Software Solutions
+            </div>
+            <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
+            Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
+            </div>
+            <div class="pt-2 lg:pt-4">
+                <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
+                <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"  xmlns="http://www.w3.org/2000/svg"><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path></svg>
+                </div>
+                </a>
+            </div>
+            </div>
+        </div>
+            </div>
+            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-6 lg:row-span-2">
+        <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]" >
+            <div class=" w-full rounded-lg">
+            <img class="size-full lg:aspect-[1/.8] object-cover rounded-lg" src="./assets/img/award1.png" alt="">
+            </div>
+            <div class="text-box ">
+            <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+            <div class="flex items-center gap-2">
+                <div class="*:text-sm">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path></svg>
+                </div>
+            <div class="text-xs lg:text-sm">
+                09/01/2024
+            </div>
+            </div>
+            <div class="flex items-center gap-2 ms-auto">
+                <div class="*:text-sm">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path></svg>
+                </div>
+            <div class="text-xs lg:text-sm">
+                Rupendra Chauhan
+            </div>
+            </div>
+            </div>
+            <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+            Leading the Way in School ERP Software Solutions
+            </div>
+            <div class="text-sm lg:text-base max-lg:text-ellipsis max-lg:overflow-hidden max-lg:line-clamp-2">
+            Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
+            </div>
+            <div class="pt-2 lg:pt-4">
+                <a class="text-sm lg:text-base flex items-center lg:justify-center gap-2 group" href="#">Read more
+                <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"  xmlns="http://www.w3.org/2000/svg"><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path></svg>
+                </div>
+                </a>
+            </div>
+            </div>
+        </div>
+            </div>
+            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+        <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]" >
+            <div class=" w-full rounded-lg">
+            <img class="size-full object-cover rounded-lg" src="./assets/img/award2.png" alt="">
+            </div>
+            <div class="text-box ">
+            <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+            <div class="flex items-center gap-2">
+                <div class="*:text-sm">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path></svg>
+                </div>
+            <div class="text-xs lg:text-sm">
+                09/01/2024
+            </div>
+            </div>
+            <div class="flex items-center gap-2 ms-auto">
+                <div class="*:text-sm">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path></svg>
+                </div>
+            <div class="text-xs lg:text-sm">
+                Rupendra Chauhan
+            </div>
+            </div>
+            </div>
+            <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+            Leading the Way in School ERP Software Solutions
+            </div>
+            <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
+            Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
+            </div>
+            <div class="pt-2 lg:pt-4">
+                <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
+                <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"  xmlns="http://www.w3.org/2000/svg"><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path></svg>
+                </div>
+                </a>
+            </div>
+            </div>
+        </div>
+            </div>
+            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+        <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]" >
+            <div class=" w-full rounded-lg">
+            <img class="size-full object-cover rounded-lg" src="./assets/img/award1.png" alt="">
+            </div>
+            <div class="text-box ">
+            <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+            <div class="flex items-center gap-2">
+                <div class="*:text-sm">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path></svg>
+                </div>
+            <div class="text-xs lg:text-sm">
+                09/01/2024
+            </div>
+            </div>
+            <div class="flex items-center gap-2 ms-auto">
+                <div class="*:text-sm">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path></svg>
+                </div>
+            <div class="text-xs lg:text-sm">
+                Rupendra Chauhan
+            </div>
+            </div>
+            </div>
+            <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+            Leading the Way in School ERP Software Solutions
+            </div>
+            <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
+            Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
+            </div>
+            <div class="pt-2 lg:pt-4">
+                <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
+                <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"  xmlns="http://www.w3.org/2000/svg"><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path></svg>
+                </div>
+                </a>
+            </div>
+            </div>
+        </div>
+            </div>
+            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+        <div class="size-full rounded-lg p-2  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]" >
+            <div class=" w-full rounded-lg">
+            <img class="size-full object-cover rounded-lg" src="./assets/img/award2.png" alt="">
+            </div>
+            <div class="text-box ">
+            <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+            <div class="flex items-center gap-2">
+                <div class="*:text-sm">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path></svg>
+                </div>
+            <div class="text-xs lg:text-sm">
+                09/01/2024
+            </div>
+            </div>
+            <div class="flex items-center gap-2 ms-auto">
+                <div class="*:text-sm">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path></svg>
+                </div>
+            <div class="text-xs lg:text-sm">
+                Rupendra Chauhan
+            </div>
+            </div>
+            </div>
+            <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+            Leading the Way in School ERP Software Solutions
+            </div>
+            <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
+            Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
+            </div>
+            <div class="pt-2 lg:pt-4">
+                <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
+                <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"  xmlns="http://www.w3.org/2000/svg"><path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path></svg>
+                </div>
+                </a>
+            </div>
+            </div>
+        </div>
+            </div>
+            </div>
+        </div>
+</section>
 
      <!-- blog end  -->
     <!-- form section start -->
@@ -1084,6 +1458,47 @@
         });
     </script>
 <!-- end  -->
+
+<!-- key  -->
+
+<script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const tabs = document.querySelectorAll('[data-hs-tab]');
+            const tabPanels = document.querySelectorAll('[role="tabpanel"]');
+
+            // Function to set active tab
+            const setActiveTab = (tab) => {
+                // Remove active classes from all tabs
+                tabs.forEach(t => {
+                    t.classList.remove('bg-white', 'shadow-md', 'border-transparent', 'text-blue-600');
+                    t.setAttribute('aria-selected', 'false');
+                });
+
+                // Hide all tab panels
+                tabPanels.forEach(panel => panel.classList.add('hidden'));
+
+                // Add active classes to the selected tab
+                tab.classList.add('bg-white', 'shadow-md', 'border-transparent', 'text-blue-600');
+                tab.setAttribute('aria-selected', 'true');
+
+                // Show the associated tab panel
+                const contentId = tab.getAttribute('data-hs-tab');
+                document.querySelector(contentId).classList.remove('hidden');
+            };
+
+            // Set the first tab as active by default
+            const firstTab = tabs[0];
+            setActiveTab(firstTab);
+
+            // Add click event listeners to all tabs
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    setActiveTab(tab);
+                });
+            });
+        });
+    </script>
+ <!-- end  -->
 
 
 </html>
