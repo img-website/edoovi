@@ -816,6 +816,7 @@
     </div>
     <!-- testimonial section ends -->
 
+<<<<<<< Updated upstream
 
     <!-- blog section  -->
     <section>
@@ -918,8 +919,111 @@
 
 
      <!-- blog end  -->
+=======
+    <!-- key benifits section start -->
+    <div class="container mx-auto max-w-7xl px-6 lg:px-8 ">
+        <div class="relative p-6 md:p-16">
+            <div class="relative container mx-auto max-w-7xl z-10 mb-16">
+                <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
+                    <span class="font-normal">The Key Benefit Is You Can Save Money, Save Lots Of Time & Making Best Of Resources.</span>
+                    <span class="font-bold text-theme1">Lots Of Time & Making Best Of Resources.</span>
+                </p>
+                <div class="md:text-base text-sm text-black/70 mt-2 font-semibold">
+                    Vidyalaya, the comprehensive school management system software meets all your school management requirements. It is best in class software covers all academic & administrative management functionalities that require to drive an educational institute. Starting from admissions to regular academic activities, exam management, fees collection, employee payroll, Edoovi school management system can relieve the staff and make the process hassle-free!
+                </div>
+            </div>
+            <div class="relative z-10 lg:grid lg:grid-cols-12 lg:items-center">
+                <div class="mb-10 lg:mb-0 lg:col-span-7 lg:order-2 bg-purple-50 px-16 py-12 rounded-3xl">
+                    <div class="relative container mx-auto max-w-7xl md:px-6 lg:px-8 z-10">
+                        <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
+                            <span class="font-normal">We Provide </span>
+                            <span class="font-bold text-theme1">Everything You Need</span>
+                        </p>
+                    </div>
+
+                    <nav class="grid gap-4 mt-5 md:mt-10" aria-label="Tabs" role="tablist" aria-orientation="vertical">
+                        <button type="button" class="text-start hover:bg-purple-50 shadow-xl focus:outline-none  p-4 md:px-6 md:py-8 rounded-3xl active bg-white border-transparent text-blue-600" id="tabs-with-card-item-1" aria-selected="true" data-hs-tab="#tabs-with-card-1" aria-controls="tabs-with-card-1" role="tab">
+                            <span class="flex gap-x-6">
+                                <svg class="shrink-0 mt-2 size-6 md:size-7 text-gray-800" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path d="M16.3303 13.497C17.9562 12.2151 19 10.2278 19 7.9967H21C21 10.9687 19.5595 13.6043 17.3385 15.2432L19.8661 19.6211C20.4183 20.5776 20.0906 21.8008 19.134 22.3531L15.6073 16.2447C14.5029 16.7283 13.2828 16.9967 12 16.9967C10.7172 16.9967 9.49712 16.7283 8.39278 16.2447L4.86606 22.3531C3.90947 21.8008 3.58172 20.5776 4.13401 19.6211L9.19751 10.8508C8.45844 10.125 8.00003 9.11439 8.00003 7.9967C8.00003 6.13286 9.2748 4.56676 11 4.12272V1.9967H13V4.12272C14.7253 4.56676 16 6.13286 16 7.9967C16 9.11439 15.5416 10.125 14.8025 10.8508L16.3303 13.497ZM14.599 14.4983L13.071 11.8517C12.7302 11.9462 12.371 11.9967 12 11.9967C11.6291 11.9967 11.2699 11.9462 10.929 11.8517L9.40101 14.4983C10.2046 14.8198 11.0817 14.9967 12 14.9967C12.9184 14.9967 13.7955 14.8198 14.599 14.4983ZM12 8.9967C12.5523 8.9967 13 8.54899 13 7.9967C13 7.44442 12.5523 6.9967 12 6.9967C11.4477 6.9967 11 7.44442 11 7.9967C11 8.54899 11.4477 8.9967 12 8.9967Z"></path></svg>
+                                <span class="grow">
+                                    <span class="block text-lg font-semibold text-gray-800">Compatible For All</span>
+                                    <span class="block mt-1 text-gray-800">Edoovi provide complete management tools and compatible for
+                                        schools and other educational Institutions. </span>
+                                </span>
+                            </span>
+                        </button>
+
+                        <button type="button" class="text-start hover:bg-purple-50 shadow-xl focus:outline-none  p-4 md:px-6 md:py-8 rounded-3xl" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-2" aria-controls="tabs-with-card-2" role="tab">
+                            <span class="flex gap-x-6">
+                                <svg class="shrink-0 mt-2 size-6 md:size-7 text-gray-800" stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4"></path></svg>
+                                <span class="grow">
+                                    <span class="block text-lg font-semibold text-gray-800">Data Storage</span>
+                                    <span class="block mt-1 text-gray-800">Edoovi offers the flexible hosting options to store your data like
+                                        in premises, enterprise or in the cloud, the choice is yours. </span>
+                                </span>
+                            </span>
+                        </button>
+
+                        <button type="button" class="text-start hover:bg-purple-50 shadow-xl focus:outline-none  p-4 md:px-6 md:py-8 rounded-3xl" id="tabs-with-card-item-3" aria-selected="false" data-hs-tab="#tabs-with-card-3" aria-controls="tabs-with-card-3" role="tab">
+                            <span class="flex gap-x-6">
+                                <svg class="shrink-0 mt-2 size-6 md:size-7 text-gray-800" stroke="currentColor" fill="currentColor" stroke-width="0" role="img" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path d="M12 0a12 12 0 1012 12A12 12 0 0012 0zm-.412 1.377A10.648 10.648 0 0122.664 12 10.648 10.648 0 0112 22.664a10.648 10.648 0 01-.412-21.287zM12 1.9a.184.184 0 00-.172.131l-.883 2.526a.39.39 0 000 .097.3.3 0 00.133.25.926.926 0 01.074 1.465 2.345 2.345 0 00-.82 1.79v.903L5.865 6.498l-.547.953 4.987 2.877v.692l-.602.347-4.978-2.88-.551.954L8.602 12l-.782.45a2.345 2.345 0 00-1.127 1.616.93.93 0 01-1.312.668.293.293 0 00-.277 0 .324.324 0 00-.079.063l-1.742 2.037a.188.188 0 00.176.305l2.633-.493a.36.36 0 00.09-.035.3.3 0 00.152-.238.926.926 0 011.232-.781 2.345 2.345 0 001.954-.184l.78-.451v5.104h1.098v-5.756l.598-.344.598.344v5.756h1.1v-5.123l.78.45a2.345 2.345 0 001.954.184.926.926 0 011.234.782.285.285 0 00.149.238.36.36 0 00.09.035l2.634.492a.184.184 0 00.176-.305l.004.02-1.744-2.037a.39.39 0 00-.075-.063.3.3 0 00-.28 0 .938.938 0 01-.864-.035.93.93 0 01-.434-.633 2.368 2.368 0 00-1.14-1.609l-.782-.45 4.436-2.558-.549-.955-4.98 2.873-.602-.347v-.692l4.985-2.877-.547-.953L13.7 9.062v-.904a2.345 2.345 0 00-.803-1.789.922.922 0 01.079-1.465.309.309 0 00.128-.25.27.27 0 000-.097L12.18 2.03a.184.184 0 00-.18-.13zm.021 5.512a.598.598 0 01.58.598V9.7l-.597.347-.598-.348V8.01a.598.598 0 01.615-.597zm-.017 3.818l.687.391v.781l-.687.391-.688-.39v-.782zm2.299 1.403l1.46.847a.598.598 0 01.223.817v.004a.602.602 0 01-.82.219l-1.465-.844v-.696zm-4.596.004l.602.347v.692l-1.465.844a.598.598 0 11-.598-1.036z"></path></svg>
+                                <span class="grow">
+                                    <span class="block text-lg font-semibold text-gray-800">Corporative Service</span>
+                                    <span class="block mt-1 text-gray-800">Access to our support team for assistance, guidance, trouble
+                                        shooting when you need it, we provide you the assurance of best
+                                        service.</span>
+                                </span>
+                            </span>
+                        </button>
+
+                        <button type="button" class="text-start hover:bg-purple-50 shadow-xl focus:outline-none  p-4 md:px-6 md:py-8 rounded-3xl" id="tabs-with-card-item-4" aria-selected="false" data-hs-tab="#tabs-with-card-4" aria-controls="tabs-with-card-4" role="tab">
+                            <span class="flex gap-x-6">
+                                <svg class="shrink-0 mt-2 size-6 md:size-7 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z" />
+                                    <path d="M5 3v4" />
+                                    <path d="M19 17v4" />
+                                    <path d="M3 5h4" />
+                                    <path d="M17 19h4" />
+                                </svg>
+                                <span class="grow">
+                                    <span class="block text-lg font-semibold text-gray-800">More Accessible</span>
+                                    <span class="block mt-1 text-gray-800">Edoovi is online Student information system provide anytime,
+                                        anywhere access.</span>
+                                </span>
+                            </span>
+                        </button>
+                    </nav>
+                </div>
+
+                <div class="lg:col-span-5 -mr-5">
+                    <div class="relative">
+                        <div>
+                            <div id="tabs-with-card-1" role="tabpanel" aria-labelledby="tabs-with-card-item-1">
+                                <img class="shadow-xl shadow-gray-200 rounded-3xl" src="https://images.unsplash.com/photo-1605629921711-2f6b00c6bbf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            </div>
+
+                            <div id="tabs-with-card-2" class="hidden" role="tabpanel" aria-labelledby="tabs-with-card-item-2">
+                                <img class="shadow-xl shadow-gray-200 rounded-3xl" src="https://images.unsplash.com/photo-1665686306574-1ace09918530?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            </div>
+
+                            <div id="tabs-with-card-3" class="hidden" role="tabpanel" aria-labelledby="tabs-with-card-item-3">
+                                <img class="shadow-xl shadow-gray-200 rounded-3xl" src="https://images.unsplash.com/photo-1598929213452-52d72f63e307?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            </div>
+                            <div id="tabs-with-card-4" class="hidden" role="tabpanel" aria-labelledby="tabs-with-card-item-4">
+                                <img class="shadow-xl shadow-gray-200 rounded-3xl" src="https://images.unsplash.com/photo-1605629921711-2f6b00c6bbf4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&h=720&q=80" alt="Features Image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- key benifits section Ends -->
+
+
+>>>>>>> Stashed changes
     <!-- form section start -->
-<!-- component -->
+     
  <section class="relative mb-20">
 
      <div class="flex justify-center items-center mx-auto max-w-7xl lg:px-8 px-6 bg-white">
@@ -1086,10 +1190,6 @@
      </div>
  </section>
 
-
-
-
-
      <!-- form section end  -->
 </body>
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
@@ -1173,13 +1273,52 @@
 
 <!-- testimonal swipers  -->
 <script>
-        var swiper = new Swiper(".testimonailSwiper", {
-            slidesPerView: 1,
-            spaceBetween: 10,
-            loop: true,
+    var swiper = new Swiper(".testimonailSwiper", {
+        slidesPerView: 1,
+        spaceBetween: 10,
+        loop: true,
+    });
+</script>
+<!-- end  -->
+
+    <!-- key benifit tabs -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const tabs = document.querySelectorAll('[data-hs-tab]');
+            const tabPanels = document.querySelectorAll('[role="tabpanel"]');
+
+            // Function to set active tab
+            const setActiveTab = (tab) => {
+                // Remove active classes from all tabs
+                tabs.forEach(t => {
+                    t.classList.remove('bg-white', 'shadow-md', 'border-transparent', 'text-blue-600');
+                    t.setAttribute('aria-selected', 'false');
+                });
+
+                // Hide all tab panels
+                tabPanels.forEach(panel => panel.classList.add('hidden'));
+
+                // Add active classes to the selected tab
+                tab.classList.add('bg-white', 'shadow-md', 'border-transparent', 'text-blue-600');
+                tab.setAttribute('aria-selected', 'true');
+
+                // Show the associated tab panel
+                const contentId = tab.getAttribute('data-hs-tab');
+                document.querySelector(contentId).classList.remove('hidden');
+            };
+
+            // Set the first tab as active by default
+            const firstTab = tabs[0];
+            setActiveTab(firstTab);
+
+            // Add click event listeners to all tabs
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    setActiveTab(tab);
+                });
+            });
         });
     </script>
-<!-- end  -->
 
 
 </html>
