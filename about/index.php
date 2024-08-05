@@ -250,8 +250,8 @@
             <div class="w-full bg-neutral-900 py-14 lg:py-16">
                 <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
                     <div class="w-2/3 md:w-1/2 lg:w-1/3 rounded-3xl overflow-hidden hidden md:flex">
-                        <div class="aspect-square rounded-3xl overflow-hidden">
-                            <img src="../assets/img/mission.jpg" alt="" class="size-full object-contain object-center">
+                        <div class=" rounded-3xl overflow-hidden">
+                            <img src="../assets/img/mission.jpg" alt="" class="size-full object-cover object-center">
                         </div>
                     </div>
                     <div class="w-full md:w-1/2 lg:w-2/3 md:ps-10 mt-7 md:mt-0">
@@ -539,17 +539,7 @@
     <!-- cta start -->
     <div class="py-6 md:py-8 lg:py-10 select-none">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
-            <div class="relative isolate overflow-hidden bg-gray-900 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:gap-x-20 lg:px-24 bg-[url('../../assets/img/school-cta.webp')] bg-cover bg-left">
-                <div class="absolute inset-x-0 top-0 h-96 z-0 text-white/20 [mask-image:linear-gradient(to_top,transparent,white)] pointer-events-none">
-                    <svg class="absolute inset-0 h-full w-full" xmlns="http://www.w3.org/2000/svg">
-                        <defs>
-                            <pattern id="I86" width="32" height="32" patternUnits="userSpaceOnUse" x="50%" y="100%" patternTransform="translate(0 -1)">
-                                <path d="M0 32V.5H32" fill="none" stroke="currentColor"></path>
-                            </pattern>
-                        </defs>
-                        <rect width="100%" height="100%" fill="url(#I86)"></rect>
-                    </svg>
-                </div>
+            <div class="relative isolate overflow-hidden bg-gray-900 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:gap-x-20 lg:px-24 bg-[url('../../assets/img/school-cta.jpg')] bg-cover bg-left after:absolute after:top-0 after:left-0 after:bg-black/60 after:size-full">
                 <div class="max-w-3xl lg:mx-0 lg:flex-auto py-6 md:py-8 lg:py-10 lg:text-left relative z-[1]">
                     <div class="max-sm:text-xl max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-white font-normal empty:hidden max-sm:text-center">Still Have An y Query?
                         <div class="font-bold text-white mt-2">We would love to answer. Let’s schedule free demonstration of Edoovi School ERP Software.
