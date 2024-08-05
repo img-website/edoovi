@@ -111,5 +111,97 @@
     
 
   </header>
+  <!-- card start -->
+  <section class="relative py-5">
+    <div class="h-full w-full inset-0 absolute ">
+      <img src="../assets/img/library.jpg" alt="" class="size-full object-cover">
+    </div>
+       <div class="flex flex-wrap">
+        <div class="bg-white lg:w-1/2 w-full flex justify-start px-5 items-center">
+         <div  class="max-w-sm relative z-50 text-white bg-black/50 backdrop-blur-sm p-6 rounded-xl ">
+          <h1 class="font-bold text-xl md:text-3xl">Empowering Institutions</h1>
+          <p class="text-base text-white mt-4">We aim at contributing to the educational system with best-in-class edTech solutions that create maximum value for Institutions.</p>
+          <button class="h-max bg-gradient-to-b mt-4 from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/10 font-medium text-base text-white">Request Demo</button>
+         </div>
+
+        </div>
+        <div class="lg:w-1/2 w-full overflow-hidden relative px-5 ">
+            <div class="flex  overflow-hidden flex-wrap relative item-stretch">
+                <div class="sm:w-1/2 w-full h-auto py-3">
+                    <div class="flex m-3 justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:rounded-full ">
+                        <div class="*:size-16 *:md:group-hover:text-sky-400 *:md:group-hover:shadow-2xl *:rounded-full *:duration-300 *:md:group-hoversky-100">
+                            <img src="../assets/img/ic_successful_years.svg" alt="">
+                        </div>
+                       
+                        <div class="font-semibold text-xl text-gray-500">
+                        22+
+                        </div>
+                        <div class="mt-2 text-center sm:text-text-lg text-[#9971f7] font-semibold text-base leading-6 line-clamp-4 text-ellipsis">
+                        Successful Years
+                          </div>
+                    </div>
+                </div>
+                <div class="sm:w-1/2 w-full h-auto py-3">
+                    <div class="flex m-3 justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:rounded-full ">
+                        <div class="*:size-16 *:md:group-hover:text-sky-400 *:md:group-hover:shadow-2xl *:rounded-full *:duration-300 *:md:group-hoversky-100">
+                          <img src="../assets/img/ic_happy_clients.svg" alt="">
+                        </div>
+                      
+                        <div class="font-semibold text-xl text-gray-500">
+                        1600+
+                        </div>
+                        <div class="mt-2 text-center sm:text-text-lg text-[#9971f7] font-semibold text-base leading-6 line-clamp-4 text-ellipsis">
+                        Happy Clients
+                          </div>
+                    </div>
+                </div>
+                <div class="sm:w-1/2 w-full h-auto py-3">
+                    <div class="flex m-3 justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:rounded-full ">
+                        <div class="*:size-16 *:md:group-hover:text-sky-400 *:md:group-hover:shadow-2xl *:rounded-full *:duration-300">
+                            <img src="../assets/img/ic_customer_satisfaction.svg" alt="">
+                        </div>  
+                        <div class="font-semibold text-xl text-gray-500">
+                            96%
+                        </div>
+                        <div class="mt-2 text-center sm:text-text-lg text-[#9971f7] font-semibold text-base leading-6 line-clamp-4 text-ellipsis">
+                        Client Retention
+                          </div>
+                    </div>
+                </div>
+                <div class="sm:w-1/2 w-full h-auto py-3">
+                    <div class="flex m-3 justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white rounded-xl group shadow-2xl p-3">
+                        <div class="*:size-16 *:p-3 *:md:group-hover:text-sky-400 *:md:group-hover:shadow-2xl *:rounded-full p-1 *:duration-300 *:!text-[#9971f7] *:md:group-hoversky-100">
+                         <img src="../assets/img/review.png" alt="">
+                        </div>
+                       
+                        <div class="font-semibold text-xl text-gray-500">
+                        2500+
+                        </div>
+                        <div class="mt-2 text-center sm:text-text-lg text-[#9971f7] font-semibold text-base leading-6 line-clamp-4 text-ellipsis">
+                        Verified Reviews
+                          </div>
+                    </div>
+                </div>
+                
+
+                </div>
+       </div>
+            
+        </div>
+       </div>
+  </section>
+  <!-- card start -->
+
+   <!-- cta -->
+    <div class="bg-violet-400/50 mt-10">
+      <div class="max-w-7xl px-6 lg:px-8 mx-auto grid grid-cols-12">
+        <div class="col-span-4">
+          <img src="../assets/img/case-study-tractor.webp" alt="" class="size-full object-cover">
+        </div>
+      </div>
+
+    </div>
+   <!-- cta end -->
+  
 </body>
 </html>
