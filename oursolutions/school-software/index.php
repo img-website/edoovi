@@ -64,7 +64,7 @@
         <div class="ms-auto overflow-y-auto w-full border-l h-screen  sm:w-1/2">
           <nav class="sticky top-0 bg-white  p-3 ms-auto shadow-lg flex items-center justify-between">
             <a href="" class="*:size-14">
-              <img src="./assets/img/edoovi.webp" alt="">
+              <img src="../../assets/img/edoovi.webp" alt="">
             </a>
             <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
               <span class="sr-only *:">Close menu</span>
@@ -124,12 +124,12 @@
     <div class="grid p-7 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center mx-auto max-w-7xl lg:px-8 px-6 h-full ">
       <div class="md:col-span-4">
         <h1 class="block text-3xl font-bold text-theme2">Unlock Digital Potential</h1>
-        <p class="mt-3 text-3xl sm:text-4xl lg:text-6xl text-theme1 font-semibold">Edoovi School Software for Tomorrow's
-          Education</p>
+        <div class="text-slate-900 md:text-6xl sm:text-5xl text-4xl font-semibold ">School Management Software With <span class="text-orange-500"> Cloud
+        Based School ERP</span></div>
       </div>
 
       <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
-        <img class="size-full rounded-3xl" src="https://images.unsplash.com/photo-1665686376173-ada7a0031a85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=900&h=700&q=80" alt="Hero Image">
+        <img class="size-full rounded-3xl object-cover" src="../../assets/img/photo1.jfif" alt="Hero Image">
       </div>
     </div>
   </div>
@@ -138,12 +138,16 @@
 
   <!-- -------schl-softwre -->
 
-  <section class="py-20  relative overflow-hidden">
+  <section class="py-6 md:py-8 lg:py-10 relative overflow-hidden">
     <div class="absolute inset-0 size-full ">
       <img src="https://html.hixstudio.net/acadia-prev/acadia/assets/img/bg/banner-3-bg-1.png" alt="" class="size-full">
     </div>
     <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full relative z-10">
-      <div class="grid grid-cols-12 gap-y-10 lg:gap-8 group">
+    <p class="mb-10 max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance tracking-[-0.04em] text-slate-900  font-semibold">
+            <span class="font-semibold">We Offer End-To-End Solutions For</span> <br>
+            <span class="font-bold text-slate-900">Every Phase Of School Management.</span>
+          </p>
+      <div class="grid grid-cols-12 items-center gap-y-10 lg:gap-8 group">
         <div class="col-span-12 lg:col-span-6">
           <div class="size-full relative flex items-center justify-center group">
             <div class=" h-full w-[70%]">
@@ -184,7 +188,7 @@
 
     <!-- --------user-friendly-sec -->
 
-    <section class="py-20">
+    <section class="py-6 md:py-8 lg:py-10">
       <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
         <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
         <div class="relative container mx-auto max-w-7xl  z-10 pb-10 ">
@@ -276,36 +280,26 @@
 
   <div class="relative py-6 md:py-8 lg:py-10 overflow-hidden">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
-      <p class="text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black md:w-1/2 mb-4
-                "> <span>India’s Best School
-        </span>
-        <span> Management Software?</span>
-      </p>
+      
       <div class=" relative">
         <div class="flex w-full h-auto items-center flex-wrap">
-          <div class="lg:w-[60%] pt-4 md:pt-0 lg:pe-10 pe-0 w-[100%] order-1">
-            <p class="
-                    max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black
+        <div class="lg:w-[40%] flex items-center justify-center w-[100%]  overflow-hidden rounded-3xl">
+            <div class="aspect-[3/2.8] object-cover size-full *:size-full *:object-cover"> <img src="../../assets/img/managment.jfif" alt="img">
 
-                "> <span>What Is
-              </span>
-              <span>School Management Software?</span>
-            </p>
+            </div>
+          </div>
+          <div class="lg:w-[60%] pt-4 md:pt-0 lg:ps-10 pe-0 w-[100%]">
+          <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance tracking-[-0.04em] text-slate-900  font-semibold">
+            <span class="font-semibold">The Importance Of The School Management System? </span> <br>
+            <span class="font-bold text-slate-900"></span>
+          </p>
             <div class="md:text-lg text-sm opacity-70 mt-3 mb-lg-1">
-              School management software introduces a new platform by embedding new-edge technology into the educational
-              sector. The digital platform is capable of managing the school management activities making them smarter.
-              The comprehensive features of school management software not only reduce the workload of the institution’s
-              employees but also streamline the major functionalities like fee collection, academic timetable
-              scheduling, results declaration. School management can focus on other productive activities like
-              increasing student enrollment ratio, embedding new ways of learning as they are relieved from the workload
-              hassles.
+            In today’s world, administration & management of organizations, particularly educational institutions, has become a tedious and complex task. There are various activities and curriculum tasks, which needs to handle with careful planning, to the point control of the administrative process and systematic approach to help students, their parents, teachers and even the management of the educational institution. Edoovi school management System is a powerful tool to manage all your administrative task with a single line integrated system.
+In today’s world, administration & management of organizations, particularly educational institutions, has become a tedious and complex task. There are various activities and curriculum tasks, which needs to handle with careful planning, to the point control of the administrative process and systematic approach to help students, their parents, teachers and even the management of the educational institution. Edoovi school management System is a powerful tool to manage all your administrative task with a single line integrated system.
+In today’s world, administration & management of organizations, particularly educational institutions, has become a tedious and complex task. There are various activities and curriculum tasks, which needs to handle with careful planning, to the point control of the administrative process and systematic approach to help students, their parents, teachers and even the management of the educational institution. Edoovi school management System is a powerful tool to manage all your administrative task with a single line integrated system.
             </div>
           </div>
-          <div class="lg:w-[40%] flex items-center justify-center w-[100%]  overflow-hidden rounded-3xl order-2 ">
-            <div class="aspect-[3/2.8] object-cover size-full *:size-full"> <img src="../../assets/img/whyUs.jpg" alt="Why Choose IMG Global Infotech for On-demand Food Delivery App Development?">
-
-            </div>
-          </div>
+        
         </div>
       </div>
     </div>
@@ -313,7 +307,7 @@
   <!-- why us section ends -->
 
   <!-- counter-start---- -->
-  <section class="py-20">
+  <section class="py-6 md:py-8 lg:py-10">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
       <div class="grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 gap-5 mx-auto px-4 sm:px-6 lg:px-8 relative">
         <div class="col-auto group" >
@@ -465,12 +459,13 @@
 
 
   <!-- tabs start -->
-  <div class="container mx-auto max-w-7xl md:px-6 lg:px-8 py-6 sm:px-6">
+  <div class="container mx-auto max-w-7xl md:px-6 lg:px-8 py-6 md:py-8 lg:py-10 sm:px-6">
     <div class="  ">
       <div class=" mx-auto max-w-7xl z-10 mb-4">
         <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
-          <span class="font-normal">The Key Benefit Is You Can Save Money, Save Lots Of Time & Making Best Of Resources.</span>
-          <span class="font-bold text-theme1"></span>
+          <span class="font-semibold">The Key Benefit Is You Can Save Money, </span>
+          <br>
+          <span class="font-semibold"> Save Lots Of Time & Making Best Of Resources.</span>
         </p>
 
       </div>
@@ -549,7 +544,7 @@
 
         <div class="mt-5">
           <div id="tabs-with-card-1" role="tabpanel" class="" aria-labelledby="tabs-with-card-item-1">
-            <div class="grid grid-cols-3 gap-2">
+            <div class="grid xl:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-2">
 
               <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
                 <div class="absolute blur duration-500 group-hover:blur-none w-72 h-72 rounded-full group-hover:translate-x-12 group-hover:translate-y-12 bg-violet-400/50 right-1 -bottom-24">
@@ -958,7 +953,7 @@
         </div>
 
         <div id="tabs-with-card-2" class="hidden " role="tabpanel" aria-labelledby="tabs-with-card-item-2">
-          <div class="grid grid-cols-3 gap-2">
+          <div class="grid xl:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-2">
 
             <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
               <div class="absolute blur duration-500 group-hover:blur-none w-72 h-72 rounded-full group-hover:translate-x-12 group-hover:translate-y-12 bg-violet-400/50 right-1 -bottom-24">
@@ -1366,7 +1361,7 @@
         </div>
 
         <div id="tabs-with-card-3" class="hidden " role="tabpanel" aria-labelledby="tabs-with-card-item-3">
-          <div class="grid grid-cols-3 gap-2">
+          <div class="grid xl:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-2">
 
             <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
               <div class="absolute blur duration-500 group-hover:blur-none w-72 h-72 rounded-full group-hover:translate-x-12 group-hover:translate-y-12 bg-violet-400/50 right-1 -bottom-24">
@@ -1773,7 +1768,7 @@
           </div>
         </div>
         <div id="tabs-with-card-4" class="hidden " role="tabpanel" aria-labelledby="tabs-with-card-item-4">
-          <div class="grid grid-cols-3 gap-2">
+          <div class="grid xl:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-2">
 
             <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
               <div class="absolute blur duration-500 group-hover:blur-none w-72 h-72 rounded-full group-hover:translate-x-12 group-hover:translate-y-12 bg-violet-400/50 right-1 -bottom-24">
@@ -2180,7 +2175,7 @@
           </div>
         </div>
         <div id="tabs-with-card-5" class="hidden " role="tabpanel" aria-labelledby="tabs-with-card-item-3">
-          <div class="grid grid-cols-3 gap-2">
+          <div class="grid xl:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-2">
 
             <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
               <div class="absolute blur duration-500 group-hover:blur-none w-72 h-72 rounded-full group-hover:translate-x-12 group-hover:translate-y-12 bg-violet-400/50 right-1 -bottom-24">
@@ -2591,6 +2586,608 @@
   </div>
   <!-- tabs end -->
 
+  <!-- accordion start  -->
+
+  <section class="bg-white py-6 md:py-8 lg:py-10">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8 xl:py-16 lg:py-12 py-10 sm:py-6">
+            <div class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14 rounded-3xl">
+                <img class="w-full aspect-[3/1] object-cover !absolute inset-0 !z-10 rounded-3xl shadow-xl h-full shadow-gray-900/50 overflow-hidden" src="  ../../assets/img/faq.jpg">
+                <div class="md:w-5/12 w-full shrink-0 h-full">
+                </div>
+                <div class="grow md:p-7 p-4 bg-white backdrop-blur-md rounded-l-3xl">
+                    <div class="w-full">
+                        <div class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold text-balance">
+                        Get access to frequently asked & questions and answers</div>
+                        <div class="md:text-base text-sm text-black/70 mt-2 font-semibold text-balance mb-5">
+                        Have any questions in mind?</div>
+                        <div>
+
+                            <div class="relative  flex flex-col mb-3">
+                                <input class="peer/mm hidden" type="radio" checked="" name="mmMenu" id="mmCompany 0" 0="">
+                                <label for="mmCompany 0" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full  ">
+                                    Which Are The Most Important Features Of School ERP Software?
+                                </label>
+                                <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
+                                    <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
+                                        <div class="w-full text-xs xl:text-sm ">
+                                            <div class="flex items-center gap-x-3 py-2 relative">
+                                                <div class="flex-auto text-gray-900 sm:text-sm text-xs">
+                                                    Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush class. This is the first item's accordion body.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="relative  flex flex-col mb-3">
+                                <input class="peer/mm hidden" type="radio" checked="" name="mmMenu" id="mmCompany 1" 1="">
+                                <label for="mmCompany 1" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
+                                    How Much Does A School Software Cost?
+                                </label>
+                                <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
+                                    <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
+                                        <div class="w-full text-xs xl:text-sm ">
+                                            <div class="flex items-center gap-x-3 py-2 relative">
+                                                <div class="flex-auto text-gray-900 sm:text-sm text-xs">
+                                                    Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush class. This is the second item's accordion body. Let's imagine this being filled with some actual content.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="relative  flex flex-col mb-3">
+                                <input class="peer/mm hidden" type="radio" checked="" name="mmMenu" id="mmCompany 2" 2="">
+                                <label for="mmCompany 2" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
+                                    Are Cloud Based School Management Software Secure?
+                                </label>
+                                <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
+                                    <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
+                                        <div class="w-full text-xs xl:text-sm ">
+                                            <div class="flex items-center gap-x-3 py-2 relative">
+                                                <div class="flex-auto text-gray-900 sm:text-sm text-xs">
+                                                    Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush class. This is the third item's accordion body. Nothing more exciting happening here in terms of content, but just filling up the space to make it look, at least at first glance, a bit more representative of how this would look in a real-world application.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- accordion end  -->
+         <!-- logo section  -->
+
+    <div class="overflow-hidden py-6 md:py-8 lg:py-10">
+        <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 mb-10">
+            <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
+                <span class="font-semibold">Our Esteemed </span>
+                <span class="font-bold text-slate-900">Clients</span>
+            </p>
+            <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
+                Embark on an Automation Journey with Us
+            </div>
+        </div>
+        <div class="mt-3 sm:mt-8">
+            <div class="swiper mySwiper2 swiper-initialized swiper-horizontal swiper-backface-hidden">
+                <div class="swiper-wrapper !ease-linear" id="swiper-wrapper-dd31f7415a72d890" aria-live="off" style="transition-duration: 2000ms; transform: translate3d(-382.4px, 0px, 0px);">
+                    <div class="swiper-slide" role="group" aria-label="7 / 7" data-swiper-slide-index="6" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper03.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide swiper-slide-prev" role="group" aria-label="1 / 7" data-swiper-slide-index="0" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper01.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide swiper-slide-active" role="group" aria-label="2 / 7" data-swiper-slide-index="1" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper05.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 7" data-swiper-slide-index="2" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper03.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" role="group" aria-label="4 / 7" data-swiper-slide-index="3" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper04.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" role="group" aria-label="5 / 7" data-swiper-slide-index="4" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper05.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" role="group" aria-label="6 / 7" data-swiper-slide-index="5" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper03.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+            </div>
+        </div>
+        <div class="mt-3 ">
+            <div class="swiper  mySwiper3 swiper-initialized swiper-horizontal swiper-backface-hidden" dir="rtl">
+                <div class="swiper-wrapper !ease-linear" id="swiper-wrapper-dd31f7415a72d890" aria-live="off" style="transition-duration: 2000ms; transform: translate3d(-382.4px, 0px, 0px);">
+                    <div class="swiper-slide" role="group" aria-label="7 / 7" data-swiper-slide-index="6" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper0201.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide swiper-slide-prev" role="group" aria-label="1 / 7" data-swiper-slide-index="0" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper0202.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide swiper-slide-active" role="group" aria-label="2 / 7" data-swiper-slide-index="1" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper0203.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 7" data-swiper-slide-index="2" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper0201.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" role="group" aria-label="4 / 7" data-swiper-slide-index="3" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper0202.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" role="group" aria-label="5 / 7" data-swiper-slide-index="4" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper0203.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" role="group" aria-label="6 / 7" data-swiper-slide-index="5" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="../../assets/img/swiper0201.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+            </div>
+        </div>
+    </div>
+
+    <!-- logo section end  -->
+     <!-- cta start -->
+    <div class="py-6 md:py-8 lg:py-10 select-none">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8">
+            <div class="relative isolate overflow-hidden bg-gray-900 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:gap-x-20 lg:px-24 bg-[url('../../assets/img/school-cta.jpg')] bg-cover bg-left after:absolute after:top-0 after:left-0 after:bg-black/60 after:size-full">
+                <div class="max-w-3xl lg:mx-0 lg:flex-auto py-6 md:py-8 lg:py-10 lg:text-left relative z-[1]">
+                    <div class="max-sm:text-xl max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-white font-normal empty:hidden max-sm:text-center">Still Have Any Query?
+                        <div class="font-bold text-white mt-2">We would love to answer. Let’s schedule free demonstration of Edoovi School ERP Software.
+                        </div>
+                    </div>
+                    <div class="md:mt-10 mt-5 flex items-center gap-x-6 empty:hidden max-sm:justify-center">
+                    <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl  font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- cta Ends -->
+      <!-- blog section  -->
+
+    <section class="container px-6 lg:px-8 mx-auto max-w-7xl py-6 md:py-8 lg:py-10 overflow-hidden">
+        <div class="relative z-10 mb-8 md:mb-12">
+            <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
+                <span class="font-semibold">Explore Tech Insights</span>
+                <span class="font-semibold">Fresh Blogs, News, and More!</span>
+            </p>
+            <div class="md:text-base text-sm text-black/70 mt-2 font-semibold text-balance">
+                Edoovi school management system has grabbed the best school ERP software award, Best digital transformation award, Best innovative school erp award, Education Excellence Award for consecutive 3 years 2017-2019 by various well recognized associations.
+            </div>
+        </div>
+        <div class="">
+            <div class="grid grid-cols-12 gap-x-2 gap-y-4  lg:gap-6">
+                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+                    <div class="size-full rounded-3xl p-4  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+                        <div class=" w-full rounded-3xl">
+                            <img class="size-full object-cover rounded-3xl" src="../../assets/img/award2.png" alt="">
+                        </div>
+                        <div class="text-box  ">
+                            <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+                                <div class="flex items-center gap-2">
+                                    <div class="*:text-sm">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill="none" d="M0 0h24v24H0z"></path>
+                                            <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="text-xs lg:text-sm">
+                                        09/01/2024
+                                    </div>
+                                </div>
+                                <div class="flex items-center gap-2 ms-auto">
+                                    <div class="*:text-sm">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="text-xs lg:text-sm">
+                                        Rupendra Chauhan
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+                                Leading the Way in School ERP Software Solutions
+                            </div>
+                            <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
+                                Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
+                            </div>
+                            <div class="pt-2 lg:pt-4">
+                                <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
+                                    <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path>
+                                        </svg>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-6 lg:row-span-2">
+                    <div class="size-full rounded-3xl p-4  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+                        <div class=" w-full rounded-3xl">
+                            <img class="size-full lg:aspect-[1/.8] object-cover rounded-3xl" src="../../assets/img/award1.png" alt="">
+                        </div>
+                        <div class="text-box  ">
+                            <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+                                <div class="flex items-center gap-2">
+                                    <div class="*:text-sm">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill="none" d="M0 0h24v24H0z"></path>
+                                            <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="text-xs lg:text-sm">
+                                        09/01/2024
+                                    </div>
+                                </div>
+                                <div class="flex items-center gap-2 ms-auto">
+                                    <div class="*:text-sm">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="text-xs lg:text-sm">
+                                        Rupendra Chauhan
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+                                Leading the Way in School ERP Software Solutions
+                            </div>
+                            <div class="text-sm lg:text-base max-lg:text-ellipsis max-lg:overflow-hidden max-lg:line-clamp-2">
+                                Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
+                            </div>
+                            <div class="pt-2 lg:pt-4">
+                                <a class="text-sm lg:text-base flex items-center  gap-2 group" href="#">Read more
+                                    <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path>
+                                        </svg>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+                    <div class="size-full rounded-3xl p-4  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+                        <div class=" w-full rounded-3xl">
+                            <img class="size-full object-cover rounded-3xl" src="../../assets/img/award2.png" alt="">
+                        </div>
+                        <div class="text-box  ">
+                            <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+                                <div class="flex items-center gap-2">
+                                    <div class="*:text-sm">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill="none" d="M0 0h24v24H0z"></path>
+                                            <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="text-xs lg:text-sm">
+                                        09/01/2024
+                                    </div>
+                                </div>
+                                <div class="flex items-center gap-2 ms-auto">
+                                    <div class="*:text-sm">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="text-xs lg:text-sm">
+                                        Rupendra Chauhan
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+                                Leading the Way in School ERP Software Solutions
+                            </div>
+                            <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
+                                Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
+                            </div>
+                            <div class="pt-2 lg:pt-4">
+                                <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
+                                    <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path>
+                                        </svg>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+                    <div class="size-full rounded-3xl p-4  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+                        <div class=" w-full rounded-3xl">
+                            <img class="size-full object-cover rounded-3xl" src="../../assets/img/award1.png" alt="">
+                        </div>
+                        <div class="text-box  ">
+                            <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+                                <div class="flex items-center gap-2">
+                                    <div class="*:text-sm">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill="none" d="M0 0h24v24H0z"></path>
+                                            <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="text-xs lg:text-sm">
+                                        09/01/2024
+                                    </div>
+                                </div>
+                                <div class="flex items-center gap-2 ms-auto">
+                                    <div class="*:text-sm">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="text-xs lg:text-sm">
+                                        Rupendra Chauhan
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+                                Leading the Way in School ERP Software Solutions
+                            </div>
+                            <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
+                                Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
+                            </div>
+                            <div class="pt-2 lg:pt-4">
+                                <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
+                                    <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path>
+                                        </svg>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+                    <div class="size-full rounded-3xl p-4  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+                        <div class=" w-full rounded-3xl">
+                            <img class="size-full object-cover rounded-3xl" src="../../assets/img/award2.png" alt="">
+                        </div>
+                        <div class="text-box  ">
+                            <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
+                                <div class="flex items-center gap-2">
+                                    <div class="*:text-sm">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill="none" d="M0 0h24v24H0z"></path>
+                                            <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zM9 14H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2zm-8 4H7v-2h2v2zm4 0h-2v-2h2v2zm4 0h-2v-2h2v2z"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="text-xs lg:text-sm">
+                                        09/01/2024
+                                    </div>
+                                </div>
+                                <div class="flex items-center gap-2 ms-auto">
+                                    <div class="*:text-sm">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M256 256c52.805 0 96-43.201 96-96s-43.195-96-96-96-96 43.201-96 96 43.195 96 96 96zm0 48c-63.598 0-192 32.402-192 96v48h384v-48c0-63.598-128.402-96-192-96z"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="text-xs lg:text-sm">
+                                        Rupendra Chauhan
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="heading text-lg lg:text-xl font-semibold pb-2 lg:pb-4 ">
+                                Leading the Way in School ERP Software Solutions
+                            </div>
+                            <div class="text-sm lg:text-base text-ellipsis   line-clamp-2 overflow-hidden">
+                                Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
+                            </div>
+                            <div class="pt-2 lg:pt-4">
+                                <a class="text-sm lg:text-base flex items-center gap-2 group" href="#">Read more
+                                    <div class="group-hover:translate-x-3 duration-300 *:size-4">
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l370.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128z"></path>
+                                        </svg>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="flex items-center justify-center mt-10">
+                <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Explore More</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- blog end  -->
+      <!-- footer -->
+    <section class=" bg-slate-800 sm:pt-16 py-6 md:py-8 lg:py-10 relative">
+        <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+            <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 md:gap-y-16 gap-y-10 gap-x-12">
+                <div class=" lg:pr-8">
+                    <img class="w-auto h-16" src="./assets/img/edoovi.webp" alt="" />
+
+                    <p class="sm:text-base text-sm leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>
+                </div>
+
+                <div class="md:ms-auto">
+                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 before:border-violet-500 before:w-1/4 before:inset-0">About</p>
+
+                    <ul class=" mt-6 flex flex-col gap-3">
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Vidyalaya </a>
+                        </li>
+
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
+                        </li>
+
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
+                        </li>
+
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="md:ms-auto">
+                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 text-nowrap before:border-violet-500 before:w-1/2 before:inset-0">Product & Services</p>
+
+                    <ul class=" mt-6 flex flex-col gap-3">
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Features </a>
+                        </li>
+
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
+                        </li>
+
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
+                        </li>
+
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
+                        </li>
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+
+            <hr class="sm:my-10 my-7 border-gray-200" />
+            <div class="flex items-center justify-between flex-wrap">
+                <div class="flex gap-2 sm:gap-3  ">
+
+                    <a href="" class="flex items-center rounded-full gap-3 sm:px-4 px-2 border-2 border-white py-2">
+                        <svg class=" sm:size-5 size-4 text-white" stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" viewBox="0 0 16 16" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M4.5 9h-1v7h1c0.275 0 0.5-0.225 0.5-0.5v-6c0-0.275-0.225-0.5-0.5-0.5z"></path>
+                            <path d="M11.5 9c-0.275 0-0.5 0.225-0.5 0.5v6c0 0.275 0.225 0.5 0.5 0.5h1v-7h-1z"></path>
+                            <path d="M16 8c0-4.418-3.582-8-8-8s-8 3.582-8 8c0 0.96 0.169 1.88 0.479 2.732-0.304 0.519-0.479 1.123-0.479 1.768 0 1.763 1.304 3.222 3 3.464v-6.928c-0.499 0.071-0.963 0.248-1.371 0.506-0.084-0.417-0.129-0.849-0.129-1.292 0-3.59 2.91-6.5 6.5-6.5s6.5 2.91 6.5 6.5c0 0.442-0.044 0.874-0.128 1.292-0.408-0.259-0.873-0.435-1.372-0.507v6.929c1.696-0.243 3-1.701 3-3.464 0-0.645-0.175-1.249-0.479-1.768 0.31-0.853 0.479-1.773 0.479-2.732z"></path>
+                        </svg>
+                        <span class="sm:text-sm text-xs font-semibold text-white mt-1">Customer Support</span>
+                    </a>
+                    <a href="" class="flex items-center rounded-full gap-3 sm:px-4 px-2 border-2 border-white py-2">
+                        <svg class=" sm:size-5 size-4 text-white" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                            <path fill="none" d="M0 0h24v24H0V0z"></path>
+                            <path d="M21 6h-7.59l3.29-3.29L16 2l-4 4-4-4-.71.71L10.59 6H3a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8a2 2 0 0 0-2-2zm0 14H3V8h18v12zM9 10v8l7-4z"></path>
+                        </svg>
+                        <span class="sm:text-sm text-xs font-semibold text-white mt-1">Live Demo</span>
+                    </a>
+
+
+                </div>
+                <p class="sm:text-sm text-xs mt-3 md:mt-0 text-white">© Copyright 2024, All Rights Reserved by Edoovi</p>
+            </div>
+        </div>
+    </section>
+    <!-- footer end  -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
   <!-- key benifit tabs -->
   <script>
     document.addEventListener('DOMContentLoaded', () => {
@@ -2682,6 +3279,83 @@ document.addEventListener("DOMContentLoaded", () => {
   counter("count5", 0, 200, 100);
 
 });
+</script>
+
+<script>
+    var swiper = new Swiper(".mySwiper2", {
+        loop: true,
+        speed: 4000,
+        slidesPerView: "auto",
+        centeredSlides: false,
+        allowTouchMove: false,
+        // slidesPerView: 3,
+        spaceBetween: 10,
+        autoplay: {
+            enabled: true,
+            delay: 0
+        },
+        breakpoints: {
+            0: {
+                slidesPerView: 1.8,
+            },
+            360: {
+                slidesPerView: 1.8,
+            },
+            576: {
+                slidesPerView: 2.8,
+            },
+            768: {
+                slidesPerView: 5,
+            },
+            992: {
+                slidesPerView: 6,
+            },
+            1200: {
+                slidesPerView: 6,
+            },
+            1400: {
+                slidesPerView: 6,
+            },
+        },
+    });
+</script>
+<script>
+    var swiper = new Swiper(".mySwiper3", {
+        loop: true,
+        speed: 4000,
+        slidesPerView: "auto",
+        centeredSlides: false,
+        allowTouchMove: false,
+        // slidesPerView: 3,
+        spaceBetween: 10,
+        autoplay: {
+            enabled: true,
+            delay: 0
+        },
+        breakpoints: {
+            0: {
+                slidesPerView: 1.8,
+            },
+            360: {
+                slidesPerView: 1.8,
+            },
+            576: {
+                slidesPerView: 2.8,
+            },
+            768: {
+                slidesPerView: 5,
+            },
+            992: {
+                slidesPerView: 6,
+            },
+            1200: {
+                slidesPerView: 6,
+            },
+            1400: {
+                slidesPerView: 6,
+            },
+        },
+    });
 </script>
 
 
