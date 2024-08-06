@@ -137,7 +137,7 @@
     <!-- hero section ends -->
 
     <!-- blogInner section start -->
-    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8 py-10">
         <div class="grid lg:grid-cols-3 gap-y-8 lg:gap-y-0 lg:gap-x-6">
             <div class="lg:col-span-2">
                 <div class="py-8 lg:pe-8">

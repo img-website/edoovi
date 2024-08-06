@@ -153,7 +153,7 @@
                         <div class='w-full aspect-square rounded-full bg-[#EFECFE] md:p-10 p-4 '>
                             <div class='w-full aspect-square rounded-full bg-[#DCD6FE] md:p-10 p-4 '>
                                 <div class='w-full relative aspect-square rounded-full bg-[#9985FC] '>
-                                    <div class='w-full absolute inset-x-0 bottom-0 md:aspect-[9/14] aspect-[9/12] px-2 rounded-full flex items-end'>
+                                    <div class='w-full absolute inset-x-0 bottom-0 md:aspect-[12/14] aspect-[9/12] px-2 rounded-full flex items-end'>
                                         <Image class='rounded-full size-full object-cover object-bottom' src="./assets/img/heroImg.png" alt='sdf' />
                                     </div>
                                 </div>
