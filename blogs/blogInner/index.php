@@ -356,7 +356,7 @@
                         <a class="group flex items-center gap-x-6 focus:outline-none" href="#">
                             <div class="grow">
                                 <span class="text-sm font-bold text-gray-800 group-hover:text-theme1 group-focus:text-theme1">
-                                    Elevating E-commerce Excellence: Unleashing the Potential of CodeIgniter for Dynamic Website Development 
+                                    Elevating E-commerce Excellence: Unleashing the Potential of CodeIgniter for Dynamic Website Development
                                 </span>
                             </div>
 
@@ -380,7 +380,7 @@
                         <a class="group flex items-center gap-x-6 focus:outline-none" href="#">
                             <div class="grow">
                                 <span class="text-sm font-bold text-gray-800 group-hover:text-theme1 group-focus:text-theme1">
-                                    Leading the Way in School ERP Software Solutions 
+                                    Leading the Way in School ERP Software Solutions
                                 </span>
                             </div>
 
@@ -392,7 +392,7 @@
                         <a class="group flex items-center gap-x-6 focus:outline-none" href="#">
                             <div class="grow">
                                 <span class="text-sm font-bold text-gray-800 group-hover:text-theme1 group-focus:text-theme1">
-                                    Leading the Way in School ERP Software Solutions 
+                                    Leading the Way in School ERP Software Solutions
                                 </span>
                             </div>
 
@@ -406,11 +406,6 @@
         </div>
     </div>
     <!-- blogInner section Ends -->
-
-
-
-
-
 
     <!-- footer start -->
     <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
