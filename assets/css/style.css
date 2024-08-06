@@ -2638,12 +2638,12 @@ video {
   border-width: 2px;
 }
 
-.border-\[20px\]{
-  border-width: 20px;
-}
-
 .border-\[10px\]{
   border-width: 10px;
+}
+
+.border-\[20px\]{
+  border-width: 20px;
 }
 
 .border-x{
@@ -6210,6 +6210,10 @@ body{
     padding-right: 2rem;
   }
 
+  .lg\:ps-10{
+    padding-inline-start: 2.5rem;
+  }
+
   .lg\:ps-8{
     padding-inline-start: 2rem;
   }
@@ -6230,10 +6234,6 @@ body{
     padding-top: 1.5rem;
   }
 
-  .lg\:ps-10{
-    padding-inline-start: 2.5rem;
-  }
-
   .lg\:text-left{
     text-align: left;
   }
@@ -6245,11 +6245,6 @@ body{
 
   .lg\:text-5xl{
     font-size: 3rem;
-    line-height: 1;
-  }
-
-  .lg\:text-6xl{
-    font-size: 3.75rem;
     line-height: 1;
   }
 

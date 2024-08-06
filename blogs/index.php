@@ -22,7 +22,7 @@
                     <li><a href="../index.php" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Home</a></li>
                     <li><a href="../about" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">About Us</a></li>
                     <li class="relative group">
-                        <a href="./" class="flex items-center font-medium text-base active:text-slate-900 text-slate-600">Our Solutions
+                        <a href="../oursolutions/school-software" class="flex items-center font-medium text-base active:text-slate-900 text-slate-600">Our Solutions
                             <span class="*:size-6 *:group-hover:rotate-180 *:duration-300">
                                 <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M12 15.0006L7.75732 10.758L9.17154 9.34375L12 12.1722L14.8284 9.34375L16.2426 10.758L12 15.0006Z"></path>
