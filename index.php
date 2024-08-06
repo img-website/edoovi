@@ -16,12 +16,12 @@
 
     <header class="bg-white  w-full fixed top-0 z-[9999] shadow-sm">
         <div class=" max-w-7xl mx-auto py-3 px-6 lg:px-8 flex items-center justify-between">
-            <a href="/" class="sm:size-16 size-14 *:size-full">
+            <a href="index.php" class="sm:size-16 size-14 *:size-full">
                 <img src="./assets/img/edoovi.webp" alt="">
             </a>
             <div class="md:flex items-center gap-8 hidden ">
                 <ul class="flex gap-8">
-                    <li><a href="/" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Home</a></li>
+                    <li><a href="./index.php" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Home</a></li>
                     <li><a href="./about" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">About Us</a></li>
                     <li class="relative group">
                         <a href="./" class="flex items-center font-medium text-base active:text-slate-900 text-slate-600">Our Solutions
@@ -49,9 +49,9 @@
                         </div>
                     </li>
                     <li><a href="./blogs" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Blogs</a></li>
-                    <li><a href="" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Clients</a></li>
+                    <li><a href="./clients/" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Clients</a></li>
                 </ul>
-                <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</button>
+                    <a href="./contact/" class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</a>
             </div>
 
             <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
@@ -98,18 +98,18 @@
                             </li>
 
                             <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="">Blogs</a>
+                                <a href="./blogs/">Blogs</a>
                             </li>
                             <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="">Clients</a>
+                                <a href="./clients/">Clients</a>
                             </li>
                             <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="">Contact</a>
+                                <a href="./contact/">Contact</a>
                             </li>
                         </ul>
                         <div class="mt-auto ">
                             <div class="flex justify-between px-4 pt-10 bg-white w-full">
-                                <button class="h-max bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</button>
+                                <a href="./contact/" class="h-max bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</a>
                                 <button class="h-max mt-auto bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d] ">Email Us</button>
                             </div>
                         </div>

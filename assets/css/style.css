@@ -1058,6 +1058,10 @@ video {
   margin-top: 0.5rem;
 }
 
+.mt-20{
+  margin-top: 5rem;
+}
+
 .mt-3{
   margin-top: 0.75rem;
 }
@@ -1088,18 +1092,6 @@ video {
 
 .mt-auto{
   margin-top: auto;
-}
-
-.mt-28{
-  margin-top: 7rem;
-}
-
-.mt-24{
-  margin-top: 6rem;
-}
-
-.mt-20{
-  margin-top: 5rem;
 }
 
 .box-border{
@@ -3443,10 +3435,6 @@ video {
   padding-top: 0.5rem;
 }
 
-.pt-20{
-  padding-top: 5rem;
-}
-
 .pt-24{
   padding-top: 6rem;
 }
@@ -5419,12 +5407,12 @@ body{
     margin-inline-start: 0.75rem;
   }
 
-  .sm\:mt-8{
-    margin-top: 2rem;
-  }
-
   .sm\:mt-24{
     margin-top: 6rem;
+  }
+
+  .sm\:mt-8{
+    margin-top: 2rem;
   }
 
   .sm\:flex{
