@@ -162,7 +162,7 @@
                     <div class="flex gap-x-5 ms-1">
                         <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
                             <div class="relative z-10 size-8 flex justify-center items-center">
-                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-xs uppercase rounded-full">
+                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
                                     1
                                 </span>
                             </div>
@@ -178,7 +178,7 @@
                     <div class="flex gap-x-5 ms-1">
                         <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
                             <div class="relative z-10 size-8 flex justify-center items-center">
-                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-xs uppercase rounded-full">
+                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
                                     2
                                 </span>
                             </div>
@@ -194,7 +194,7 @@
                     <div class="flex gap-x-5 ms-1">
                         <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
                             <div class="relative z-10 size-8 flex justify-center items-center">
-                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-xs uppercase rounded-full">
+                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
                                     3
                                 </span>
                             </div>
@@ -210,7 +210,7 @@
                     <div class="flex gap-x-5 ms-1">
                         <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
                             <div class="relative z-10 size-8 flex justify-center items-center">
-                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-xs uppercase rounded-full">
+                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
                                     4
                                 </span>
                             </div>
@@ -250,8 +250,8 @@
             <div class="w-full bg-neutral-900 py-14 lg:py-16">
                 <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
                     <div class="w-2/3 md:w-1/2 lg:w-1/3 rounded-3xl overflow-hidden hidden md:flex">
-                        <div class="aspect-square rounded-3xl overflow-hidden">
-                            <img src="../assets/img/mission.jpg" alt="" class="size-full object-contain object-center">
+                        <div class=" rounded-3xl overflow-hidden">
+                            <img src="../assets/img/mission.jpg" alt="" class="size-full object-cover object-center">
                         </div>
                     </div>
                     <div class="w-full md:w-1/2 lg:w-2/3 md:ps-10 mt-7 md:mt-0">
@@ -268,7 +268,7 @@
                                         </svg>
                                     </span>
                                     <div class="grow">
-                                        <span class="text-sm sm:text-base text-white dark:text-neutral-500">
+                                        <span class="text-sm sm:text-base text-white">
                                             We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
                                         </span>
                                     </div>
@@ -281,7 +281,7 @@
                                         </svg>
                                     </span>
                                     <div class="grow">
-                                        <span class="text-sm sm:text-base text-white dark:text-neutral-500">
+                                        <span class="text-sm sm:text-base text-white">
                                             We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
                                         </span>
                                     </div>
@@ -294,7 +294,7 @@
                                         </svg>
                                     </span>
                                     <div class="grow">
-                                        <span class="text-sm sm:text-base text-white dark:text-neutral-500">
+                                        <span class="text-sm sm:text-base text-white">
                                             We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
                                         </span>
                                     </div>
@@ -539,17 +539,7 @@
     <!-- cta start -->
     <div class="py-6 md:py-8 lg:py-10 select-none">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
-            <div class="relative isolate overflow-hidden bg-gray-900 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:gap-x-20 lg:px-24 bg-[url('../../assets/img/school-cta.webp')] bg-cover bg-left">
-                <div class="absolute inset-x-0 top-0 h-96 z-0 text-white/20 [mask-image:linear-gradient(to_top,transparent,white)] pointer-events-none">
-                    <svg class="absolute inset-0 h-full w-full" xmlns="http://www.w3.org/2000/svg">
-                        <defs>
-                            <pattern id="I86" width="32" height="32" patternUnits="userSpaceOnUse" x="50%" y="100%" patternTransform="translate(0 -1)">
-                                <path d="M0 32V.5H32" fill="none" stroke="currentColor"></path>
-                            </pattern>
-                        </defs>
-                        <rect width="100%" height="100%" fill="url(#I86)"></rect>
-                    </svg>
-                </div>
+            <div class="relative isolate overflow-hidden bg-gray-900 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:gap-x-20 lg:px-24 bg-[url('../../assets/img/school-cta.jpg')] bg-cover bg-left after:absolute after:top-0 after:left-0 after:bg-black/60 after:size-full">
                 <div class="max-w-3xl lg:mx-0 lg:flex-auto py-6 md:py-8 lg:py-10 lg:text-left relative z-[1]">
                     <div class="max-sm:text-xl max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-white font-normal empty:hidden max-sm:text-center">Still Have An y Query?
                         <div class="font-bold text-white mt-2">We would love to answer. Let’s schedule free demonstration of Edoovi School ERP Software.
@@ -563,6 +553,128 @@
         </div>
     </div>
     <!-- cta Ends -->
+
+    <!-- footer -->
+    <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
+        <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+            <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 gap-y-16 gap-x-12">
+                <div class=" lg:pr-8">
+                    <img class="w-auto h-16" src="./assets/img/edoovi.webp" alt="" />
+
+                    <p class="text-base leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>
+                </div>
+
+                <div class="md:ms-auto">
+                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 before:border-orange-500 before:w-1/4 before:inset-0">About</p>
+
+                    <ul class=" mt-6 flex flex-col gap-3">
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Vidyalaya </a>
+                        </li>
+
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
+                        </li>
+
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
+                        </li>
+
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="md:ms-auto">
+                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 text-nowrap before:border-orange-500 before:w-1/2 before:inset-0">Product & Services</p>
+
+                    <ul class=" mt-6 flex flex-col gap-3">
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Features </a>
+                        </li>
+
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
+                        </li>
+
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
+                        </li>
+
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
+                        </li>
+                        <li class="flex items-center gap-2 group">
+                            <span class="relative flex h-3 w-3">
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                            </span>
+                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+
+            <hr class="my-10 border-gray-200" />
+            <div class="flex items-center justify-between flex-wrap">
+                <div class="flex gap-2 sm:gap-3  ">
+
+                    <a href="" class="flex items-center rounded-full gap-3 sm:px-4 px-2 border-2 border-white py-2">
+                        <svg class="size-5 text-white" stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" viewBox="0 0 16 16" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M4.5 9h-1v7h1c0.275 0 0.5-0.225 0.5-0.5v-6c0-0.275-0.225-0.5-0.5-0.5z"></path>
+                            <path d="M11.5 9c-0.275 0-0.5 0.225-0.5 0.5v6c0 0.275 0.225 0.5 0.5 0.5h1v-7h-1z"></path>
+                            <path d="M16 8c0-4.418-3.582-8-8-8s-8 3.582-8 8c0 0.96 0.169 1.88 0.479 2.732-0.304 0.519-0.479 1.123-0.479 1.768 0 1.763 1.304 3.222 3 3.464v-6.928c-0.499 0.071-0.963 0.248-1.371 0.506-0.084-0.417-0.129-0.849-0.129-1.292 0-3.59 2.91-6.5 6.5-6.5s6.5 2.91 6.5 6.5c0 0.442-0.044 0.874-0.128 1.292-0.408-0.259-0.873-0.435-1.372-0.507v6.929c1.696-0.243 3-1.701 3-3.464 0-0.645-0.175-1.249-0.479-1.768 0.31-0.853 0.479-1.773 0.479-2.732z"></path>
+                        </svg>
+                        <span class="text-sm font-semibold text-white mt-1">Customer Support</span>
+                    </a>
+                    <a href="" class="flex items-center rounded-full gap-3 sm:px-4 px-2 border-2 border-white py-2">
+                        <svg class="size-5 text-white" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                            <path fill="none" d="M0 0h24v24H0V0z"></path>
+                            <path d="M21 6h-7.59l3.29-3.29L16 2l-4 4-4-4-.71.71L10.59 6H3a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8a2 2 0 0 0-2-2zm0 14H3V8h18v12zM9 10v8l7-4z"></path>
+                        </svg>
+                        <span class="text-sm font-semibold text-white mt-1">Live Demo</span>
+                    </a>
+
+
+                </div>
+                <p class="text-sm mt-3 md:mt-0 text-white">© Copyright 2024, All Rights Reserved by Edoovi</p>
+            </div>
+        </div>
+    </section>
 
 
 
