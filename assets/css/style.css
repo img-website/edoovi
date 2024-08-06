@@ -4549,6 +4549,11 @@ body{
     padding-bottom: 3rem;
   }
 
+  .sm\:py-10{
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+  }
+
   .sm\:pb-12{
     padding-bottom: 3rem;
   }

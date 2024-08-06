@@ -338,7 +338,7 @@
 
     <!-- testimonial section start -->
     <div class="overflow-hidden">
-        <div class="relative max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+        <div class="relative max-w-[85rem] px-4 py-6 sm:py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
             <div class="max-w-2xl w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
                 <div class="relative container mx-auto max-w-7xl md:px-6 lg:px-8 z-10">
                     <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
@@ -550,7 +550,7 @@
         <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
             <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 gap-y-16 gap-x-12">
                 <div class=" lg:pr-8">
-                    <img class="w-auto h-16" src="./assets/img/edoovi.webp" alt="" />
+                    <img class="w-auto h-16" src="../assets/img/edoovi.webp" alt="" />
 
                     <p class="text-base leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>
                 </div>
