@@ -2642,6 +2642,10 @@ video {
   border-width: 20px;
 }
 
+.border-\[10px\]{
+  border-width: 10px;
+}
+
 .border-x{
   border-left-width: 1px;
   border-right-width: 1px;
@@ -3236,6 +3240,11 @@ video {
 .object-center{
   -o-object-position: center;
      object-position: center;
+}
+
+.object-top{
+  -o-object-position: top;
+     object-position: top;
 }
 
 .p-0{
@@ -4416,6 +4425,11 @@ body{
 .\*\:size-full > *{
   width: 100%;
   height: 100%;
+}
+
+.\*\:object-cover > *{
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .\*\:text-sm > *{
@@ -6216,6 +6230,10 @@ body{
     padding-top: 1.5rem;
   }
 
+  .lg\:ps-10{
+    padding-inline-start: 2.5rem;
+  }
+
   .lg\:text-left{
     text-align: left;
   }
@@ -6261,6 +6279,10 @@ body{
 }
 
 @media (min-width: 1280px){
+  .xl\:grid-cols-3{
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .xl\:gap-x-12{
     -moz-column-gap: 3rem;
          column-gap: 3rem;
