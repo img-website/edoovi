@@ -6195,6 +6195,11 @@ body{
   border-bottom-color: rgb(167 139 250 / var(--tw-border-opacity));
 }
 
+.\[\&\.active\]\:bg-violet-400.active{
+  --tw-bg-opacity: 1;
+  background-color: rgb(167 139 250 / var(--tw-bg-opacity));
+}
+
 .\[\&\.active\]\:text-slate-900.active{
   --tw-text-opacity: 1;
   color: rgb(15 23 42 / var(--tw-text-opacity));
@@ -6203,4 +6208,9 @@ body{
 .\[\&\.active\]\:text-slate-950.active{
   --tw-text-opacity: 1;
   color: rgb(2 6 23 / var(--tw-text-opacity));
+}
+
+.\[\&\.active\]\:text-white.active{
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }

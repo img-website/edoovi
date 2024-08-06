@@ -11,17 +11,18 @@
 
 <body>
 
-  <!-- header start  -->
-  <header class="bg-white  w-full fixed top-0 z-[9999] shadow-sm">
+    <!-- header start  -->
+  
+    <header class="bg-white  w-full fixed top-0 z-[9999] shadow-sm">
     <div class=" max-w-7xl mx-auto py-3 px-6 lg:px-8 flex items-center justify-between">
-      <a href="" class="sm:size-16 size-14 *:size-full">
+      <a href="../../index.php" class="sm:size-16 size-14 *:size-full">
         <img src="../../assets/img/edoovi.webp" alt="">
       </a>
       <div class="md:flex items-center gap-8 hidden ">
         <ul class="flex gap-8">
-          <li><a href="" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Home</a></li>
-          <li><a href="" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">About Us</a></li>
-          <li class="relative group"><a href="" class="flex items-center font-medium text-base active:text-slate-900 text-slate-600">Our Solutions
+          <li><a href="../../index.php" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Home</a></li>
+          <li><a href="../../about" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">About Us</a></li>
+          <li class="relative group"><a href="./oursolutions" class="flex items-center font-medium text-base activeactive [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900  active text-slate-600">Our Solutions
               <span class="*:size-6 *:group-hover:rotate-180 *:duration-300">
                 <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                   <path d="M12 15.0006L7.75732 10.758L9.17154 9.34375L12 12.1722L14.8284 9.34375L16.2426 10.758L12 15.0006Z"></path>
@@ -30,25 +31,25 @@
             </a>
             <div class="bg-white shadow-md border-gray-100 border translate-y-10  opacity-0 invisible duration-300 !w-60 absolute group-hover:translate-y-0  group-hover:opacity-100 group-hover:visible">
               <ul>
-                <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                  <a href="">School Software</a>
+                <li class=" [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+                  <a href="./school-software">School Software</a>
                 </li>
-                <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                  <a href="">Insitute Software</a>
+                <li class=" [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+                  <a href="../insitute-software">Insitute Software</a>
                 </li>
-                <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+                <li class="active [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
                   <a href="">College Software</a>
                 </li>
-                <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                  <a href="">University Software</a>
+                <li class=" [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+                  <a href="../university-software">University Software</a>
                 </li>
               </ul>
             </div>
           </li>
-          <li><a href="" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Blogs</a></li>
-          <li><a href="" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Clients</a></li>
+          <li><a href="../../blogs" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Blogs</a></li>
+          <li><a href="../../clients" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Clients</a></li>
         </ul>
-        <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</button>
+        <a href="../../contact" class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</a>
       </div>
 
       <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
@@ -75,33 +76,33 @@
           </nav>
           <div class="flex flex-col !content-between">
             <ul>
-              <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                <a href="">Home</a>
+              <li class=" [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+                <a href="../../index.php">Home</a>
               </li>
-              <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                <a href="">About Us</a>
+              <li class=" [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+                <a href="../../about">About Us</a>
               </li>
-              <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                <a href="">School Software</a>
+              <li class=" [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+                <a href="./school-software">School Software</a>
               </li>
-              <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+              <li class=" [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
                 <a href="">College Software</a>
               </li>
-              <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                <a href="">Insitute Software</a>
+              <li class=" [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+                <a href="./insitute-software">Insitute Software</a>
               </li>
-              <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                <a href="">University Software</a>
+              <li class=" [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+                <a href="./university-software">University Software</a>
               </li>
 
-              <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                <a href="">Blogs</a>
+              <li class=" [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+                <a href="../../blogs">Blogs</a>
               </li>
-              <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                <a href="">Clients</a>
+              <li class=" [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+                <a href="../../clients">Clients</a>
               </li>
-              <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                <a href="">Contact</a>
+              <li class=" [&.active]:bg-violet-400 [&.active]:text-white  hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
+                <a href="../../contact">Contact</a>
               </li>
             </ul>
             <div class="mt-auto ">
@@ -117,7 +118,7 @@
     </div>
 
   </header>
-  <!-- header end  -->
+    <!-- header end  -->
 
   <!-- hero section start -->
   <div class="relative lg:h-full md:pt-28 pt-24 pb-10 px-3 lg:px-5">
@@ -3065,12 +3066,14 @@ In today’s world, administration & management of organizations, particularly e
     </section>
 
     <!-- blog end  -->
-      <!-- footer -->
-    <section class=" bg-slate-800 sm:pt-16 py-6 md:py-8 lg:py-10 relative">
+     <!-- footer start -->
+     <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
         <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
             <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 md:gap-y-16 gap-y-10 gap-x-12">
                 <div class=" lg:pr-8">
-                    <img class="w-auto h-16" src="./assets/img/edoovi.webp" alt="" />
+                    <a href="../../index.php">
+                        <img class="w-auto h-16" src="../../assets/img/edoovi.webp" alt="" />
+                    </a>
 
                     <p class="sm:text-base text-sm leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>
                 </div>
@@ -3084,7 +3087,7 @@ In today’s world, administration & management of organizations, particularly e
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Edoovi </a>
+                            <a href="../../about/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Edoovi </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -3092,7 +3095,7 @@ In today’s world, administration & management of organizations, particularly e
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
+                            <a href="../../clients/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -3100,7 +3103,7 @@ In today’s world, administration & management of organizations, particularly e
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
+                            <a href="../../privacy-policy/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -3108,7 +3111,7 @@ In today’s world, administration & management of organizations, particularly e
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
+                            <a href="../../terms-conditions/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
                         </li>
                     </ul>
                 </div>
@@ -3130,7 +3133,7 @@ In today’s world, administration & management of organizations, particularly e
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
+                            <a href="../../oursolutions/school-software/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -3138,7 +3141,7 @@ In today’s world, administration & management of organizations, particularly e
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
+                            <a href="../../oursolutions/college-software/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -3146,14 +3149,14 @@ In today’s world, administration & management of organizations, particularly e
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
+                            <a href="../../oursolutions/university-software/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
                         </li>
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
+                            <a href="../../blogs/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
                         </li>
                     </ul>
                 </div>
@@ -3186,7 +3189,8 @@ In today’s world, administration & management of organizations, particularly e
             </div>
         </div>
     </section>
-    <!-- footer end  -->
+    <!-- footer Ends -->
+
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
   <!-- key benifit tabs -->
