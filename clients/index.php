@@ -126,7 +126,7 @@
             </div>
 
             <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
-                <img class="size-full rounded-3xl" src="../assets/img/clientHero.jpg" alt="Hero Image">
+                <img class="size-full rounded-3xl object-cover" src="../assets/img/clientHero.jpg" alt="Hero Image">
             </div>
         </div>
     </div>
