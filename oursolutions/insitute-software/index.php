@@ -123,7 +123,7 @@
   <div class="relative lg:h-full md:pt-28 pt-24 pb-10 px-3 lg:px-5">
     <div class="grid p-7 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center mx-auto max-w-7xl lg:px-8 px-6 h-full ">
       <div class="md:col-span-4">
-        <h1 class="block text-3xl font-bold text-theme2">Unlock Digital Potential</h1>
+        <h1 class="md:text-2xl text-base  text-black/70 mt-2 font-bold">Unlock Digital Potential</h1>
         <div class="text-slate-900 md:text-6xl sm:text-5xl text-4xl font-semibold ">School Management Software With <span class="text-orange-500"> Cloud
         Based School ERP</span></div>
       </div>
@@ -155,9 +155,9 @@
             </div>
 
             <div class=" absolute -top-7  z-[3] w-[40%] right-0 sm:group-hover:right-[58%]  duration-300 ">
-              <img class="aspect-[1/.8] rounded-3xl object-cover" src="../../assets/img/students4.avif" alt="">
+              <img class="aspect-[1/.8] pointer-events-none rounded-3xl object-cover" src="../../assets/img/students4.avif" alt="">
             </div>
-            <div class=" absolute -bottom-5 z-[3] w-[40%] left-0 sm:group-hover:left-[58%]  duration-300 ">
+            <div class=" absolute -bottom-5 pointer-events-none z-[3] w-[40%] left-0 sm:group-hover:left-[58%]  duration-300 ">
               <img class="aspect-[1/.8] rounded-3xl object-cover" src="../../assets/img/students5.avif" alt="">
             </div>
           </div>
@@ -285,7 +285,7 @@
         <div class="flex w-full h-auto items-center flex-wrap">
         <div class="lg:w-[40%] flex items-center justify-center w-[100%]  overflow-hidden rounded-3xl">
             <div class="aspect-[3/2.8] object-cover size-full *:size-full *:object-cover"> <img src="../../assets/img/managment.jfif" alt="img">
-
+            
             </div>
           </div>
           <div class="lg:w-[60%] pt-4 md:pt-0 lg:ps-10 pe-0 w-[100%]">
@@ -293,7 +293,7 @@
             <span class="font-semibold">The Importance Of The School Management System? </span> <br>
             <span class="font-bold text-slate-900"></span>
           </p>
-            <div class="md:text-lg text-sm opacity-70 mt-3 mb-lg-1">
+            <div class="md:text-base text-sm text-black/70 mt-2 font-boldtext-ellipsis line-clamp-[10] overflow-hidden">
             In today’s world, administration & management of organizations, particularly educational institutions, has become a tedious and complex task. There are various activities and curriculum tasks, which needs to handle with careful planning, to the point control of the administrative process and systematic approach to help students, their parents, teachers and even the management of the educational institution. Edoovi school management System is a powerful tool to manage all your administrative task with a single line integrated system.
 In today’s world, administration & management of organizations, particularly educational institutions, has become a tedious and complex task. There are various activities and curriculum tasks, which needs to handle with careful planning, to the point control of the administrative process and systematic approach to help students, their parents, teachers and even the management of the educational institution. Edoovi school management System is a powerful tool to manage all your administrative task with a single line integrated system.
 In today’s world, administration & management of organizations, particularly educational institutions, has become a tedious and complex task. There are various activities and curriculum tasks, which needs to handle with careful planning, to the point control of the administrative process and systematic approach to help students, their parents, teachers and even the management of the educational institution. Edoovi school management System is a powerful tool to manage all your administrative task with a single line integrated system.
@@ -301,6 +301,7 @@ In today’s world, administration & management of organizations, particularly e
           </div>
         
         </div>
+        <div class="absolute  bottom-[-40px] left-[-40px] [background:radial-gradient(circle,_rgba(255,231,_186,_0.5),rgba(255,200,_200,_0.5))] blur-2xl -z-10 md:size-60 size-28"></div>
       </div>
     </div>
   </div>
