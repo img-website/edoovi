@@ -125,7 +125,7 @@
                 <div class="text-slate-900 md:text-6xl sm:text-5xl text-4xl font-semibold "> School Management Software <span class="text-orange-500">With Cloud Based School ERP</span></div>
             </div>
 
-            <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
+            <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0 border-[10px] border-[solid] border-white rounded-3xl overflow-hidden">
                 <img class="size-full rounded-3xl object-cover" src="../assets/img/clientHero.jpg" alt="Hero Image">
             </div>
         </div>

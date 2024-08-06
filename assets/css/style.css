@@ -2647,6 +2647,10 @@ video {
   border-width: 20px;
 }
 
+.border-\[10px\]{
+  border-width: 10px;
+}
+
 .border-x{
   border-left-width: 1px;
   border-right-width: 1px;
