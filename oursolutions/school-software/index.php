@@ -317,7 +317,7 @@
     <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
       <div class="grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 gap-5 mx-auto px-4 sm:px-6 lg:px-8 relative">
         <div class="col-auto group" >
-          <div id="experience" class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#ff7600]  border-2 border-orange-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-orange-500 after:-bottom-2 after:-left-2">
+          <div  class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#ff7600]  border-2 border-orange-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-orange-500 after:-bottom-2 after:-left-2">
             <div class="flex flex-col justify-center items-center group-hover:scale-105 duration-300 w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
               <div class="*:size-14  text-orange-500 text-center">
                 <svg stroke="currentColor" fill="currentColor" stroke-width=".6px" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -332,7 +332,14 @@
               </div>
               
               
-              <div id="count1" class="py-2 font-semibold text-xl text-center" ><span>22</span> <span>+</span></div>
+              <div  class="py-2 font-semibold text-xl text-center flex items-center" >
+                <div id="count1">
+                 <span>22</span>
+                </div>
+                <div>
+                  <span>+</span>
+                </div>
+              </div>
               <div class="text-center  text-base leading-5 font-medium   text-orange-500">
                 Years <br> Experience
               </div>
@@ -341,7 +348,7 @@
           </div>
         </div>
         <div class="col-auto group">
-          <div id="clients" class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#06b6d4]  border-2 border-cyan-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-cyan-500 after:-bottom-2 after:-left-2">
+          <div  class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#06b6d4]  border-2 border-cyan-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-cyan-500 after:-bottom-2 after:-left-2">
             <div class="flex flex-col justify-center group-hover:scale-105 duration-300 items-center w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
               <div class="*:size-14  text-cyan-500 text-center">
                 <svg stroke="currentColor" fill="currentColor" stroke-width="1.5px" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -351,7 +358,15 @@
                   <circle cx="256" cy="256" r="208" fill="none" stroke-miterlimit="10" stroke-width="32"></circle>
                 </svg>
               </div>
-              <div id="count2" class="py-2 font-semibold text-xl text-center">1600+</div>
+
+              <div  class="py-2 font-semibold text-xl text-center flex items-center" >
+                <div id="count2">
+                 <span>1600</span>
+                </div>
+                <div>
+                  <span>+</span>
+                </div>
+              </div>
               <div class="text-center  text-base font-medium leading-5  text-cyan-500">
                 Happy <br> Clients
               </div>
@@ -360,7 +375,7 @@
           </div>
         </div>
         <div class="col-auto group">
-          <div id="retention" class="size-full bg-white flex relative  border-2 group-hover:[box-shadow:0px_0px_18px_-5px_#f4375e]  border-rose-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-rose-500 after:-bottom-2 after:-left-2">
+          <div  class="size-full bg-white flex relative  border-2 group-hover:[box-shadow:0px_0px_18px_-5px_#f4375e]  border-rose-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-rose-500 after:-bottom-2 after:-left-2">
             <div class="flex flex-col justify-center items-center group-hover:scale-105 duration-300 w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
               <div class="*:size-14  text-rose-500 text-center">
                 <svg stroke="currentColor" fill="currentColor" stroke-width=".6px" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -373,7 +388,14 @@
                 </g>
                 </svg>
               </div>
-              <div id="count3" class="py-2 font-semibold text-xl text-center">96%</div>
+              <div  class="py-2 font-semibold text-xl text-center flex items-center" >
+                <div id="count3">
+                 <span>96</span>
+                </div>
+                <div>
+                  <span>%</span>
+                </div>
+              </div>
               <div class="text-center  text-base font-medium leading-5 text-rose-500">
                 Client <br> Retention
               </div>
@@ -382,7 +404,7 @@
           </div>
         </div>
         <div class="col-auto group">
-          <div id="reports" class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#d956ef]  border-2 border-fuchsia-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-fuchsia-500 after:-bottom-2 after:-left-2">
+          <div  class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#d956ef]  border-2 border-fuchsia-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-fuchsia-500 after:-bottom-2 after:-left-2">
             <div class="flex flex-col justify-center items-center group-hover:scale-105 duration-300 w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
               <div class="*:size-14  text-fuchsia-500 text-center">
                 <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -392,7 +414,14 @@
                   <path d="M11 7h2v7h-2z"></path>
                 </svg>
               </div>
-              <div id="count4" class="py-2 font-semibold text-xl text-center">1500+</div>
+              <div  class="py-2 font-semibold text-xl text-center flex items-center" >
+                <div id="count4">
+                 <span>1500</span>
+                </div>
+                <div>
+                  <span>+</span>
+                </div>
+              </div>
               <div class="text-center  text-base font-medium leading-5  text-fuchsia-500">
                 Reports
               </div>
@@ -401,7 +430,7 @@
           </div>
         </div>
         <div class="col-auto group">
-          <div id="trained" class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#ec4899]  border-2 border-pink-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-pink-500 after:-bottom-2 after:-left-2">
+          <div  class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#ec4899]  border-2 border-pink-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-pink-500 after:-bottom-2 after:-left-2">
             <div class="flex flex-col justify-center items-center group-hover:scale-105 duration-300 w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
               <div class="*:size-14  text-pink-500 text-center">
                 <svg stroke="currentColor" fill="currentColor" stroke-width=".6px" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -414,7 +443,14 @@
                 </g>
                 </svg>
               </div>
-              <div id="count5" class="py-2 font-semibold text-xl text-center">20000+</div>
+              <div  class="py-2 font-semibold text-xl text-center flex items-center" >
+                <div id="count5">
+                 <span>20000</span>
+                </div>
+                <div>
+                  <span>+</span>
+                </div>
+              </div>
               <div class="text-center  text-base font-medium leading-5  text-pink-500">
                 Professional <br> Trained
               </div>
@@ -2640,9 +2676,11 @@ document.addEventListener("DOMContentLoaded", () => {
    }, step);
  }
  counter("count1", 0, 22 , 1000);
- counter("count2", 0, 100, 1000);
- counter("count3", 0, 21, 1000);
-  counter("count4", 10, 56, 1000);
+ counter("count2", 0, 160, 1000);
+ counter("count3", 0, 96, 1000);
+  counter("count4", 0, 150, 1000);
+  counter("count5", 0, 200, 100);
+
 });
 </script>
 
