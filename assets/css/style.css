@@ -1176,6 +1176,10 @@ video {
   aspect-ratio: 1 / 1;
 }
 
+.aspect-\[3\/2\.7\]{
+  aspect-ratio: 3/2.7;
+}
+
 .size-10{
   width: 2.5rem;
   height: 2.5rem;
@@ -4291,6 +4295,10 @@ body{
 
 .first\:\*\:font-normal > *:first-child{
   font-weight: 400;
+}
+
+.first\:\*\:font-semibold > *:first-child{
+  font-weight: 600;
 }
 
 .last\:\*\:font-bold > *:last-child{
