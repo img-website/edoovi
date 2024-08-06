@@ -15,7 +15,7 @@
  <div class="md:flex items-center gap-8 hidden ">
  <ul class="flex gap-8">
      <li>
-                  <a href="" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Home</a></li>
+                  <a href="" class="inline-flex font-medium text-base active [&.active]:text-slate-900  [&.active]:border-b [&.active]:border-b-violet-400 text-slate-600">Home</a></li>
      <li >
                    <a href="" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">About Us</a></li>
     <li class="relative group"><a href="" class="flex items-center font-medium text-base active:text-slate-900 text-slate-600">Our Solutions 
@@ -70,7 +70,7 @@
       </svg>
     </label>
    </nav>
-   <div class="flex flex-col !content-between bg-white">
+   <div class="flex flex-col !content-between">
    <ul>
   <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
     <a href="" >Home</a>
