@@ -775,6 +775,10 @@ video {
   z-index: -1;
 }
 
+.z-0{
+  z-index: 0;
+}
+
 .z-10{
   z-index: 10;
 }
@@ -1224,6 +1228,10 @@ video {
 
 .h-6{
   height: 1.5rem;
+}
+
+.h-96{
+  height: 24rem;
 }
 
 .h-\[300px\]{
@@ -2636,8 +2644,8 @@ video {
   background-color: rgb(255 255 255 / 0.6);
 }
 
-.bg-\[url\(\'\.\.\/\.\.\/assets\/img\/school-cta\.jpg\'\)\]{
-  background-image: url('../../assets/img/school-cta.jpg');
+.bg-\[url\(\'\.\.\/\.\.\/assets\/img\/school-cta\.webp\'\)\]{
+  background-image: url('../../assets/img/school-cta.webp');
 }
 
 .bg-gradient-to-b{
@@ -2646,6 +2654,10 @@ video {
 
 .bg-gradient-to-r{
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
+}
+
+.bg-\[url\(\'\.\.\/\.\.\/assets\/img\/school-cta\.jpg\'\)\]{
+  background-image: url('../../assets/img/school-cta.jpg');
 }
 
 .from-\[\#6ab6cb\]{
@@ -3051,6 +3063,10 @@ video {
   padding-top: 8rem;
 }
 
+.pt-4{
+  padding-top: 1rem;
+}
+
 .text-left{
   text-align: left;
 }
@@ -3356,6 +3372,10 @@ video {
 .text-white{
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-white\/20{
+  color: rgb(255 255 255 / 0.2);
 }
 
 .text-white\/90{
@@ -3867,6 +3887,11 @@ video {
   box-shadow: 0px 0px 32px 0px rgba(36,40,46,.12);
 }
 
+.\[mask-image\:linear-gradient\(to_top\2c transparent\2c white\)\]{
+  -webkit-mask-image: linear-gradient(to top,transparent,white);
+          mask-image: linear-gradient(to top,transparent,white);
+}
+
 body{
   font-family: "Roboto", sans-serif;
 }
@@ -4049,24 +4074,24 @@ body{
   bottom: 0px;
 }
 
-.after\:left-0::after{
-  content: var(--tw-content);
-  left: 0px;
-}
-
 .after\:start-4::after{
   content: var(--tw-content);
   inset-inline-start: 1rem;
 }
 
-.after\:top-0::after{
-  content: var(--tw-content);
-  top: 0px;
-}
-
 .after\:top-8::after{
   content: var(--tw-content);
   top: 2rem;
+}
+
+.after\:left-0::after{
+  content: var(--tw-content);
+  left: 0px;
+}
+
+.after\:top-0::after{
+  content: var(--tw-content);
+  top: 0px;
 }
 
 .after\:size-full::after{
@@ -4086,15 +4111,15 @@ body{
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
-.after\:bg-black\/60::after{
-  content: var(--tw-content);
-  background-color: rgb(0 0 0 / 0.6);
-}
-
 .after\:bg-neutral-800::after{
   content: var(--tw-content);
   --tw-bg-opacity: 1;
   background-color: rgb(38 38 38 / var(--tw-bg-opacity));
+}
+
+.after\:bg-black\/60::after{
+  content: var(--tw-content);
+  background-color: rgb(0 0 0 / 0.6);
 }
 
 .first\:\*\:font-normal > *:first-child{
@@ -4758,6 +4783,10 @@ body{
     padding-top: 7rem;
   }
 
+  .md\:pt-0{
+    padding-top: 0px;
+  }
+
   .md\:text-4xl{
     font-size: 2.25rem;
     line-height: 2.5rem;
@@ -5095,6 +5124,10 @@ body{
     padding-top: 1.5rem;
   }
 
+  .lg\:ps-10{
+    padding-inline-start: 2.5rem;
+  }
+
   .lg\:text-left{
     text-align: left;
   }
@@ -5150,6 +5183,11 @@ body{
   .dark\:bg-slate-800{
     --tw-bg-opacity: 1;
     background-color: rgb(30 41 59 / var(--tw-bg-opacity));
+  }
+
+  .dark\:text-neutral-500{
+    --tw-text-opacity: 1;
+    color: rgb(115 115 115 / var(--tw-text-opacity));
   }
 
   .dark\:text-slate-300{
