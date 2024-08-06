@@ -601,12 +601,22 @@
 
 <section class="py-20">
   <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
-<div class="grid grid-cols-4 bg-gradient-to-b from-violet-300 to-violet-500/90 rounded-3xl">
+  <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
+        <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 pb-10 ">
+            <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance tracking-[-0.04em] text-slate-900  font-semibold">
+                <span class="font-semibold">We Offer End-To-End Solutions For &   </span> <br> 
+                <span class="font-bold text-slate-900">Every Phase Of School Management.</span>
+            </p>
+            <div class="md:text-base text-sm text-black/70 mt-2 font-bold text-balance">
+            An integrated school management system called Edoovi is created specifically to cater to the requirements of all administrative personnel working in educational institutions. The organization is given a comprehensive and priceless toolkit to handle all school-related operations by the School Management System components.
+        </div>
+        </div>
+<div class="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-4 bg-gradient-to-b from-violet-300 to-violet-500/90 rounded-3xl">
 <div class="col-auto">
-<div class="size-full p-6 border-r
- hover:-translate-y-6 hover:bg-black  hover:scale-105 duration-200 hover:border-0 hover:rounded-3xl">
+<div class="size-full p-6 border-r max-lg:border-b
+ hover:-translate-y-6 hover:bg-gradient-to-b from-slate-500 to-slate-900 hover:scale-105 duration-300 hover:border-0 hover:rounded-3xl">
   <div class="text-white *:size-14 ">
-  <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+  <svg stroke="currentColor" fill="none" stroke-width="1.5px" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
   </div>
   <div class="text-white font-semibold text-xl py-5">
   User Friendly
@@ -617,9 +627,10 @@
 </div>
 </div>
 <div class="col-auto">
-<div class="size-full p-6 border-r">
+<div class="size-full p-6 border-r max-lg:border-b
+ hover:-translate-y-6 hover:bg-gradient-to-b from-slate-500 to-slate-900 hover:scale-105 duration-300 hover:border-0 hover:rounded-3xl">
   <div class="text-white *:size-14 ">
-  <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+  <svg stroke="currentColor" fill="currentColor" stroke-width="1.5px" viewBox="0 0 1024 1024" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M928 140H96c-17.7 0-32 14.3-32 32v496c0 17.7 14.3 32 32 32h380v112H304c-8.8 0-16 7.2-16 16v48c0 4.4 3.6 8 8 8h432c4.4 0 8-3.6 8-8v-48c0-8.8-7.2-16-16-16H548V700h380c17.7 0 32-14.3 32-32V172c0-17.7-14.3-32-32-32zm-40 488H136V212h752v416z"></path></svg>
   </div>
   <div class="text-white font-semibold text-xl py-5">
   User Friendly
@@ -630,9 +641,10 @@
 </div>
 </div>
 <div class="col-auto">
-<div class="size-full p-6 border-r">
+<div class="size-full p-6 border-r max-sm:border-b
+ hover:-translate-y-6 hover:bg-gradient-to-b from-slate-500 to-slate-900 hover:scale-105 duration-300 hover:border-0 hover:rounded-3xl">
   <div class="text-white *:size-14 ">
-  <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+  <svg stroke="currentColor" fill="currentColor" stroke-width="1.5px" viewBox="0 0 256 256" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M199.05,57.48A100.07,100.07,0,0,0,28,128v56a20,20,0,0,0,20,20H64a20,20,0,0,0,20-20V144a20,20,0,0,0-20-20H36.08A92,92,0,0,1,128,36h.7a91.75,91.75,0,0,1,91.22,88H192a20,20,0,0,0-20,20v40a20,20,0,0,0,20,20h16a20,20,0,0,0,20-20V128A99.43,99.43,0,0,0,199.05,57.48ZM64,132a12,12,0,0,1,12,12v40a12,12,0,0,1-12,12H48a12,12,0,0,1-12-12V132Zm156,52a12,12,0,0,1-12,12H192a12,12,0,0,1-12-12V144a12,12,0,0,1,12-12h28Z"></path></svg>
   </div>
   <div class="text-white font-semibold text-xl py-5">
   User Friendly
@@ -643,9 +655,10 @@
 </div>
 </div>
 <div class="col-auto">
-<div class="size-full p-6 border-r">
+<div class="size-full p-6 border-r  max-sm:border-b
+ hover:-translate-y-6 hover:bg-gradient-to-b from-slate-500 to-slate-900 hover:scale-105 duration-300 hover:border-0 hover:rounded-3xl">
   <div class="text-white *:size-14 ">
-  <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+  <svg stroke="currentColor" fill="none" stroke-width="1.5px" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
   </div>
   <div class="text-white font-semibold text-xl py-5">
   User Friendly
@@ -660,6 +673,91 @@
 </section>
 
 <!-- --------user-friendly-sec -->
+
+<!-- counter-start---- -->
+<section class="py-20">
+  <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
+  <div class="grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 gap-5 mx-auto px-4 sm:px-6 lg:px-8 relative">
+    <div class="col-auto group">
+        <div class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#ff7600]  border-2 border-orange-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-orange-500 after:-bottom-2 after:-left-2">
+            <div class="flex flex-col justify-center items-center group-hover:scale-105 duration-300 w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
+            <div class="*:size-14  text-orange-500 text-center">
+            <svg stroke="currentColor" fill="currentColor" stroke-width=".6px" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><g id="Globe"><path d="M14.645,2.428a8.1,8.1,0,0,0-1.61-.3,9.332,9.332,0,0,0-3.6.28l-.07.02a9.928,9.928,0,0,0,.01,19.15,9.091,9.091,0,0,0,2.36.34,1.274,1.274,0,0,0,.27.02,9.65,9.65,0,0,0,2.63-.36,9.931,9.931,0,0,0,.01-19.15Zm-.27.96a8.943,8.943,0,0,1,5.84,5.11h-4.26a13.778,13.778,0,0,0-2.74-5.35A8.254,8.254,0,0,1,14.375,3.388Zm-2.37-.09a12.78,12.78,0,0,1,2.91,5.2H9.075A12.545,12.545,0,0,1,12.005,3.3Zm3.16,6.2a13.193,13.193,0,0,1,0,5.01H8.845a12.185,12.185,0,0,1-.25-2.5,12.353,12.353,0,0,1,.25-2.51Zm-5.6-6.09.07-.02a9.152,9.152,0,0,1,1.16-.23A13.618,13.618,0,0,0,8.045,8.5H3.8A9,9,0,0,1,9.565,3.408Zm-6.5,8.6a8.71,8.71,0,0,1,.37-2.51h4.39a13.95,13.95,0,0,0-.23,2.51,13.757,13.757,0,0,0,.23,2.5H3.435A8.591,8.591,0,0,1,3.065,12.008Zm6.57,8.61a8.9,8.9,0,0,1-5.84-5.11h4.24a13.632,13.632,0,0,0,2.77,5.35A8.1,8.1,0,0,1,9.635,20.618Zm-.56-5.11h5.84a12.638,12.638,0,0,1-2.91,5.21A12.872,12.872,0,0,1,9.075,15.508Zm5.3,5.11a11.551,11.551,0,0,1-1.17.24,13.8,13.8,0,0,0,2.75-5.35h4.26A8.924,8.924,0,0,1,14.375,20.618Zm1.8-6.11a13.611,13.611,0,0,0,0-5.01h4.39a8.379,8.379,0,0,1,.37,2.51,8.687,8.687,0,0,1-.36,2.5Z"></path></g></svg>
+                     <g id="Globe"><path d="M14.645,2.428a8.1,8.1,0,0,0-1.61-.3,9.332,9.332,0,0,0-3.6.28l-.07.02a9.928,9.928,0,0,0,.01,19.15,9.091,9.091,0,0,0,2.36.34,1.274,1.274,0,0,0,.27.02,9.65,9.65,0,0,0,2.63-.36,9.931,9.931,0,0,0,.01-19.15Zm-.27.96a8.943,8.943,0,0,1,5.84,5.11h-4.26a13.778,13.778,0,0,0-2.74-5.35A8.254,8.254,0,0,1,14.375,3.388Zm-2.37-.09a12.78,12.78,0,0,1,2.91,5.2H9.075A12.545,12.545,0,0,1,12.005,3.3Zm3.16,6.2a13.193,13.193,0,0,1,0,5.01H8.845a12.185,12.185,0,0,1-.25-2.5,12.353,12.353,0,0,1,.25-2.51Zm-5.6-6.09.07-.02a9.152,9.152,0,0,1,1.16-.23A13.618,13.618,0,0,0,8.045,8.5H3.8A9,9,0,0,1,9.565,3.408Zm-6.5,8.6a8.71,8.71,0,0,1,.37-2.51h4.39a13.95,13.95,0,0,0-.23,2.51,13.757,13.757,0,0,0,.23,2.5H3.435A8.591,8.591,0,0,1,3.065,12.008Zm6.57,8.61a8.9,8.9,0,0,1-5.84-5.11h4.24a13.632,13.632,0,0,0,2.77,5.35A8.1,8.1,0,0,1,9.635,20.618Zm-.56-5.11h5.84a12.638,12.638,0,0,1-2.91,5.21A12.872,12.872,0,0,1,9.075,15.508Zm5.3,5.11a11.551,11.551,0,0,1-1.17.24,13.8,13.8,0,0,0,2.75-5.35h4.26A8.924,8.924,0,0,1,14.375,20.618Zm1.8-6.11a13.611,13.611,0,0,0,0-5.01h4.39a8.379,8.379,0,0,1,.37,2.51,8.687,8.687,0,0,1-.36,2.5Z"></path></g>
+                 </svg> 
+             </div>
+             <div class="py-2 font-semibold text-xl text-center">22+</div>
+             <div class="text-center  text-base leading-5 font-medium   text-orange-500">
+             Years <br> Experience
+             </div>
+           
+            </div>
+          </div>
+     </div>
+     <div class="col-auto group">
+        <div class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#06b6d4]  border-2 border-cyan-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-cyan-500 after:-bottom-2 after:-left-2">
+            <div class="flex flex-col justify-center group-hover:scale-105 duration-300 items-center w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
+            <div class="*:size-14  text-cyan-500 text-center">
+            <svg stroke="currentColor" fill="currentColor" stroke-width="1.5px" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><circle cx="184" cy="232" r="24"></circle><path d="M256.05 384c-45.42 0-83.62-29.53-95.71-69.83a8 8 0 0 1 7.82-10.17h175.69a8 8 0 0 1 7.82 10.17c-11.99 40.3-50.2 69.83-95.62 69.83z"></path><circle cx="328" cy="232" r="24"></circle><circle cx="256" cy="256" r="208" fill="none" stroke-miterlimit="10" stroke-width="32"></circle></svg>
+             </div>
+             <div class="py-2 font-semibold text-xl text-center">1600+</div>
+             <div class="text-center  text-base font-medium leading-5  text-cyan-500">
+             Happy <br> Clients
+             </div>
+           
+            </div>
+          </div>
+     </div>
+     <div class="col-auto group">
+        <div class="size-full bg-white flex relative  border-2 group-hover:[box-shadow:0px_0px_18px_-5px_#f4375e]  border-rose-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-rose-500 after:-bottom-2 after:-left-2">
+            <div class="flex flex-col justify-center items-center group-hover:scale-105 duration-300 w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
+            <div class="*:size-14  text-rose-500 text-center">
+            <svg stroke="currentColor" fill="currentColor" stroke-width=".6px" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><g id="Globe"><path d="M14.645,2.428a8.1,8.1,0,0,0-1.61-.3,9.332,9.332,0,0,0-3.6.28l-.07.02a9.928,9.928,0,0,0,.01,19.15,9.091,9.091,0,0,0,2.36.34,1.274,1.274,0,0,0,.27.02,9.65,9.65,0,0,0,2.63-.36,9.931,9.931,0,0,0,.01-19.15Zm-.27.96a8.943,8.943,0,0,1,5.84,5.11h-4.26a13.778,13.778,0,0,0-2.74-5.35A8.254,8.254,0,0,1,14.375,3.388Zm-2.37-.09a12.78,12.78,0,0,1,2.91,5.2H9.075A12.545,12.545,0,0,1,12.005,3.3Zm3.16,6.2a13.193,13.193,0,0,1,0,5.01H8.845a12.185,12.185,0,0,1-.25-2.5,12.353,12.353,0,0,1,.25-2.51Zm-5.6-6.09.07-.02a9.152,9.152,0,0,1,1.16-.23A13.618,13.618,0,0,0,8.045,8.5H3.8A9,9,0,0,1,9.565,3.408Zm-6.5,8.6a8.71,8.71,0,0,1,.37-2.51h4.39a13.95,13.95,0,0,0-.23,2.51,13.757,13.757,0,0,0,.23,2.5H3.435A8.591,8.591,0,0,1,3.065,12.008Zm6.57,8.61a8.9,8.9,0,0,1-5.84-5.11h4.24a13.632,13.632,0,0,0,2.77,5.35A8.1,8.1,0,0,1,9.635,20.618Zm-.56-5.11h5.84a12.638,12.638,0,0,1-2.91,5.21A12.872,12.872,0,0,1,9.075,15.508Zm5.3,5.11a11.551,11.551,0,0,1-1.17.24,13.8,13.8,0,0,0,2.75-5.35h4.26A8.924,8.924,0,0,1,14.375,20.618Zm1.8-6.11a13.611,13.611,0,0,0,0-5.01h4.39a8.379,8.379,0,0,1,.37,2.51,8.687,8.687,0,0,1-.36,2.5Z"></path></g></svg>
+                     <g id="Globe"><path d="M14.645,2.428a8.1,8.1,0,0,0-1.61-.3,9.332,9.332,0,0,0-3.6.28l-.07.02a9.928,9.928,0,0,0,.01,19.15,9.091,9.091,0,0,0,2.36.34,1.274,1.274,0,0,0,.27.02,9.65,9.65,0,0,0,2.63-.36,9.931,9.931,0,0,0,.01-19.15Zm-.27.96a8.943,8.943,0,0,1,5.84,5.11h-4.26a13.778,13.778,0,0,0-2.74-5.35A8.254,8.254,0,0,1,14.375,3.388Zm-2.37-.09a12.78,12.78,0,0,1,2.91,5.2H9.075A12.545,12.545,0,0,1,12.005,3.3Zm3.16,6.2a13.193,13.193,0,0,1,0,5.01H8.845a12.185,12.185,0,0,1-.25-2.5,12.353,12.353,0,0,1,.25-2.51Zm-5.6-6.09.07-.02a9.152,9.152,0,0,1,1.16-.23A13.618,13.618,0,0,0,8.045,8.5H3.8A9,9,0,0,1,9.565,3.408Zm-6.5,8.6a8.71,8.71,0,0,1,.37-2.51h4.39a13.95,13.95,0,0,0-.23,2.51,13.757,13.757,0,0,0,.23,2.5H3.435A8.591,8.591,0,0,1,3.065,12.008Zm6.57,8.61a8.9,8.9,0,0,1-5.84-5.11h4.24a13.632,13.632,0,0,0,2.77,5.35A8.1,8.1,0,0,1,9.635,20.618Zm-.56-5.11h5.84a12.638,12.638,0,0,1-2.91,5.21A12.872,12.872,0,0,1,9.075,15.508Zm5.3,5.11a11.551,11.551,0,0,1-1.17.24,13.8,13.8,0,0,0,2.75-5.35h4.26A8.924,8.924,0,0,1,14.375,20.618Zm1.8-6.11a13.611,13.611,0,0,0,0-5.01h4.39a8.379,8.379,0,0,1,.37,2.51,8.687,8.687,0,0,1-.36,2.5Z"></path></g>
+                 </svg> 
+             </div>
+             <div class="py-2 font-semibold text-xl text-center">96%</div>
+             <div class="text-center  text-base font-medium leading-5 text-rose-500">
+             Client <br> Retention
+             </div>
+           
+            </div>
+          </div>
+     </div>
+     <div class="col-auto group">
+        <div class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#d956ef]  border-2 border-fuchsia-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-fuchsia-500 after:-bottom-2 after:-left-2">
+            <div class="flex flex-col justify-center items-center group-hover:scale-105 duration-300 w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
+            <div class="*:size-14  text-fuchsia-500 text-center">
+            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M15.73 3H8.27L3 8.27v7.46L8.27 21h7.46L21 15.73V8.27L15.73 3zM19 14.9 14.9 19H9.1L5 14.9V9.1L9.1 5h5.8L19 9.1v5.8z"></path><circle cx="12" cy="16" r="1"></circle><path d="M11 7h2v7h-2z"></path></svg>
+             </div>
+             <div class="py-2 font-semibold text-xl text-center">1500+</div>
+             <div class="text-center  text-base font-medium leading-5  text-fuchsia-500">
+               Reports
+             </div>
+           
+            </div>
+          </div>
+     </div>
+     <div class="col-auto group">
+        <div class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#ec4899]  border-2 border-pink-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-pink-500 after:-bottom-2 after:-left-2">
+            <div class="flex flex-col justify-center items-center group-hover:scale-105 duration-300 w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
+            <div class="*:size-14  text-pink-500 text-center">
+            <svg stroke="currentColor" fill="currentColor" stroke-width=".6px" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><g id="Globe"><path d="M14.645,2.428a8.1,8.1,0,0,0-1.61-.3,9.332,9.332,0,0,0-3.6.28l-.07.02a9.928,9.928,0,0,0,.01,19.15,9.091,9.091,0,0,0,2.36.34,1.274,1.274,0,0,0,.27.02,9.65,9.65,0,0,0,2.63-.36,9.931,9.931,0,0,0,.01-19.15Zm-.27.96a8.943,8.943,0,0,1,5.84,5.11h-4.26a13.778,13.778,0,0,0-2.74-5.35A8.254,8.254,0,0,1,14.375,3.388Zm-2.37-.09a12.78,12.78,0,0,1,2.91,5.2H9.075A12.545,12.545,0,0,1,12.005,3.3Zm3.16,6.2a13.193,13.193,0,0,1,0,5.01H8.845a12.185,12.185,0,0,1-.25-2.5,12.353,12.353,0,0,1,.25-2.51Zm-5.6-6.09.07-.02a9.152,9.152,0,0,1,1.16-.23A13.618,13.618,0,0,0,8.045,8.5H3.8A9,9,0,0,1,9.565,3.408Zm-6.5,8.6a8.71,8.71,0,0,1,.37-2.51h4.39a13.95,13.95,0,0,0-.23,2.51,13.757,13.757,0,0,0,.23,2.5H3.435A8.591,8.591,0,0,1,3.065,12.008Zm6.57,8.61a8.9,8.9,0,0,1-5.84-5.11h4.24a13.632,13.632,0,0,0,2.77,5.35A8.1,8.1,0,0,1,9.635,20.618Zm-.56-5.11h5.84a12.638,12.638,0,0,1-2.91,5.21A12.872,12.872,0,0,1,9.075,15.508Zm5.3,5.11a11.551,11.551,0,0,1-1.17.24,13.8,13.8,0,0,0,2.75-5.35h4.26A8.924,8.924,0,0,1,14.375,20.618Zm1.8-6.11a13.611,13.611,0,0,0,0-5.01h4.39a8.379,8.379,0,0,1,.37,2.51,8.687,8.687,0,0,1-.36,2.5Z"></path></g></svg>
+                     <g id="Globe"><path d="M14.645,2.428a8.1,8.1,0,0,0-1.61-.3,9.332,9.332,0,0,0-3.6.28l-.07.02a9.928,9.928,0,0,0,.01,19.15,9.091,9.091,0,0,0,2.36.34,1.274,1.274,0,0,0,.27.02,9.65,9.65,0,0,0,2.63-.36,9.931,9.931,0,0,0,.01-19.15Zm-.27.96a8.943,8.943,0,0,1,5.84,5.11h-4.26a13.778,13.778,0,0,0-2.74-5.35A8.254,8.254,0,0,1,14.375,3.388Zm-2.37-.09a12.78,12.78,0,0,1,2.91,5.2H9.075A12.545,12.545,0,0,1,12.005,3.3Zm3.16,6.2a13.193,13.193,0,0,1,0,5.01H8.845a12.185,12.185,0,0,1-.25-2.5,12.353,12.353,0,0,1,.25-2.51Zm-5.6-6.09.07-.02a9.152,9.152,0,0,1,1.16-.23A13.618,13.618,0,0,0,8.045,8.5H3.8A9,9,0,0,1,9.565,3.408Zm-6.5,8.6a8.71,8.71,0,0,1,.37-2.51h4.39a13.95,13.95,0,0,0-.23,2.51,13.757,13.757,0,0,0,.23,2.5H3.435A8.591,8.591,0,0,1,3.065,12.008Zm6.57,8.61a8.9,8.9,0,0,1-5.84-5.11h4.24a13.632,13.632,0,0,0,2.77,5.35A8.1,8.1,0,0,1,9.635,20.618Zm-.56-5.11h5.84a12.638,12.638,0,0,1-2.91,5.21A12.872,12.872,0,0,1,9.075,15.508Zm5.3,5.11a11.551,11.551,0,0,1-1.17.24,13.8,13.8,0,0,0,2.75-5.35h4.26A8.924,8.924,0,0,1,14.375,20.618Zm1.8-6.11a13.611,13.611,0,0,0,0-5.01h4.39a8.379,8.379,0,0,1,.37,2.51,8.687,8.687,0,0,1-.36,2.5Z"></path></g>
+                 </svg> 
+             </div>
+             <div class="py-2 font-semibold text-xl text-center">20000+</div>
+             <div class="text-center  text-base font-medium leading-5  text-pink-500">
+             Professional <br> Trained
+             </div>
+           
+            </div>
+          </div>
+     </div>
+  </div>
+  </div>
+</section>
+<!-- counter-end---- -->
 
 </body>
 

@@ -11,6 +11,7 @@
 
 <body>
     <!-- header start  -->
+  
     <header class="bg-white  w-full fixed top-0 z-[9999] shadow-sm">
         <div class=" max-w-7xl mx-auto py-3 px-6 lg:px-8 flex items-center justify-between">
             <a href="" class="sm:size-16 size-14 *:size-full">
@@ -47,7 +48,7 @@
                     <li><a href="" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Blogs</a></li>
                     <li><a href="" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">Clients</a></li>
                 </ul>
-                <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</button>
+                <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</button>
             </div>
 
             <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
@@ -105,8 +106,8 @@
                         </ul>
                         <div class="mt-auto ">
                             <div class="flex justify-between px-4 pt-10 bg-white w-full">
-                                <button class="h-max bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</button>
-                                <button class="h-max mt-auto bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white ">Email Us</button>
+                                <button class="h-max bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</button>
+                                <button class="h-max mt-auto bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d] ">Email Us</button>
                             </div>
                         </div>
                     </div>
@@ -133,99 +134,106 @@
     <!-- hero section ends -->
 
     <!-- about Section start -->
-    <div class="max-w-6xl px-4 xl:px-0 py-6 md:py-10 lg:pt-20 lg:pb-20 mx-auto">
-        <div class="max-w-3xl mb-10 lg:mb-14">
-            <h2 class="font-semibold text-2xl md:text-4xl md:leading-tight">
-                Our Journey
-            </h2>
-            <p class="mt-1 text-lg">
-                Launched in 2002, Edoovi provides an end-to-end cloud management solution for educational institutions.
-            </p>
-        </div>
+     <section class="relative">
+        <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
+        <div class="absolute -z-10 bottom-0 !left-0 [background:radial-gradient(circle,_rgba(255,281,_231,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 lg:items-center">
-            <div class="aspect-[22/9] lg:aspect-square">
-                <img class="size-full object-cover rounded-3xl" src="../assets/img/about-about.jpg" alt="Features Image">
+        <div class="max-w-7xl px-6 lg:px-8 py-6 md:py-10 lg:pt-20 lg:pb-20 mx-auto">
+            <div class="max-w-3xl mb-10 lg:mb-14">
+                <h2 class="font-semibold text-2xl md:text-4xl md:leading-tight">
+                    Our Journey
+                </h2>
+                <p class="mt-1 text-lg">
+                    Launched in 2002, Edoovi provides an end-to-end cloud management solution for educational institutions.
+                </p>
             </div>
-
-            <div>
-                <div class="mb-4">
-                    <h3 class="text-theme1 text-sm font-medium">
-                        Milestones
-                    </h3>
+    
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 lg:items-center">
+                <div class="aspect-[22/9] lg:aspect-square">
+                    <img class="size-full object-cover rounded-3xl" src="../assets/img/about-about.jpg" alt="Features Image">
                 </div>
-
-                <div class="flex gap-x-5 ms-1">
-                    <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
-                        <div class="relative z-10 size-8 flex justify-center items-center">
-                            <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
-                                1
-                            </span>
+    
+                <div>
+                    <div class="mb-4">
+                        <h3 class="text-theme1 text-sm font-medium">
+                            Milestones
+                        </h3>
+                    </div>
+    
+                    <div class="flex gap-x-5 ms-1">
+                        <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
+                            <div class="relative z-10 size-8 flex justify-center items-center">
+                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
+                                    1
+                                </span>
+                            </div>
+                        </div>
+    
+                        <div class="grow pt-0.5 pb-8 sm:pb-12">
+                            <p class="text-sm lg:text-base">
+                                Fully lined with Office 365, Google G-Suite, LMS, and various other systems, our comprehensive ERP platform meets all of the educational institution’s demands via a variety of capabilities.
+                            </p>
                         </div>
                     </div>
-
-                    <div class="grow pt-0.5 pb-8 sm:pb-12">
-                        <p class="text-sm lg:text-base">
-                            Fully lined with Office 365, Google G-Suite, LMS, and various other systems, our comprehensive ERP platform meets all of the educational institution’s demands via a variety of capabilities.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="flex gap-x-5 ms-1">
-                    <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
-                        <div class="relative z-10 size-8 flex justify-center items-center">
-                            <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
-                                2
-                            </span>
+    
+                    <div class="flex gap-x-5 ms-1">
+                        <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
+                            <div class="relative z-10 size-8 flex justify-center items-center">
+                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
+                                    2
+                                </span>
+                            </div>
+                        </div>
+    
+                        <div class="grow pt-0.5 pb-8 sm:pb-12">
+                            <p class="text-sm lg:text-base">
+                                Our ERP software also helps build strong communication and collaboration channels with teachers, students, parents, candidates, and alumni.
+                            </p>
                         </div>
                     </div>
-
-                    <div class="grow pt-0.5 pb-8 sm:pb-12">
-                        <p class="text-sm lg:text-base">
-                            Our ERP software also helps build strong communication and collaboration channels with teachers, students, parents, candidates, and alumni.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="flex gap-x-5 ms-1">
-                    <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
-                        <div class="relative z-10 size-8 flex justify-center items-center">
-                            <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
-                                3
-                            </span>
+    
+                    <div class="flex gap-x-5 ms-1">
+                        <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
+                            <div class="relative z-10 size-8 flex justify-center items-center">
+                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
+                                    3
+                                </span>
+                            </div>
+                        </div>
+    
+                        <div class="grow pt-0.5 pb-8 sm:pb-12">
+                            <p class="text-sm md:text-base">
+                                Since its launch, 1800+ educational institutions have been using this software to manage admissions, sales, registration, timetabling, academic, learning, finance, payments, transportation, and library operations effectively.
+                            </p>
                         </div>
                     </div>
-
-                    <div class="grow pt-0.5 pb-8 sm:pb-12">
-                        <p class="text-sm md:text-base">
-                            Since its launch, 1800+ educational institutions have been using this software to manage admissions, sales, registration, timetabling, academic, learning, finance, payments, transportation, and library operations effectively.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="flex gap-x-5 ms-1">
-                    <div class="relative">
-                        <div class="relative z-10 size-8 flex justify-center items-center">
-                            <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
-                                4
-                            </span>
+    
+                    <div class="flex gap-x-5 ms-1">
+                        <div class="relative">
+                            <div class="relative z-10 size-8 flex justify-center items-center">
+                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
+                                    4
+                                </span>
+                            </div>
+                        </div>
+    
+                        <div class="grow pt-0.5 pb-8 sm:pb-12">
+                            <p class="text-sm md:text-base">
+                                Edoovi ERP is used by most of the reputed educational institutes in 23+states and 8+ countries worldwide.
+                            </p>
                         </div>
                     </div>
-
-                    <div class="grow pt-0.5 pb-8 sm:pb-12">
-                        <p class="text-sm md:text-base">
-                            Edoovi ERP is used by most of the reputed educational institutes in 23+states and 8+ countries worldwide.
-                        </p>
-                    </div>
+    
                 </div>
-
             </div>
         </div>
-    </div>
+     </section>
     <!-- about Section ends -->
 
     <!-- mission section start -->
     <div class="relative isolate py-6 md:py-8 lg:py-16">
+    <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,281,_231,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
+
         <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
             <div class="w-full md:w-1/2 lg:w-2/3">
                 <div class=" relative z-20 mx-auto lg:max-w-3xl lg:mx-0 lg:w-3xl lg:flex-none lg:pr-4">
@@ -237,7 +245,7 @@
             </div>
             <div class="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 -mb-24 lg:-mb-36 mx-auto">
                 <div class="aspect-[5/4] rounded-3xl overflow-hidden border-[20px] border-[solid] border-white">
-                    <img src="../assets/img/vision.jpg" alt="" class="size-full object-center">
+                    <img src="../assets/img/vision.jpg" alt="" class="size-full object-center rounded-2xl">
                 </div>
             </div>
         </div>
@@ -245,7 +253,7 @@
             <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
                 <div class="w-2/3 md:w-1/2 lg:w-1/3 rounded-3xl overflow-hidden hidden md:flex -mb-72">
                     <div class="aspect-[3/2.7] rounded-3xl overflow-hidden border-[20px] border-[solid] border-white">
-                        <img src="../assets/img/mission.jpg" alt="" class="size-full object-cover object-center">
+                        <img src="../assets/img/mission.jpg" alt="" class="size-full object-cover object-center rounded-2xl overflow-hidden">
                     </div>
                 </div>
                 <div class="w-full md:w-1/2 lg:w-2/3 md:ps-10 mt-7 md:mt-0">
@@ -305,7 +313,7 @@
     <div class="relative py-6 md:py-12 lg:py-10 overflow-hidden">
         <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
             <div class="select-none relative">
-                <div class="flex w-full h-auto items-center flex-wrap">
+                <div class="flex w-full h-auto items-center flex-wrap lg:gap-0 gap-3">
                     <div class="lg:w-[60%] lg:pe-10 pe-0 w-[100%] lg:order-1 order-2">
                         <p class="
                     max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black
@@ -337,11 +345,13 @@
     <!-- why us section ends -->
 
     <!-- testimonial section start -->
-    <div class="overflow-hidden">
+    <div class="overflow-hidden relative">
+    <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
+
         <div class="relative max-w-[85rem] px-4 py-6 sm:py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
             <div class="max-w-2xl w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
                 <div class="relative container mx-auto max-w-7xl md:px-6 lg:px-8 z-10">
-                    <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
+                    <p class="text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
                         <span class="font-semibold">Why Institutes Love Edoovi ERP System?</span>
                     </p>
                     <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
@@ -537,7 +547,7 @@
                         </div>
                     </div>
                     <div class="md:mt-10 mt-5 flex items-center gap-x-6 empty:hidden max-sm:justify-center">
-                        <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl  font-medium text-base text-white">Contant Us</button>
+                    <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl  font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</button>
                     </div>
                 </div>
             </div>
@@ -548,121 +558,121 @@
     <!-- footer -->
     <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
         <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
-            <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 gap-y-16 gap-x-12">
+            <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 md:gap-y-16 gap-y-10 gap-x-12">
                 <div class=" lg:pr-8">
                     <img class="w-auto h-16" src="../assets/img/edoovi.webp" alt="" />
 
-                    <p class="text-base leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>
+                    <p class="sm:text-base text-sm leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>
                 </div>
 
                 <div class="md:ms-auto">
-                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 before:border-orange-500 before:w-1/4 before:inset-0">About</p>
+                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 before:border-violet-500 before:w-1/4 before:inset-0">About</p>
 
                     <ul class=" mt-6 flex flex-col gap-3">
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Vidyalaya </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Vidyalaya </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
                         </li>
                     </ul>
                 </div>
 
                 <div class="md:ms-auto">
-                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 text-nowrap before:border-orange-500 before:w-1/2 before:inset-0">Product & Services</p>
+                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 text-nowrap before:border-violet-500 before:w-1/2 before:inset-0">Product & Services</p>
 
                     <ul class=" mt-6 flex flex-col gap-3">
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Features </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Features </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
                         </li>
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
                         </li>
                     </ul>
                 </div>
 
             </div>
 
-            <hr class="my-10 border-gray-200" />
+            <hr class="sm:my-10 my-7 border-gray-200" />
             <div class="flex items-center justify-between flex-wrap">
                 <div class="flex gap-2 sm:gap-3  ">
 
                     <a href="" class="flex items-center rounded-full gap-3 sm:px-4 px-2 border-2 border-white py-2">
-                        <svg class="size-5 text-white" stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" viewBox="0 0 16 16" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                        <svg class=" sm:size-5 size-4 text-white" stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" viewBox="0 0 16 16" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                             <path d="M4.5 9h-1v7h1c0.275 0 0.5-0.225 0.5-0.5v-6c0-0.275-0.225-0.5-0.5-0.5z"></path>
                             <path d="M11.5 9c-0.275 0-0.5 0.225-0.5 0.5v6c0 0.275 0.225 0.5 0.5 0.5h1v-7h-1z"></path>
                             <path d="M16 8c0-4.418-3.582-8-8-8s-8 3.582-8 8c0 0.96 0.169 1.88 0.479 2.732-0.304 0.519-0.479 1.123-0.479 1.768 0 1.763 1.304 3.222 3 3.464v-6.928c-0.499 0.071-0.963 0.248-1.371 0.506-0.084-0.417-0.129-0.849-0.129-1.292 0-3.59 2.91-6.5 6.5-6.5s6.5 2.91 6.5 6.5c0 0.442-0.044 0.874-0.128 1.292-0.408-0.259-0.873-0.435-1.372-0.507v6.929c1.696-0.243 3-1.701 3-3.464 0-0.645-0.175-1.249-0.479-1.768 0.31-0.853 0.479-1.773 0.479-2.732z"></path>
                         </svg>
-                        <span class="text-sm font-semibold text-white mt-1">Customer Support</span>
+                        <span class="sm:text-sm text-xs font-semibold text-white mt-1">Customer Support</span>
                     </a>
                     <a href="" class="flex items-center rounded-full gap-3 sm:px-4 px-2 border-2 border-white py-2">
-                        <svg class="size-5 text-white" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                        <svg class=" sm:size-5 size-4 text-white" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                             <path fill="none" d="M0 0h24v24H0V0z"></path>
                             <path d="M21 6h-7.59l3.29-3.29L16 2l-4 4-4-4-.71.71L10.59 6H3a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8a2 2 0 0 0-2-2zm0 14H3V8h18v12zM9 10v8l7-4z"></path>
                         </svg>
-                        <span class="text-sm font-semibold text-white mt-1">Live Demo</span>
+                        <span class="sm:text-sm text-xs font-semibold text-white mt-1">Live Demo</span>
                     </a>
 
 
                 </div>
-                <p class="text-sm mt-3 md:mt-0 text-white">© Copyright 2024, All Rights Reserved by Edoovi</p>
+                <p class="sm:text-sm text-xs mt-3 md:mt-0 text-white">© Copyright 2024, All Rights Reserved by Edoovi</p>
             </div>
         </div>
     </section>

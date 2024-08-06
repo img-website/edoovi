@@ -135,7 +135,7 @@
                     <div class="text-gray-500 text-sm mt-3 font-medium leading-normal pe-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident animi veniam cupiditate et nobis, omnis similique distinctio iste maxime enim quo. Quod autem dolorem dolores?</div>
                     <div class="grid grid-cols-3 items-center mt-5">
                         <div>
-                            <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-7 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white">Contact </button>
+                        <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</button>
                         </div>
                         <div>
                             <div class="text-slate-900 md:text-4xl text-2xl font-semibold">50<span class="text-xl">+</span></div>
@@ -466,8 +466,8 @@
                     <div class="size-full p-5 rounded-3xl bg-white  [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]   flex flex-col justify-center items-center text-center
                 group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
                 group-hover:scale-95">
-                        <div class="*:size-12 sm:*:size-14 group-hover:text-white">
-                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                        <div class="*:size-12 sm:*:size-14 group-hover:text-white ">
+                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" class="[stroke-width:1.5px]" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                 <path fill="none" d="M0 0h24v24H0V0z"></path>
                                 <path d="M12 1 3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm7 10c0 4.52-2.98 8.69-7 9.93-4.02-1.24-7-5.41-7-9.93V6.3l7-3.11 7 3.11V11zm-11.59.59L6 13l4 4 8-8-1.41-1.42L10 14.17z">
                                 </path>
@@ -486,7 +486,7 @@
                     <div class="size-full p-5 rounded-3xl bg-white  [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]  text-center flex flex-col justify-center items-center
          group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-                        <div class="*:size-12 sm:*:size-14 group-hover:text-white">
+                        <div class="*:size-12 sm:*:size-14 group-hover:text-white *:[]">
                             <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z">
                                 </path>
@@ -505,7 +505,7 @@
                     <div class="size-full p-5 rounded-3xl bg-white text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] flex flex-col justify-center items-center
          group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-                        <div class="*:size-12 sm:*:size-14 group-hover:text-white">
+                        <div class="*:size-12 sm:*:size-14 group-hover:text-white *:[]">
                             <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                 <path stroke-linecap="round" stroke-linejoin="round" d="M11 5.882V19.24a1.76 1.76 0 01-3.417.592l-2.147-6.15M18 13a3 3 0 100-6M5.436 13.683A4.001 4.001 0 017 6h1.832c4.1 0 7.625-1.234 9.168-3v14c-1.543-1.766-5.067-3-9.168-3H7a3.988 3.988 0 01-1.564-.317z">
                                 </path>
@@ -523,7 +523,7 @@
                     <div class="size-full p-5 rounded-3xl bg-white text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]  flex flex-col justify-center items-center
          group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-                        <div class="*:size-12 sm:*:size-14 group-hover:text-white">
+                        <div class="*:size-12 sm:*:size-14 group-hover:text-white *:[]">
 
                             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                 <path fill="none" d="M0 0h24v24H0z"></path>
@@ -544,7 +544,7 @@
                     <div class="size-full p-5 rounded-3xl bg-white text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] flex flex-col justify-center items-center
          group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-                        <div class="*:size-12 sm:*:size-14 group-hover:text-white">
+                        <div class="*:size-12 sm:*:size-14 group-hover:text-white *:[]">
                             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                 <circle cx="128" cy="256" r="48" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"></circle>
                                 <circle cx="384" cy="112" r="48" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"></circle>
@@ -565,7 +565,7 @@
                     <div class="size-full p-5 rounded-3xl bg-white  text-center [box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] flex flex-col justify-center items-center
          group-hover:bg-gradient-to-b from-violet-300 to-violet-500/90 group-hover:border-transparent duration-300 transition-all 
          group-hover:scale-95">
-                        <div class="*:size-12 sm:*:size-14 group-hover:text-white">
+                        <div class="*:size-12 sm:*:size-14 group-hover:text-white *:[]">
                             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                 <rect width="336" height="336" x="128" y="128" fill="none" stroke-linejoin="round" stroke-width="32" rx="57" ry="57"></rect>
                                 <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="m383.5 128 .5-24a56.16 56.16 0 0 0-56-56H112a64.19 64.19 0 0 0-64 64v216a56.16 56.16 0 0 0 56 56h24">
@@ -1462,16 +1462,16 @@
 
     <section class="bg-white">
         <div class="mx-auto max-w-7xl px-6 lg:px-8 xl:py-16 lg:py-12 py-10 sm:py-6">
-            <div class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14">
-                <img class="w-full aspect-[3/1] object-cover !absolute inset-0 !z-10 rounded-lg shadow-xl h-full shadow-gray-900/50" src="  https://okclosers.com/home/homesection4/1709147333_potential.jpg">
+            <div class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14 rounded-3xl">
+                <img class="w-full aspect-[3/1] object-cover !absolute inset-0 !z-10 rounded-3xl shadow-xl h-full shadow-gray-900/50 overflow-hidden" src="  ./assets/img/faq.jpg">
                 <div class="md:w-5/12 w-full shrink-0 h-full">
                 </div>
-                <div class="grow md:p-7 p-4 bg-white/50 backdrop-blur-md rounded-l-2xl">
+                <div class="grow md:p-7 p-4 bg-white backdrop-blur-md rounded-l-3xl">
                     <div class="w-full">
-                        <div class="lg:text-4xl md:text-3xl text-2xl text-balance md:pb-4 pb-2 font-bold text-[#053871]">
-                            WHERE AMBITION MEETS UNMATCHED EARNING &amp; GROWTH</div>
-                        <div class="md:text-lg text-base sm:text-sm text-balance font-semibold pb-4 text-black/90">
-                            Unlock Your Potential with Industry Leaders</div>
+                        <div class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold text-balance">
+                        Get access to frequently asked & questions and answers</div>
+                        <div class="md:text-base text-sm text-black/70 mt-2 font-semibold text-balance mb-5">
+                        Have any questions in mind?</div>
                         <div>
 
                             <div class="relative  flex flex-col mb-3">
@@ -1526,40 +1526,7 @@
                                 </div>
                             </div>
 
-                            <!-- <div class="relative  flex flex-col mb-3">
-                                    <input class="peer/mm hidden" type="radio"  name="mmMenu" id="mmCompany12">
-                                    <label for="mmCompany12" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
-                                      7 Streams of Income ?
-                                    </label>
-                                    <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
-                                        <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
-                                            <div class="w-full text-xs xl:text-sm ">
-                                                <div class="flex items-center gap-x-3 py-2 relative">
-                                                  <div class="flex-auto text-gray-900 sm:text-sm text-xs">
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                                  </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                  </div>
-                                  <div class="relative  flex flex-col mb-3">
-                                    <input class="peer/mm hidden" type="radio"  name="mmMenu" id="mmCompany13">
-                                    <label for="mmCompany13" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
-                                      Personal Growth Opportunities?
-                                    </label>
-                                    <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
-                                        <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
-                                            <div class="w-full text-xs xl:text-sm ">
-                                                <div class="flex items-center gap-x-3 py-2 relative">
-                                                  <div class="flex-auto text-gray-900 sm:text-sm text-xs">
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                                  </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                  </div> -->
+                           
                         </div>
                     </div>
                 </div>
@@ -1572,193 +1539,160 @@
 
 
     <!-- footer start        -->
-    <!-- <footer class="relative bg-black py-8 sm:py-12 select-none text-white mt-8 overflow-hidden">
-        <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
-
-            <div class="w-full flex flex-wrap items-center gap-x-10 justify-center border- text-xs lg:text-sm">
-                <div class="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 w-full items-center">
-                    <div class="w-full sm:col-span-1 col-span-2 sm:mb-0 mb-2">
-                        <ul class="flex gap-3 items-center sm:justify-start justify-center w-full">
-                            <li>
-                                <a target="_blank" class="opacity-80 flex items-center gap-2 bg-orange-500 rounded-full p-2 mx-sm:px-2 max-sm:py-1 mx-lg:mt-3" href="javascript:;">
-                                    <span class="bg-white rounded-full size-8 flex items-center justify-center">
-                                        <svg stroke="currentColor" fill="currentColor" class="text-black size-5" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M22 17.0022C21.999 19.8731 19.9816 22.2726 17.2872 22.8616L16.6492 20.9476C17.8532 20.7511 18.8765 20.0171 19.4649 19H17C15.8954 19 15 18.1046 15 17V13C15 11.8954 15.8954 11 17 11H19.9381C19.446 7.05369 16.0796 4 12 4C7.92038 4 4.55399 7.05369 4.06189 11H7C8.10457 11 9 11.8954 9 13V17C9 18.1046 8.10457 19 7 19H4C2.89543 19 2 18.1046 2 17V12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12V12.9987V13V17V17.0013V17.0022Z"></path>
-                                        </svg>
-                                    </span>
-                                    Customer Support
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" class="opacity-80 flex items-center gap-2 bg-orange-500 rounded-full p-2 mx-sm:px-2 max-sm:py-1 mx-lg:mt-3" href="javascript:;">
-                                    <span class="bg-white rounded-full size-8 flex items-center justify-center">
-                                        <svg stroke="currentColor" fill="currentColor" class="text-black size-5" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-                                            <path fill="none" d="M0 0h24v24H0V0z"></path>
-                                            <path d="M21 6h-7.59l3.29-3.29L16 2l-4 4-4-4-.71.71L10.59 6H3a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8a2 2 0 0 0-2-2zm0 14H3V8h18v12zM9 10v8l7-4z"></path>
-                                        </svg>
-                                    </span>
-                                    Live Demo
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="w-full sm:col-span-1 col-span-2 sm:mb-0 mb-2">
-                        <ul class="flex items-center lg:justify-center sm:justify-end justify-center mb-0 p-0 gap-3 w-full">
-                            <li>
-                                <a href="#" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                                    <span>About Us</span> <span class="opacity-40 text-white ">|</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                                    <span>Privacy Policy</span> <span class="opacity-40 text-white ">|</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                                    <span>Terms Of Use
-                                    </span> <span class="opacity-40 text-white ">|</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.fantasybox.in/blog" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                                    <span>Blogs</span> <span class="opacity-40 text-white ">|</span>
-                                </a>
-                            </li>
-
-                        </ul>
-                    </div>
-                    <div class="w-auto sm:opacity-80 opacity-70 lg:col-span-1 col-span-2 text-end flex items-center lg:justify-end justify-center">©2019 -2024 Edoovi . All Rights Reserved </div>
-                </div>
-
-
-            </div>
-        </div>
-    </footer> -->
+    
 
     <!-- footer -->
     <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
         <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
-            <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 gap-y-16 gap-x-12">
+            <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 md:gap-y-16 gap-y-10 gap-x-12">
                 <div class=" lg:pr-8">
                     <img class="w-auto h-16" src="./assets/img/edoovi.webp" alt="" />
 
-                    <p class="text-base leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>
+                    <p class="sm:text-base text-sm leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>
                 </div>
 
                 <div class="md:ms-auto">
-                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 before:border-orange-500 before:w-1/4 before:inset-0">About</p>
+                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 before:border-violet-500 before:w-1/4 before:inset-0">About</p>
 
                     <ul class=" mt-6 flex flex-col gap-3">
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Vidyalaya </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Vidyalaya </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
                         </li>
                     </ul>
                 </div>
 
                 <div class="md:ms-auto">
-                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 text-nowrap before:border-orange-500 before:w-1/2 before:inset-0">Product & Services</p>
+                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 text-nowrap before:border-violet-500 before:w-1/2 before:inset-0">Product & Services</p>
 
                     <ul class=" mt-6 flex flex-col gap-3">
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Features </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Features </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
                         </li>
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
+                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
                         </li>
                     </ul>
                 </div>
 
             </div>
 
-            <hr class="my-10 border-gray-200" />
+            <hr class="sm:my-10 my-7 border-gray-200" />
             <div class="flex items-center justify-between flex-wrap">
                 <div class="flex gap-2 sm:gap-3  ">
 
                     <a href="" class="flex items-center rounded-full gap-3 sm:px-4 px-2 border-2 border-white py-2">
-                        <svg class="size-5 text-white" stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" viewBox="0 0 16 16" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                        <svg class=" sm:size-5 size-4 text-white" stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" viewBox="0 0 16 16" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                             <path d="M4.5 9h-1v7h1c0.275 0 0.5-0.225 0.5-0.5v-6c0-0.275-0.225-0.5-0.5-0.5z"></path>
                             <path d="M11.5 9c-0.275 0-0.5 0.225-0.5 0.5v6c0 0.275 0.225 0.5 0.5 0.5h1v-7h-1z"></path>
                             <path d="M16 8c0-4.418-3.582-8-8-8s-8 3.582-8 8c0 0.96 0.169 1.88 0.479 2.732-0.304 0.519-0.479 1.123-0.479 1.768 0 1.763 1.304 3.222 3 3.464v-6.928c-0.499 0.071-0.963 0.248-1.371 0.506-0.084-0.417-0.129-0.849-0.129-1.292 0-3.59 2.91-6.5 6.5-6.5s6.5 2.91 6.5 6.5c0 0.442-0.044 0.874-0.128 1.292-0.408-0.259-0.873-0.435-1.372-0.507v6.929c1.696-0.243 3-1.701 3-3.464 0-0.645-0.175-1.249-0.479-1.768 0.31-0.853 0.479-1.773 0.479-2.732z"></path>
                         </svg>
-                        <span class="text-sm font-semibold text-white mt-1">Customer Support</span>
+                        <span class="sm:text-sm text-xs font-semibold text-white mt-1">Customer Support</span>
                     </a>
                     <a href="" class="flex items-center rounded-full gap-3 sm:px-4 px-2 border-2 border-white py-2">
-                        <svg class="size-5 text-white" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                        <svg class=" sm:size-5 size-4 text-white" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                             <path fill="none" d="M0 0h24v24H0V0z"></path>
                             <path d="M21 6h-7.59l3.29-3.29L16 2l-4 4-4-4-.71.71L10.59 6H3a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8a2 2 0 0 0-2-2zm0 14H3V8h18v12zM9 10v8l7-4z"></path>
                         </svg>
-                        <span class="text-sm font-semibold text-white mt-1">Live Demo</span>
+                        <span class="sm:text-sm text-xs font-semibold text-white mt-1">Live Demo</span>
                     </a>
 
 
                 </div>
-                <p class="text-sm mt-3 md:mt-0 text-white">© Copyright 2024, All Rights Reserved by Edoovi</p>
+                <p class="sm:text-sm text-xs mt-3 md:mt-0 text-white">© Copyright 2024, All Rights Reserved by Edoovi</p>
             </div>
         </div>
     </section>
     <!-- footer end  -->
 
+
+    <!-- counter section start  -->
+     <section class="bg-orange-500">
+        <div class="mx-auto max-w-7xl lg:px-10 px-6">
+                <div class="flex justify-around py-10">
+                <div id="experience" class="text-center text-white">
+                    <div class="text-4xl font-bold">22+</div>
+                    <div class="text-xl">Years Experience</div>
+                </div>
+                <div id="clients" class="text-center text-white">
+                    <div class="text-4xl font-bold">1600+</div>
+                    <div class="text-xl">Happy Clients</div>
+                </div>
+                <div id="retention" class="text-center text-white">
+                    <div class="text-4xl font-bold">96%</div>
+                    <div class="text-xl">Client Retention</div>
+                </div>
+                <div id="reports" class="text-center text-white">
+                    <div class="text-4xl font-bold">1500+</div>
+                    <div class="text-xl">Reports</div>
+                </div>
+                <div id="trained" class="text-center text-white">
+                    <div class="text-4xl font-bold">20000+</div>
+                    <div class="text-xl">Professional Trained</div>
+                </div>
+            </div>
+        </div>
+     </section>
+     <!-- end  -->
 
 </body>
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
@@ -1890,6 +1824,38 @@
     });
 </script>
 <!-- end  -->
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+    const stats = {
+        experience: 22,
+        clients: 1600,
+        retention: 96,
+        reports: 1500,
+        trained: 20000
+    };
+
+    Object.keys(stats).forEach(key => {
+        let element = document.getElementById(key).firstElementChild;
+        animateValue(element, 0, stats[key], 2000);
+    });
+});
+
+function animateValue(obj, start, end, duration) {
+    let startTimestamp = null;
+    const step = (timestamp) => {
+        if (!startTimestamp) startTimestamp = timestamp;
+        const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+        obj.innerHTML = Math.floor(progress * (end - start) + start);
+        if (progress < 1) {
+            window.requestAnimationFrame(step);
+        }
+    };
+    window.requestAnimationFrame(step);
+}
+
+</script>
 
 
 </html>
