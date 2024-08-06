@@ -273,7 +273,7 @@
                 </div>
                 <div class="col-auto ">
                     <div class="size-full hover:[box-shadow:0px_0px_23px_0px_#72cee7] duration-300 px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-3xl     bg-gradient-to-r from-[#6ab6cb] via-[#46c3e5] to-[#09afdd]
-           before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#78d1e9]">
+                            before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#78d1e9]">
                         <div class="*:size-7 sm:*:size-9 text-white pb-4">
                             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                 <path fill="none" stroke-width="2" d="M11,15 C14,15 19,19 19,19 L19,3 C19,3 14,7 11,7 C11,7 11,15 11,15 Z M5,15 L8,23 L12,23 L9,15 M19,14 C20.657,14 22,12.657 22,11 C22,9.343 20.657,8 19,8 M11,19 C11.9999997,18.9999994 14,18 14,16 M2,11 C2,7.88888889 3.7912,7 6,7 L11,7 L11,15 L6,15 C3.7912,15 2,14.1111111 2,11 Z">
@@ -304,15 +304,15 @@
                     </div>
                 </div>
                 <div class="col-span-2 sm:col-auto">
-                    <div class="size-full flex justify-center items-center flex-row sm:flex-col gap-x-3 sm:gap-y-4">
-                        <div class="order-2 sm:order-1 *:size-6 rounded-full text-white bg-[#937ffb] px-4 py-4 shadow-md shadow-[#937ffb]">
+                    <d class="size-full flex justify-center items-center flex-row sm:flex-col gap-x-3 sm:gap-y-4">
+                        <a href="/" class="order-2 sm:order-1 *:size-6 rounded-full text-white bg-[#937ffb] px-4 py-4 shadow-md shadow-[#937ffb]">
                             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                 <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8">
                                 </path>
                             </svg>
-                        </div>
+                        </a>
                         <div class="order-1 sm:order-2 font-semibold">Browse All</div>
-                    </div>
+                    </d>
                 </div>
             </div>
         </div>
@@ -916,11 +916,11 @@
                     <div class="lg:w-6/12 w-full relative z-20 h-auto shrink-1 grow-0 py-8 max-lg:pt-0 max-lg:px-10 max-sm:px-0">
                         <div class="w-full max-lg:flex max-md:pt-5 max-sm:pt-0">
                             <div class="w-full">
-                                <p class="text-start max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-white">
+                                <p class="text-balance text-start max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-white">
                                     <span class="font-semibold">
                                         The Ultimate School ERP With Mobile App For Modern School System</span>
 
-                                    <span class="font-semibold">Modern School System</span>
+                                  
                                 </p>
                             </div>
                         </div>
