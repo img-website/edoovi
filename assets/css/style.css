@@ -903,6 +903,10 @@ video {
   margin-bottom: -6rem;
 }
 
+.-mb-72{
+  margin-bottom: -18rem;
+}
+
 .mb-0{
   margin-bottom: 0px;
 }
@@ -1140,6 +1144,10 @@ video {
   aspect-ratio: 22/9;
 }
 
+.aspect-\[3\/2\.7\]{
+  aspect-ratio: 3/2.7;
+}
+
 .aspect-\[3\/2\.8\]{
   aspect-ratio: 3/2.8;
 }
@@ -1158,10 +1166,6 @@ video {
 
 .aspect-square{
   aspect-ratio: 1 / 1;
-}
-
-.aspect-\[3\/2\.7\]{
-  aspect-ratio: 3/2.7;
 }
 
 .size-10{
@@ -2416,6 +2420,10 @@ video {
   border-width: 2px;
 }
 
+.border-\[20px\]{
+  border-width: 20px;
+}
+
 .border-x{
   border-left-width: 1px;
   border-right-width: 1px;
@@ -2472,6 +2480,10 @@ video {
 
 .border-none{
   border-style: none;
+}
+
+.border-\[solid\]{
+  border-color: solid;
 }
 
 .border-gray-100{
@@ -2594,11 +2606,6 @@ video {
 
 .bg-gray-900\/70{
   background-color: rgb(17 24 39 / 0.7);
-}
-
-.bg-neutral-900{
-  --tw-bg-opacity: 1;
-  background-color: rgb(23 23 23 / var(--tw-bg-opacity));
 }
 
 .bg-orange-100{
@@ -3317,11 +3324,6 @@ video {
   color: rgb(17 24 39 / var(--tw-text-opacity));
 }
 
-.text-neutral-400{
-  --tw-text-opacity: 1;
-  color: rgb(163 163 163 / var(--tw-text-opacity));
-}
-
 .text-orange-500{
   --tw-text-opacity: 1;
   color: rgb(249 115 22 / var(--tw-text-opacity));
@@ -3350,11 +3352,6 @@ video {
 .text-theme1{
   --tw-text-opacity: 1;
   color: rgb(230 117 41 / var(--tw-text-opacity));
-}
-
-.text-theme2{
-  --tw-text-opacity: 1;
-  color: rgb(176 159 254 / var(--tw-text-opacity));
 }
 
 .text-white{
@@ -4101,21 +4098,8 @@ body{
   background-color: rgb(38 38 38 / var(--tw-bg-opacity));
 }
 
-.first\:\*\:font-normal > *:first-child{
-  font-weight: 400;
-}
-
 .first\:\*\:font-semibold > *:first-child{
   font-weight: 600;
-}
-
-.last\:\*\:font-bold > *:last-child{
-  font-weight: 700;
-}
-
-.last\:\*\:text-theme1 > *:last-child{
-  --tw-text-opacity: 1;
-  color: rgb(230 117 41 / var(--tw-text-opacity));
 }
 
 .last\:after\:hidden:last-child::after{
@@ -5105,11 +5089,6 @@ body{
 
   .lg\:text-left{
     text-align: left;
-  }
-
-  .lg\:text-6xl{
-    font-size: 3.75rem;
-    line-height: 1;
   }
 
   .lg\:text-base{

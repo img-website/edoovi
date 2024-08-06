@@ -205,7 +205,7 @@
                     </div>
 
                     <div class="flex gap-x-5 ms-1">
-                        <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
+                        <div class="relative">
                             <div class="relative z-10 size-8 flex justify-center items-center">
                                 <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
                                     4
@@ -238,15 +238,15 @@
                 </div>
             </div>
             <div class="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 -mb-24 lg:-mb-36 mx-auto">
-                <div class="aspect-[5/4] rounded-3xl overflow-hidden">
+                <div class="aspect-[5/4] rounded-3xl overflow-hidden border-[20px] border-[solid] border-white">
                     <img src="../assets/img/vision.jpg" alt="" class="size-full object-center">
                 </div>
             </div>
         </div>
         <div class="w-full bg-purple-50 py-14 lg:py-16">
             <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
-                <div class="w-2/3 md:w-1/2 lg:w-1/3 rounded-3xl overflow-hidden hidden md:flex">
-                    <div class="aspect-[3/2.7] rounded-3xl overflow-hidden">
+                <div class="w-2/3 md:w-1/2 lg:w-1/3 rounded-3xl overflow-hidden hidden md:flex -mb-72">
+                    <div class="aspect-[3/2.7] rounded-3xl overflow-hidden border-[20px] border-[solid] border-white">
                         <img src="../assets/img/mission.jpg" alt="" class="size-full object-cover object-center">
                     </div>
                 </div>
