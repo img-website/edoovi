@@ -6278,3 +6278,31 @@ body{
     }
   }
 }
+
+.\[\&\.active\]\:border-b.active{
+  border-bottom-width: 1px;
+}
+
+.\[\&\.active\]\:border-b-\[2px\].active{
+  border-bottom-width: 2px;
+}
+
+.\[\&\.active\]\:border-b-slate-900.active{
+  --tw-border-opacity: 1;
+  border-bottom-color: rgb(15 23 42 / var(--tw-border-opacity));
+}
+
+.\[\&\.active\]\:border-b-violet-400.active{
+  --tw-border-opacity: 1;
+  border-bottom-color: rgb(167 139 250 / var(--tw-border-opacity));
+}
+
+.\[\&\.active\]\:text-slate-900.active{
+  --tw-text-opacity: 1;
+  color: rgb(15 23 42 / var(--tw-text-opacity));
+}
+
+.\[\&\.active\]\:text-slate-950.active{
+  --tw-text-opacity: 1;
+  color: rgb(2 6 23 / var(--tw-text-opacity));
+}

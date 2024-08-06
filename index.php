@@ -973,7 +973,7 @@
                 <span class="font-semibold text-slate-900">Lots Of Time & Making Best Of Resources.</span>
             </p>
             <div class="md:text-base text-sm text-black/70 mt-2 font-semibold text-balance">
-                Vidyalaya, the comprehensive school management system software meets all your school management requirements. It is best in class software covers all academic & administrative management functionalities that require to drive an educational institute. Starting from admissions to regular academic activities, exam management, fees collection, employee payroll, Edoovi school management system can relieve the staff and make the process hassle-free!
+               Edoovi, the comprehensive school management system software meets all your school management requirements. It is best in class software covers all academic & administrative management functionalities that require to drive an educational institute. Starting from admissions to regular academic activities, exam management, fees collection, employee payroll, Edoovi school management system can relieve the staff and make the process hassle-free!
             </div>
         </div>
         <div class="container mx-auto max-w-7xl px-6 lg:px-8 py-10 sm:px-6 ">
@@ -1463,83 +1463,7 @@
 
     <!-- form section end  -->
 
-    <!-- accordion start  -->
 
-    <section class="bg-white">
-        <div class="mx-auto max-w-7xl px-6 lg:px-8 xl:py-16 lg:py-12 py-10 sm:py-6">
-            <div class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14 rounded-3xl">
-                <img class="w-full aspect-[3/1] object-cover !absolute inset-0 !z-10 rounded-3xl shadow-xl h-full shadow-gray-900/50 overflow-hidden" src="  ./assets/img/faq.jpg">
-                <div class="md:w-5/12 w-full shrink-0 h-full">
-                </div>
-                <div class="grow md:p-7 p-4 bg-white backdrop-blur-md rounded-l-3xl">
-                    <div class="w-full">
-                        <div class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold text-balance">
-                        Get access to frequently asked & questions and answers</div>
-                        <div class="md:text-base text-sm text-black/70 mt-2 font-semibold text-balance mb-5">
-                        Have any questions in mind?</div>
-                        <div>
-
-                            <div class="relative  flex flex-col mb-3">
-                                <input class="peer/mm hidden" type="radio" checked="" name="mmMenu" id="mmCompany 0" 0="">
-                                <label for="mmCompany 0" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full  ">
-                                    Which Are The Most Important Features Of School ERP Software?
-                                </label>
-                                <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
-                                    <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
-                                        <div class="w-full text-xs xl:text-sm ">
-                                            <div class="flex items-center gap-x-3 py-2 relative">
-                                                <div class="flex-auto text-gray-900 sm:text-sm text-xs">
-                                                    Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush class. This is the first item's accordion body.
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="relative  flex flex-col mb-3">
-                                <input class="peer/mm hidden" type="radio" checked="" name="mmMenu" id="mmCompany 1" 1="">
-                                <label for="mmCompany 1" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
-                                    How Much Does A School Software Cost?
-                                </label>
-                                <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
-                                    <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
-                                        <div class="w-full text-xs xl:text-sm ">
-                                            <div class="flex items-center gap-x-3 py-2 relative">
-                                                <div class="flex-auto text-gray-900 sm:text-sm text-xs">
-                                                    Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush class. This is the second item's accordion body. Let's imagine this being filled with some actual content.
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="relative  flex flex-col mb-3">
-                                <input class="peer/mm hidden" type="radio" checked="" name="mmMenu" id="mmCompany 2" 2="">
-                                <label for="mmCompany 2" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
-                                    Are Cloud Based School Management Software Secure?
-                                </label>
-                                <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
-                                    <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
-                                        <div class="w-full text-xs xl:text-sm ">
-                                            <div class="flex items-center gap-x-3 py-2 relative">
-                                                <div class="flex-auto text-gray-900 sm:text-sm text-xs">
-                                                    Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush class. This is the third item's accordion body. Nothing more exciting happening here in terms of content, but just filling up the space to make it look, at least at first glance, a bit more representative of how this would look in a real-world application.
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                           
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- accordion end  -->
 
 
 
@@ -1551,7 +1475,9 @@
         <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
             <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 md:gap-y-16 gap-y-10 gap-x-12">
                 <div class=" lg:pr-8">
-                    <img class="w-auto h-16" src="./assets/img/edoovi.webp" alt="" />
+                    <a href="./index.php">
+                        <img class="w-auto h-16" src="./assets/img/edoovi.webp" alt="" />
+                    </a>
 
                     <p class="sm:text-base text-sm leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>
                 </div>
@@ -1565,7 +1491,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Vidyalaya </a>
+                            <a href="./about/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Edoovi </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -1573,7 +1499,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
+                            <a href="./clients/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -1581,7 +1507,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
+                            <a href="./privacy-policy/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -1589,7 +1515,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
+                            <a href="./terms-conditions/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
                         </li>
                     </ul>
                 </div>
@@ -1611,7 +1537,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
+                            <a href="./oursolutions/school-software/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -1619,7 +1545,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
+                            <a href="./oursolutions/college-software/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -1627,14 +1553,14 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
+                            <a href="./oursolutions/university-software/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
                         </li>
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="#" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
+                            <a href="./blogs/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
                         </li>
                     </ul>
                 </div>
@@ -1669,35 +1595,6 @@
     </section>
     <!-- footer end  -->
 
-
-    <!-- counter section start  -->
-     <section class="bg-orange-500">
-        <div class="mx-auto max-w-7xl lg:px-10 px-6">
-                <div class="flex justify-around py-10">
-                <div id="experience" class="text-center text-white">
-                    <div class="text-4xl font-bold">22+</div>
-                    <div class="text-xl">Years Experience</div>
-                </div>
-                <div id="clients" class="text-center text-white">
-                    <div class="text-4xl font-bold">1600+</div>
-                    <div class="text-xl">Happy Clients</div>
-                </div>
-                <div id="retention" class="text-center text-white">
-                    <div class="text-4xl font-bold">96%</div>
-                    <div class="text-xl">Client Retention</div>
-                </div>
-                <div id="reports" class="text-center text-white">
-                    <div class="text-4xl font-bold">1500+</div>
-                    <div class="text-xl">Reports</div>
-                </div>
-                <div id="trained" class="text-center text-white">
-                    <div class="text-4xl font-bold">20000+</div>
-                    <div class="text-xl">Professional Trained</div>
-                </div>
-            </div>
-        </div>
-     </section>
-     <!-- end  -->
 
 </body>
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
@@ -1831,36 +1728,7 @@
 <!-- end  -->
 
 
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-    const stats = {
-        experience: 22,
-        clients: 1600,
-        retention: 96,
-        reports: 1500,
-        trained: 20000
-    };
 
-    Object.keys(stats).forEach(key => {
-        let element = document.getElementById(key).firstElementChild;
-        animateValue(element, 0, stats[key], 2000);
-    });
-});
-
-function animateValue(obj, start, end, duration) {
-    let startTimestamp = null;
-    const step = (timestamp) => {
-        if (!startTimestamp) startTimestamp = timestamp;
-        const progress = Math.min((timestamp - startTimestamp) / duration, 1);
-        obj.innerHTML = Math.floor(progress * (end - start) + start);
-        if (progress < 1) {
-            window.requestAnimationFrame(step);
-        }
-    };
-    window.requestAnimationFrame(step);
-}
-
-</script>
 
 
 </html>

@@ -340,7 +340,7 @@
                     <span class="font-bold text-theme1">Lots Of Time & Making Best Of Resources.</span>
                 </p>
                 <div class="md:text-base text-sm text-black/70 mt-2 font-semibold">
-                    Vidyalaya, the comprehensive school management system software meets all your school management requirements. It is best in class software covers all academic & administrative management functionalities that require to drive an educational institute. Starting from admissions to regular academic activities, exam management, fees collection, employee payroll, Edoovi school management system can relieve the staff and make the process hassle-free!
+                   Edoovi, the comprehensive school management system software meets all your school management requirements. It is best in class software covers all academic & administrative management functionalities that require to drive an educational institute. Starting from admissions to regular academic activities, exam management, fees collection, employee payroll, Edoovi school management system can relieve the staff and make the process hassle-free!
                 </div>
             </div>
             <div class="relative z-10 lg:grid lg:grid-cols-12 lg:items-center">
