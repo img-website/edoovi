@@ -119,7 +119,7 @@
     <!-- header end  -->
 
     <!-- hero section start -->
-    <div class="relative lg:h-full md:pt-28 pt-24 pb-10 px-3 lg:px-5">
+    <div class="relative lg:h-full md:pt-28 pt-24 pb-6 sm:pb-10 px-3 lg:px-5">
         <div class="grid p-7 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center mx-auto max-w-7xl lg:px-8 px-6 h-full ">
             <div class="md:col-span-4">
                 <div class="text-slate-900 md:text-6xl sm:text-5xl text-4xl font-semibold "> Unlock Digital Potential: <span class="text-orange-500">Edoovi School Software for Tomorrow's Education</span></div>
@@ -133,94 +133,92 @@
     <!-- hero section ends -->
 
     <!-- about Section start -->
-    <div class="">
-        <div class="max-w-6xl px-4 xl:px-0 py-10 lg:pt-20 lg:pb-20 mx-auto">
-            <div class="max-w-3xl mb-10 lg:mb-14">
-                <h2 class="font-semibold text-2xl md:text-4xl md:leading-tight">
-                    Our Journey
-                </h2>
-                <p class="mt-1 text-lg">
-                    Launched in 2002, Edoovi provides an end-to-end cloud management solution for educational institutions.
-                </p>
+    <div class="max-w-6xl px-4 xl:px-0 py-6 md:py-10 lg:pt-20 lg:pb-20 mx-auto">
+        <div class="max-w-3xl mb-10 lg:mb-14">
+            <h2 class="font-semibold text-2xl md:text-4xl md:leading-tight">
+                Our Journey
+            </h2>
+            <p class="mt-1 text-lg">
+                Launched in 2002, Edoovi provides an end-to-end cloud management solution for educational institutions.
+            </p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 lg:items-center">
+            <div class="aspect-[22/9] lg:aspect-square">
+                <img class="size-full object-cover rounded-3xl" src="../assets/img/about-about.jpg" alt="Features Image">
             </div>
 
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 lg:items-center">
-                <div class="aspect-[22/9] lg:aspect-square">
-                    <img class="size-full object-cover rounded-3xl" src="../assets/img/about-about.jpg" alt="Features Image">
+            <div>
+                <div class="mb-4">
+                    <h3 class="text-theme1 text-sm font-medium">
+                        Milestones
+                    </h3>
                 </div>
 
-                <div>
-                    <div class="mb-4">
-                        <h3 class="text-theme1 text-sm font-medium">
-                            Milestones
-                        </h3>
-                    </div>
-
-                    <div class="flex gap-x-5 ms-1">
-                        <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
-                            <div class="relative z-10 size-8 flex justify-center items-center">
-                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
-                                    1
-                                </span>
-                            </div>
-                        </div>
-
-                        <div class="grow pt-0.5 pb-8 sm:pb-12">
-                            <p class="text-sm lg:text-base">
-                                Fully lined with Office 365, Google G-Suite, LMS, and various other systems, our comprehensive ERP platform meets all of the educational institution’s demands via a variety of capabilities.
-                            </p>
+                <div class="flex gap-x-5 ms-1">
+                    <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
+                        <div class="relative z-10 size-8 flex justify-center items-center">
+                            <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
+                                1
+                            </span>
                         </div>
                     </div>
 
-                    <div class="flex gap-x-5 ms-1">
-                        <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
-                            <div class="relative z-10 size-8 flex justify-center items-center">
-                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
-                                    2
-                                </span>
-                            </div>
-                        </div>
-
-                        <div class="grow pt-0.5 pb-8 sm:pb-12">
-                            <p class="text-sm lg:text-base">
-                                Our ERP software also helps build strong communication and collaboration channels with teachers, students, parents, candidates, and alumni.
-                            </p>
-                        </div>
+                    <div class="grow pt-0.5 pb-8 sm:pb-12">
+                        <p class="text-sm lg:text-base">
+                            Fully lined with Office 365, Google G-Suite, LMS, and various other systems, our comprehensive ERP platform meets all of the educational institution’s demands via a variety of capabilities.
+                        </p>
                     </div>
-
-                    <div class="flex gap-x-5 ms-1">
-                        <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
-                            <div class="relative z-10 size-8 flex justify-center items-center">
-                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
-                                    3
-                                </span>
-                            </div>
-                        </div>
-
-                        <div class="grow pt-0.5 pb-8 sm:pb-12">
-                            <p class="text-sm md:text-base">
-                                Since its launch, 1800+ educational institutions have been using this software to manage admissions, sales, registration, timetabling, academic, learning, finance, payments, transportation, and library operations effectively.
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="flex gap-x-5 ms-1">
-                        <div class="relative">
-                            <div class="relative z-10 size-8 flex justify-center items-center">
-                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
-                                    4
-                                </span>
-                            </div>
-                        </div>
-
-                        <div class="grow pt-0.5 pb-8 sm:pb-12">
-                            <p class="text-sm md:text-base">
-                                Edoovi ERP is used by most of the reputed educational institutes in 23+states and 8+ countries worldwide.
-                            </p>
-                        </div>
-                    </div>
-
                 </div>
+
+                <div class="flex gap-x-5 ms-1">
+                    <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
+                        <div class="relative z-10 size-8 flex justify-center items-center">
+                            <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
+                                2
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="grow pt-0.5 pb-8 sm:pb-12">
+                        <p class="text-sm lg:text-base">
+                            Our ERP software also helps build strong communication and collaboration channels with teachers, students, parents, candidates, and alumni.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="flex gap-x-5 ms-1">
+                    <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
+                        <div class="relative z-10 size-8 flex justify-center items-center">
+                            <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
+                                3
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="grow pt-0.5 pb-8 sm:pb-12">
+                        <p class="text-sm md:text-base">
+                            Since its launch, 1800+ educational institutions have been using this software to manage admissions, sales, registration, timetabling, academic, learning, finance, payments, transportation, and library operations effectively.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="flex gap-x-5 ms-1">
+                    <div class="relative">
+                        <div class="relative z-10 size-8 flex justify-center items-center">
+                            <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
+                                4
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="grow pt-0.5 pb-8 sm:pb-12">
+                        <p class="text-sm md:text-base">
+                            Edoovi ERP is used by most of the reputed educational institutes in 23+states and 8+ countries worldwide.
+                        </p>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
@@ -304,7 +302,7 @@
     <!-- mission section ends -->
 
     <!-- why us section start -->
-    <div class="relative py-6 md:py-8 lg:py-10 overflow-hidden">
+    <div class="relative py-6 md:py-12 lg:py-10 overflow-hidden">
         <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
             <div class="select-none relative">
                 <div class="flex w-full h-auto items-center flex-wrap">

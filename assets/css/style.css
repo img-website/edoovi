@@ -3062,6 +3062,10 @@ video {
   padding-top: 8rem;
 }
 
+.pb-6{
+  padding-bottom: 1.5rem;
+}
+
 .text-left{
   text-align: left;
 }
@@ -4565,6 +4569,10 @@ body{
     padding-top: 1rem;
   }
 
+  .sm\:pb-10{
+    padding-bottom: 2.5rem;
+  }
+
   .sm\:text-4xl{
     font-size: 2.25rem;
     line-height: 2.5rem;
@@ -4736,6 +4744,16 @@ body{
   .md\:py-8{
     padding-top: 2rem;
     padding-bottom: 2rem;
+  }
+
+  .md\:py-12{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  .md\:py-10{
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
   }
 
   .md\:pb-20{
