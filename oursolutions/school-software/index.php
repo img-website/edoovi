@@ -208,14 +208,14 @@
   <!-- tabs start -->
   <div class="container mx-auto max-w-7xl md:px-6 lg:px-8 py-6 sm:px-6">
     <div class="  ">
-      <div class=" mx-auto max-w-7xl z-10 mb-4">
+      <div class=" mx-auto max-w-7xl px-6 lg:px-8 z-10 mb-4">
         <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
           <span class="font-normal text-balance.">The Key Benefit Is You Can Save Money, Save Lots Of Time & Making Best Of Resources.</span>
           <span class="font-bold text-theme1"></span>
         </p>
 
       </div>
-      <div class="">
+      <div class="max-w-7xl mx-auto px-6 lg:px-8  ">
         <div class="mb-5 sm:mb-10 lg:mb-0  lg:order-2 bg-orange-50 px-4 sm:px-8 rounded-3xl">
           <div class="relative">
 
@@ -236,7 +236,7 @@
                   </path>
                 </svg>
                 <span class="grow">
-                  <span class="block text-sm font-medium text-nowrap ">Data Storage</span>
+                  <span class="block text-sm font-medium text-nowrap ">Core Modules</span>
 
                 </span>
               </span>
@@ -255,7 +255,7 @@
                   </path>
                 </svg>
                 <span class="grow">
-                  <span class="block text-sm font-medium text-nowrap ">Data Storage</span>
+                  <span class="block text-sm font-medium text-nowrap ">Resource Management</span>
 
                 </span>
               </span>
@@ -274,7 +274,7 @@
                   </path>
                 </svg>
                 <span class="grow">
-                  <span class="block text-sm font-medium text-nowrap ">Data Storage</span>
+                  <span class="block text-sm font-medium text-nowrap ">Communication Management</span>
 
                 </span>
               </span>
@@ -293,7 +293,7 @@
                   </path>
                 </svg>
                 <span class="grow">
-                  <span class="block text-sm font-medium text-nowrap ">Data Storage</span>
+                  <span class="block text-sm font-medium text-nowrap ">Data Managemen</span>
 
                 </span>
               </span>
@@ -311,7 +311,7 @@
                   </path>
                 </svg>
                 <span class="grow">
-                  <span class="block text-sm font-medium text-nowrap ">Data Storage</span>
+                  <span class="block text-sm font-medium text-nowrap ">Integrations</span>
 
                 </span>
               </span>
@@ -319,10 +319,10 @@
           </nav>
         </div>
 
-        <div class="mt-5">
+        <div class="mt-5 max-w-7xl mx-auto">
           <div id="tabs-with-card-1" role="tabpanel" class=""
             aria-labelledby="tabs-with-card-item-1">
-            <div class="grid grid-cols-3 gap-2">
+            <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-2 ">
 
               <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
                 <div
@@ -822,7 +822,7 @@
 
         <div id="tabs-with-card-2" class="hidden " role="tabpanel"
           aria-labelledby="tabs-with-card-item-2">
-          <div class="grid grid-cols-3 gap-2">
+          <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-2 ">
 
 <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
   <div
@@ -1321,7 +1321,7 @@
 
         <div id="tabs-with-card-3" class="hidden " role="tabpanel"
           aria-labelledby="tabs-with-card-item-3">
-          <div class="grid grid-cols-3 gap-2">
+          <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-2 ">
 
               <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
                 <div
@@ -1819,7 +1819,7 @@
         </div>
         <div id="tabs-with-card-4" class="hidden " role="tabpanel"
           aria-labelledby="tabs-with-card-item-4">
-          <div class="grid grid-cols-3 gap-2">
+          <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-2 ">
 
               <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
                 <div
@@ -2317,7 +2317,7 @@
         </div>
         <div id="tabs-with-card-5" class="hidden " role="tabpanel"
           aria-labelledby="tabs-with-card-item-3">
-           <div class="grid grid-cols-3 gap-2">
+           <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-2 ">
 
               <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
                 <div
