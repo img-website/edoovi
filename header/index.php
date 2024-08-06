@@ -70,7 +70,7 @@
       </svg>
     </label>
    </nav>
-   <div class="flex flex-col !content-between">
+   <div class="flex flex-col !content-between bg-white">
    <ul>
   <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
     <a href="" >Home</a>

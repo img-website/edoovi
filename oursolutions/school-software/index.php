@@ -124,8 +124,8 @@
     <div class="grid p-7 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center mx-auto max-w-7xl lg:px-8 px-6 h-full ">
       <div class="md:col-span-4">
         <h1 class="block text-3xl font-bold text-theme2">Unlock Digital Potential</h1>
-        <p class="mt-3 text-3xl sm:text-4xl lg:text-6xl text-theme1 font-semibold">Edoovi School Software for Tomorrow's
-          Education</p>
+        <div class="text-slate-900 md:text-6xl sm:text-5xl text-4xl font-semibold ">School Management Software With <span class="text-orange-500"> Cloud
+        Based School ERP</span></div>
       </div>
 
       <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
@@ -143,7 +143,11 @@
       <img src="https://html.hixstudio.net/acadia-prev/acadia/assets/img/bg/banner-3-bg-1.png" alt="" class="size-full">
     </div>
     <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full relative z-10">
-      <div class="grid grid-cols-12 gap-y-10 lg:gap-8 group">
+    <p class="mb-10 max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance tracking-[-0.04em] text-slate-900  font-semibold">
+            <span class="font-semibold">We Offer End-To-End Solutions For</span> <br>
+            <span class="font-bold text-slate-900">Every Phase Of School Management.</span>
+          </p>
+      <div class="grid grid-cols-12 items-center gap-y-10 lg:gap-8 group">
         <div class="col-span-12 lg:col-span-6">
           <div class="size-full relative flex items-center justify-center group">
             <div class=" h-full w-[70%]">
