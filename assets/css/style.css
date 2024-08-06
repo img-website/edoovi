@@ -2128,6 +2128,10 @@ video {
   row-gap: 2.25rem;
 }
 
+.gap-y-4{
+  row-gap: 1rem;
+}
+
 .space-x-2 > :not([hidden]) ~ :not([hidden]){
   --tw-space-x-reverse: 0;
   margin-right: calc(0.5rem * var(--tw-space-x-reverse));
@@ -5451,6 +5455,10 @@ body{
 
   .md\:mt-4{
     margin-top: 1rem;
+  }
+
+  .md\:mb-12{
+    margin-bottom: 3rem;
   }
 
   .md\:flex{
