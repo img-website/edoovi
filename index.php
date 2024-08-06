@@ -1462,16 +1462,16 @@
 
     <section class="bg-white">
         <div class="mx-auto max-w-7xl px-6 lg:px-8 xl:py-16 lg:py-12 py-10 sm:py-6">
-            <div class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14">
-                <img class="w-full aspect-[3/1] object-cover !absolute inset-0 !z-10 rounded-lg shadow-xl h-full shadow-gray-900/50" src="  https://okclosers.com/home/homesection4/1709147333_potential.jpg">
+            <div class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14 rounded-3xl">
+                <img class="w-full aspect-[3/1] object-cover !absolute inset-0 !z-10 rounded-3xl shadow-xl h-full shadow-gray-900/50 overflow-hidden" src="  ./assets/img/faq.jpg">
                 <div class="md:w-5/12 w-full shrink-0 h-full">
                 </div>
-                <div class="grow md:p-7 p-4 bg-white/50 backdrop-blur-md rounded-l-2xl">
+                <div class="grow md:p-7 p-4 bg-white backdrop-blur-md rounded-l-3xl">
                     <div class="w-full">
-                        <div class="lg:text-4xl md:text-3xl text-2xl text-balance md:pb-4 pb-2 font-bold text-[#053871]">
-                            WHERE AMBITION MEETS UNMATCHED EARNING &amp; GROWTH</div>
-                        <div class="md:text-lg text-base sm:text-sm text-balance font-semibold pb-4 text-black/90">
-                            Unlock Your Potential with Industry Leaders</div>
+                        <div class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold text-balance">
+                        Get access to frequently asked & questions and answers</div>
+                        <div class="md:text-base text-sm text-black/70 mt-2 font-semibold text-balance mb-5">
+                        Have any questions in mind?</div>
                         <div>
 
                             <div class="relative  flex flex-col mb-3">
@@ -1526,40 +1526,7 @@
                                 </div>
                             </div>
 
-                            <!-- <div class="relative  flex flex-col mb-3">
-                                    <input class="peer/mm hidden" type="radio"  name="mmMenu" id="mmCompany12">
-                                    <label for="mmCompany12" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
-                                      7 Streams of Income ?
-                                    </label>
-                                    <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
-                                        <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
-                                            <div class="w-full text-xs xl:text-sm ">
-                                                <div class="flex items-center gap-x-3 py-2 relative">
-                                                  <div class="flex-auto text-gray-900 sm:text-sm text-xs">
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                                  </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                  </div>
-                                  <div class="relative  flex flex-col mb-3">
-                                    <input class="peer/mm hidden" type="radio"  name="mmMenu" id="mmCompany13">
-                                    <label for="mmCompany13" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
-                                      Personal Growth Opportunities?
-                                    </label>
-                                    <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
-                                        <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
-                                            <div class="w-full text-xs xl:text-sm ">
-                                                <div class="flex items-center gap-x-3 py-2 relative">
-                                                  <div class="flex-auto text-gray-900 sm:text-sm text-xs">
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                                  </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                  </div> -->
+                           
                         </div>
                     </div>
                 </div>
@@ -1572,69 +1539,7 @@
 
 
     <!-- footer start        -->
-    <!-- <footer class="relative bg-black py-8 sm:py-12 select-none text-white mt-8 overflow-hidden">
-        <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
-
-            <div class="w-full flex flex-wrap items-center gap-x-10 justify-center border- text-xs lg:text-sm">
-                <div class="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 w-full items-center">
-                    <div class="w-full sm:col-span-1 col-span-2 sm:mb-0 mb-2">
-                        <ul class="flex gap-3 items-center sm:justify-start justify-center w-full">
-                            <li>
-                                <a target="_blank" class="opacity-80 flex items-center gap-2 bg-orange-500 rounded-full p-2 mx-sm:px-2 max-sm:py-1 mx-lg:mt-3" href="javascript:;">
-                                    <span class="bg-white rounded-full size-8 flex items-center justify-center">
-                                        <svg stroke="currentColor" fill="currentColor" class="text-black size-5" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M22 17.0022C21.999 19.8731 19.9816 22.2726 17.2872 22.8616L16.6492 20.9476C17.8532 20.7511 18.8765 20.0171 19.4649 19H17C15.8954 19 15 18.1046 15 17V13C15 11.8954 15.8954 11 17 11H19.9381C19.446 7.05369 16.0796 4 12 4C7.92038 4 4.55399 7.05369 4.06189 11H7C8.10457 11 9 11.8954 9 13V17C9 18.1046 8.10457 19 7 19H4C2.89543 19 2 18.1046 2 17V12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12V12.9987V13V17V17.0013V17.0022Z"></path>
-                                        </svg>
-                                    </span>
-                                    Customer Support
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" class="opacity-80 flex items-center gap-2 bg-orange-500 rounded-full p-2 mx-sm:px-2 max-sm:py-1 mx-lg:mt-3" href="javascript:;">
-                                    <span class="bg-white rounded-full size-8 flex items-center justify-center">
-                                        <svg stroke="currentColor" fill="currentColor" class="text-black size-5" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-                                            <path fill="none" d="M0 0h24v24H0V0z"></path>
-                                            <path d="M21 6h-7.59l3.29-3.29L16 2l-4 4-4-4-.71.71L10.59 6H3a2 2 0 0 0-2 2v12c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8a2 2 0 0 0-2-2zm0 14H3V8h18v12zM9 10v8l7-4z"></path>
-                                        </svg>
-                                    </span>
-                                    Live Demo
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="w-full sm:col-span-1 col-span-2 sm:mb-0 mb-2">
-                        <ul class="flex items-center lg:justify-center sm:justify-end justify-center mb-0 p-0 gap-3 w-full">
-                            <li>
-                                <a href="#" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                                    <span>About Us</span> <span class="opacity-40 text-white ">|</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                                    <span>Privacy Policy</span> <span class="opacity-40 text-white ">|</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                                    <span>Terms Of Use
-                                    </span> <span class="opacity-40 text-white ">|</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.fantasybox.in/blog" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                                    <span>Blogs</span> <span class="opacity-40 text-white ">|</span>
-                                </a>
-                            </li>
-
-                        </ul>
-                    </div>
-                    <div class="w-auto sm:opacity-80 opacity-70 lg:col-span-1 col-span-2 text-end flex items-center lg:justify-end justify-center">©2019 -2024 Edoovi . All Rights Reserved </div>
-                </div>
-
-
-            </div>
-        </div>
-    </footer> -->
+    
 
     <!-- footer -->
     <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
@@ -1647,37 +1552,37 @@
                 </div>
 
                 <div class="md:ms-auto">
-                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 before:border-orange-500 before:w-1/4 before:inset-0">About</p>
+                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 before:border-violet-500 before:w-1/4 before:inset-0">About</p>
 
                     <ul class=" mt-6 flex flex-col gap-3">
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
                             <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Vidyalaya </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
                             <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
                             <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
                             <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
                         </li>
@@ -1685,44 +1590,44 @@
                 </div>
 
                 <div class="md:ms-auto">
-                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 text-nowrap before:border-orange-500 before:w-1/2 before:inset-0">Product & Services</p>
+                    <p class="text-base font-semibold tracking-widest text-white uppercase relative before:absolute before:border-b-2 text-nowrap before:border-violet-500 before:w-1/2 before:inset-0">Product & Services</p>
 
                     <ul class=" mt-6 flex flex-col gap-3">
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
                             <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Features </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
                             <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
                             <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
                             <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
                         </li>
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
-                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
-                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
+                                <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
+                                <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
                             <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
                         </li>
@@ -1759,6 +1664,35 @@
     </section>
     <!-- footer end  -->
 
+
+    <!-- counter section start  -->
+     <section class="bg-orange-500">
+        <div class="mx-auto max-w-7xl lg:px-10 px-6">
+                <div class="flex justify-around py-10">
+                <div id="experience" class="text-center text-white">
+                    <div class="text-4xl font-bold">22+</div>
+                    <div class="text-xl">Years Experience</div>
+                </div>
+                <div id="clients" class="text-center text-white">
+                    <div class="text-4xl font-bold">1600+</div>
+                    <div class="text-xl">Happy Clients</div>
+                </div>
+                <div id="retention" class="text-center text-white">
+                    <div class="text-4xl font-bold">96%</div>
+                    <div class="text-xl">Client Retention</div>
+                </div>
+                <div id="reports" class="text-center text-white">
+                    <div class="text-4xl font-bold">1500+</div>
+                    <div class="text-xl">Reports</div>
+                </div>
+                <div id="trained" class="text-center text-white">
+                    <div class="text-4xl font-bold">20000+</div>
+                    <div class="text-xl">Professional Trained</div>
+                </div>
+            </div>
+        </div>
+     </section>
+     <!-- end  -->
 
 </body>
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
@@ -1890,6 +1824,38 @@
     });
 </script>
 <!-- end  -->
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+    const stats = {
+        experience: 22,
+        clients: 1600,
+        retention: 96,
+        reports: 1500,
+        trained: 20000
+    };
+
+    Object.keys(stats).forEach(key => {
+        let element = document.getElementById(key).firstElementChild;
+        animateValue(element, 0, stats[key], 2000);
+    });
+});
+
+function animateValue(obj, start, end, duration) {
+    let startTimestamp = null;
+    const step = (timestamp) => {
+        if (!startTimestamp) startTimestamp = timestamp;
+        const progress = Math.min((timestamp - startTimestamp) / duration, 1);
+        obj.innerHTML = Math.floor(progress * (end - start) + start);
+        if (progress < 1) {
+            window.requestAnimationFrame(step);
+        }
+    };
+    window.requestAnimationFrame(step);
+}
+
+</script>
 
 
 </html>
