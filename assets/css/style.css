@@ -1058,10 +1058,6 @@ video {
   margin-top: 0.5rem;
 }
 
-.mt-20{
-  margin-top: 5rem;
-}
-
 .mt-3{
   margin-top: 0.75rem;
 }
@@ -1360,10 +1356,6 @@ video {
 
 .h-\[300px\]{
   height: 300px;
-}
-
-.h-\[40vh\]{
-  height: 40vh;
 }
 
 .h-\[83px\]{
@@ -2638,12 +2630,12 @@ video {
   border-width: 2px;
 }
 
-.border-\[20px\]{
-  border-width: 20px;
-}
-
 .border-\[10px\]{
   border-width: 10px;
+}
+
+.border-\[20px\]{
+  border-width: 20px;
 }
 
 .border-x{
@@ -2874,11 +2866,6 @@ video {
   background-color: rgb(243 244 246 / var(--tw-bg-opacity));
 }
 
-.bg-gray-50{
-  --tw-bg-opacity: 1;
-  background-color: rgb(249 250 251 / var(--tw-bg-opacity));
-}
-
 .bg-gray-900{
   --tw-bg-opacity: 1;
   background-color: rgb(17 24 39 / var(--tw-bg-opacity));
@@ -3021,12 +3008,6 @@ video {
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
-.from-slate-900\/50{
-  --tw-gradient-from: rgb(15 23 42 / 0.5) var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(15 23 42 / 0) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
 .from-violet-300{
   --tw-gradient-from: #c4b5fd var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(196 181 253 / 0) var(--tw-gradient-to-position);
@@ -3062,11 +3043,6 @@ video {
 .via-gray-200{
   --tw-gradient-to: rgb(229 231 235 / 0)  var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), #e5e7eb var(--tw-gradient-via-position), var(--tw-gradient-to);
-}
-
-.via-slate-900\/50{
-  --tw-gradient-to: rgb(15 23 42 / 0)  var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), rgb(15 23 42 / 0.5) var(--tw-gradient-via-position), var(--tw-gradient-to);
 }
 
 .via-violet-800{
@@ -4702,19 +4678,9 @@ body{
   height: 0.5rem;
 }
 
-.after\:h-full::after{
-  content: var(--tw-content);
-  height: 100%;
-}
-
 .after\:w-2::after{
   content: var(--tw-content);
   width: 0.5rem;
-}
-
-.after\:w-full::after{
-  content: var(--tw-content);
-  width: 100%;
 }
 
 .after\:w-px::after{
@@ -4824,11 +4790,6 @@ body{
 .after\:bg-\[url\(\'\.\.\/\.\.\/assets\/img\/dot\.png\'\)\]::after{
   content: var(--tw-content);
   background-image: url('../../assets/img/dot.png');
-}
-
-.after\:bg-gradient-to-tr::after{
-  content: var(--tw-content);
-  background-image: linear-gradient(to top right, var(--tw-gradient-stops));
 }
 
 .after\:bg-contain::after{
@@ -5421,10 +5382,6 @@ body{
     margin-inline-start: 0.75rem;
   }
 
-  .sm\:mt-24{
-    margin-top: 6rem;
-  }
-
   .sm\:mt-8{
     margin-top: 2rem;
   }
@@ -5445,10 +5402,6 @@ body{
 
   .sm\:h-96{
     height: 24rem;
-  }
-
-  .sm\:h-\[45vh\]{
-    height: 45vh;
   }
 
   .sm\:h-\[83px\]{
@@ -6210,6 +6163,10 @@ body{
     padding-right: 2rem;
   }
 
+  .lg\:ps-10{
+    padding-inline-start: 2.5rem;
+  }
+
   .lg\:ps-8{
     padding-inline-start: 2rem;
   }
@@ -6230,10 +6187,6 @@ body{
     padding-top: 1.5rem;
   }
 
-  .lg\:ps-10{
-    padding-inline-start: 2.5rem;
-  }
-
   .lg\:text-left{
     text-align: left;
   }
@@ -6241,16 +6194,6 @@ body{
   .lg\:text-2xl{
     font-size: 1.5rem;
     line-height: 2rem;
-  }
-
-  .lg\:text-5xl{
-    font-size: 3rem;
-    line-height: 1;
-  }
-
-  .lg\:text-6xl{
-    font-size: 3.75rem;
-    line-height: 1;
   }
 
   .lg\:text-base{
