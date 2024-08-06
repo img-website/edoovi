@@ -152,8 +152,9 @@
       class="grid p-7 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center mx-auto max-w-7xl lg:px-8 px-6 h-full ">
       <div class="md:col-span-4">
         <h1 class="block text-3xl font-bold text-theme2">Unlock Digital Potential</h1>
-        <p class="mt-3 text-3xl sm:text-4xl lg:text-6xl text-theme1 font-semibold">Edoovi School Software for Tomorrow's
-          Education</p>
+        <div class="text-slate-900 md:text-6xl sm:text-5xl text-4xl font-semibold "> USchool Management Software With 
+           <span class="text-orange-500">Cloud
+           Based School ERP</span></div>
       </div>
 
       <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
@@ -166,25 +167,32 @@
   <!-- hero section ends -->
   <!-- why us section start -->
 
-  <div class="relative py-6 md:py-8 lg:py-10 overflow-hidden">
-    <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
-      <p class="
-                    max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black md:w-1/2 mb-4
-                "> <span>India’s Best School
-        </span>
-        <span> Management Software?</span>
-      </p>
-      <div class="select-none relative">
-        <div class="flex w-full h-auto items-center flex-wrap">
-          <div class="lg:w-[60%] pt-4 md:pt-0 lg:ps-10 pe-0 w-[100%] order-2">
-            <p class="
-                    max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black
-
-                "> <span>What Is
-              </span>
-              <span>School Management Software?</span>
-            </p>
-            <div class="md:text-lg text-sm opacity-70 mt-3 mb-lg-1">
+  <section class="py-20  relative overflow-hidden">
+          <div class="absolute inset-0 size-full ">
+            <img src="https://html.hixstudio.net/acadia-prev/acadia/assets/img/bg/banner-3-bg-1.png" alt="" class="size-full">
+        </div>
+    <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full relative z-10">
+      <div class="grid grid-cols-12 gap-y-10 lg:gap-8 group items-center">
+      <div class="col-span-12 lg:col-span-6">
+          <div class="size-full relative flex items-center justify-center group">
+            <div class=" h-full w-[70%]">
+              <img class="aspect-[1/1]  object-cover rounded-3xl" src="../../assets/img/students.avif" alt="">
+            </div>
+        
+           <div class=" absolute -top-7  z-[3] w-[40%] right-0 sm:group-hover:right-[58%]  duration-300 ">
+            <img class="aspect-[1/.8] rounded-3xl object-cover" src="../../assets/img/students4.avif" alt="">
+           </div>
+           <div class=" absolute -bottom-5 z-[3] w-[40%] left-0 sm:group-hover:left-[58%]  duration-300 ">
+            <img class="aspect-[1/.8] rounded-3xl object-cover" src="../../assets/img/students5.avif" alt="">
+           </div>
+          </div>
+        </div>
+        <div class="col-span-12 lg:col-span-6">
+          <div class="size-full">
+            <div class="text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold pb-4">
+              What is School Management Software?
+            </div>
+            <div class="md:text-base text-sm text-black/70 mt-2 font-boldtext-ellipsis line-clamp-[10] overflow-hidden">
               School management software introduces a new platform by embedding new-edge technology into the educational
               sector. The digital platform is capable of managing the school management activities making them smarter.
               The comprehensive features of school management software not only reduce the workload of the institution’s
@@ -194,16 +202,11 @@
               hassles.
             </div>
           </div>
-          <div class="lg:w-[40%] flex items-center justify-center w-[100%]  overflow-hidden rounded-3xl order-1 ">
-            <div class="aspect-[3/2.8] object-cover size-full *:size-full"> <img src="../../assets/img/whyUs.jpg"
-                alt="Why Choose IMG Global Infotech for On-demand Food Delivery App Development?">
-
-            </div>
-          </div>
         </div>
+        
       </div>
     </div>
-  </div>
+  </section>
   <!-- why us section ends -->
   <!-- tabs start -->
   <div class="container mx-auto max-w-7xl md:px-6 lg:px-8 py-6 sm:px-6">
