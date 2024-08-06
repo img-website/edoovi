@@ -920,7 +920,7 @@
                                     <span class="font-semibold">
                                         The Ultimate School ERP With Mobile App For Modern School System</span>
 
-                                    <span class="font-bold text-slate-900">Modern School System</span>
+                                    <span class="font-semibold">Modern School System</span>
                                 </p>
                             </div>
                         </div>
