@@ -210,7 +210,7 @@
     <div class="  ">
       <div class=" mx-auto max-w-7xl z-10 mb-4">
         <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
-          <span class="font-normal">The Key Benefit Is You Can Save Money, Save Lots Of Time & Making Best Of Resources.</span>
+          <span class="font-normal text-balance.">The Key Benefit Is You Can Save Money, Save Lots Of Time & Making Best Of Resources.</span>
           <span class="font-bold text-theme1"></span>
         </p>
 
