@@ -119,111 +119,106 @@
     <!-- header end  -->
 
     <!-- hero section start -->
-    <div class="relative lg:h-full md:pt-28 pt-24 pb-10 px-3 lg:px-5">
+    <div class="relative lg:h-full md:pt-28 pt-24 pb-6 sm:pb-10 px-3 lg:px-5">
         <div class="grid p-7 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center mx-auto max-w-7xl lg:px-8 px-6 h-full ">
             <div class="md:col-span-4">
-                <h1 class="block text-3xl font-bold text-theme2">Unlock Digital Potential</h1>
-                <p class="mt-3 text-3xl sm:text-4xl lg:text-6xl text-theme1 font-semibold">Edoovi School Software for Tomorrow's Education</p>
+                <div class="text-slate-900 md:text-6xl sm:text-5xl text-4xl font-semibold "> Unlock Digital Potential: <span class="text-orange-500">Edoovi School Software for Tomorrow's Education</span></div>
             </div>
 
             <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
-                <img class="size-full rounded-3xl" src="https://images.unsplash.com/photo-1665686376173-ada7a0031a85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=900&h=700&q=80" alt="Hero Image">
+                <img class="size-full rounded-3xl" src="../assets/img/about-hero.jpg" alt="Hero Image">
             </div>
         </div>
     </div>
     <!-- hero section ends -->
 
     <!-- about Section start -->
-    <div class="bg-neutral-900">
-        <div class="max-w-6xl px-4 xl:px-0 py-10 lg:pt-20 lg:pb-20 mx-auto">
-            <div class="max-w-3xl mb-10 lg:mb-14">
-                <h2 class="text-white font-semibold text-2xl md:text-4xl md:leading-tight">Our
-                    <span class="text-theme1">
-                        Journey
-                    </span>
-                </h2>
-                <p class="mt-1 text-white text-lg">
-                    Launched in 2002, Edoovi provides an end-to-end cloud management solution for educational institutions.
-                </p>
+    <div class="max-w-6xl px-4 xl:px-0 py-6 md:py-10 lg:pt-20 lg:pb-20 mx-auto">
+        <div class="max-w-3xl mb-10 lg:mb-14">
+            <h2 class="font-semibold text-2xl md:text-4xl md:leading-tight">
+                Our Journey
+            </h2>
+            <p class="mt-1 text-lg">
+                Launched in 2002, Edoovi provides an end-to-end cloud management solution for educational institutions.
+            </p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 lg:items-center">
+            <div class="aspect-[22/9] lg:aspect-square">
+                <img class="size-full object-cover rounded-3xl" src="../assets/img/about-about.jpg" alt="Features Image">
             </div>
 
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 lg:items-center">
-                <div class="aspect-[22/9] lg:aspect-square">
-                    <img class="size-full object-cover rounded-3xl" src="https://images.unsplash.com/photo-1587614203976-365c74645e83?q=80&w=480&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Features Image">
+            <div>
+                <div class="mb-4">
+                    <h3 class="text-theme1 text-sm font-medium">
+                        Milestones
+                    </h3>
                 </div>
 
-                <div>
-                    <div class="mb-4">
-                        <h3 class="text-theme1 text-sm font-medium">
-                            Milestones
-                        </h3>
-                    </div>
-
-                    <div class="flex gap-x-5 ms-1">
-                        <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
-                            <div class="relative z-10 size-8 flex justify-center items-center">
-                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
-                                    1
-                                </span>
-                            </div>
-                        </div>
-
-                        <div class="grow pt-0.5 pb-8 sm:pb-12">
-                            <p class="text-sm lg:text-base text-neutral-400">
-                                Fully lined with Office 365, Google G-Suite, LMS, and various other systems, our comprehensive ERP platform meets all of the educational institution’s demands via a variety of capabilities.
-                            </p>
+                <div class="flex gap-x-5 ms-1">
+                    <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
+                        <div class="relative z-10 size-8 flex justify-center items-center">
+                            <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
+                                1
+                            </span>
                         </div>
                     </div>
 
-                    <div class="flex gap-x-5 ms-1">
-                        <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
-                            <div class="relative z-10 size-8 flex justify-center items-center">
-                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
-                                    2
-                                </span>
-                            </div>
-                        </div>
-
-                        <div class="grow pt-0.5 pb-8 sm:pb-12">
-                            <p class="text-sm lg:text-base text-neutral-400">
-                                Our ERP software also helps build strong communication and collaboration channels with teachers, students, parents, candidates, and alumni.
-                            </p>
-                        </div>
+                    <div class="grow pt-0.5 pb-8 sm:pb-12">
+                        <p class="text-sm lg:text-base">
+                            Fully lined with Office 365, Google G-Suite, LMS, and various other systems, our comprehensive ERP platform meets all of the educational institution’s demands via a variety of capabilities.
+                        </p>
                     </div>
-
-                    <div class="flex gap-x-5 ms-1">
-                        <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
-                            <div class="relative z-10 size-8 flex justify-center items-center">
-                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
-                                    3
-                                </span>
-                            </div>
-                        </div>
-
-                        <div class="grow pt-0.5 pb-8 sm:pb-12">
-                            <p class="text-sm md:text-base text-neutral-400">
-                                Since its launch, 1800+ educational institutions have been using this software to manage admissions, sales, registration, timetabling, academic, learning, finance, payments, transportation, and library operations effectively.
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="flex gap-x-5 ms-1">
-                        <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
-                            <div class="relative z-10 size-8 flex justify-center items-center">
-                                <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
-                                    4
-                                </span>
-                            </div>
-                        </div>
-
-                        <div class="grow pt-0.5 pb-8 sm:pb-12">
-                            <p class="text-sm md:text-base text-neutral-400">
-                                Edoovi ERP is used by most of the reputed educational institutes in 23+states and 8+ countries worldwide.
-                            </p>
-                        </div>
-                    </div>
-
                 </div>
+
+                <div class="flex gap-x-5 ms-1">
+                    <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
+                        <div class="relative z-10 size-8 flex justify-center items-center">
+                            <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
+                                2
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="grow pt-0.5 pb-8 sm:pb-12">
+                        <p class="text-sm lg:text-base">
+                            Our ERP software also helps build strong communication and collaboration channels with teachers, students, parents, candidates, and alumni.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="flex gap-x-5 ms-1">
+                    <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
+                        <div class="relative z-10 size-8 flex justify-center items-center">
+                            <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
+                                3
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="grow pt-0.5 pb-8 sm:pb-12">
+                        <p class="text-sm md:text-base">
+                            Since its launch, 1800+ educational institutions have been using this software to manage admissions, sales, registration, timetabling, academic, learning, finance, payments, transportation, and library operations effectively.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="flex gap-x-5 ms-1">
+                    <div class="relative">
+                        <div class="relative z-10 size-8 flex justify-center items-center">
+                            <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
+                                4
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="grow pt-0.5 pb-8 sm:pb-12">
+                        <p class="text-sm md:text-base">
+                            Edoovi ERP is used by most of the reputed educational institutes in 23+states and 8+ countries worldwide.
+                        </p>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
@@ -231,76 +226,74 @@
 
     <!-- mission section start -->
     <div class="relative isolate py-6 md:py-8 lg:py-16">
-        <div class="">
-            <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
-                <div class="w-full md:w-1/2 lg:w-2/3">
-                    <div class=" relative z-20 mx-auto lg:max-w-3xl lg:mx-0 lg:w-3xl lg:flex-none lg:pr-4">
-                        <p class="mt-4 max-md:text-3xl max-xl:text-5xl text-5xl text-gray-800 tracking-wide"><span class="font-normal">Our</span> <span class="font-bold text-theme1"> Mission</span></p>
-                        <p class="py-3 md:mt-4 text-sm md:text-lg leading-[130%] text-gray-800">
-                            Our Mission is to deliver cost-effective and reasonable ERP solutions for educational institutions worldwide. With maximum attention, we aim to provide an outstanding ERP system to educational institutions for enhancing and streamlining their day-to-day tasks.
-                        </p>
-                    </div>
-                </div>
-                <div class="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 -mb-24 lg:-mb-36 mx-auto">
-                    <div class="aspect-[5/4] rounded-3xl overflow-hidden">
-                        <img src="../assets/img/vision.jpg" alt="" class="size-full object-center">
-                    </div>
+        <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
+            <div class="w-full md:w-1/2 lg:w-2/3">
+                <div class=" relative z-20 mx-auto lg:max-w-3xl lg:mx-0 lg:w-3xl lg:flex-none lg:pr-4">
+                    <p class="mt-4 max-md:text-3xl max-xl:text-5xl text-5xl text-gray-800 tracking-wide"><span class="font-semibold">Our Mission</p>
+                    <p class="py-3 md:mt-4 text-sm md:text-lg leading-[130%] text-gray-800">
+                        Our Mission is to deliver cost-effective and reasonable ERP solutions for educational institutions worldwide. With maximum attention, we aim to provide an outstanding ERP system to educational institutions for enhancing and streamlining their day-to-day tasks.
+                    </p>
                 </div>
             </div>
-            <div class="w-full bg-neutral-900 py-14 lg:py-16">
-                <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
-                    <div class="w-2/3 md:w-1/2 lg:w-1/3 rounded-3xl overflow-hidden hidden md:flex">
-                        <div class=" rounded-3xl overflow-hidden">
-                            <img src="../assets/img/mission.jpg" alt="" class="size-full object-cover object-center">
-                        </div>
+            <div class="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 -mb-24 lg:-mb-36 mx-auto">
+                <div class="aspect-[5/4] rounded-3xl overflow-hidden border-[20px] border-[solid] border-white">
+                    <img src="../assets/img/vision.jpg" alt="" class="size-full object-center">
+                </div>
+            </div>
+        </div>
+        <div class="w-full bg-purple-50 py-14 lg:py-16">
+            <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
+                <div class="w-2/3 md:w-1/2 lg:w-1/3 rounded-3xl overflow-hidden hidden md:flex -mb-72">
+                    <div class="aspect-[3/2.7] rounded-3xl overflow-hidden border-[20px] border-[solid] border-white">
+                        <img src="../assets/img/mission.jpg" alt="" class="size-full object-cover object-center">
                     </div>
-                    <div class="w-full md:w-1/2 lg:w-2/3 md:ps-10 mt-7 md:mt-0">
-                        <div class=" relative z-20 mx-auto max-w-3xl lg:mx-0 lg:w-3xl lg:flex-none lg:pr-4">
-                            <p class="mt-7 max-md:text-3xl max-xl:text-5xl text-5xl text-white/90 tracking-wide"><span class="font-normal">Our</span> <span class="font-bold text-theme1"> Vision</span></p>
-                            <p class="mt-4 text-sm md:text-lg leading-[130%] text-white/90">
-                                "Empower educational services in an ever-changing environment to provide students and instructors with improved possibilities for continual improvement."
-                            </p>
-                            <ul class="space-y-2 sm:space-y-4 mt-6">
-                                <li class="flex gap-x-3">
-                                    <span class="mt-0.5 min-w-7 size-7 flex justify-center items-center rounded-full text-theme1">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M240,128a15.79,15.79,0,0,1-10.5,15l-63.44,23.07L143,229.5a16,16,0,0,1-30,0L89.94,166.06,26.5,143a16,16,0,0,1,0-30L89.94,89.94,113,26.5a16,16,0,0,1,30,0l23.07,63.44L229.5,113A15.79,15.79,0,0,1,240,128Z"></path>
-                                        </svg>
+                </div>
+                <div class="w-full md:w-1/2 lg:w-2/3 md:ps-10 mt-7 md:mt-0">
+                    <div class=" relative z-20 mx-auto max-w-3xl lg:mx-0 lg:w-3xl lg:flex-none lg:pr-4">
+                        <p class="mt-7 max-md:text-3xl max-xl:text-5xl text-5xl tracking-wide"><span class="font-semibold">Our Vision</p>
+                        <p class="mt-4 text-sm md:text-lg leading-[130%]">
+                            "Empower educational services in an ever-changing environment to provide students and instructors with improved possibilities for continual improvement."
+                        </p>
+                        <ul class="space-y-2 sm:space-y-4 mt-6">
+                            <li class="flex gap-x-3">
+                                <span class="mt-0.5 min-w-7 size-7 flex justify-center items-center rounded-full text-theme1">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M240,128a15.79,15.79,0,0,1-10.5,15l-63.44,23.07L143,229.5a16,16,0,0,1-30,0L89.94,166.06,26.5,143a16,16,0,0,1,0-30L89.94,89.94,113,26.5a16,16,0,0,1,30,0l23.07,63.44L229.5,113A15.79,15.79,0,0,1,240,128Z"></path>
+                                    </svg>
+                                </span>
+                                <div class="grow">
+                                    <span class="text-sm sm:text-base">
+                                        We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
                                     </span>
-                                    <div class="grow">
-                                        <span class="text-sm sm:text-base text-white">
-                                            We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
-                                        </span>
-                                    </div>
-                                </li>
+                                </div>
+                            </li>
 
-                                <li class="flex gap-x-3">
-                                    <span class="mt-0.5 min-w-7 size-7 flex justify-center items-center rounded-full text-theme1">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M240,128a15.79,15.79,0,0,1-10.5,15l-63.44,23.07L143,229.5a16,16,0,0,1-30,0L89.94,166.06,26.5,143a16,16,0,0,1,0-30L89.94,89.94,113,26.5a16,16,0,0,1,30,0l23.07,63.44L229.5,113A15.79,15.79,0,0,1,240,128Z"></path>
-                                        </svg>
+                            <li class="flex gap-x-3">
+                                <span class="mt-0.5 min-w-7 size-7 flex justify-center items-center rounded-full text-theme1">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M240,128a15.79,15.79,0,0,1-10.5,15l-63.44,23.07L143,229.5a16,16,0,0,1-30,0L89.94,166.06,26.5,143a16,16,0,0,1,0-30L89.94,89.94,113,26.5a16,16,0,0,1,30,0l23.07,63.44L229.5,113A15.79,15.79,0,0,1,240,128Z"></path>
+                                    </svg>
+                                </span>
+                                <div class="grow">
+                                    <span class="text-sm sm:text-base">
+                                        We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
                                     </span>
-                                    <div class="grow">
-                                        <span class="text-sm sm:text-base text-white">
-                                            We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
-                                        </span>
-                                    </div>
-                                </li>
+                                </div>
+                            </li>
 
-                                <li class="flex gap-x-3">
-                                    <span class="mt-0.5 min-w-7 size-7 flex justify-center items-center rounded-full text-theme1">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M240,128a15.79,15.79,0,0,1-10.5,15l-63.44,23.07L143,229.5a16,16,0,0,1-30,0L89.94,166.06,26.5,143a16,16,0,0,1,0-30L89.94,89.94,113,26.5a16,16,0,0,1,30,0l23.07,63.44L229.5,113A15.79,15.79,0,0,1,240,128Z"></path>
-                                        </svg>
+                            <li class="flex gap-x-3">
+                                <span class="mt-0.5 min-w-7 size-7 flex justify-center items-center rounded-full text-theme1">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M240,128a15.79,15.79,0,0,1-10.5,15l-63.44,23.07L143,229.5a16,16,0,0,1-30,0L89.94,166.06,26.5,143a16,16,0,0,1,0-30L89.94,89.94,113,26.5a16,16,0,0,1,30,0l23.07,63.44L229.5,113A15.79,15.79,0,0,1,240,128Z"></path>
+                                    </svg>
+                                </span>
+                                <div class="grow">
+                                    <span class="text-sm sm:text-base">
+                                        We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
                                     </span>
-                                    <div class="grow">
-                                        <span class="text-sm sm:text-base text-white">
-                                            We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
-                                        </span>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
+                                </div>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -309,7 +302,7 @@
     <!-- mission section ends -->
 
     <!-- why us section start -->
-    <div class="relative py-6 md:py-8 lg:py-10 overflow-hidden">
+    <div class="relative py-6 md:py-12 lg:py-10 overflow-hidden">
         <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
             <div class="select-none relative">
                 <div class="flex w-full h-auto items-center flex-wrap">
@@ -317,11 +310,10 @@
                         <p class="
                     max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black
 
-                    first:*:font-normal
+                    first:*:font-semibold
 
-                    last:*:font-bold last:*:text-theme1
-                "> <span>Why </span>
-                            <span>Us?</span>
+                    
+                "> <span>Why Us?</span>
                         </p>
                         <div class="md:text-lg text-sm opacity-70 mt-3 mb-lg-1">
                             A perfect school management software has speed, security, accuracy, and a wide range of functions and modules. More than 1300+ schools around the country rely on our comprehensive product and exceptional service. We have a global client base of happy customers.
@@ -346,12 +338,11 @@
 
     <!-- testimonial section start -->
     <div class="overflow-hidden">
-        <div class="relative max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+        <div class="relative max-w-[85rem] px-4 py-6 sm:py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
             <div class="max-w-2xl w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
                 <div class="relative container mx-auto max-w-7xl md:px-6 lg:px-8 z-10">
                     <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
-                        <span class="font-normal">Why Institutes Love </span>
-                        <span class="font-bold text-theme1">Edoovi ERP System?</span>
+                        <span class="font-semibold">Why Institutes Love Edoovi ERP System?</span>
                     </p>
                     <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
                         Our Client Says
@@ -378,7 +369,7 @@
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
                                     <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7]">
-                                        <img class="rounded-3xl size-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
+                                        <img class="rounded-3xl size-full" src="../assets/img/tesimonial01.jpg" alt="Avatar">
                                     </div>
 
                                     <div class="lg:col-span-4">
@@ -418,7 +409,7 @@
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
                                     <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7]">
-                                        <img class="rounded-3xl size-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
+                                        <img class="rounded-3xl size-full" src="../assets/img/militryLogo.svg" alt="Avatar">
                                     </div>
 
                                     <div class="lg:col-span-4">
@@ -541,7 +532,7 @@
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
             <div class="relative isolate overflow-hidden bg-gray-900 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:gap-x-20 lg:px-24 bg-[url('../../assets/img/school-cta.jpg')] bg-cover bg-left after:absolute after:top-0 after:left-0 after:bg-black/60 after:size-full">
                 <div class="max-w-3xl lg:mx-0 lg:flex-auto py-6 md:py-8 lg:py-10 lg:text-left relative z-[1]">
-                    <div class="max-sm:text-xl max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-white font-normal empty:hidden max-sm:text-center">Still Have An y Query?
+                    <div class="max-sm:text-xl max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-white font-normal empty:hidden max-sm:text-center">Still Have Any Query?
                         <div class="font-bold text-white mt-2">We would love to answer. Let’s schedule free demonstration of Edoovi School ERP Software.
                         </div>
                     </div>
@@ -559,7 +550,7 @@
         <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
             <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 gap-y-16 gap-x-12">
                 <div class=" lg:pr-8">
-                    <img class="w-auto h-16" src="./assets/img/edoovi.webp" alt="" />
+                    <img class="w-auto h-16" src="../assets/img/edoovi.webp" alt="" />
 
                     <p class="text-base leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>
                 </div>

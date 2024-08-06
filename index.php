@@ -321,128 +321,126 @@
 
     <!-- logo section  -->
 
-    <div class="overflow-hidden">
-        <div class="overflow-hidden sm:py-12 pb-5">
-            <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 mb-10">
-                <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
-                    <span class="font-semibold">Our Esteemed </span>
-                    <span class="font-bold text-slate-900">Clients</span>
-                </p>
-                <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
-                    Embark on an Automation Journey with Us
-                </div>
+    <div class="overflow-hidden lg:py-16 py-10">
+        <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 mb-10">
+            <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
+                <span class="font-semibold">Our Esteemed </span>
+                <span class="font-bold text-slate-900">Clients</span>
+            </p>
+            <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
+                Embark on an Automation Journey with Us
             </div>
-            <div class="mt-3 sm:mt-8">
-                <div class="swiper mySwiper2 swiper-initialized swiper-horizontal swiper-backface-hidden">
-                    <div class="swiper-wrapper !ease-linear" id="swiper-wrapper-dd31f7415a72d890" aria-live="off" style="transition-duration: 2000ms; transform: translate3d(-382.4px, 0px, 0px);">
-                        <div class="swiper-slide" role="group" aria-label="7 / 7" data-swiper-slide-index="6" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper03.svg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide swiper-slide-prev" role="group" aria-label="1 / 7" data-swiper-slide-index="0" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper01.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide swiper-slide-active" role="group" aria-label="2 / 7" data-swiper-slide-index="1" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper05.svg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 7" data-swiper-slide-index="2" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper03.svg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide" role="group" aria-label="4 / 7" data-swiper-slide-index="3" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper04.svg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide" role="group" aria-label="5 / 7" data-swiper-slide-index="4" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper05.svg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide" role="group" aria-label="6 / 7" data-swiper-slide-index="5" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper03.svg" alt="">
-                                </div>
+        </div>
+        <div class="mt-3 sm:mt-8">
+            <div class="swiper mySwiper2 swiper-initialized swiper-horizontal swiper-backface-hidden">
+                <div class="swiper-wrapper !ease-linear" id="swiper-wrapper-dd31f7415a72d890" aria-live="off" style="transition-duration: 2000ms; transform: translate3d(-382.4px, 0px, 0px);">
+                    <div class="swiper-slide" role="group" aria-label="7 / 7" data-swiper-slide-index="6" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper03.svg" alt="">
                             </div>
                         </div>
                     </div>
-                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-                </div>
-            </div>
-            <div class="mt-3 ">
-                <div class="swiper  mySwiper3 swiper-initialized swiper-horizontal swiper-backface-hidden" dir="rtl">
-                    <div class="swiper-wrapper !ease-linear" id="swiper-wrapper-dd31f7415a72d890" aria-live="off" style="transition-duration: 2000ms; transform: translate3d(-382.4px, 0px, 0px);">
-                        <div class="swiper-slide" role="group" aria-label="7 / 7" data-swiper-slide-index="6" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper0201.svg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide swiper-slide-prev" role="group" aria-label="1 / 7" data-swiper-slide-index="0" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper0202.svg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide swiper-slide-active" role="group" aria-label="2 / 7" data-swiper-slide-index="1" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper0203.svg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 7" data-swiper-slide-index="2" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper0201.svg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide" role="group" aria-label="4 / 7" data-swiper-slide-index="3" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper0202.svg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide" role="group" aria-label="5 / 7" data-swiper-slide-index="4" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper0203.svg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide" role="group" aria-label="6 / 7" data-swiper-slide-index="5" style="width: 176.2px;">
-                            <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
-                                <div class="img sm:h-[83px] h-16 w-auto">
-                                    <img class="size-full object-contain" src="./assets/img/swiper0201.svg" alt="">
-                                </div>
+                    <div class="swiper-slide swiper-slide-prev" role="group" aria-label="1 / 7" data-swiper-slide-index="0" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper01.png" alt="">
                             </div>
                         </div>
                     </div>
-                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                    <div class="swiper-slide swiper-slide-active" role="group" aria-label="2 / 7" data-swiper-slide-index="1" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper05.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 7" data-swiper-slide-index="2" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper03.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" role="group" aria-label="4 / 7" data-swiper-slide-index="3" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper04.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" role="group" aria-label="5 / 7" data-swiper-slide-index="4" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper05.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" role="group" aria-label="6 / 7" data-swiper-slide-index="5" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper03.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
                 </div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+            </div>
+        </div>
+        <div class="mt-3 ">
+            <div class="swiper  mySwiper3 swiper-initialized swiper-horizontal swiper-backface-hidden" dir="rtl">
+                <div class="swiper-wrapper !ease-linear" id="swiper-wrapper-dd31f7415a72d890" aria-live="off" style="transition-duration: 2000ms; transform: translate3d(-382.4px, 0px, 0px);">
+                    <div class="swiper-slide" role="group" aria-label="7 / 7" data-swiper-slide-index="6" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper0201.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide swiper-slide-prev" role="group" aria-label="1 / 7" data-swiper-slide-index="0" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper0202.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide swiper-slide-active" role="group" aria-label="2 / 7" data-swiper-slide-index="1" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper0203.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 7" data-swiper-slide-index="2" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper0201.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" role="group" aria-label="4 / 7" data-swiper-slide-index="3" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper0202.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" role="group" aria-label="5 / 7" data-swiper-slide-index="4" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper0203.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide" role="group" aria-label="6 / 7" data-swiper-slide-index="5" style="width: 176.2px;">
+                        <div class="size-full border rounded-3xl px-4 py-2 shadow-sm duration-300 hover:scale-95">
+                            <div class="img sm:h-[83px] h-16 w-auto">
+                                <img class="size-full object-contain" src="./assets/img/swiper0201.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
             </div>
         </div>
     </div>
@@ -451,7 +449,7 @@
 
 
     <!-- seamless solution for  -->
-    <section class="relative md:pb-20 pb-10 overflow-hidden">
+    <section class="relative lg:py-16 py-10 overflow-hidden">
         <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
         <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 pb-10 ">
             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
@@ -798,9 +796,17 @@
     <!-- testimonial section ends -->
 
     <!-- card start -->
-    <section class="relative md:py-20 py-10 overflow-x-hidden ">
+    <section class="relativelg:py-16 py-10 overflow-x-hidden ">
         <div class="absolute -z-10 top-10 left-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
-
+        <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 pb-10 ">
+            <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
+                <span class="font-semibold">Edoovi The Top Choice </span> <br>
+                <!-- <span class="font-bold text-slate-900"> Institutional Management</span> -->
+            </p>
+            <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
+                for Institutional Management in India
+            </div>
+        </div>
         <div class="flex flex-wrap max-w-7xl mx-auto px-6 lg:px-8">
             <div class="bg-white lg:w-1/2 w-full flex justify-start items-center">
                 <div class="relative z-50 text-white p-6 rounded-xl ">
@@ -899,63 +905,66 @@
     </section>
     <!-- card end -->
     <!-- cta start  -->
-    <div class="  mx-auto max-w-7xl px-6 lg:px-8">
-        <div class="relative py-14 isolate  text-center justify-center :relative :z-10 bg-gray-900/70 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:px-24">
-            <img class="rounded-3xl !absolute !z-0 inset-0 size-full mix-blend-overlay object-cover object-center" src="https://www.imgglobalinfotech.com/public/tailwind/img/cta/school-cta-2.webp?id=7a2551bcc85c9d67d2863e9d0af57dd0">
+    <section class="lg:py-16 py-10">
+        <div class="  mx-auto max-w-7xl px-6 lg:px-8">
+            <div class="relative py-14 isolate  text-center justify-center :relative :z-10 bg-gray-900/70 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:px-24">
+                <img class="rounded-3xl !absolute !z-0 inset-0 size-full mix-blend-overlay object-cover object-center" src="https://www.imgglobalinfotech.com/public/tailwind/img/cta/school-cta-2.webp?id=7a2551bcc85c9d67d2863e9d0af57dd0">
 
-            <div class=" gap-x-7 max-sm:gap-0 flex items-center max-lg:flex-col-reverse">
-                <div class="lg:w-6/12 w-full relative z-20 h-auto shrink-1 grow-0 py-8 max-lg:pt-0 max-lg:px-10 max-sm:px-0">
-                    <div class="w-full max-lg:flex max-md:pt-5 max-sm:pt-0">
-                        <div class="w-full">
-                            <p class="text-start max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-white">
-                                <span class="font-semibold">
-                                    The Ultimate School ERP With Mobile App For Modern School System</span>
+                <div class=" gap-x-7 max-sm:gap-0 flex items-center max-lg:flex-col-reverse">
+                    <div class="lg:w-6/12 w-full relative z-20 h-auto shrink-1 grow-0 py-8 max-lg:pt-0 max-lg:px-10 max-sm:px-0">
+                        <div class="w-full max-lg:flex max-md:pt-5 max-sm:pt-0">
+                            <div class="w-full">
+                                <p class="text-start max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-white">
+                                    <span class="font-semibold">
+                                        The Ultimate School ERP With Mobile App For Modern School System</span>
 
-                                <span class="font-bold text-slate-900">Modern School System</span>
-                            </p>
+                                    <span class="font-bold text-slate-900">Modern School System</span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="text-start mt-4 text-sm md:text-base opacity-80 text-white">
+
+                            Comprehensive, Easy To Use Web Based School ERP System Helps You To Move Faster, Save Money, Integrate On-Premises Apps And Data Anytime Anywhere Explore the online school ERP with built-in School App features and start the new education administration journey with the new-edge technology! Along with School App, We offer Management App - bringing the entire school in the palm of your hand, making the whole school management experience effortless.</div>
+                        <p class="text-lg font-semibold text-white text-start mt-4 mb-2">Available on the</p>
+                        <div class="flex gap-4">
+
+                            <button class="sm:text-lg  text-sm lg:w-44  text-white rounded-full px-4 py-2 justify-center font-sembold border-white border  flex duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">
+                                Google Play
+                                <span class="*:sm:size-6 *:size-4 sm:ms-3 ms-1">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="m12.954 11.616 2.957-2.957L6.36 3.291c-.633-.342-1.226-.39-1.746-.016l8.34 8.341zm3.461 3.462 3.074-1.729c.6-.336.929-.812.929-1.34 0-.527-.329-1.004-.928-1.34l-2.783-1.563-3.133 3.132 2.841 2.84zM4.1 4.002c-.064.197-.1.417-.1.658v14.705c0 .381.084.709.236.97l8.097-8.098L4.1 4.002zm8.854 8.855L4.902 20.91c.154.059.32.09.495.09.312 0 .637-.092.968-.276l9.255-5.197-2.666-2.67z"></path>
+                                    </svg></span>
+                            </button>
+                            <button class="sm:text-lg  text-sm lg:w-44  text-white bg-gradient-to-b from-violet-300 to-violet-500  rounded-full px-4  py-2 font-sembold  justify-center flex duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">
+                                App Store
+                                <span class="*:sm:size-6 *:size-4 sm:ms-3 ms-1">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 384 512" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"></path>
+                                    </svg></span>
+                            </button>
                         </div>
                     </div>
-                    <div class="text-start mt-4 text-sm md:text-base opacity-80 text-white">
-
-                        Comprehensive, Easy To Use Web Based School ERP System Helps You To Move Faster, Save Money, Integrate On-Premises Apps And Data Anytime Anywhere Explore the online school ERP with built-in School App features and start the new education administration journey with the new-edge technology! Along with School App, We offer Management App - bringing the entire school in the palm of your hand, making the whole school management experience effortless.</div>
-                    <p class="text-lg font-semibold text-white text-start mt-4 mb-2">Available on the</p>
-                    <div class="flex gap-4">
-
-                        <button class="sm:text-lg  text-sm lg:w-44  text-white rounded-full px-4 py-2 justify-center font-sembold border-white border  flex duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">
-                            Google Play
-                            <span class="*:sm:size-6 *:size-4 sm:ms-3 ms-1">
-                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="m12.954 11.616 2.957-2.957L6.36 3.291c-.633-.342-1.226-.39-1.746-.016l8.34 8.341zm3.461 3.462 3.074-1.729c.6-.336.929-.812.929-1.34 0-.527-.329-1.004-.928-1.34l-2.783-1.563-3.133 3.132 2.841 2.84zM4.1 4.002c-.064.197-.1.417-.1.658v14.705c0 .381.084.709.236.97l8.097-8.098L4.1 4.002zm8.854 8.855L4.902 20.91c.154.059.32.09.495.09.312 0 .637-.092.968-.276l9.255-5.197-2.666-2.67z"></path>
-                                </svg></span>
-                        </button>
-                        <button class="sm:text-lg  text-sm lg:w-44  text-white bg-gradient-to-b from-violet-300 to-violet-500  rounded-full px-4  py-2 font-sembold  justify-center flex duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">
-                            App Store
-                            <span class="*:sm:size-6 *:size-4 sm:ms-3 ms-1">
-                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 384 512" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"></path>
-                                </svg></span>
-                        </button>
-                    </div>
-                </div>
-                <div class="lg:w-5/12 w-full relative z-10 ms-auto max-lg:px-10 max-sm:px-2">
-                    <div class="flex gap-10 max-sm:gap-8 justify-center ">
-                        <div class=" self-baseline object-cover object-center aspect-[1/1] ">
-                            <img class="w-full h-full object-contain " src="./assets/img/school-management-app-development-mobile.webp" alt="">
+                    <div class="lg:w-5/12 w-full relative z-10 ms-auto max-lg:px-10 max-sm:px-2">
+                        <div class="flex gap-10 max-sm:gap-8 justify-center ">
+                            <div class=" self-baseline object-cover object-center aspect-[1/1] ">
+                                <img class="w-full h-full object-contain " src="./assets/img/school-management-app-development-mobile.webp" alt="">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+
+    </section>
 
 
     <!-- cta end           -->
     <!-- key benifits section start -->
-    <section class="relative overflow-hidden">
+    <section class="relative overflow-hidden lg:py-16 py-10">
         <div class="absolute  bottom-24 left-20 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
         <div class="absolute  top-[25%] left-60 [background:radial-gradient(circle,_rgba(255,231,_186,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
-        <div class="relative container mx-auto max-w-7xl z-10 mt-8 md:mt-16 lg:px-10 px-6">
+        <div class="relative container mx-auto max-w-7xl z-10  lg:px-10 px-6">
             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900 text-balance  font-semibold">
                 <span class="font-semibold">The Key Benefit Is You Can Save Money, Save Lots Of Time & Making Best Of Resources.</span>
                 <span class="font-semibold text-slate-900">Lots Of Time & Making Best Of Resources.</span>
@@ -970,9 +979,9 @@
                 <div class="relative z-10 lg:grid lg:grid-cols-12 lg:items-center">
                     <div class="mb-5 sm:mb-10 lg:mb-0 lg:col-span-7 lg:order-2 bg-purple-50 px-4 sm:px-8 md:px-16 py-12 rounded-3xl">
                         <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10">
-                            <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
+                            <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance tracking-[-0.04em] text-slate-900  font-semibold">
                                 <span class="font-semibold">We Provide </span>
-                                <span class="font-bold text-theme1">Everything You Need</span>
+                                <span class="font-semibold ">Everything You Need</span>
                             </p>
                         </div>
 
@@ -1069,11 +1078,11 @@
 
     <!-- blog section  -->
 
-    <section class="md:pb-20 pb-10 overflow-hidden">
+    <section class="lg:pb-16 pb-10 overflow-hidden">
         <div class="relative container mx-auto max-w-7xl z-10 mb-8 md:mb-16">
             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                 <span class="font-semibold">Explore Tech Insights</span>
-                <span class="font-bold text-theme1">Fresh Blogs, News, and More!</span>
+                <span class="font-semibold">Fresh Blogs, News, and More!</span>
             </p>
             <div class="md:text-base text-sm text-black/70 mt-2 font-semibold text-balance">
                 Edoovi school management system has grabbed the best school ERP software award, Best digital transformation award, Best innovative school erp award, Education Excellence Award for consecutive 3 years 2017-2019 by various well recognized associations.
@@ -1334,7 +1343,7 @@
 
                 <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-64 mr-auto rounded-2xl shadow-2xl">
                     <div class="flex">
-                        <h1 class="font-bold uppercase text-5xl">Send us <br /> a message</h1>
+                        <h1 class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">Send us <br /> a message</h1>
                     </div>
                     <div class="grid grid-cols-1 gap-5 md:grid-cols-2 mt-5">
                         <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" type="text" placeholder="First Name*" />
@@ -1447,8 +1456,120 @@
         </div>
     </section>
 
-
     <!-- form section end  -->
+
+    <!-- accordion start  -->
+
+    <section class="bg-white">
+        <div class="mx-auto max-w-7xl px-6 lg:px-8 xl:py-16 lg:py-12 py-10 sm:py-6">
+            <div class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14">
+                <img class="w-full aspect-[3/1] object-cover !absolute inset-0 !z-10 rounded-lg shadow-xl h-full shadow-gray-900/50" src="  https://okclosers.com/home/homesection4/1709147333_potential.jpg">
+                <div class="md:w-5/12 w-full shrink-0 h-full">
+                </div>
+                <div class="grow md:p-7 p-4 bg-white/50 backdrop-blur-md rounded-l-2xl">
+                    <div class="w-full">
+                        <div class="lg:text-4xl md:text-3xl text-2xl text-balance md:pb-4 pb-2 font-bold text-[#053871]">
+                            WHERE AMBITION MEETS UNMATCHED EARNING &amp; GROWTH</div>
+                        <div class="md:text-lg text-base sm:text-sm text-balance font-semibold pb-4 text-black/90">
+                            Unlock Your Potential with Industry Leaders</div>
+                        <div>
+
+                            <div class="relative  flex flex-col mb-3">
+                                <input class="peer/mm hidden" type="radio" checked="" name="mmMenu" id="mmCompany 0" 0="">
+                                <label for="mmCompany 0" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full  ">
+                                Which Are The Most Important Features Of School ERP Software?
+                                </label>
+                                <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
+                                    <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
+                                        <div class="w-full text-xs xl:text-sm ">
+                                            <div class="flex items-center gap-x-3 py-2 relative">
+                                                <div class="flex-auto text-gray-900 sm:text-sm text-xs">
+                                                Placeholder content for this accordion, which is intended to demonstrate the  .accordion-flush  class. This is the first item's accordion body.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="relative  flex flex-col mb-3">
+                                <input class="peer/mm hidden" type="radio" checked="" name="mmMenu" id="mmCompany 1" 1="">
+                                <label for="mmCompany 1" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
+                                        How Much Does A School Software Cost?
+                                </label>
+                                <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
+                                    <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
+                                        <div class="w-full text-xs xl:text-sm ">
+                                            <div class="flex items-center gap-x-3 py-2 relative">
+                                                <div class="flex-auto text-gray-900 sm:text-sm text-xs">
+                                                Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush  class. This is the second item's accordion body. Let's imagine this being filled with some actual content.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="relative  flex flex-col mb-3">
+                                <input class="peer/mm hidden" type="radio" checked="" name="mmMenu" id="mmCompany 2" 2="">
+                                <label for="mmCompany 2" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
+                                        Are Cloud Based School Management Software Secure?
+                                </label>
+                                <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
+                                    <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
+                                        <div class="w-full text-xs xl:text-sm ">
+                                            <div class="flex items-center gap-x-3 py-2 relative">
+                                                <div class="flex-auto text-gray-900 sm:text-sm text-xs">
+                                                Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush  class. This is the third item's accordion body. Nothing more exciting happening here in terms of content, but just filling up the space to make it look, at least at first glance, a bit more representative of how this would look in a real-world application.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- <div class="relative  flex flex-col mb-3">
+                                    <input class="peer/mm hidden" type="radio"  name="mmMenu" id="mmCompany12">
+                                    <label for="mmCompany12" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
+                                      7 Streams of Income ?
+                                    </label>
+                                    <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
+                                        <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
+                                            <div class="w-full text-xs xl:text-sm ">
+                                                <div class="flex items-center gap-x-3 py-2 relative">
+                                                  <div class="flex-auto text-gray-900 sm:text-sm text-xs">
+                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                                  </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                  </div>
+                                  <div class="relative  flex flex-col mb-3">
+                                    <input class="peer/mm hidden" type="radio"  name="mmMenu" id="mmCompany13">
+                                    <label for="mmCompany13" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
+                                      Personal Growth Opportunities?
+                                    </label>
+                                    <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
+                                        <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
+                                            <div class="w-full text-xs xl:text-sm ">
+                                                <div class="flex items-center gap-x-3 py-2 relative">
+                                                  <div class="flex-auto text-gray-900 sm:text-sm text-xs">
+                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                                  </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                  </div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- accordion end  -->
+
+
 
     <!-- footer start        -->
     <!-- <footer class="relative bg-black py-8 sm:py-12 select-none text-white mt-8 overflow-hidden">
@@ -1636,55 +1757,9 @@
             </div>
         </div>
     </section>
-
-    <!-- two -->
-    <!-- <footer class="relative bg-black py-8 sm:py-12 select-none text-white mt-8">
-        <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
-
-            <div class="w-full flex flex-wrap items-center gap-x-10 justify-center border- text-xs lg:text-sm">
-                <div class="">
-                    <div class="w-full sm:col-span-1 col-span-2 sm:mb-0 mb-2">
-                        <ul class="flex gap-3 items-center sm:justify-start justify-center w-full">
-                            <li class="size-10 rounded-full bg-orange-500 flex justify-center items-center"><a href=""><svg class="size-6" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M12 2C6.486 2 2 6.486 2 12v4.143C2 17.167 2.897 18 4 18h1a1 1 0 0 0 1-1v-5.143a1 1 0 0 0-1-1h-.908C4.648 6.987 7.978 4 12 4s7.352 2.987 7.908 6.857H19a1 1 0 0 0-1 1V18c0 1.103-.897 2-2 2h-2v-1h-4v3h6c2.206 0 4-1.794 4-4 1.103 0 2-.833 2-1.857V12c0-5.514-4.486-10-10-10z"></path>
-                                    </svg></a></li>
-                        </ul>
-                    </div>
-                    <div class="w-full sm:col-span-1 col-span-2 sm:mb-0 mb-2">
-                        <ul class="flex items-center lg:justify-center sm:justify-end justify-center mb-0 p-0 gap-3 w-full">
-                            <li>
-                                <a href="https://www.fantasybox.in/about-us" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                                    <span>About Vidyalaya</span> <span class="opacity-40 text-white ">|</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.fantasybox.in/portfolio" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                                    <span>
-                                        Privacy Policy</span> <span class="opacity-40 text-white ">|</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.fantasybox.in/blog" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                                    <span>Blogs</span> <span class="opacity-40 text-white ">|</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.fantasybox.in/contact-us" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                                    <span>Terms Of Use</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="w-auto sm:opacity-80 opacity-70 lg:col-span-1 col-span-2 text-end flex items-center lg:justify-end justify-center">© Copyright 2024, All Rights Reserved by Edoovi</div>
-                </div>
-
-
-            </div>
-        </div>
-    </footer> -->
-
-
     <!-- footer end  -->
+
+
 </body>
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script>
