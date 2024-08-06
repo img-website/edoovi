@@ -904,6 +904,7 @@
         </div>
     </section>
     <!-- card end -->
+
     <!-- cta start  -->
     <section class="lg:py-16 py-10">
         <div class="  mx-auto max-w-7xl px-6 lg:px-8">
@@ -958,7 +959,8 @@
     </section>
 
 
-    <!-- cta end           -->
+    <!-- cta end  -->
+
     <!-- key benifits section start -->
     <section class="relative overflow-hidden lg:py-16 py-10">
         <div class="absolute  bottom-24 left-20 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
@@ -1076,10 +1078,11 @@
 
 
 
+    
     <!-- blog section  -->
 
-    <section class="lg:pb-16 pb-10 overflow-hidden">
-        <div class="relative container mx-auto max-w-7xl z-10 mb-8 md:mb-16">
+    <section class="container px-6 lg:px-8 mx-auto max-w-7xl lg:pb-16 pb-10 overflow-hidden">
+        <div class="relative z-10 mb-8 md:mb-12">
             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                 <span class="font-semibold">Explore Tech Insights</span>
                 <span class="font-semibold">Fresh Blogs, News, and More!</span>
@@ -1088,8 +1091,8 @@
                 Edoovi school management system has grabbed the best school ERP software award, Best digital transformation award, Best innovative school erp award, Education Excellence Award for consecutive 3 years 2017-2019 by various well recognized associations.
             </div>
         </div>
-        <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
-            <div class="grid grid-cols-12 gap-x-2 gap-y-6  lg:gap-6">
+        <div class="">
+            <div class="grid grid-cols-12 gap-x-2 gap-y-4  lg:gap-6">
                 <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
                     <div class="size-full rounded-3xl p-4  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                         <div class=" w-full rounded-3xl">
@@ -1333,6 +1336,7 @@
     </section>
 
     <!-- blog end  -->
+
     <!-- form section start -->
     <section class="relative mb-20 overflow-hidden ">
         <div class="absolute  top-0 !right-0 [background:radial-gradient(circle,_rgba(255,231,_186,_0.7),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
@@ -1477,14 +1481,14 @@
                             <div class="relative  flex flex-col mb-3">
                                 <input class="peer/mm hidden" type="radio" checked="" name="mmMenu" id="mmCompany 0" 0="">
                                 <label for="mmCompany 0" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full  ">
-                                Which Are The Most Important Features Of School ERP Software?
+                                    Which Are The Most Important Features Of School ERP Software?
                                 </label>
                                 <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
                                     <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
                                         <div class="w-full text-xs xl:text-sm ">
                                             <div class="flex items-center gap-x-3 py-2 relative">
                                                 <div class="flex-auto text-gray-900 sm:text-sm text-xs">
-                                                Placeholder content for this accordion, which is intended to demonstrate the  .accordion-flush  class. This is the first item's accordion body.
+                                                    Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush class. This is the first item's accordion body.
                                                 </div>
                                             </div>
                                         </div>
@@ -1494,14 +1498,14 @@
                             <div class="relative  flex flex-col mb-3">
                                 <input class="peer/mm hidden" type="radio" checked="" name="mmMenu" id="mmCompany 1" 1="">
                                 <label for="mmCompany 1" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
-                                        How Much Does A School Software Cost?
+                                    How Much Does A School Software Cost?
                                 </label>
                                 <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
                                     <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
                                         <div class="w-full text-xs xl:text-sm ">
                                             <div class="flex items-center gap-x-3 py-2 relative">
                                                 <div class="flex-auto text-gray-900 sm:text-sm text-xs">
-                                                Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush  class. This is the second item's accordion body. Let's imagine this being filled with some actual content.
+                                                    Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush class. This is the second item's accordion body. Let's imagine this being filled with some actual content.
                                                 </div>
                                             </div>
                                         </div>
@@ -1511,14 +1515,14 @@
                             <div class="relative  flex flex-col mb-3">
                                 <input class="peer/mm hidden" type="radio" checked="" name="mmMenu" id="mmCompany 2" 2="">
                                 <label for="mmCompany 2" class="flex items-center gap-x-[2px] bg-gradient-to-r from-violet-500 via-violet-800 to-violet-500  sm:text-base text-sm capitalize font-medium relative z-10 text-white bg-opacity80 rounded-full py-4 px-6 after:absolute sm:after:h-3 sm:after:w-3 after:w-2 after:h-2 sm:after:right-7 after:right-5 sm:after:top-4 after:top-5  after:border-solid after:border-white after:border-t-0 after:border-r-2 after:border-b-2 after:border-l-0 after:inline-block after:rotate-45  after:bg-contain after:peer-checked/mm:rotate-[-135deg] peer-checked/mm:bg-gradient-to-r peer-checked/mm:from-violet-900 peer-checked/mm:via-violet-500 peer-checked/mm:to-violet-900 peer-checked/mm:w-full peer-checked/mm:after:top-6 peer-checked/mm:rounded-full   ">
-                                        Are Cloud Based School Management Software Secure?
+                                    Are Cloud Based School Management Software Secure?
                                 </label>
                                 <div class="w-fullshadow-md mt-[-43px] rounded-3xl border border-solid border-amber-200 bg-gradient-to-r from-gray-200 via-gray-200 to-gray-200 p-6 pt-12 peer-checked/mm:block hidden">
                                     <div class="grid grid-cols-1 flex-wrap w-full gap-4 ">
                                         <div class="w-full text-xs xl:text-sm ">
                                             <div class="flex items-center gap-x-3 py-2 relative">
                                                 <div class="flex-auto text-gray-900 sm:text-sm text-xs">
-                                                Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush  class. This is the third item's accordion body. Nothing more exciting happening here in terms of content, but just filling up the space to make it look, at least at first glance, a bit more representative of how this would look in a real-world application.
+                                                    Placeholder content for this accordion, which is intended to demonstrate the .accordion-flush class. This is the third item's accordion body. Nothing more exciting happening here in terms of content, but just filling up the space to make it look, at least at first glance, a bit more representative of how this would look in a real-world application.
                                                 </div>
                                             </div>
                                         </div>
