@@ -6331,13 +6331,16 @@ body{
   }
 }
 
+.\[\&\.active\]\:border-\[2px\].active{
+  border-width: 2px;
+}
+
 .\[\&\.active\]\:border-b.active{
   border-bottom-width: 1px;
 }
 
-.\[\&\.active\]\:border-b-theme1.active{
-  --tw-border-opacity: 1;
-  border-bottom-color: rgb(230 117 41 / var(--tw-border-opacity));
+.\[\&\.active\]\:border-b-\[2px\].active{
+  border-bottom-width: 2px;
 }
 
 .\[\&\.active\]\:border-b-violet-400.active{
@@ -6345,22 +6348,27 @@ body{
   border-bottom-color: rgb(167 139 250 / var(--tw-border-opacity));
 }
 
-.\[\&\.active\]\:border-b-orange-500.active{
+.\[\&\.active\]\:border-b-slate-400.active{
   --tw-border-opacity: 1;
-  border-bottom-color: rgb(249 115 22 / var(--tw-border-opacity));
+  border-bottom-color: rgb(148 163 184 / var(--tw-border-opacity));
 }
 
-.\[\&\.active\]\:text-black.active{
-  --tw-text-opacity: 1;
-  color: rgb(0 0 0 / var(--tw-text-opacity));
+.\[\&\.active\]\:border-b-slate-900.active{
+  --tw-border-opacity: 1;
+  border-bottom-color: rgb(15 23 42 / var(--tw-border-opacity));
 }
 
-.\[\&\.active\]\:text-red-600.active{
-  --tw-text-opacity: 1;
-  color: rgb(220 38 38 / var(--tw-text-opacity));
+.\[\&\.active\]\:border-b-orange-900.active{
+  --tw-border-opacity: 1;
+  border-bottom-color: rgb(124 45 18 / var(--tw-border-opacity));
 }
 
 .\[\&\.active\]\:text-slate-900.active{
   --tw-text-opacity: 1;
   color: rgb(15 23 42 / var(--tw-text-opacity));
+}
+
+.\[\&\.active\]\:text-slate-950.active{
+  --tw-text-opacity: 1;
+  color: rgb(2 6 23 / var(--tw-text-opacity));
 }
