@@ -15,7 +15,7 @@
  <div class="md:flex items-center gap-8 hidden ">
  <ul class="flex gap-8">
      <li>
-                  <a href="" class="inline-flex font-medium text-base active [&.active]:text-slate-900  [&.active]:border-b [&.active]:border-b-violet-400 text-slate-600">Home</a></li>
+      <a href="" class="inline-flex font-medium text-base active [&.active]:text-slate-900  [&.active]:border-b [&.active]:border-b-violet-400 text-slate-600">Home</a></li>
      <li >
                    <a href="" class="inline-flex font-medium text-base active:text-slate-900 text-slate-600">About Us</a></li>
     <li class="relative group"><a href="" class="flex items-center font-medium text-base active:text-slate-900 text-slate-600">Our Solutions 
@@ -290,7 +290,7 @@ rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:r
   <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
   <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
 </span>
-                        <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Vidyalaya </a>
+                        <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Edoovi </a>
                     </li>
 
                      <li class="flex items-center gap-2 group">
@@ -402,7 +402,7 @@ rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:r
                 <ul class="flex items-center lg:justify-center sm:justify-end justify-center mb-0 p-0 gap-3 w-full">
                     <li>
                         <a href="https://www.fantasybox.in/about-us" class="w-full opacity-80 hover:text-theme1 duration-200 hoverLink flex items-center gap-2">
-                           <span>About Vidyalaya</span> <span class="opacity-40 text-white ">|</span>
+                           <span>About Edoovi</span> <span class="opacity-40 text-white ">|</span>
                         </a>
                     </li>
                     <li>

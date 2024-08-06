@@ -426,7 +426,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-orange-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-orange-500"></span>
                             </span>
-                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Vidyalaya </a>
+                            <a href="#" title="" class="flex text-base text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Edoovi </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
