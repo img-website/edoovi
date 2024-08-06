@@ -561,8 +561,8 @@
         <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
             <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 md:gap-y-16 gap-y-10 gap-x-12">
                 <div class=" lg:pr-8">
-                    <a href="./index.php">
-                        <img class="w-auto h-16" src="./assets/img/edoovi.webp" alt="" />
+                    <a href="../index.php">
+                        <img class="w-auto h-16" src="../assets/img/edoovi.webp" alt="" />
                     </a>
 
                     <p class="sm:text-base text-sm leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>
@@ -577,7 +577,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="./about/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Edoovi </a>
+                            <a href="../about/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> About Edoovi </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -585,7 +585,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="./clients/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
+                            <a href="../clients/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Clients </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -593,7 +593,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="./privacy-policy/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
+                            <a href="../privacy-policy/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500">Privacy Policy </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -601,7 +601,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="./terms-conditions/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
+                            <a href="../terms-conditions/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Terms Of Use </a>
                         </li>
                     </ul>
                 </div>
@@ -623,7 +623,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="./oursolutions/school-software/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
+                            <a href="../oursolutions/school-software/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> School Software </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -631,7 +631,7 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="./oursolutions/college-software/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
+                            <a href="../oursolutions/college-software/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> College Software </a>
                         </li>
 
                         <li class="flex items-center gap-2 group">
@@ -639,14 +639,14 @@
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="./oursolutions/university-software/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
+                            <a href="../oursolutions/university-software/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> University Software </a>
                         </li>
                         <li class="flex items-center gap-2 group">
                             <span class="relative flex h-3 w-3">
                                 <span class="animate-ping absolute inline-flex h-full w-full rotate-45 bg-violet-500 opacity-75"></span>
                                 <span class="relative inline-flex rotate-45 h-3 w-3 bg-violet-500"></span>
                             </span>
-                            <a href="./blogs/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
+                            <a href="../blogs/" title="" class="flex sm:text-base text-sm text-white transition-all duration-200 hover:text-orange-500 focus:text-orange-500"> Blogs </a>
                         </li>
                     </ul>
                 </div>
