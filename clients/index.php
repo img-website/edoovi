@@ -120,14 +120,17 @@
     <!-- header end  -->
 
     <!-- hero section start -->
-    <div class="relative lg:h-full md:pt-28 pt-24 pb-6 sm:pb-10 px-3 lg:px-5">
-        <div class="grid p-7 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center mx-auto max-w-7xl lg:px-8 px-6 h-full ">
-            <div class="md:col-span-4">
-                <div class="text-slate-900 md:text-6xl sm:text-5xl text-4xl font-semibold "> School Management Software <span class="text-orange-500">With Cloud Based School ERP</span></div>
-            </div>
-
-            <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0 border-[10px] border-[solid] border-white rounded-3xl overflow-hidden">
-                <img class="size-full rounded-3xl object-cover" src="../assets/img/clientHero.jpg" alt="Hero Image">
+    <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
+        <div class="mx-auto max-w-7xl lg:px-8 px-6">
+            <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
+                <div class="md:col-span-4">
+                    <div class="text-slate-900 xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-semibold "> School Management Software  <span class="text-orange-500">With Cloud
+                    Based School ERP</span></div>
+                </div>
+    
+                <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
+                    <img class="size-full rounded-3xl object-cover border-8 border-white" src="../assets/img/clientHero.jpg" alt="Hero Image">
+                </div>
             </div>
         </div>
     </div>

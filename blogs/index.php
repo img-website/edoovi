@@ -156,7 +156,7 @@
         <div class="">
             <div class="grid grid-cols-12 gap-x-2 gap-y-4  lg:gap-6">
                 <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
-                    <div class="size-full rounded-3xl p-4 relative hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+                    <div class="size-full rounded-3xl p-4 relative max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                         <div class=" w-full rounded-3xl">
                             <img class="size-full object-cover rounded-3xl" src="../assets/img/award2.png" alt="">
                         </div>
@@ -186,7 +186,7 @@
                                 Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
                             </div>
                             <div class="pt-2 lg:pt-4">
-                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10 before:absolute before:inset-0 before:z-10" href="./blogInner/">Read more
+                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10 " href="./blogInner/">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
                                     </div>
@@ -196,7 +196,7 @@
                     </div>
                 </div>
                 <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-6 lg:row-span-2">
-                    <div class="relative size-full rounded-3xl p-4  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+                    <div class="relative size-full rounded-3xl p-4  max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                         <div class=" w-full rounded-3xl">
                             <img class="size-full lg:aspect-[1/.8] object-cover rounded-3xl" src="../assets/img/award1.png" alt="">
                         </div>
@@ -226,7 +226,7 @@
                                 Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
                             </div>
                             <div class="pt-2 lg:pt-4">
-                                <a class="text-sm lg:text-base flex items-center  gap-1 group before:absolute before:inset-0 before:z-10" href="#">Read more
+                                <a class="text-sm lg:text-base flex items-center  gap-1 group before:absolute before:inset-0 before:z-10" href="./blogInner/">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
                                     </div>
@@ -236,7 +236,7 @@
                     </div>
                 </div>
                 <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
-                    <div class="relative size-full rounded-3xl p-4  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+                    <div class="relative size-full rounded-3xl p-4  max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                         <div class=" w-full rounded-3xl">
                             <img class="size-full object-cover rounded-3xl" src="../assets/img/award2.png" alt="">
                         </div>
@@ -266,7 +266,7 @@
                                 Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
                             </div>
                             <div class="pt-2 lg:pt-4">
-                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="#">Read more
+                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="./blogInner/">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
                                     </div>
@@ -276,7 +276,7 @@
                     </div>
                 </div>
                 <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
-                    <div class="relative size-full rounded-3xl p-4  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+                    <div class="relative size-full rounded-3xl p-4  max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                         <div class=" w-full rounded-3xl">
                             <img class="size-full object-cover rounded-3xl" src="../assets/img/award1.png" alt="">
                         </div>
@@ -306,7 +306,7 @@
                                 Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
                             </div>
                             <div class="pt-2 lg:pt-4">
-                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="#">Read more
+                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="./blogInner/">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
                                     </div>
@@ -316,7 +316,7 @@
                     </div>
                 </div>
                 <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
-                    <div class="relative size-full rounded-3xl p-4  hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
+                    <div class="relative size-full rounded-3xl p-4  max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                         <div class=" w-full rounded-3xl">
                             <img class="size-full object-cover rounded-3xl" src="../assets/img/award2.png" alt="">
                         </div>
@@ -346,7 +346,7 @@
                                 Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
                             </div>
                             <div class="pt-2 lg:pt-4">
-                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="#">Read more
+                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="./blogInner/">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
                                     </div>
