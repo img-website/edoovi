@@ -5917,6 +5917,14 @@ body{
   }
 }
 
+@media (min-width: 640px){
+  @media (min-width: 1024px){
+    .sm\:lg\:w-1\/4{
+      width: 25%;
+    }
+  }
+}
+
 @media (min-width: 1024px){
   .lg\:left-0{
     left: 0px;
