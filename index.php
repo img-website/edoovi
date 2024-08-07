@@ -808,99 +808,101 @@
                 for Institutional Management in India
             </div>
         </div>
-        <div class="flex flex-wrap max-w-7xl mx-auto px-6 lg:px-8">
-            <div class="bg-white lg:w-1/2 w-full flex justify-start items-center">
-                <div class="relative z-50 text-white p-6 rounded-xl ">
-                    <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
-                        <span class="font-semibold">Empowering</span>
-
-                        <span class="font-bold text-slate-900">Institutions</span>
-                    </p>
-                    <p class="text-base text-slate-800 mt-4">We aim at contributing to the educational system with best-in-class edTech solutions that create maximum value for Institutions.</p>
-                    <button class="h-max bg-gradient-to-b mt-4 from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/10 font-medium text-base text-white">Request Demo</button>
+        <div class=" max-w-7xl mx-auto px-6 lg:px-8">
+            <div class="flex bg-violet-50 py-10 flex-wrap px-2 lg:px-8 rounded-3xl">
+                <div class=" lg:w-1/2 w-full flex justify-start items-center">
+                    <div class="relative z-50 text-white py-6 rounded-xl ">
+                        <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
+                            <span class="font-semibold">Empowering</span>
+    
+                            <span class="font-bold text-slate-900">Institutions</span>
+                        </p>
+                        <p class="text-base text-slate-800 mt-4">We aim at contributing to the educational system with best-in-class edTech solutions that create maximum value for Institutions.</p>
+                        <button class="h-max mt-4 bg-gradient-to-b  from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/10 font-medium text-base text-white">Request Demo</button>
+                    </div>
+    
                 </div>
-
-            </div>
-            <div class="lg:w-1/2 w-full relative">
-                <div class="flex  flex-wrap relative item-stretch">
-                    <div class="sm:w-1/2 w-full h-auto py-3">
-                        <div class="flex m-3 justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-gradient-to-b from-violet-300 to-violet-500 rounded-3xl group shadow-2xl p-3 relative before:absolute before:size-20 before:rounded-full ">
-                            <div class="*:size-12 text-white mb-2 ">
-                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
-                                    <path fill="none" d="M0 0h24v24H0z"></path>
-                                    <path d="M9.68 13.69 12 11.93l2.31 1.76-.88-2.85L15.75 9h-2.84L12 6.19 11.09 9H8.25l2.31 1.84-.88 2.85zM20 10c0-4.42-3.58-8-8-8s-8 3.58-8 8c0 2.03.76 3.87 2 5.28V23l6-2 6 2v-7.72A7.96 7.96 0 0 0 20 10zm-8-6c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6 2.69-6 6-6zm0 15-4 1.02v-3.1c1.18.68 2.54 1.08 4 1.08s2.82-.4 4-1.08v3.1L12 19z"></path>
-                                </svg>
-                            </div>
-
-                            <div class="font-semibold text-xl text-white">
-                                22+
-                            </div>
-                            <div class="text-xl font-semibold text-white">
-                                Successful Years
-                            </div>
-                        </div>
-                    </div>
-                    <div class="sm:w-1/2 w-full h-auto py-3">
-                        <div class="flex m-3 justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white
-                            rounded-3xl group shadow-2xl p-3 relative before:absolute before:size-20 before:rounded-full ">
-                            <div class="*:size-12 text-purple-400  mb-2">
-                                <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
-                                    <circle cx="8.5" cy="7" r="4"></circle>
-                                    <line x1="20" y1="8" x2="20" y2="14"></line>
-                                    <line x1="23" y1="11" x2="17" y2="11"></line>
-                                </svg>
-                            </div>
-
-                            <div class="font-semibold text-purple-400  text-xl">
-                                1600+
-                            </div>
-                            <div class="text-xl font-semibold text-purple-400 ">
-                                Happy Clients
+                <div class="lg:w-1/2 w-full relative">
+                    <div class="flex  flex-wrap relative item-stretch">
+                        <div class="w-1/2 h-auto sm:p-2 p-1 ">
+                            <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-gradient-to-b from-slate-500 to-slate-900   rounded-xl sm:rounded-3xl group shadow-2xl sm:p-3 p-2 relative before:absolute before:size-20 before:rounded-full ">
+                                <div class="sm:*:size-12 *:size-8 text-white mb-2 ">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill="none" d="M0 0h24v24H0z"></path>
+                                        <path d="M9.68 13.69 12 11.93l2.31 1.76-.88-2.85L15.75 9h-2.84L12 6.19 11.09 9H8.25l2.31 1.84-.88 2.85zM20 10c0-4.42-3.58-8-8-8s-8 3.58-8 8c0 2.03.76 3.87 2 5.28V23l6-2 6 2v-7.72A7.96 7.96 0 0 0 20 10zm-8-6c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6 2.69-6 6-6zm0 15-4 1.02v-3.1c1.18.68 2.54 1.08 4 1.08s2.82-.4 4-1.08v3.1L12 19z"></path>
+                                    </svg>
+                                </div>
+    
+                                <div class="font-semibold sm:text-xl text-lg text-white">
+                                    22+
+                                </div>
+                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center text-white">
+                                    Successful Years
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="sm:w-1/2 w-full h-auto py-3">
-                        <div class="flex m-3 justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white rounded-3xl group shadow-2xl p-3 relative before:absolute before:size-20 before:rounded-full ">
-                            <div class="*:size-12 text-purple-400 mb-2 ">
-                                <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M9 7m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0"></path>
-                                    <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"></path>
-                                    <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
-                                    <path d="M21 21v-2a4 4 0 0 0 -3 -3.85"></path>
-                                </svg>
-                            </div>
-                            <div class="font-semibold text-purple-400  text-xl">
-                                96%
-                            </div>
-                            <div class="text-xl font-semibold text-purple-400 ">
-                                Client Retention
-                            </div>
-                        </div>
-                    </div>
-                    <div class="sm:w-1/2 w-full h-auto py-3">
-                        <div class="flex m-3 justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-gradient-to-b from-slate-500 to-slate-900 rounded-3xl group shadow-2xl p-3">
-                            <div class="*:size-12 text-white mb-2 ">
-                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
-                                    <path fill="none" d="M0 0h24v24H0V0z"></path>
-                                    <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H5.17L4 17.17V4h16v12z"></path>
-                                    <path d="m12 15 1.57-3.43L17 10l-3.43-1.57L12 5l-1.57 3.43L7 10l3.43 1.57z"></path>
-                                </svg>
-                            </div>
-
-                            <div class="font-semibold text-white text-xl">
-                                2500+
-                            </div>
-                            <div class="text-white font-semibold text-xl">
-                                Verified Reviews
+                        <div class="w-1/2 h-auto sm:p-2 p-1">
+                            <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white text-slate-700
+                                rounded-xl sm:rounded-3xl group shadow-2xl  sm:p-3 p-2 relative before:absolute before:size-20 before:rounded-full ">
+                                <div class="*:sm-size-12 *:size-8  mb-2">
+                                    <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                                        <circle cx="8.5" cy="7" r="4"></circle>
+                                        <line x1="20" y1="8" x2="20" y2="14"></line>
+                                        <line x1="23" y1="11" x2="17" y2="11"></line>
+                                    </svg>
+                                </div>
+    
+                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center ">
+                                    1600+
+                                </div>
+                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center">
+                                    Happy Clients
+                                </div>
                             </div>
                         </div>
+                        <div class="w-1/2 h-auto sm:p-2 p-1">
+                            <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white text-slate-700 rounded-xl sm:rounded-3xl group shadow-2xl p-3 relative before:absolute before:size-20 before:rounded-full ">
+                                <div class="*:sm-size-12 *:size-8  mb-2 ">
+                                    <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M9 7m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0"></path>
+                                        <path d="M3 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2"></path>
+                                        <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                                        <path d="M21 21v-2a4 4 0 0 0 -3 -3.85"></path>
+                                    </svg>
+                                </div>
+                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center">
+                                    96%
+                                </div>
+                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center">
+                                    Client Retention
+                                </div>
+                            </div>
+                        </div>
+                        <div class="w-1/2 h-auto sm:p-2 p-1">
+                            <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-gradient-to-b from-slate-500 to-slate-900 rounded-xl sm:rounded-3xl group shadow-2xl p-3">
+                                <div class="*:sm-size-12 *:size-8  mb-2 text-white">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill="none" d="M0 0h24v24H0V0z"></path>
+                                        <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H5.17L4 17.17V4h16v12z"></path>
+                                        <path d="m12 15 1.57-3.43L17 10l-3.43-1.57L12 5l-1.57 3.43L7 10l3.43 1.57z"></path>
+                                    </svg>
+                                </div>
+    
+                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center text-white">
+                                    2500+
+                                </div>
+                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center text-white">
+                                    Verified Reviews
+                                </div>
+                            </div>
+                        </div>
+    
+    
                     </div>
-
-
                 </div>
+    
             </div>
-
         </div>
         </div>
     </section>

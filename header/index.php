@@ -239,7 +239,7 @@ rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:r
             <span class="font-normal">
             The Ultimate School ERP With Mobile App For Modern School System</span>
             
-            <span class="font-bold text-orange-500">Modern School System</span>
+            <span class="font-bold text-orange-500"></span>
         </p>
                           </div>
                       </div>
