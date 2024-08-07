@@ -51,7 +51,7 @@
                     <li><a href="./blogs" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Blogs</a></li>
                     <li><a href="./clients/" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Clients</a></li>
                 </ul>
-                <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</button>
+                <a href="./contact/" class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</a>
             </div>
 
             <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
@@ -107,7 +107,7 @@
                         </ul>
                         <div class="fixed overflow-hidden sm:w-1/2 w-full bottom-0 bg-white shadow-lg rotate-180 flex items-center justify-between">
                             <div class="flex overflow-hidden justify-between py-5 px-4 rotate-180 bg-white w-full">
-                                <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</button>
+                                <a href="./contact/" class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</a>
                                 <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Email Us</button>
                             </div>
                         </div>
@@ -135,7 +135,7 @@
                     <div class="text-gray-500 text-sm mt-3 font-medium leading-normal pe-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident animi veniam cupiditate et nobis, omnis similique distinctio iste maxime enim quo. Quod autem dolorem dolores?</div>
                     <div class="grid grid-cols-3 items-center mt-5">
                         <div>
-                            <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-nowrap text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</button>
+                            <a href="./contact/" class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-nowrap text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</a>
                         </div>
                         <div>
                             <div class="text-slate-900 md:text-4xl text-2xl font-semibold">50<span class="text-xl">+</span></div>
@@ -238,7 +238,7 @@
         </div> -->
         </div>
         <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
-            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 sm:gap-5  gap-3">
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 sm:gap-5  gap-3 py-5">
                 <div class="col-auto ">
                     <div class="size-full hover:[box-shadow:0px_0px_23px_0px_#f378a2] duration-300   px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-3xl   bg-gradient-to-r from-[#ed6190] via-[#ff5890] to-[#ff3679]
                         before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#fd97b8]">
