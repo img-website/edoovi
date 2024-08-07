@@ -138,10 +138,10 @@
 
 
     <!-- testimonial section start -->
-    <div class="overflow-hidden relative">
+    <div class="relative mx-auto max-w-7xl lg:px-8 px-6">
         <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
-        <div class="relative max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+        <div class="relative py-10 lg:py-14 mx-auto">
             <div class="w-full md:max-w-2xl md:w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
                 <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10">
                     <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
@@ -161,7 +161,7 @@
                         <div class="relative overflow-hidden">
                             <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
                                 <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
+                                    <div class="rounded-3xl bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
@@ -205,7 +205,7 @@
                         <div class="relative overflow-hidden">
                             <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
                                 <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
+                                    <div class="rounded-3xl bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
@@ -249,7 +249,7 @@
                         <div class="relative overflow-hidden">
                             <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
                                 <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
+                                    <div class="rounded-3xl bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
@@ -293,7 +293,7 @@
                         <div class="relative overflow-hidden">
                             <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
                                 <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
+                                    <div class="rounded-3xl bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
