@@ -1013,10 +1013,6 @@ video {
   margin-bottom: 1.5rem;
 }
 
-.mb-7{
-  margin-bottom: 1.75rem;
-}
-
 .mb-8{
   margin-bottom: 2rem;
 }
@@ -1099,6 +1095,10 @@ video {
 
 .mt-auto{
   margin-top: auto;
+}
+
+.mb-7{
+  margin-bottom: 1.75rem;
 }
 
 .box-border{
@@ -1237,10 +1237,6 @@ video {
   aspect-ratio: 1/1;
 }
 
-.aspect-\[10\/12\]{
-  aspect-ratio: 10/12;
-}
-
 .aspect-\[22\/9\]{
   aspect-ratio: 22/9;
 }
@@ -1265,8 +1261,16 @@ video {
   aspect-ratio: 5/4;
 }
 
+.aspect-\[9\/12\]{
+  aspect-ratio: 9/12;
+}
+
 .aspect-square{
   aspect-ratio: 1 / 1;
+}
+
+.aspect-\[10\/12\]{
+  aspect-ratio: 10/12;
 }
 
 .size-10{
@@ -3244,6 +3248,10 @@ video {
   padding: 1.75rem;
 }
 
+.p-8{
+  padding: 2rem;
+}
+
 .px-1{
   padding-left: 0.25rem;
   padding-right: 0.25rem;
@@ -3332,6 +3340,11 @@ video {
 .py-6{
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
+}
+
+.py-7{
+  padding-top: 1.75rem;
+  padding-bottom: 1.75rem;
 }
 
 .py-8{
@@ -5318,14 +5331,14 @@ body{
     grid-column: span 6 / span 6;
   }
 
-  .sm\:mx-auto{
-    margin-left: auto;
-    margin-right: auto;
-  }
-
   .sm\:my-10{
     margin-top: 2.5rem;
     margin-bottom: 2.5rem;
+  }
+
+  .sm\:mx-auto{
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .sm\:mb-0{
