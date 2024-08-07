@@ -15,12 +15,12 @@
     <!-- header start  -->
 
     <header class="bg-white  w-full fixed top-0 z-[9999] shadow-sm">
-    <div class=" max-w-7xl mx-auto py-3 px-6 lg:px-8 flex items-center  justify-between">
-  <a href="./index.php" class="md:size-16 size-10 *:size-full">
-    <img src="./assets/img/edoovi.webp" alt="">
-  </a>
- <div class="md:flex items-center gap-8 hidden ">
- <ul class="flex gap-8">
+        <div class=" max-w-7xl mx-auto py-3 px-6 lg:px-8 flex items-center  justify-between">
+            <a href="./index.php" class="md:size-16 size-10 *:size-full">
+                <img src="./assets/img/edoovi.webp" alt="">
+            </a>
+            <div class="md:flex items-center gap-8 hidden ">
+                <ul class="flex gap-8">
                     <li><a href="./index.php" class="active [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base  text-slate-600">Home</a></li>
                     <li><a href="./about" class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">About Us</a></li>
                     <li class="relative group">
@@ -34,16 +34,16 @@
                         <div class="bg-white  shadow-md border-gray-100 z-50 border translate-y-10  opacity-0 invisible duration-300 !w-60 absolute group-hover:translate-y-0  group-hover:opacity-100 group-hover:visible">
                             <ul>
                                 <li class="">
-                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/school-software">School Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/school-software">School Software</a>
                                 </li>
                                 <li class="">
-                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/insitute-software">Insitute Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/insitute-software">Insitute Software</a>
                                 </li>
                                 <li class="">
-                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/college-software">College Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/college-software">College Software</a>
                                 </li>
                                 <li class="">
-                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/university-software">University Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/university-software">University Software</a>
                                 </li>
                             </ul>
                         </div>
@@ -51,74 +51,74 @@
                     <li><a href="./blogs" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Blogs</a></li>
                     <li><a href="./clients/" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Clients</a></li>
                 </ul>
-  <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</button>
- </div>
- 
-    <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
-    
-   <label for="sideToggle" class="-m-2.5 inline-flex items-center md:hidden justify-center rounded-md p-2.5 ">
-        <span class="sr-only">Open menu</span>
-        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
-        </svg>
-      </label>
-    <div class="fixed flex flex-col inset-y-0 right-0 z-[1011] w-full select-none text-white bg-white/60 backdrop-blur-lg peer-checked/sideToggle:translate-x-0 peer-checked/sideToggle:opacity-100
-     -translate-x-full opacity-0 ms-auto duration-300 h-dvh">
-    <div class=" flex flex-col  border-l h-[100vh]  overflow-hidden sm:w-1/2">
-   <nav class="sticky w-full top-0 bg-white  py-3 px-6  shadow-lg flex items-center justify-between">
-   <a href="./index.php" class="*:size-10">
-    <img src="./assets/img/edoovi.webp" alt="">
-  </a>
-  <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
-      <span class="sr-only *:">Close menu</span>
-      <svg class="h-6 w-6 text-slate-900" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
-      </svg>
-    </label>
-   </nav>
-   <div class="flex flex-col bg-white  h-full !content-between">
-   <ul xlass="h-full  overflow-y-auto bg-white">
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./index.php" >Home</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./about" >About Us</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/school-software" >School Software</a>
-  </li>
-  
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/insitute-software" >Institute Software</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/college-software" >College Software</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/university-software" >University Software</a>
-  </li>
-  
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./blogs" >BLog</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./clients" >Clients</a>
-  </li>
- </ul>
- <div class="fixed overflow-hidden sm:w-1/2 w-full bottom-0 bg-white shadow-lg rotate-180 flex items-center justify-between">
- <div class="flex overflow-hidden justify-between py-5 px-4 rotate-180 bg-white w-full">
- <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</button>
- <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Email Us</button>
-   </div>
- </div>
- </div>
- 
-   </div>
-</div>
-    </div>
-    
+                <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</button>
+            </div>
 
-  </header>
+            <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
+
+            <label for="sideToggle" class="-m-2.5 inline-flex items-center md:hidden justify-center rounded-md p-2.5 ">
+                <span class="sr-only">Open menu</span>
+                <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
+                </svg>
+            </label>
+            <div class="fixed flex flex-col inset-y-0 right-0 z-[1011] w-full select-none text-white bg-white/60 backdrop-blur-lg peer-checked/sideToggle:translate-x-0 peer-checked/sideToggle:opacity-100
+                -translate-x-full opacity-0 ms-auto duration-300 h-dvh">
+                <div class=" flex flex-col  border-l h-[100vh]  overflow-hidden sm:w-1/2">
+                    <nav class="sticky w-full top-0 bg-white  py-3 px-6  shadow-lg flex items-center justify-between">
+                        <a href="./index.php" class="*:size-10">
+                            <img src="./assets/img/edoovi.webp" alt="">
+                        </a>
+                        <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
+                            <span class="sr-only *:">Close menu</span>
+                            <svg class="h-6 w-6 text-slate-900" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
+                            </svg>
+                        </label>
+                    </nav>
+                    <div class="flex flex-col bg-white pb-40   h-screen overflow-y-auto !content-between">
+                        <ul xlass="h-full  overflow-y-auto bg-white">
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./index.php">Home</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./about">About Us</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/school-software">School Software</a>
+                            </li>
+
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/insitute-software">Institute Software</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/college-software">College Software</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/university-software">University Software</a>
+                            </li>
+
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./blogs">BLog</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./clients">Clients</a>
+                            </li>
+                        </ul>
+                        <div class="fixed overflow-hidden sm:w-1/2 w-full bottom-0 bg-white shadow-lg rotate-180 flex items-center justify-between">
+                            <div class="flex overflow-hidden justify-between py-5 px-4 rotate-180 bg-white w-full">
+                                <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</button>
+                                <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Email Us</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+    </header>
     <!-- header end  -->
 
 
@@ -152,7 +152,7 @@
                         <div class='w-full aspect-square rounded-full bg-[#EFECFE] md:p-10 p-4 '>
                             <div class='w-full aspect-square rounded-full bg-[#DCD6FE] md:p-10 p-4 '>
                                 <div class='w-full relative aspect-square rounded-full bg-[#9985FC] '>
-                                    <div class='w-full absolute inset-x-0 bottom-0 md:aspect-[12/14] aspect-[9/12] px-2 rounded-full flex items-end'>
+                                    <div class='w-full absolute inset-x-0 bottom-0 md:aspect-[12/14] aspect-[10/12] px-2 rounded-full flex items-end'>
                                         <Image class='rounded-full size-full object-cover object-bottom' src="./assets/img/heroImg.png" alt='sdf' />
                                     </div>
                                 </div>
@@ -226,8 +226,8 @@
     <!-- hero section end  -->
 
     <!-- career course  -->
-    <section class="relative lg:py-16 sm:py-10 py-7 overflow-hidden">
-        <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 mb-10">
+    <section class="relative py-2  overflow-hidden">
+        <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 sm:mb-10 mb-7">
             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                 <span class="font-semibold">Browse Top Essentail</span>
                 <br>
@@ -238,7 +238,7 @@
         </div> -->
         </div>
         <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
-            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-5 ">
+            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 sm:gap-5  gap-3">
                 <div class="col-auto ">
                     <div class="size-full hover:[box-shadow:0px_0px_23px_0px_#f378a2] duration-300   px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-3xl   bg-gradient-to-r from-[#ed6190] via-[#ff5890] to-[#ff3679]
                         before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#fd97b8]">
@@ -320,7 +320,7 @@
 
     <!-- logo section  -->
     <div class="overflow-hidden lg:py-16 sm:py-10 py-8">
-        <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 mb-10">
+        <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 sm:mb-10 mb-7">
             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                 <span class="font-semibold">Our Esteemed </span>
                 <span class="font-bold text-slate-900">Clients</span>
@@ -445,9 +445,9 @@
     <!-- logo section end  -->
 
     <!-- seamless solution for  -->
-    <section class="relative lg:py-16 sm:py-10 py-7 ">
+    <section class="relative md:pb-16 pb-10  ">
         <div class="absolute -z-10 -top-5 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
-        <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 pb-10 ">
+        <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 sm:pb-10 pb-7">
             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                 <span class="font-semibold">Seamless Solutions for </span> <br>
                 <span class="font-bold text-slate-900"> Institutional Management</span>
@@ -491,7 +491,7 @@
                         <div class="py-3 font-semibold sm:text-xl text-lg group-hover:text-white">
                             Use Number Of Your Choice
                         </div>
-                        <div class="text-cente group-hover:text-white">
+                        <div class="sm:text-base text-sm text-center group-hover:text-white">
                             No restriction on Number, choose the number you want for WhatsApp Business Solution. It can be Mobile,
                             landline, or toll-free.
                         </div>
@@ -583,210 +583,194 @@
     <!-- end  -->
 
     <!-- testimonial section start -->
-    <div class="overflow-hidden">
-        <div class="relative max-w-[85rem] px-4 sm:py-10 py-8 sm:px-6 lg:px-8 lg:py-14 mx-auto">
-            <div class="w-full md:max-w-2xl md:w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
-                <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10">
-                    <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
-                        <span class="font-semibold">Why Institutes Love </span>
-                        <span class="font-bold text-slate-900">Edoovi ERP System?</span>
-                    </p>
-                    <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
-                        Our Client Says
+    <!-- <div class="overflow-hidden">
+        <div class="relative mx-auto max-w-7xl lg:px-8 px-6">
+            <div class="relative sm:py-10 max-sm:pb-8 lg:py-14 mx-auto">
+                <div class="w-full md:max-w-2xl md:w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
+                    <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10">
+                        <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
+                            <span class="font-semibold">Why Institutes Love </span>
+                            <span class="font-bold text-slate-900">Edoovi ERP System?</span>
+                        </p>
+                        <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
+                            Our Client Says
+                        </div>
                     </div>
                 </div>
-            </div>
-
-
-            <div class="swiper testimonailSwiper">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="relative overflow-hidden">
-                            <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
-                                <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
-                                </div>
-
-                                <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
-                                        <img class="rounded-3xl size-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
+                <div class="swiper testimonailSwiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="relative overflow-hidden rounded-3xl">
+                                <div class="max-w-[85rem] lg:p-8 p-5 mx-auto">
+                                    <div aria-hidden="true" class="flex -z-[1] absolute start-0">
+                                        <div class="rounded-3xl border-white border overflow-hidden bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                     </div>
 
-                                    <div class="lg:col-span-4">
-                                        <blockquote>
+                                    <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
+                                        <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
+                                            <img class="rounded-3xl size-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
+                                        </div>
 
-                                            <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
-                                                "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact."
-                                            </p>
+                                        <div class="lg:col-span-4">
+                                            <blockquote>
 
-                                            <footer class="mt-6">
-                                                <div class="flex items-center">
-                                                    <div class="lg:hidden shrink-0">
-                                                        <img class="size-12 rounded-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
+                                                <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
+                                                    "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact."
+                                                </p>
+
+                                                <footer class="mt-6">
+                                                    <div class="flex items-center">
+                                                        <div class="lg:hidden shrink-0">
+                                                            <img class="size-12 rounded-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
+                                                        </div>
+                                                        <div class="ms-4 lg:ms-0">
+                                                            <p class="font-medium text-gray-800">
+                                                                Jaimin raj
+                                                            </p>
+                                                            <p class="text-sm text-gray-600">
+                                                                Director, P.P. Savani School, Surat
+                                                            </p>
+                                                        </div>
                                                     </div>
-                                                    <div class="ms-4 lg:ms-0">
-                                                        <p class="font-medium text-gray-800">
-                                                            Jaimin raj
-                                                        </p>
-                                                        <p class="text-sm text-gray-600">
-                                                            Director, P.P. Savani School, Surat
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </footer>
-                                        </blockquote>
-                                        <!-- End Blockquote -->
+                                                </footer>
+                                            </blockquote>
+                                        </div>
                                     </div>
-                                    <!-- End Col -->
                                 </div>
-                                <!-- End Grid -->
                             </div>
                         </div>
-                        <!-- End Testimonials -->
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="relative overflow-hidden">
-                            <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
-                                <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
-                                </div>
-
-                                <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
-                                        <img class="rounded-3xl size-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
+                        <div class="swiper-slide">
+                            <div class="relative overflow-hidden">
+                                <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
+                                    <div aria-hidden="true" class="flex -z-[1] absolute start-0">
+                                        <div class="rounded-3xl bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                     </div>
 
-                                    <div class="lg:col-span-4">
-                                        <blockquote>
+                                    <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
+                                        <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
+                                            <img class="rounded-3xl size-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
+                                        </div>
 
-                                            <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
-                                                "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact. The statistics speak volumes about this digital revolution. According to recent surveys, mobile banking users in India are expected to surpass 800 million by the end of 2023, underscoring the role of fintech apps in our daily financial activities. As technology continues to influence every aspect."
-                                            </p>
+                                        <div class="lg:col-span-4">
+                                            <blockquote>
 
-                                            <footer class="mt-6">
-                                                <div class="flex items-center">
-                                                    <div class="lg:hidden shrink-0">
-                                                        <img class="size-12 rounded-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
+                                                <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
+                                                    "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact. The statistics speak volumes about this digital revolution. According to recent surveys, mobile banking users in India are expected to surpass 800 million by the end of 2023, underscoring the role of fintech apps in our daily financial activities. As technology continues to influence every aspect."
+                                                </p>
+
+                                                <footer class="mt-6">
+                                                    <div class="flex items-center">
+                                                        <div class="lg:hidden shrink-0">
+                                                            <img class="size-12 rounded-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
+                                                        </div>
+                                                        <div class="ms-4 lg:ms-0">
+                                                            <p class="font-medium text-gray-800">
+                                                                Mr. Viral Shah
+                                                            </p>
+                                                            <p class="text-sm text-gray-600">
+                                                                Trustee, A-one School, Jaipur
+                                                            </p>
+                                                        </div>
                                                     </div>
-                                                    <div class="ms-4 lg:ms-0">
-                                                        <p class="font-medium text-gray-800">
-                                                            Mr. Viral Shah
-                                                        </p>
-                                                        <p class="text-sm text-gray-600">
-                                                            Trustee, A-one School, Jaipur
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </footer>
-                                        </blockquote>
-                                        <!-- End Blockquote -->
+                                                </footer>
+                                            </blockquote>
+                                        </div>
                                     </div>
-                                    <!-- End Col -->
                                 </div>
-                                <!-- End Grid -->
                             </div>
                         </div>
-                        <!-- End Testimonials -->
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="relative overflow-hidden">
-                            <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
-                                <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
-                                </div>
-
-                                <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
-                                        <img class="rounded-3xl size-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
+                        <div class="swiper-slide">
+                            <div class="relative overflow-hidden">
+                                <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
+                                    <div aria-hidden="true" class="flex -z-[1] absolute start-0">
+                                        <div class="rounded-3xl bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                     </div>
 
-                                    <div class="lg:col-span-4">
-                                        <blockquote>
+                                    <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
+                                        <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
+                                            <img class="rounded-3xl size-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
+                                        </div>
 
-                                            <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
-                                                "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact."
-                                            </p>
+                                        <div class="lg:col-span-4">
+                                            <blockquote>
 
-                                            <footer class="mt-6">
-                                                <div class="flex items-center">
-                                                    <div class="lg:hidden shrink-0">
-                                                        <img class="size-12 rounded-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
+                                                <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
+                                                    "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact."
+                                                </p>
+
+                                                <footer class="mt-6">
+                                                    <div class="flex items-center">
+                                                        <div class="lg:hidden shrink-0">
+                                                            <img class="size-12 rounded-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
+                                                        </div>
+                                                        <div class="ms-4 lg:ms-0">
+                                                            <p class="font-medium text-gray-800">
+                                                                Jaimin raj
+                                                            </p>
+                                                            <p class="text-sm text-gray-600">
+                                                                Director, P.P. Savani School, Surat
+                                                            </p>
+                                                        </div>
                                                     </div>
-                                                    <div class="ms-4 lg:ms-0">
-                                                        <p class="font-medium text-gray-800">
-                                                            Jaimin raj
-                                                        </p>
-                                                        <p class="text-sm text-gray-600">
-                                                            Director, P.P. Savani School, Surat
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </footer>
-                                        </blockquote>
-                                        <!-- End Blockquote -->
+                                                </footer>
+                                            </blockquote>
+                                        </div>
                                     </div>
-                                    <!-- End Col -->
                                 </div>
-                                <!-- End Grid -->
                             </div>
                         </div>
-                        <!-- End Testimonials -->
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="relative overflow-hidden">
-                            <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
-                                <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
-                                </div>
-
-                                <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
-                                        <img class="rounded-3xl size-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
+                        <div class="swiper-slide">
+                            <div class="relative overflow-hidden">
+                                <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
+                                    <div aria-hidden="true" class="flex -z-[1] absolute start-0">
+                                        <div class="rounded-3xl bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                     </div>
 
-                                    <div class="lg:col-span-4">
-                                        <blockquote>
+                                    <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
+                                        <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
+                                            <img class="rounded-3xl size-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
+                                        </div>
 
-                                            <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
-                                                "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact. The statistics speak volumes about this digital revolution. According to recent surveys, mobile banking users in India are expected to surpass 800 million by the end of 2023, underscoring the role of fintech apps in our daily financial activities. As technology continues to influence every aspect."
-                                            </p>
+                                        <div class="lg:col-span-4">
+                                            <blockquote>
 
-                                            <footer class="mt-6">
-                                                <div class="flex items-center">
-                                                    <div class="lg:hidden shrink-0">
-                                                        <img class="size-12 rounded-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
+                                                <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
+                                                    "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact. The statistics speak volumes about this digital revolution. According to recent surveys, mobile banking users in India are expected to surpass 800 million by the end of 2023, underscoring the role of fintech apps in our daily financial activities. As technology continues to influence every aspect."
+                                                </p>
+
+                                                <footer class="mt-6">
+                                                    <div class="flex items-center">
+                                                        <div class="lg:hidden shrink-0">
+                                                            <img class="size-12 rounded-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
+                                                        </div>
+                                                        <div class="ms-4 lg:ms-0">
+                                                            <p class="font-medium text-gray-800">
+                                                                Mr. Viral Shah
+                                                            </p>
+                                                            <p class="text-sm text-gray-600">
+                                                                Trustee, A-one School, Jaipur
+                                                            </p>
+                                                        </div>
                                                     </div>
-                                                    <div class="ms-4 lg:ms-0">
-                                                        <p class="font-medium text-gray-800">
-                                                            Mr. Viral Shah
-                                                        </p>
-                                                        <p class="text-sm text-gray-600">
-                                                            Trustee, A-one School, Jaipur
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </footer>
-                                        </blockquote>
-                                        <!-- End Blockquote -->
+                                                </footer>
+                                            </blockquote>
+                                        </div>
                                     </div>
-                                    <!-- End Col -->
                                 </div>
-                                <!-- End Grid -->
                             </div>
                         </div>
-                        <!-- End Testimonials -->
                     </div>
+
                 </div>
-
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- testimonial section ends -->
 
     <!-- card start -->
-    <section class="lg:py-16 sm:py-10 py-3 overflow-x-hidden ">
+    <section class="lg:pb-16 pb-10 overflow-x-hidden ">
         <div class="absolute -z-10 top-10 left-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
-        <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 pb-10 ">
+        <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 sm:pb-10 pb-7">
             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                 <span class="font-semibold">Edoovi The Top Choice </span> <br>
                 <!-- <span class="font-bold text-slate-900"> Institutional Management</span> -->
@@ -814,7 +798,9 @@
                         <div class="w-1/2 h-auto sm:p-2 p-1 ">
                             <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-gradient-to-b from-slate-500 to-slate-900   rounded-xl sm:rounded-3xl group shadow-2xl sm:p-6 p-4 relative">
                                 <div class="sm:*:size-1o *:size-8 text-white mb-2 ">
-                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke-width="1.5px" d="M10.3248685,14.7630919 C7.82620532,14.038202 6,11.7325889 6,9 L6,1 L18,1 L18,10 M6,3 L1,3 L1,7 C1,9.509 2.791,11 5,11 L6,11 M20.0335555,10.884915 C21.7416567,10.4908882 23,9.10306372 23,7 L23,3 L18,3 M10,19 L5,19 L5,23 L16.5,23 M16.5,10 C12.9101429,10 10,12.9101429 10,16.5 C10,20.0898571 12.9101429,23 16.5,23 C20.0898571,23 23,20.0898571 23,16.5 C23,12.9101429 20.0898571,10 16.5,10 L16.5,10 Z M20,14 L15.5,18.5 L13,16 M10.2056405,15.4240751 C8.89754812,16.0817472 8,17.4360568 8,19"></path></svg>
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill="none" stroke-width="1.5px" d="M10.3248685,14.7630919 C7.82620532,14.038202 6,11.7325889 6,9 L6,1 L18,1 L18,10 M6,3 L1,3 L1,7 C1,9.509 2.791,11 5,11 L6,11 M20.0335555,10.884915 C21.7416567,10.4908882 23,9.10306372 23,7 L23,3 L18,3 M10,19 L5,19 L5,23 L16.5,23 M16.5,10 C12.9101429,10 10,12.9101429 10,16.5 C10,20.0898571 12.9101429,23 16.5,23 C20.0898571,23 23,20.0898571 23,16.5 C23,12.9101429 20.0898571,10 16.5,10 L16.5,10 Z M20,14 L15.5,18.5 L13,16 M10.2056405,15.4240751 C8.89754812,16.0817472 8,17.4360568 8,19"></path>
+                                    </svg>
                                 </div>
 
                                 <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center text-white">
@@ -895,7 +881,7 @@
     <!-- card end -->
 
     <!-- cta start  -->
-    <section class="lg:py-16 sm:py-10 py-3">
+    <section class="lg:pb-16 pb-10">
         <div class="  mx-auto max-w-7xl px-6 lg:px-8">
             <div class="relative py-14 isolate  text-center justify-center :relative :z-10 bg-gray-900/70 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:px-24">
                 <img class="rounded-3xl !absolute !z-0 inset-0 size-full mix-blend-overlay object-cover object-center" src="https://www.imgglobalinfotech.com/public/tailwind/img/cta/school-cta-2.webp?id=7a2551bcc85c9d67d2863e9d0af57dd0">
@@ -965,7 +951,7 @@
         <div class="container mx-auto max-w-7xl px-6 lg:px-8  sm:px-6 ">
 
             <div class="relative pb-8 md:p-5 md:px-10">
-                <div class="relative z-10 lg:grid lg:grid-cols-12 lg:items-center">
+                <div class="relative z-10 lg:grid lg:grid-cols-12 lg:items-cente mt-5">
                     <div class="mb-5 sm:mb-10 lg:mb-0 lg:col-span-7 lg:order-2 bg-purple-50 px-4 sm:px-8 md:px-16 py-5 sm:py-8 md:py-12 rounded-3xl">
                         <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10">
                             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance tracking-[-0.04em] text-slate-900  font-semibold">
@@ -1063,9 +1049,6 @@
     </section>
     <!-- key benifits section Ends -->
 
-
-
-
     <!-- blog section  -->
     <section class="container px-6 lg:px-8 mx-auto max-w-7xl lg:pb-16 pb-10 overflow-hidden">
         <div class="relative z-10 mb-8 md:mb-12">
@@ -1073,12 +1056,12 @@
                 <span class="font-semibold">Explore Tech Insights</span>
                 <span class="font-semibold">Fresh Blogs, News, and More!</span>
             </p>
-            <div class="md:text-base text-sm text-black/70 mt-2 font-semibold text-balance">
+            <div class="md:text-base text-sm text-black/70 my-2 font-semibold text-balance ">
                 Edoovi school management system has grabbed the best school ERP software award, Best digital transformation award, Best innovative school erp award, Education Excellence Award for consecutive 3 years 2017-2019 by various well recognized associations.
             </div>
         </div>
         <div class="">
-            <div class="grid grid-cols-12 gap-x-2 gap-y-4  lg:gap-6">
+            <div class="grid grid-cols-12 gap-x-2 gap-y-4  lg:gap-6 mt-5">
                 <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
                     <div class="size-full rounded-3xl p-4 relative max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                         <div class=" w-full rounded-3xl">
@@ -1088,7 +1071,9 @@
                             <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
                                 <div class="flex items-center gap-1">
                                     <div class="*:text-sm">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path>
+                                        </svg>
                                     </div>
                                     <div class="text-xs lg:text-sm leading-normal font-medium">
                                         09/01/2024
@@ -1096,7 +1081,9 @@
                                 </div>
                                 <div class="flex items-center gap-1 ms-auto">
                                     <div class="*:text-sm">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 496 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 496 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"></path>
+                                        </svg>
                                     </div>
                                     <div class="text-xs lg:text-sm font-medium leading-tight">
                                         Rupendra Chauhan
@@ -1112,7 +1099,9 @@
                             <div class="pt-2 lg:pt-4">
                                 <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10 " href="./blogs/bloginner">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path>
+                                        </svg>
                                     </div>
                                 </a>
                             </div>
@@ -1128,7 +1117,9 @@
                             <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
                                 <div class="flex items-center gap-2">
                                     <div class="*:text-sm">
-                                       <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path>
+                                        </svg>
                                     </div>
                                     <div class="text-xs lg:text-sm leading-normal font-medium">
                                         09/01/2024
@@ -1136,7 +1127,9 @@
                                 </div>
                                 <div class="flex items-center gap-1 ms-auto">
                                     <div class="*:text-sm">
-                                       <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 496 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 496 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"></path>
+                                        </svg>
                                     </div>
                                     <div class="text-xs lg:text-sm leading-normal font-medium">
                                         Rupendra Chauhan
@@ -1152,7 +1145,9 @@
                             <div class="pt-2 lg:pt-4">
                                 <a class="text-sm lg:text-base flex items-center  gap-1 group before:absolute before:inset-0 before:z-10" href="./blogs/bloginner">Read more
                                     <div classs="group-hover:translate-x-2 duration-300 *:size-4">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path>
+                                        </svg>
                                     </div>
                                 </a>
                             </div>
@@ -1168,7 +1163,9 @@
                             <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
                                 <div class="flex items-center gap-2">
                                     <div class="*:text-sm">
-                                       <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path>
+                                        </svg>
                                     </div>
                                     <div class="text-xs lg:text-sm leading-normal font-medium">
                                         09/01/2024
@@ -1176,7 +1173,9 @@
                                 </div>
                                 <div class="flex items-center gap-1 ms-auto">
                                     <div class="*:text-sm">
-                                       <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 496 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 496 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"></path>
+                                        </svg>
                                     </div>
                                     <div class="text-xs lg:text-sm leading-normal font-medium">
                                         Rupendra Chauhan
@@ -1192,7 +1191,9 @@
                             <div class="pt-2 lg:pt-4">
                                 <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="./blogs/bloginner">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path>
+                                        </svg>
                                     </div>
                                 </a>
                             </div>
@@ -1208,7 +1209,9 @@
                             <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
                                 <div class="flex items-center gap-2">
                                     <div class="*:text-sm">
-                                       <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path>
+                                        </svg>
                                     </div>
                                     <div class="text-xs lg:text-sm leading-normal font-medium">
                                         09/01/2024
@@ -1216,7 +1219,9 @@
                                 </div>
                                 <div class="flex items-center gap-1 ms-auto">
                                     <div class="*:text-sm">
-                                       <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 496 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 496 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"></path>
+                                        </svg>
                                     </div>
                                     <div class="text-xs lg:text-sm leading-normal font-medium">
                                         Rupendra Chauhan
@@ -1232,7 +1237,9 @@
                             <div class="pt-2 lg:pt-4">
                                 <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="./blogs/bloginner">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path>
+                                        </svg>
                                     </div>
                                 </a>
                             </div>
@@ -1248,7 +1255,9 @@
                             <div class="date flex py-2 lg:py-4 items-center gap-2 lg:gap-4">
                                 <div class="flex items-center gap-2">
                                     <div class="*:text-sm">
-                                       <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V192H0v272zm320-196c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM192 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12h-40c-6.6 0-12-5.4-12-12v-40zM64 268c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zm0 128c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM400 64h-48V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H160V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48H48C21.5 64 0 85.5 0 112v48h448v-48c0-26.5-21.5-48-48-48z"></path>
+                                        </svg>
                                     </div>
                                     <div class="text-xs lg:text-sm leading-normal font-medium">
                                         09/01/2024
@@ -1256,7 +1265,9 @@
                                 </div>
                                 <div class="flex items-center gap-1 ms-auto">
                                     <div class="*:text-sm">
-                                       <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 496 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 496 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"></path>
+                                        </svg>
                                     </div>
                                     <div class="text-xs lg:text-sm leading-normal font-medium">
                                         Rupendra Chauhan
@@ -1272,7 +1283,9 @@
                             <div class="pt-2 lg:pt-4">
                                 <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="./blogs/bloginner">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
+                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path>
+                                        </svg>
                                     </div>
                                 </a>
                             </div>
@@ -1289,13 +1302,14 @@
 
     <!-- form section start -->
     <section class="relative sm:mb-20 mb-10  ">
+    <div class="absolute  bottom-0 left-00 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
         <div class="absolute  -top-7 !right-0 [background:radial-gradient(circle,_rgba(255,231,_186,_0.7),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
         <div class="mx-auto max-w-7xl lg:px-8 px-6">
             <div class="flex justify-center items-center relative z-10">
                 <!-- COMPONENT CODE -->
                 <div class="">
 
-                    <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-64 mr-auto rounded-2xl shadow-2xl bg-white">
+                    <div class="w-full sm:p-8 p-5 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-64 mr-auto rounded-2xl shadow-2xl bg-white">
                         <div class="flex">
                             <h1 class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold text-balance">Get in touch for any kind of help and informations</h1>
                         </div>
@@ -1308,8 +1322,8 @@
                         <div class="my-4">
                             <textarea placeholder="Message*" class="w-full h-32 bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"></textarea>
                         </div>
-                        <div class="my-2 w-1/2 lg:w-1/4">
-                            <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">
+                        <div class="my-2 sm:w-1/2 lg:w-1/4 sm:mx-auto flex items-center justify-center">
+                            <button class="text-nowrap bg-gradient-to-b  from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">
                                 Send Message
                             </button>
                         </div>
@@ -1323,23 +1337,23 @@
                                 eu feugiat felis fermentum id. Curabitur vitae nibh viverra, auctor turpis sed, scelerisque ex.
                             </p>
 
-                            <div class="flex my-4 w-2/3 ">
+                            <div class="flex my-4 sm:w-2/3 ">
 
                                 <div class="flex flex-col">
                                     <h2 class="text-2xl text-white font-medium">Main Office</h2>
                                     <ul class="flex flex-col gap-1 mt-3">
                                         <li>
-                                            <a href="javascript:;" class="text-white/90 flex items-center "><span class="flex items-center mr-1"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 384 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <a href="javascript:;" class="text-white/90 flex items-center text-sm "><span class="flex items-center mr-1"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 384 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 128a64 64 0 1 1 0 128 64 64 0 1 1 0-128z"></path>
                                                     </svg></span>35 Oakridge Lane, NJ 08102</a>
                                         </li>
                                         <li>
-                                            <a href="javascript:;" class="text-white/90 flex items-center "><span class="flex items-center mr-1"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 384 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <a href="javascript:;" class="text-white/90 flex items-center text-sm "><span class="flex items-center mr-1"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 384 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M97.333 506.966c-129.874-129.874-129.681-340.252 0-469.933 5.698-5.698 14.527-6.632 21.263-2.422l64.817 40.513a17.187 17.187 0 0 1 6.849 20.958l-32.408 81.021a17.188 17.188 0 0 1-17.669 10.719l-55.81-5.58c-21.051 58.261-20.612 122.471 0 179.515l55.811-5.581a17.188 17.188 0 0 1 17.669 10.719l32.408 81.022a17.188 17.188 0 0 1-6.849 20.958l-64.817 40.513a17.19 17.19 0 0 1-21.264-2.422zM247.126 95.473c11.832 20.047 11.832 45.008 0 65.055-3.95 6.693-13.108 7.959-18.718 2.581l-5.975-5.726c-3.911-3.748-4.793-9.622-2.261-14.41a32.063 32.063 0 0 0 0-29.945c-2.533-4.788-1.65-10.662 2.261-14.41l5.975-5.726c5.61-5.378 14.768-4.112 18.718 2.581zm91.787-91.187c60.14 71.604 60.092 175.882 0 247.428-4.474 5.327-12.53 5.746-17.552.933l-5.798-5.557c-4.56-4.371-4.977-11.529-.93-16.379 49.687-59.538 49.646-145.933 0-205.422-4.047-4.85-3.631-12.008.93-16.379l5.798-5.557c5.022-4.813 13.078-4.394 17.552.933zm-45.972 44.941c36.05 46.322 36.108 111.149 0 157.546-4.39 5.641-12.697 6.251-17.856 1.304l-5.818-5.579c-4.4-4.219-4.998-11.095-1.285-15.931 26.536-34.564 26.534-82.572 0-117.134-3.713-4.836-3.115-11.711 1.285-15.931l5.818-5.579c5.159-4.947 13.466-4.337 17.856 1.304z"></path>
                                                     </svg></span> +91 -8696123456</a>
                                         </li>
                                         <li>
-                                            <a href="javascript:;" class="text-white/90 flex items-center "><span class="flex items-center mr-1"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                            <a href="javascript:;" class="text-white/90 flex items-center text-sm "><span class="flex items-center mr-1"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                                         <path fill="none" d="M0 0h24v24H0z"></path>
                                                         <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z"></path>
                                                     </svg></span> schoolsoftware@gmail.com</a>
@@ -1360,19 +1374,26 @@
 
                                     <a href="#!" type="button" class="rounded-full bg-[#55acee] sm:p-3 p-2 flex items-center justify-center uppercase leading-normal text-white shadow-dark-3 border border-white sm:size-10 size-8 shadow-black/30 transition duration-150 ease-in-out hover:scale-95 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white" data-twe-ripple-init data-twe-ripple-color="light">
                                         <span class="mx-auto flex items-center justify-center">
-                                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>
+                                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path>
+                                            </svg>
                                         </span>
                                     </a>
 
                                     <a href="#!" type="button" class="rounded-full bg-[#dd4b39] sm:p-3 p-2 flex items-center justify-center uppercase leading-normal text-white shadow-dark-3 border border-white sm:size-10 size-8 shadow-black/30 transition duration-150 ease-in-out hover:scale-95 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white" data-twe-ripple-init data-twe-ripple-color="light">
                                         <span class="mx-auto flex items-center justify-center">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M349.33 69.33a93.62 93.62 0 0 1 93.34 93.34v186.66a93.62 93.62 0 0 1-93.34 93.34H162.67a93.62 93.62 0 0 1-93.34-93.34V162.67a93.62 93.62 0 0 1 93.34-93.34h186.66m0-37.33H162.67C90.8 32 32 90.8 32 162.67v186.66C32 421.2 90.8 480 162.67 480h186.66C421.2 480 480 421.2 480 349.33V162.67C480 90.8 421.2 32 349.33 32z"></path><path d="M377.33 162.67a28 28 0 1 1 28-28 27.94 27.94 0 0 1-28 28zM256 181.33A74.67 74.67 0 1 1 181.33 256 74.75 74.75 0 0 1 256 181.33m0-37.33a112 112 0 1 0 112 112 112 112 0 0 0-112-112z"></path></svg>
+                                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M349.33 69.33a93.62 93.62 0 0 1 93.34 93.34v186.66a93.62 93.62 0 0 1-93.34 93.34H162.67a93.62 93.62 0 0 1-93.34-93.34V162.67a93.62 93.62 0 0 1 93.34-93.34h186.66m0-37.33H162.67C90.8 32 32 90.8 32 162.67v186.66C32 421.2 90.8 480 162.67 480h186.66C421.2 480 480 421.2 480 349.33V162.67C480 90.8 421.2 32 349.33 32z"></path>
+                                                <path d="M377.33 162.67a28 28 0 1 1 28-28 27.94 27.94 0 0 1-28 28zM256 181.33A74.67 74.67 0 1 1 181.33 256 74.75 74.75 0 0 1 256 181.33m0-37.33a112 112 0 1 0 112 112 112 112 0 0 0-112-112z"></path>
+                                            </svg>
                                         </span>
                                     </a>
 
                                     <a href="#!" type="button" class="rounded-full bg-[#ac2bac] sm:p-3 p-2 flex items-center justify-center  uppercase leading-normal text-white shadow-dark-3 border border-white sm:size-10 size-8 shadow-black/30 transition duration-150 ease-in-out hover:scale-95 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white" data-twe-ripple-init data-twe-ripple-color="light">
                                         <span class="mx-auto flex items-center justify-center">
-                                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg>
+                                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path>
+                                            </svg>
                                         </span>
                                     </a>
 
