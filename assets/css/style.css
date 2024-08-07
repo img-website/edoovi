@@ -695,6 +695,10 @@ video {
   bottom: -1.25rem;
 }
 
+.-top-10{
+  top: -2.5rem;
+}
+
 .-top-12{
   top: -3rem;
 }
@@ -989,10 +993,6 @@ video {
   margin-bottom: 0.5rem;
 }
 
-.mb-20{
-  margin-bottom: 5rem;
-}
-
 .mb-3{
   margin-bottom: 0.75rem;
 }
@@ -1276,11 +1276,6 @@ video {
   height: 3.5rem;
 }
 
-.size-16{
-  width: 4rem;
-  height: 4rem;
-}
-
 .size-20{
   width: 5rem;
   height: 5rem;
@@ -1357,6 +1352,10 @@ video {
   height: 18rem;
 }
 
+.h-\[100vh\]{
+  height: 100vh;
+}
+
 .h-\[300px\]{
   height: 300px;
 }
@@ -1367,6 +1366,10 @@ video {
 
 .h-auto{
   height: auto;
+}
+
+.h-dvh{
+  height: 100dvh;
 }
 
 .h-full{
@@ -1546,6 +1549,11 @@ video {
   border-collapse: separate;
 }
 
+.-translate-x-full{
+  --tw-translate-x: -100%;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
 .translate-x-full{
   --tw-translate-x: 100%;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
@@ -1553,6 +1561,11 @@ video {
 
 .translate-y-10{
   --tw-translate-y: 2.5rem;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.rotate-180{
+  --tw-rotate: 180deg;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
@@ -3343,10 +3356,6 @@ video {
   padding-bottom: 1rem;
 }
 
-.pb-5{
-  padding-bottom: 1.25rem;
-}
-
 .pb-6{
   padding-bottom: 1.5rem;
 }
@@ -3399,8 +3408,8 @@ video {
   padding-top: 1rem;
 }
 
-.pt-8{
-  padding-top: 2rem;
+.pt-6{
+  padding-top: 1.5rem;
 }
 
 .text-left{
@@ -4327,6 +4336,11 @@ body{
   z-index: 20;
 }
 
+.\*\:size-10 > *{
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
 .\*\:size-12 > *{
   width: 3rem;
   height: 3rem;
@@ -5202,10 +5216,6 @@ body{
 }
 
 @media not all and (min-width: 640px){
-  .max-sm\:mb-10{
-    margin-bottom: 2.5rem;
-  }
-
   .max-sm\:justify-center{
     justify-content: center;
   }
@@ -5240,14 +5250,14 @@ body{
     text-align: center;
   }
 
-  .max-sm\:text-xl{
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-  }
-
   .max-sm\:text-sm{
     font-size: 0.875rem;
     line-height: 1.25rem;
+  }
+
+  .max-sm\:text-xl{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
   }
 
   .max-sm\:\[box-shadow\:0px_0px_32px_0px_rgba\(36\2c 40\2c 46\2c \.12\)\]{
@@ -5307,6 +5317,10 @@ body{
 
   .sm\:mb-10{
     margin-bottom: 2.5rem;
+  }
+
+  .sm\:mb-20{
+    margin-bottom: 5rem;
   }
 
   .sm\:ms-3{
@@ -5502,20 +5516,16 @@ body{
     padding-bottom: 1.75rem;
   }
 
+  .sm\:pt-0{
+    padding-top: 0px;
+  }
+
   .sm\:pt-16{
     padding-top: 4rem;
   }
 
   .sm\:pt-4{
     padding-top: 1rem;
-  }
-
-  .sm\:pt-0{
-    padding-top: 0px;
-  }
-
-  .sm\:pt-10{
-    padding-top: 2.5rem;
   }
 
   .sm\:text-center{
@@ -5681,6 +5691,11 @@ body{
 
   .md\:aspect-\[12\/14\]{
     aspect-ratio: 12/14;
+  }
+
+  .md\:size-16{
+    width: 4rem;
+    height: 4rem;
   }
 
   .md\:size-60{
@@ -6168,10 +6183,6 @@ body{
     padding-bottom: 4rem;
   }
 
-  .lg\:pb-20{
-    padding-bottom: 5rem;
-  }
-
   .lg\:pb-4{
     padding-bottom: 1rem;
   }
@@ -6226,10 +6237,6 @@ body{
 
   .lg\:pt-6{
     padding-top: 1.5rem;
-  }
-
-  .lg\:pt-16{
-    padding-top: 4rem;
   }
 
   .lg\:text-left{
@@ -6329,10 +6336,6 @@ body{
   }
 }
 
-.\[\&\.active\]\:border-b.active{
-  border-bottom-width: 1px;
-}
-
 .\[\&\.active\]\:border-b-\[2px\].active{
   border-bottom-width: 2px;
 }
@@ -6342,19 +6345,9 @@ body{
   border-bottom-color: rgb(15 23 42 / var(--tw-border-opacity));
 }
 
-.\[\&\.active\]\:border-b-violet-400.active{
-  --tw-border-opacity: 1;
-  border-bottom-color: rgb(167 139 250 / var(--tw-border-opacity));
-}
-
 .\[\&\.active\]\:bg-violet-400.active{
   --tw-bg-opacity: 1;
   background-color: rgb(167 139 250 / var(--tw-bg-opacity));
-}
-
-.\[\&\.active\]\:text-slate-900.active{
-  --tw-text-opacity: 1;
-  color: rgb(15 23 42 / var(--tw-text-opacity));
 }
 
 .\[\&\.active\]\:text-slate-950.active{
