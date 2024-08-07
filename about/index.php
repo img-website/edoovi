@@ -366,7 +366,7 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="relative overflow-hidden rounded-3xl">
-                            <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
+                            <div class="max-w-[85rem] lg:py-10 p-7 mx-auto">
                                 <div aria-hidden="true" class="flex -z-[1] absolute start-0">
                                     <div class="rounded-3xl border-white border overflow-hidden bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                 </div>
