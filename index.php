@@ -15,35 +15,35 @@
     <!-- header start  -->
 
     <header class="bg-white  w-full fixed top-0 z-[9999] shadow-sm">
-        <div class=" max-w-7xl mx-auto py-3 px-6 lg:px-8 flex items-center justify-between">
-            <a href="index.php" class="sm:size-16 size-14 *:size-full">
-                <img src="./assets/img/edoovi.webp" alt="">
-            </a>
-            <div class="md:flex items-center gap-8 hidden ">
-                <ul class="flex gap-8">
+    <div class=" max-w-7xl mx-auto py-3 px-6 lg:px-8 flex items-center  justify-between">
+  <a href="./index.php" class="md:size-16 size-10 *:size-full">
+    <img src="./assets/img/edoovi.webp" alt="">
+  </a>
+ <div class="md:flex items-center gap-8 hidden ">
+ <ul class="flex gap-8">
                     <li><a href="./index.php" class="active [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base  text-slate-600">Home</a></li>
                     <li><a href="./about" class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">About Us</a></li>
                     <li class="relative group">
-                        <a href="../oursolutions/school-software" class=" flex items-center font-medium text-base active:text-slate-900 text-slate-600">Our Solutions
+                        <a href="./oursolutions/school-software" class=" flex items-center font-medium text-base active:text-slate-900 text-slate-600">Our Solutions
                             <span class="*:size-6 *:group-hover:rotate-180 *:duration-300">
                                 <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M12 15.0006L7.75732 10.758L9.17154 9.34375L12 12.1722L14.8284 9.34375L16.2426 10.758L12 15.0006Z"></path>
                                 </svg>
                             </span>
                         </a>
-                        <div class="bg-white shadow-md border-gray-100 border translate-y-10  opacity-0 invisible duration-300 !w-60 absolute group-hover:translate-y-0  group-hover:opacity-100 group-hover:visible">
+                        <div class="bg-white  shadow-md border-gray-100 z-50 border translate-y-10  opacity-0 invisible duration-300 !w-60 absolute group-hover:translate-y-0  group-hover:opacity-100 group-hover:visible">
                             <ul>
-                                <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                    <a href="./oursolutions/school-software">School Software</a>
+                                <li class="">
+                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/school-software">School Software</a>
                                 </li>
-                                <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                    <a href="./oursolutions/insitute-software">Insitute Software</a>
+                                <li class="">
+                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/insitute-software">Insitute Software</a>
                                 </li>
-                                <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                    <a href="./oursolutions/college-software">College Software</a>
+                                <li class="">
+                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/college-software">College Software</a>
                                 </li>
-                                <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                    <a href="./oursolutions/university-software">University Software</a>
+                                <li class="">
+                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/university-software">University Software</a>
                                 </li>
                             </ul>
                         </div>
@@ -51,75 +51,74 @@
                     <li><a href="./blogs" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Blogs</a></li>
                     <li><a href="./clients/" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Clients</a></li>
                 </ul>
-                <a href="./contact/" class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-nowrap text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</a>
-            </div>
+  <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</button>
+ </div>
+ 
+    <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
+    
+   <label for="sideToggle" class="-m-2.5 inline-flex items-center md:hidden justify-center rounded-md p-2.5 ">
+        <span class="sr-only">Open menu</span>
+        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
+        </svg>
+      </label>
+    <div class="fixed flex flex-col inset-y-0 right-0 z-[1011] w-full select-none text-white bg-white/60 backdrop-blur-lg peer-checked/sideToggle:translate-x-0 peer-checked/sideToggle:opacity-100
+     -translate-x-full opacity-0 ms-auto duration-300 h-dvh">
+    <div class=" flex flex-col  border-l h-[100vh]  overflow-hidden sm:w-1/2">
+   <nav class="sticky w-full top-0 bg-white  py-3 px-6  shadow-lg flex items-center justify-between">
+   <a href="./index.php" class="*:size-10">
+    <img src="./assets/img/edoovi.webp" alt="">
+  </a>
+  <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
+      <span class="sr-only *:">Close menu</span>
+      <svg class="h-6 w-6 text-slate-900" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
+      </svg>
+    </label>
+   </nav>
+   <div class="flex flex-col bg-white  h-full !content-between">
+   <ul xlass="h-full  overflow-y-auto bg-white">
+  <li class="w-full">
+    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./index.php" >Home</a>
+  </li>
+  <li class="w-full">
+    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./about" >About Us</a>
+  </li>
+  <li class="w-full">
+    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/school-software" >School Software</a>
+  </li>
+  
+  <li class="w-full">
+    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/insitute-software" >Institute Software</a>
+  </li>
+  <li class="w-full">
+    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/college-software" >College Software</a>
+  </li>
+  <li class="w-full">
+    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/university-software" >University Software</a>
+  </li>
+  
+  <li class="w-full">
+    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./blogs" >BLog</a>
+  </li>
+  <li class="w-full">
+    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./clients" >Clients</a>
+  </li>
+ </ul>
+ <div class="fixed overflow-hidden sm:w-1/2 w-full bottom-0 bg-white shadow-lg rotate-180 flex items-center justify-between">
+ <div class="flex overflow-hidden justify-between py-5 px-4 rotate-180 bg-white w-full">
+ <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</button>
+ <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Email Us</button>
+   </div>
+ </div>
+ </div>
+ 
+   </div>
+</div>
+    </div>
+    
 
-            <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
-
-            <label for="sideToggle" class="-m-2.5 inline-flex items-center md:hidden justify-center rounded-md p-2.5 ">
-                <span class="sr-only">Open menu</span>
-                <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
-                </svg>
-            </label>
-            <div class="fixed flex flex-col inset-y-0 right-0 z-[1011] w-full overflow-y-auto select-none text-white bg-white/60 backdrop-blur-lg peer-checked/sideToggle:translate-x-0 peer-checked/sideToggle:opacity-100
-                translate-x-full opacity-0 duration-300">
-                <div class="ms-auto overflow-y-auto w-full border-l h-screen  sm:w-1/2">
-                    <nav class="sticky top-0 bg-white  p-3 ms-auto shadow-lg flex items-center justify-between">
-                        <a href="" class="*:size-14">
-                            <img src="./assets/img/edoovi.webp" alt="">
-                        </a>
-                        <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
-                            <span class="sr-only *:">Close menu</span>
-                            <svg class="h-6 w-6 text-slate-900" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
-                            </svg>
-                        </label>
-                    </nav>
-                    <div class="flex flex-col !content-between">
-                        <ul>
-                            <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="./index.php">Home</a>
-                            </li>
-                            <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="./about/">About Us</a>
-                            </li>
-                            <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="./oursolutions/school-software">School Software</a>
-                            </li>
-                            <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="./oursolutions/college-software/">College Software</a>
-                            </li>
-                            <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="./oursolutions/insitute-software/">Insitute Software</a>
-                            </li>
-                            <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="./oursolutions/university-software/">University Software</a>
-                            </li>
-
-                            <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="./blogs/">Blogs</a>
-                            </li>
-                            <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="./clients/">Clients</a>
-                            </li>
-                            <li class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="./contact/">Contact</a>
-                            </li>
-                        </ul>
-                        <div class="mt-auto ">
-                            <div class="flex justify-between px-4 pt-10 bg-white w-full">
-                                <a href="./contact/" class="h-max bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-nowrap text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contant Us</a>
-                                <button class="h-max mt-auto bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-nowrap text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d] ">Email Us</button>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-    </header>
+  </header>
     <!-- header end  -->
 
 
@@ -785,7 +784,7 @@
     <!-- testimonial section ends -->
 
     <!-- card start -->
-    <section class="relativelg:py-16 sm:py-10 py-8 overflow-x-hidden ">
+    <section class="lg:py-16 sm:py-10 py-3 overflow-x-hidden ">
         <div class="absolute -z-10 top-10 left-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
         <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 pb-10 ">
             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
@@ -797,41 +796,38 @@
             </div>
         </div>
         <div class=" max-w-7xl mx-auto px-6 lg:px-8">
-            <div class="flex bg-violet-50 py-10 flex-wrap px-2 lg:px-8 rounded-3xl">
+            <div class="flex bg-violet-50 lg:py-10 py-6 flex-wrap px-5 lg:px-8 rounded-3xl">
                 <div class=" lg:w-1/2 w-full flex justify-start items-center">
-                    <div class="relative z-50 text-white py-6 rounded-xl ">
+                    <div class="relative z-50 text-white  rounded-xl ">
                         <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                             <span class="font-semibold">Empowering</span>
 
                             <span class="font-bold text-slate-900">Institutions</span>
                         </p>
                         <p class="sm:text-base text-sm text-slate-800 mt-4">We aim at contributing to the educational system with best-in-class edTech solutions that create maximum value for Institutions.</p>
-                        <button class="h-max mt-4 bg-gradient-to-b  from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/10 font-medium text-base text-white">Request Demo</button>
+                        <button class="h-max sm:mt-4 mt-3 bg-gradient-to-b  from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/10 font-medium text-base text-white">Request Demo</button>
                     </div>
 
                 </div>
-                <div class="lg:w-1/2 w-full relative">
+                <div class="lg:w-1/2 w-full mt-4">
                     <div class="flex  flex-wrap relative item-stretch">
                         <div class="w-1/2 h-auto sm:p-2 p-1 ">
-                            <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-gradient-to-b from-slate-500 to-slate-900   rounded-xl sm:rounded-3xl group shadow-2xl sm:p-3 p-2 relative before:absolute before:size-20 before:rounded-full ">
-                                <div class="sm:*:size-12 *:size-8 text-white mb-2 ">
-                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
-                                        <path fill="none" d="M0 0h24v24H0z"></path>
-                                        <path d="M9.68 13.69 12 11.93l2.31 1.76-.88-2.85L15.75 9h-2.84L12 6.19 11.09 9H8.25l2.31 1.84-.88 2.85zM20 10c0-4.42-3.58-8-8-8s-8 3.58-8 8c0 2.03.76 3.87 2 5.28V23l6-2 6 2v-7.72A7.96 7.96 0 0 0 20 10zm-8-6c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6 2.69-6 6-6zm0 15-4 1.02v-3.1c1.18.68 2.54 1.08 4 1.08s2.82-.4 4-1.08v3.1L12 19z"></path>
-                                    </svg>
+                            <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-gradient-to-b from-slate-500 to-slate-900   rounded-xl sm:rounded-3xl group shadow-2xl sm:p-6 p-4 relative">
+                                <div class="sm:*:size-1o *:size-8 text-white mb-2 ">
+                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke-width="1.5px" d="M10.3248685,14.7630919 C7.82620532,14.038202 6,11.7325889 6,9 L6,1 L18,1 L18,10 M6,3 L1,3 L1,7 C1,9.509 2.791,11 5,11 L6,11 M20.0335555,10.884915 C21.7416567,10.4908882 23,9.10306372 23,7 L23,3 L18,3 M10,19 L5,19 L5,23 L16.5,23 M16.5,10 C12.9101429,10 10,12.9101429 10,16.5 C10,20.0898571 12.9101429,23 16.5,23 C20.0898571,23 23,20.0898571 23,16.5 C23,12.9101429 20.0898571,10 16.5,10 L16.5,10 Z M20,14 L15.5,18.5 L13,16 M10.2056405,15.4240751 C8.89754812,16.0817472 8,17.4360568 8,19"></path></svg>
                                 </div>
 
-                                <div class="font-semibold sm:text-xl text-lg text-white">
+                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center text-white">
                                     22+
                                 </div>
-                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center text-white">
+                                <div class="sm:text-xl text-xs  md:font-semibold font-medium text-center text-white">
                                     Successful Years
                                 </div>
                             </div>
                         </div>
                         <div class="w-1/2 h-auto sm:p-2 p-1">
-                            <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white text-slate-700
-                                rounded-xl sm:rounded-3xl group shadow-2xl  sm:p-3 p-2 relative before:absolute before:size-20 before:rounded-full ">
+                            <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white text-gray-700   rounded-xl sm:rounded-3xl group shadow-2xl sm:p-6 p-4 relative
+                               ">
                                 <div class="*:sm-size-12 *:size-8  mb-2">
                                     <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
@@ -841,16 +837,17 @@
                                     </svg>
                                 </div>
 
-                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center ">
+                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center  ">
                                     1600+
                                 </div>
-                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center">
+                                <div class="sm:text-xl text-xs  md:font-semibold font-medium text-center">
                                     Happy Clients
                                 </div>
                             </div>
                         </div>
                         <div class="w-1/2 h-auto sm:p-2 p-1">
-                            <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white text-slate-700 rounded-xl sm:rounded-3xl group shadow-2xl p-3 relative before:absolute before:size-20 before:rounded-full ">
+                            <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-white text-gray-700   rounded-xl sm:rounded-3xl group shadow-2xl sm:p-6 p-4 relative
+                               ">
                                 <div class="*:sm-size-12 *:size-8  mb-2 ">
                                     <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M9 7m-4 0a4 4 0 1 0 8 0a4 4 0 1 0 -8 0"></path>
@@ -862,13 +859,14 @@
                                 <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center">
                                     96%
                                 </div>
-                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center">
+                                <div class="sm:text-xl text-xs  md:font-semibold font-medium text-center">
                                     Client Retention
                                 </div>
                             </div>
                         </div>
                         <div class="w-1/2 h-auto sm:p-2 p-1">
-                            <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 bg-gradient-to-b from-slate-500 to-slate-900 rounded-xl sm:rounded-3xl group shadow-2xl p-3">
+                            <div class="flex  justify-center h-full items-center flex-col hover:translate-y-1 duration-300 text-white bg-gradient-to-b from-slate-500 to-slate-900   rounded-xl sm:rounded-3xl group shadow-2xl sm:p-6 p-4 relative
+                               ">
                                 <div class="*:sm-size-12 *:size-8  mb-2 text-white">
                                     <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                                         <path fill="none" d="M0 0h24v24H0V0z"></path>
@@ -880,7 +878,7 @@
                                 <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center text-white">
                                     2500+
                                 </div>
-                                <div class="sm:text-xl text-sm  md:font-semibold font-medium text-center text-white">
+                                <div class="sm:text-xl text-xs  md:font-semibold font-medium text-center text-white">
                                     Verified Reviews
                                 </div>
                             </div>
@@ -897,7 +895,7 @@
     <!-- card end -->
 
     <!-- cta start  -->
-    <section class="lg:py-16 sm:py-10 py-5">
+    <section class="lg:py-16 sm:py-10 py-3">
         <div class="  mx-auto max-w-7xl px-6 lg:px-8">
             <div class="relative py-14 isolate  text-center justify-center :relative :z-10 bg-gray-900/70 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:px-24">
                 <img class="rounded-3xl !absolute !z-0 inset-0 size-full mix-blend-overlay object-cover object-center" src="https://www.imgglobalinfotech.com/public/tailwind/img/cta/school-cta-2.webp?id=7a2551bcc85c9d67d2863e9d0af57dd0">
@@ -1112,7 +1110,7 @@
                                 Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
                             </div>
                             <div class="pt-2 lg:pt-4">
-                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10 " href="./blogInner/">Read more
+                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10 " href="./blogs/bloginner">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
                                     </div>
@@ -1152,8 +1150,8 @@
                                 Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
                             </div>
                             <div class="pt-2 lg:pt-4">
-                                <a class="text-sm lg:text-base flex items-center  gap-1 group before:absolute before:inset-0 before:z-10" href="./blogInner/">Read more
-                                    <div class="group-hover:translate-x-2 duration-300 *:size-4">
+                                <a class="text-sm lg:text-base flex items-center  gap-1 group before:absolute before:inset-0 before:z-10" href="./blogs/bloginner">Read more
+                                    <div classs="group-hover:translate-x-2 duration-300 *:size-4">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
                                     </div>
                                 </a>
@@ -1192,7 +1190,7 @@
                                 Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
                             </div>
                             <div class="pt-2 lg:pt-4">
-                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="./blogInner/">Read more
+                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="./blogs/bloginner">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
                                     </div>
@@ -1232,7 +1230,7 @@
                                 Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
                             </div>
                             <div class="pt-2 lg:pt-4">
-                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="./blogInner/">Read more
+                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="./blogs/bloginner">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
                                     </div>
@@ -1272,7 +1270,7 @@
                                 Embarking on the exhilarating journey of creating a social media app like TikTok is a venture brimming with boundless possibilities and untapped potential. As we dive into the realm of social app development, the burning
                             </div>
                             <div class="pt-2 lg:pt-4">
-                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="./blogInner/">Read more
+                                <a class="text-black font-medium text-sm lg:text-base inline-flex items-center gap-1 group before:absolute before:inset-0 before:z-10" href="./blogs/bloginner">Read more
                                     <div class="group-hover:translate-x-2 duration-300 *:size-4">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"></path></svg>
                                     </div>
@@ -1297,15 +1295,15 @@
                 <!-- COMPONENT CODE -->
                 <div class="">
 
-                    <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-64 mr-auto rounded-2xl shadow-2xl">
+                    <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-64 mr-auto rounded-2xl shadow-2xl bg-white">
                         <div class="flex">
                             <h1 class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold text-balance">Get in touch for any kind of help and informations</h1>
                         </div>
-                        <div class="grid grid-cols-1 gap-5 md:grid-cols-2 mt-5">
-                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" type="text" placeholder="First Name*" />
-                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" type="text" placeholder="Last Name*" />
-                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" type="email" placeholder="Email*" />
-                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" type="number" placeholder="Phone*" />
+                        <div class="grid grid-cols-1 sm:gap-5 gap-3 md:grid-cols-2 mt-5">
+                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline text-sm" type="text" placeholder="First Name*" />
+                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline text-sm" type="text" placeholder="Last Name*" />
+                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline text-sm" type="email" placeholder="Email*" />
+                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline text-sm" type="number" placeholder="Phone*" />
                         </div>
                         <div class="my-4">
                             <textarea placeholder="Message*" class="w-full h-32 bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"></textarea>
