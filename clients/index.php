@@ -63,7 +63,7 @@
                 translate-x-full opacity-0 duration-300">
                 <div class="ms-auto overflow-y-auto w-full border-l h-screen  sm:w-1/2">
                     <nav class="sticky top-0 bg-white  p-3 ms-auto shadow-lg flex items-center justify-between">
-                        <a href="/" class="*:size-14">
+                        <a href="../index.php" class="*:size-14">
                             <img src="../assets/img/edoovi.webp" alt="">
                         </a>
                         <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
@@ -76,7 +76,7 @@
                     <div class="flex flex-col !content-between">
                         <ul>
                             <li class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="/">Home</a>
+                                <a href="../index.php">Home</a>
                             </li>
                             <li class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
                                 <a href="./about/">About Us</a>
@@ -360,7 +360,7 @@
 
     <!-- footer -->
     <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
-        <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+        <div class="Edoovipx-4 mx-auto px-6 lg:px-8 max-w-7xl">
             <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 md:gap-y-16 gap-y-10 gap-x-12">
                 <div class=" lg:pr-8">
                     <a href="../index.php">

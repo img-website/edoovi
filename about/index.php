@@ -64,7 +64,7 @@
                 translate-x-full opacity-0 duration-300">
                 <div class="ms-auto overflow-y-auto w-full border-l h-screen  sm:w-1/2">
                     <nav class="sticky top-0 bg-white  p-3 ms-auto shadow-lg flex items-center justify-between">
-                        <a href="/" class="*:size-14">
+                        <a href="../index.php" class="*:size-14">
                             <img src="../assets/img/edoovi.webp" alt="">
                         </a>
                         <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
@@ -77,7 +77,7 @@
                     <div class="flex flex-col !content-between">
                         <ul>
                             <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="/">Home</a>
+                                <a href="../index.php">Home</a>
                             </li>
                             <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
                                 <a href="./about/">About Us</a>
@@ -121,25 +121,27 @@
     <!-- header end  -->
 
     <!-- hero section start -->
-    <div class="relative lg:h-full md:pt-28 pt-24 pb-6 sm:pb-10 px-3 lg:px-5">
-        <div class="grid p-7 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center mx-auto max-w-7xl lg:px-8 px-6 h-full ">
-            <div class="md:col-span-4">
-                <div class="text-slate-900 md:text-6xl sm:text-5xl text-4xl font-semibold "> Unlock Digital Potential: <span class="text-orange-500">Edoovi School Software for Tomorrow's Education</span></div>
-            </div>
-
-            <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
-                <img class="size-full rounded-3xl" src="../assets/img/about-hero.jpg" alt="Hero Image">
+    <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
+            <div class="mx-auto max-w-7xl lg:px-8 px-6">
+                <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
+                    <div class="md:col-span-4">
+                        <div class="text-slate-900 xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-semibold "> Unlock Digital Potential Edoovi  <span class="text-orange-500">School Software for Tomorrow's Education</span></div>
+                    </div>
+        
+                    <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
+                        <img class="size-full rounded-3xl object-cover border-8 border-white" src="../assets/img/about-hero.jpg" alt="Hero Image">
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
     <!-- hero section ends -->
 
     <!-- about Section start -->
-    <section class="relative">
+    <section class="relative md:py-16 sm:py-10 py-8">
         <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
         <div class="absolute -z-10 bottom-0 !left-0 [background:radial-gradient(circle,_rgba(255,281,_231,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
-        <div class="max-w-7xl px-6 lg:px-8 py-6 md:py-10 lg:pt-20 lg:pb-20 mx-auto">
+        <div class="max-w-7xl px-6 lg:px-8  mx-auto">
             <div class="max-w-3xl mb-10 lg:mb-14">
                 <h2 class="font-semibold text-2xl md:text-4xl md:leading-tight">
                     Our Journey
@@ -346,10 +348,10 @@
     <!-- why us section ends -->
 
     <!-- testimonial section start -->
-    <div class="overflow-hidden relative">
-        <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
+    <div class=" relative md:py-16 py-10">
+        <div class="absolute -z-10 -top-10 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
-        <div class="relative max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+        <div class="relative max-w-[85rem] px-4  sm:px-6 lg:px-8 mx-auto">
             <div class="w-full md:max-w-2xl md:w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
                 <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10">
                     <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
@@ -549,7 +551,7 @@
     <!-- testimonial section ends -->
 
     <!-- cta start -->
-    <div class="py-6 md:py-8 lg:py-10 select-none">
+    <div class=" md:pb-16 pb-10 select-none">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
             <div class="relative isolate overflow-hidden bg-gray-900 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:gap-x-20 lg:px-24 bg-[url('../../assets/img/school-cta.jpg')] bg-cover bg-left after:absolute after:top-0 after:left-0 after:bg-black/60 after:size-full">
                 <div class="max-w-3xl lg:mx-0 lg:flex-auto py-6 md:py-8 lg:py-10 lg:text-left relative z-[1]">
@@ -568,7 +570,7 @@
 
     <!-- footer -->
     <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
-        <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+        <div class="Edoovipx-4 mx-auto px-6 lg:px-8 max-w-7xl">
             <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 md:gap-y-16 gap-y-10 gap-x-12">
                 <div class=" lg:pr-8">
                     <a href="../index.php">

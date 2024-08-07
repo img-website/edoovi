@@ -64,7 +64,7 @@
                 translate-x-full opacity-0 duration-300">
                 <div class="ms-auto overflow-y-auto w-full border-l h-screen  sm:w-1/2">
                     <nav class="sticky top-0 bg-white  p-3 ms-auto shadow-lg flex items-center justify-between">
-                        <a href="/" class="*:size-14">
+                        <a href="../index.php" class="*:size-14">
                             <img src="../assets/img/edoovi.webp" alt="">
                         </a>
                         <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
@@ -77,7 +77,7 @@
                     <div class="flex flex-col !content-between">
                         <ul>
                             <li class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="/">Home</a>
+                                <a href="../index.php">Home</a>
                             </li>
                             <li class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
                                 <a href="./about/">About Us</a>
@@ -122,22 +122,20 @@
 
     <!-- hero section start -->
 
-
-
-    <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
-        <div class="mx-auto max-w-7xl lg:px-8 px-6">
-            <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
-                <div class="md:col-span-4">
-                    <div class="text-slate-900 xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-semibold "> School Management Software  <span class="text-orange-500">With Cloud
-                    Based School ERP</span></div>
-                </div>
-    
-                <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
-                    <img class="size-full rounded-3xl object-cover border-8 border-white" src="../assets/img/blogsHero.jpg" alt="Hero Image">
+        <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
+            <div class="mx-auto max-w-7xl lg:px-8 px-6">
+                <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
+                    <div class="md:col-span-4">
+                        <div class="text-slate-900 xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-semibold "> School Management Software  <span class="text-orange-500">With Cloud
+                        Based School ERP</span></div>
+                    </div>
+        
+                    <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
+                        <img class="size-full rounded-3xl object-cover border-8 border-white" src="../assets/img/blogsHero.jpg" alt="Hero Image">
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
     <!-- hero section ends -->
 
 
@@ -367,7 +365,7 @@
 
     <!-- footer start -->
     <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
-        <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+        <div class="Edoovipx-4 mx-auto px-6 lg:px-8 max-w-7xl">
             <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 md:gap-y-16 gap-y-10 gap-x-12">
                 <div class=" lg:pr-8">
                     <a href="../index.php">
