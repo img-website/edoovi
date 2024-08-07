@@ -120,25 +120,26 @@
   <!-- header end  -->
 
   <!-- hero section start -->
-  <div class="relative lg:h-full md:pt-28 pt-24 pb-10 px-3 lg:px-5">
-    <div class="grid p-7 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center mx-auto max-w-7xl lg:px-8 px-6 h-full ">
-      <div class="md:col-span-4">
-        <h1 class="md:text-2xl text-base  text-black/70 mt-2 font-bold">Unlock Digital Potential</h1>
-        <div class="text-slate-900 md:text-6xl sm:text-5xl text-4xl font-semibold ">School Management Software With <span class="text-orange-500"> Cloud
-        Based School ERP</span></div>
-      </div>
-
-      <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
-        <img class="size-full rounded-3xl object-cover" src="../../assets/img/photo1.jfif" alt="Hero Image">
-      </div>
-    </div>
-  </div>
+  <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
+            <div class="mx-auto max-w-7xl lg:px-8 px-6">
+                <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
+                    <div class="md:col-span-4">
+                        <div class="text-slate-900 xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-semibold "> School Management Software  <span class="text-orange-500">With Cloud
+                        Based School ERP</span></div>
+                    </div>
+        
+                    <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
+                        <img class="size-full rounded-3xl object-cover border-8 border-white" src="../../assets/img/photo1.jfif" alt="Hero Image">
+                    </div>
+                </div>
+            </div>
+        </div>
   <!-- hero section ends -->
 
 
   <!-- -------schl-softwre -->
 
-  <section class="py-6 md:py-8 lg:py-10 relative overflow-hidden">
+  <section class="py-10 lg:py-16 relative overflow-hidden">
     <div class="absolute inset-0 size-full ">
       <img src="https://html.hixstudio.net/acadia-prev/acadia/assets/img/bg/banner-3-bg-1.png" alt="" class="size-full">
     </div>
@@ -278,7 +279,7 @@
   <!-- --------user-friendly-sec -->
   <!-- why us section start -->
 
-  <div class="relative py-6 md:py-8 lg:py-10 overflow-hidden">
+  <div class="relative py-8 md:py-10 lg:py-16 overflow-hidden">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
       
       <div class=" relative">
@@ -460,7 +461,7 @@ In today’s world, administration & management of organizations, particularly e
 
 
   <!-- tabs start -->
-  <div class="container mx-auto max-w-7xl md:px-6 lg:px-8 py-6 md:py-8 lg:py-10 sm:px-6">
+  <div class="container mx-auto max-w-7xl md:px-6 lg:px-8 py-8 md:py-10 lg:py-16 sm:px-6">
     <div class="  ">
       <div class=" mx-auto max-w-7xl z-10 mb-4">
         <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
