@@ -105,14 +105,78 @@
                         </ul>
                         <div class="fixed overflow-hidden sm:w-1/2 w-full bottom-0 bg-white shadow-lg rotate-180 flex items-center justify-between">
                             <div class="flex overflow-hidden justify-between py-5 px-4 rotate-180 bg-white w-full">
-                                <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</button>
-                                <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Email Us</button>
+                                <a href="../contact/" class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</a>
+                                <a href="mailto:schoolsoftware@gmail.com" class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Email Us</a>
                             </div>
                         </div>
                     </div>
 
                 </div>
             </div>
+        </div>
+
+
+        <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
+
+        <label for="sideToggle" class="-m-2.5 inline-flex items-center md:hidden justify-center rounded-md p-2.5 ">
+            <span class="sr-only">Open menu</span>
+            <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
+            </svg>
+        </label>
+        <div class="fixed flex flex-col inset-y-0 right-0 z-[1011] w-full select-none text-white bg-white/60 backdrop-blur-lg peer-checked/sideToggle:translate-x-0 peer-checked/sideToggle:opacity-100
+     -translate-x-full opacity-0 ms-auto duration-300 h-dvh">
+            <div class=" flex flex-col  border-l h-[100vh]  overflow-hidden sm:w-1/2">
+                <nav class="sticky w-full top-0 bg-white  py-3 px-6  shadow-lg flex items-center justify-between">
+                    <a href="../index.php" class="*:size-10">
+                        <img src="../assets/img/edoovi.webp" alt="">
+                    </a>
+                    <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
+                        <span class="sr-only *:">Close menu</span>
+                        <svg class="h-6 w-6 text-slate-900" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
+                        </svg>
+                    </label>
+                </nav>
+                <div class="flex flex-col bg-white pb-40   h-screen overflow-y-auto !content-between">
+                    <ul xlass="h-max bg-white">
+                        <li class="w-full">
+                            <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../index.php">Home</a>
+                        </li>
+                        <li class="w-full">
+                            <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../about">About Us</a>
+                        </li>
+                        <li class="w-full">
+                            <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/school-software">School Software</a>
+                        </li>
+
+                        <li class="w-full">
+                            <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/insitute-software">Institute Software</a>
+                        </li>
+                        <li class="w-full">
+                            <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/college-software">College Software</a>
+                        </li>
+                        <li class="w-full">
+                            <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/university-software">University Software</a>
+                        </li>
+
+                        <li class="w-full">
+                            <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../blogs">BLog</a>
+                        </li>
+                        <li class="w-full">
+                            <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../clients">Clients</a>
+                        </li>
+                    </ul>
+                    <div class="fixed overflow-hidden sm:w-1/2 w-full bottom-0 bg-white shadow-lg rotate-180 flex items-center justify-between">
+                        <div class="flex overflow-hidden justify-between py-5 px-4 rotate-180 bg-white w-full">
+                            <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</button>
+                            <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Email Us</button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
         </div>
 
 
