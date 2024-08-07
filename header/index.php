@@ -272,7 +272,7 @@ rounded-xl group shadow-2xl p-3 relative before:absolute before:size-20 before:r
           <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
     <div class="Edoovipx-4 mx-auto px-6 lg:px-8 max-w-7xl">
         <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 gap-y-16 gap-x-12">
-            <div class=" lg:pr-8">
+            <div class=" lg:pr-8 *:inline-block">
                 <img class="w-auto h-16" src="../assets/img/edoovi.webp" alt="" />
 
                 <p class="text-base leading-relaxed text-white mt-7">Edoovi is one of the leading ERP solutions for educational institutions across the world. It is a fully customizable solution.</p>  

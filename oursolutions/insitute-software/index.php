@@ -3035,7 +3035,7 @@
   <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
     <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
       <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 md:gap-y-16 gap-y-10 gap-x-12">
-        <div class=" lg:pr-8">
+        <div class=" lg:pr-8 *:inline-block">
           <a href="../../index.php">
             <img class="w-auto h-16" src="../../assets/img/edoovi.webp" alt="" />
           </a>
