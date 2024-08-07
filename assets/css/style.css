@@ -695,6 +695,10 @@ video {
   bottom: -1.25rem;
 }
 
+.-top-10{
+  top: -2.5rem;
+}
+
 .-top-12{
   top: -3rem;
 }
@@ -987,10 +991,6 @@ video {
 
 .mb-2{
   margin-bottom: 0.5rem;
-}
-
-.mb-20{
-  margin-bottom: 5rem;
 }
 
 .mb-3{
@@ -3343,10 +3343,6 @@ video {
   padding-bottom: 1rem;
 }
 
-.pb-5{
-  padding-bottom: 1.25rem;
-}
-
 .pb-6{
   padding-bottom: 1.5rem;
 }
@@ -3397,10 +3393,6 @@ video {
 
 .pt-4{
   padding-top: 1rem;
-}
-
-.pt-8{
-  padding-top: 2rem;
 }
 
 .text-left{
@@ -4362,6 +4354,16 @@ body{
   height: 100%;
 }
 
+.\*\:size-5 > *{
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.\*\:size-10 > *{
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
 .\*\:object-cover > *{
   -o-object-fit: cover;
      object-fit: cover;
@@ -5202,10 +5204,6 @@ body{
 }
 
 @media not all and (min-width: 640px){
-  .max-sm\:mb-10{
-    margin-bottom: 2.5rem;
-  }
-
   .max-sm\:justify-center{
     justify-content: center;
   }
@@ -5240,14 +5238,14 @@ body{
     text-align: center;
   }
 
-  .max-sm\:text-xl{
-    font-size: 1.25rem;
-    line-height: 1.75rem;
-  }
-
   .max-sm\:text-sm{
     font-size: 0.875rem;
     line-height: 1.25rem;
+  }
+
+  .max-sm\:text-xl{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
   }
 
   .max-sm\:\[box-shadow\:0px_0px_32px_0px_rgba\(36\2c 40\2c 46\2c \.12\)\]{
@@ -5309,12 +5307,20 @@ body{
     margin-bottom: 2.5rem;
   }
 
+  .sm\:mb-20{
+    margin-bottom: 5rem;
+  }
+
   .sm\:ms-3{
     margin-inline-start: 0.75rem;
   }
 
   .sm\:mt-8{
     margin-top: 2rem;
+  }
+
+  .sm\:mt-10{
+    margin-top: 2.5rem;
   }
 
   .sm\:block{
@@ -5502,20 +5508,16 @@ body{
     padding-bottom: 1.75rem;
   }
 
+  .sm\:pt-0{
+    padding-top: 0px;
+  }
+
   .sm\:pt-16{
     padding-top: 4rem;
   }
 
   .sm\:pt-4{
     padding-top: 1rem;
-  }
-
-  .sm\:pt-0{
-    padding-top: 0px;
-  }
-
-  .sm\:pt-10{
-    padding-top: 2.5rem;
   }
 
   .sm\:text-center{
@@ -5591,6 +5593,16 @@ body{
   .sm\:\*\:size-9 > *{
     width: 2.25rem;
     height: 2.25rem;
+  }
+
+  .\*\:sm\:size-7 > *{
+    width: 1.75rem;
+    height: 1.75rem;
+  }
+
+  .\*\:sm\:size-14 > *{
+    width: 3.5rem;
+    height: 3.5rem;
   }
 
   .sm\:after\:right-7::after{
@@ -6168,10 +6180,6 @@ body{
     padding-bottom: 4rem;
   }
 
-  .lg\:pb-20{
-    padding-bottom: 5rem;
-  }
-
   .lg\:pb-4{
     padding-bottom: 1rem;
   }
@@ -6226,10 +6234,6 @@ body{
 
   .lg\:pt-6{
     padding-top: 1.5rem;
-  }
-
-  .lg\:pt-16{
-    padding-top: 4rem;
   }
 
   .lg\:text-left{
