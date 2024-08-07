@@ -3403,10 +3403,6 @@ video {
   padding-top: 6rem;
 }
 
-.pt-32{
-  padding-top: 8rem;
-}
-
 .pt-4{
   padding-top: 1rem;
 }
@@ -3489,11 +3485,6 @@ video {
 .text-4xl\/tight{
   font-size: 2.25rem;
   line-height: 1.25;
-}
-
-.text-5xl{
-  font-size: 3rem;
-  line-height: 1;
 }
 
 .text-base{
@@ -3631,10 +3622,6 @@ video {
 
 .tracking-\[-0\.04em\]{
   letter-spacing: -0.04em;
-}
-
-.tracking-wide{
-  letter-spacing: 0.025em;
 }
 
 .tracking-widest{
@@ -5149,11 +5136,6 @@ body{
     font-size: 1.875rem;
     line-height: 1.25;
   }
-
-  .max-xl\:text-5xl{
-    font-size: 3rem;
-    line-height: 1;
-  }
 }
 
 @media not all and (min-width: 1024px){
@@ -5215,11 +5197,6 @@ body{
     font-size: 1.5rem;
     line-height: 1.25;
   }
-
-  .max-md\:text-3xl{
-    font-size: 1.875rem;
-    line-height: 2.25rem;
-  }
 }
 
 @media not all and (min-width: 640px){
@@ -5252,6 +5229,10 @@ body{
   .max-sm\:px-2{
     padding-left: 0.5rem;
     padding-right: 0.5rem;
+  }
+
+  .max-sm\:pb-8{
+    padding-bottom: 2rem;
   }
 
   .max-sm\:pt-0{
@@ -5517,6 +5498,11 @@ body{
     padding-bottom: 3rem;
   }
 
+  .sm\:py-14{
+    padding-top: 3.5rem;
+    padding-bottom: 3.5rem;
+  }
+
   .sm\:py-16{
     padding-top: 4rem;
     padding-bottom: 4rem;
@@ -5554,6 +5540,10 @@ body{
 
   .sm\:pt-16{
     padding-top: 4rem;
+  }
+
+  .sm\:pt-32{
+    padding-top: 8rem;
   }
 
   .sm\:pt-4{
