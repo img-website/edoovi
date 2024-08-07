@@ -137,7 +137,7 @@
     <!-- hero section ends -->
 
     <!-- about Section start -->
-    <section class="relative md:py-16 sm:py-10 py-8">
+    <section class="relative lg:py-16 sm:py-10 py-8">
         <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
         <div class="absolute -z-10 bottom-0 !left-0 [background:radial-gradient(circle,_rgba(255,281,_231,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
@@ -234,7 +234,7 @@
     <!-- about Section ends -->
 
     <!-- mission section start -->
-    <div class="relative isolate py-6 md:py-8 lg:py-16">
+    <div class="relative isolate lg:py-16 sm:py-10 py-8">
         <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,281,_231,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
         <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
@@ -313,7 +313,7 @@
     <!-- mission section ends -->
 
     <!-- why us section start -->
-    <div class="relative py-6 md:py-12 lg:py-10 overflow-hidden">
+    <div class="relative lg:py-16 sm:py-10 py-8 overflow-hidden">
         <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
             <div class="select-none relative">
                 <div class="flex w-full h-auto items-center flex-wrap lg:gap-0 gap-3">
@@ -352,9 +352,9 @@
     <div class="relative mx-auto max-w-7xl lg:px-8 px-6">
         <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
-        <div class="relative sm:py-10 py-7 lg:py-14 mx-auto">
-            <div class="w-full md:max-w-2xl md:w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
-                <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10">
+        <div class="relative lg:py-16 sm:py-10 py-8 mx-auto">
+            <div class="w-full md:max-w-2xl md:w-3/4 lg:w-2/5 mb-6 sm:mb-10 md:mb-8">
+                <div class="relative container mx-auto max-w-7xl z-10">
                     <p class="text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                         <span class="font-semibold">Why Institutes Love </span>
                         <span class="font-bold text-slate-900">Edoovi ERP System?</span>
