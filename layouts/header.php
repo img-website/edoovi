@@ -1,3 +1,16 @@
+
+<?php
+$get_url = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+$arr = explode("?", $get_url, 2);
+$actual_link = $arr[0];
+if ($_SERVER["HTTP_HOST"] == "localhost") {
+   define('f_path', 'http://localhost/edoovi/');
+} else if ($_SERVER['HTTP_HOST'] == '192.168.1.50') {
+   define('f_path', 'http://159.65.150.18/edoovi/');
+} else {
+   define('f_path', 'http://159.65.150.18/edoovi/');
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,7 +18,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>edoovi</title>
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="<?php echo f_path ?>/assets/css/style.css">
     <!-- swiper link  -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 
@@ -16,15 +29,15 @@
 
     <header class="bg-white  w-full fixed top-0 z-[9999] shadow-sm">
         <div class=" max-w-7xl mx-auto py-3 px-6 lg:px-8 flex items-center  justify-between">
-            <a href="./index.php" class="md:size-16 size-10 *:size-full">
-                <img src="./assets/img/edoovi.webp" alt="">
+            <a href="<?php echo f_path ?>" class="md:size-16 size-10 *:size-full">
+                <img src="<?php echo f_path ?>/assets/img/edoovi.webp" alt="">
             </a>
             <div class="md:flex items-center gap-8 hidden ">
                 <ul class="flex gap-8">
-                    <li><a href="./index.php" class="active [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base  text-slate-600">Home</a></li>
-                    <li><a href="./about" class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">About Us</a></li>
+                    <li><a href="<?php echo f_path ?>" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base  text-slate-600">Home</a></li>
+                    <li><a href="<?php echo f_path ?>about" class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">About Us</a></li>
                     <li class="relative group">
-                        <a href="./oursolutions/school-software" class=" flex items-center font-medium text-base active:text-slate-900 text-slate-600">Our Solutions
+                        <a href="<?php echo f_path ?>oursolutions/school-software" class=" flex items-center font-medium text-base active:text-slate-900 text-slate-600">Our Solutions
                             <span class="*:size-6 *:group-hover:rotate-180 *:duration-300">
                                 <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M12 15.0006L7.75732 10.758L9.17154 9.34375L12 12.1722L14.8284 9.34375L16.2426 10.758L12 15.0006Z"></path>
@@ -34,24 +47,24 @@
                         <div class="bg-white  shadow-md border-gray-100 z-50 border translate-y-10  opacity-0 invisible duration-300 !w-60 absolute group-hover:translate-y-0  group-hover:opacity-100 group-hover:visible">
                             <ul>
                                 <li class="">
-                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/school-software">School Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="<?php echo f_path ?>oursolutions/school-software">School Software</a>
                                 </li>
                                 <li class="">
-                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/insitute-software">Insitute Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="<?php echo f_path ?>oursolutions/insitute-software">Insitute Software</a>
                                 </li>
                                 <li class="">
-                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/college-software">College Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="<?php echo f_path ?>oursolutions/college-software">College Software</a>
                                 </li>
                                 <li class="">
-                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="./oursolutions/university-software">University Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="<?php echo f_path ?>oursolutions/university-software">University Software</a>
                                 </li>
                             </ul>
                         </div>
                     </li>
-                    <li><a href="./blogs" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Blogs</a></li>
-                    <li><a href="./clients/" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Clients</a></li>
+                    <li><a href="<?php echo f_path ?>blogs" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Blogs</a></li>
+                    <li><a href="<?php echo f_path ?>clients/" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Clients</a></li>
                 </ul>
-                <a href="./contact/" class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</a>
+                <a href="<?php echo f_path ?>contact/" class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</a>
             </div>
 
             <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
@@ -66,8 +79,8 @@
                 -translate-x-full opacity-0 ms-auto duration-300 h-dvh">
                 <div class=" flex flex-col  border-l h-[100vh]  overflow-hidden sm:w-1/2">
                     <nav class="sticky w-full top-0 bg-white  py-3 px-6  shadow-lg flex items-center justify-between">
-                        <a href="./index.php" class="*:size-10">
-                            <img src="./assets/img/edoovi.webp" alt="">
+                        <a href="<?php echo f_path ?>" class="*:size-10">
+                            <img src="<?php echo f_path ?>assets/img/edoovi.webp" alt="">
                         </a>
                         <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
                             <span class="sr-only *:">Close menu</span>
@@ -79,35 +92,35 @@
                     <div class="flex flex-col bg-white pb-40   h-screen overflow-y-auto !content-between">
                         <ul xlass="h-full  overflow-y-auto bg-white">
                             <li class="w-full">
-                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./index.php">Home</a>
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="<?php echo f_path ?>">Home</a>
                             </li>
                             <li class="w-full">
-                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./about">About Us</a>
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="<?php echo f_path ?>about">About Us</a>
                             </li>
                             <li class="w-full">
-                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/school-software">School Software</a>
-                            </li>
-
-                            <li class="w-full">
-                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/insitute-software">Institute Software</a>
-                            </li>
-                            <li class="w-full">
-                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/college-software">College Software</a>
-                            </li>
-                            <li class="w-full">
-                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./oursolutions/university-software">University Software</a>
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="<?php echo f_path ?>oursolutions/school-software">School Software</a>
                             </li>
 
                             <li class="w-full">
-                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./blogs">BLog</a>
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="<?php echo f_path ?>oursolutions/insitute-software">Institute Software</a>
                             </li>
                             <li class="w-full">
-                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="./clients">Clients</a>
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="<?php echo f_path ?>oursolutions/college-software">College Software</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="<?php echo f_path ?>oursolutions/university-software">University Software</a>
+                            </li>
+
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="<?php echo f_path ?>blogs">BLog</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="<?php echo f_path ?>clients">Clients</a>
                             </li>
                         </ul>
                         <div class="fixed overflow-hidden sm:w-1/2 w-full bottom-0 bg-white shadow-lg rotate-180 flex items-center justify-between">
                             <div class="flex overflow-hidden justify-between py-5 px-4 rotate-180 bg-white w-full">
-                                <a href="./contact/" class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</a>
+                                <a href="<?php echo f_path ?>contact/" class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</a>
                                 <a href="mailto:schoolsoftware@gmail.com" class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Email Us</a>
                             </div>
                         </div>
