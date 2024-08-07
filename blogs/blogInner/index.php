@@ -64,7 +64,7 @@
                 translate-x-full opacity-0 duration-300">
                 <div class="ms-auto overflow-y-auto w-full border-l h-screen  sm:w-1/2">
                     <nav class="sticky top-0 bg-white  p-3 ms-auto shadow-lg flex items-center justify-between">
-                        <a href="/" class="*:size-14">
+                        <a href="../../index.php" class="*:size-14">
                             <img src="./assets/img/edoovi.webp" alt="">
                         </a>
                         <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
@@ -77,7 +77,7 @@
                     <div class="flex flex-col !content-between">
                         <ul>
                             <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
-                                <a href="/">Home</a>
+                                <a href="../../index.php">Home</a>
                             </li>
                             <li class=" hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200">
                                 <a href="./about/">About Us</a>
@@ -121,29 +121,30 @@
     <!-- header end  -->
 
     <!-- hero section start -->
-    <div class="relative lg:h-full md:pt-28 pt-24 pb-6 sm:pb-10 px-3 lg:px-5">
-        <div class="grid p-7 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center mx-auto max-w-7xl lg:px-8 px-6 h-full ">
-            <div class="md:col-span-4">
-                <div class="text-slate-900 md:text-6xl sm:text-5xl text-4xl font-semibold "> School Management Software
-                    <span class="text-orange-500">With Cloud Based School ERP</span>
+    <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
+        <div class="mx-auto max-w-7xl lg:px-8 px-6">
+            <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
+                <div class="md:col-span-4">
+                    <div class="text-slate-900 xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-semibold "> School Management Software  <span class="text-orange-500">With Cloud
+                    Based School ERP</span></div>
                 </div>
-            </div>
-
-            <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
-                <img class="size-full rounded-3xl object-cover object-top" src="../../assets/img/blogInnerHero.jpg" alt="Hero Image">
+    
+                <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
+                    <img class="size-full rounded-3xl object-cover border-8 border-white" src="../../assets/img/blogInnerHero.jpg" alt="Hero Image">
+                </div>
             </div>
         </div>
     </div>
     <!-- hero section ends -->
 
     <!-- blogInner section start -->
-    <div class="mx-auto max-w-7xl px-6 lg:px-8">
+    <div class="mx-auto max-w-7xl lg:px-8 px-6 pb-10">
         <div class="grid lg:grid-cols-3 gap-y-8 lg:gap-y-0 lg:gap-x-6">
             <div class="lg:col-span-2">
-                <div class="py-8 lg:pe-8">
+                <div class="sm:py-8 lg:pe-8">
                     <div class="space-y-5 lg:space-y-8">
 
-                        <h2 class="text-3xl font-bold text-theme1">Elevating E-commerce Excellence: Unleashing the Potential of CodeIgniter for Dynamic Website Development</h2>
+                        <h2 class="sm:text-3xl text-2xl font-bold text-theme1">Elevating E-commerce Excellence: Unleashing the Potential of CodeIgniter for Dynamic Website Development</h2>
 
                         <div class="flex flex-wrap gap-2 items-center gap-x-5">
                             <div class="inline-flex items-start gap-1.5 py-1 px-3 sm:py-2 sm:px-4 rounded-full text-xs sm:text-sm bg-gray-100 text-gray-800 hover:bg-gray-200 focus:outline-none focus:bg-gray-200">
@@ -214,11 +215,11 @@
                             </a>
                         </div>
 
-                        <p class="text-lg text-gray-800">
+                        <p class="md:text-lg text-sm text-gray-800">
                             In the ever-evolving landscape of e-commerce, the choice of a robust and versatile framework is crucial for creating dynamic and efficient websites. Enter CodeIgniter, a PHP framework that has been gaining traction for its simplicity, speed, and flexibility. Let's delve into how CodeIgniter seamlessly integrates into the e-commerce development landscape, offering a winning combination for crafting cutting-edge online stores.
                         </p>
 
-                        <p class="text-lg text-gray-800">
+                        <p class="md:text-lg text-sm text-gray-800">
                             Lightweight and Efficient CodeIgniter's lightweight nature is a significant advantage in the realm of e-commerce. Its minimal footprint ensures rapid performance, making it an ideal choice for creating responsive and fast-loading online stores. Whether your customers are browsing on a desktop or a mobile device, CodeIgniter ensures a seamless and enjoyable shopping experience.
                         </p>
 
@@ -238,11 +239,11 @@
                             </div>
                         </div>
 
-                        <p class="text-lg text-gray-800">
+                        <p class="md:text-lg text-sm text-gray-800">
                             MVC Architecture for Organized Development CodeIgniter's Model-View-Controller (MVC) architecture enhances the organization and maintainability of your e-commerce project. The clear separation of concerns allows developers to focus on specific aspects of the application, resulting in cleaner code and a more efficient development process. This architectural pattern is particularly beneficial when dealing with the complexities of e-commerce websites.
                         </p>
 
-                        <p class="text-lg text-gray-800">
+                        <p class="md:text-lg text-sm text-gray-800">
                             Responsive Design at Its Core In the era of diverse devices, ensuring your
                             <a class="text-theme1 decoration-2 hover:underline focus:outline-none focus:underline font-medium" href="#">
                                 e-commerce website
@@ -250,7 +251,7 @@
                             is accessible and visually appealing on all platforms is paramount. CodeIgniter facilitates the creation of responsive layouts, adapting seamlessly to various screen sizes and resolutions. This responsiveness not only enhances user experience but also positively impacts search engine rankings, contributing to the overall success of your online store.
                         </p>
 
-                        <blockquote class="text-center p-4 sm:px-7">
+                        <blockquote class="sm:text-center p-4 sm:px-7">
                             <p class="text-xl font-medium text-gray-800 lg:text-2xl lg:leading-normal xl:text-2xl xl:leading-normal">
                                 Efficient Database Integration with Active Record CodeIgniter's Active Record implementation simplifies database interactions, providing an intuitive and secure way to handle data.
                             </p>
@@ -263,12 +264,12 @@
                         <div class="space-y-3">
                             <h3 class="text-2xl font-semibold">Meta Elements for SEO Excellence</h3>
 
-                            <p class="text-lg text-gray-800">
+                            <p class="md:text-lg text-sm text-gray-800">
                                 Meta Title: A Winning Combination for Dynamic Website Innovation Crafting a compelling meta title is essential for conveying the essence of your blog. In this context, it emphasizes the synergy between CodeIgniter and e-commerce, positioning them as a winning combination for dynamic website innovation.
                             </p>
                         </div>
 
-                        <ul class="list-disc list-outside space-y-5 ps-5 text-lg text-gray-800">
+                        <ul class="list-disc list-outside space-y-5 ps-5 md:text-lg text-sm text-gray-800">
                             <li class="ps-2">
                                 Meta Description: Unleash the Full Potential of CodeIgniter The meta description serves as a teaser, offering a glimpse into the blog's content. It highlights the blog's focus on unlocking the full potential of CodeIgniter for crafting cutting-edge e-commerce websites.
                             </li>
@@ -277,7 +278,7 @@
                             </li>
                         </ul>
 
-                        <p class="text-lg text-gray-800">
+                        <p class="md:text-lg text-sm text-gray-800">
                             In conclusion, CodeIgniter emerges as a powerful ally for those seeking to elevate their e-commerce ventures. Its lightweight yet efficient nature, combined with features like MVC architecture and responsive design, positions CodeIgniter as a formidable framework for crafting dynamic and feature-rich online stores. Whether you're a seasoned developer or a business owner entering the digital marketplace, embracing CodeIgniter is a strategic move towards e-commerce excellence.
                         </p>
 
@@ -285,8 +286,8 @@
                 </div>
             </div>
 
-            <div class="lg:col-span-1 lg:w-full lg:h-full lg:bg-gradient-to-r lg:from-gray-50 lg:via-transparent lg:to-transparent">
-                <div class="sticky top-32 start-0 py-8 lg:ps-8">
+            <div class=" lg:col-span-1 lg:w-full lg:h-full ">
+                <div class=" sticky top-32 start-0 py-8 lg:ps-8 lg:bg-gradient-to-r lg:from-gray-100 rounded-3xl lg:via-transparent lg:to-transparent">
                     <div class="w-full md:text-lg text-base font-extrabold text-gray-800 pb-4">Recent Blog</div>
                     <div class="space-y-6">
                         <a class="group flex items-center gap-x-6 focus:outline-none" href="#">
@@ -345,7 +346,7 @@
 
     <!-- footer start -->
     <section class="py-10 bg-slate-800 sm:pt-16 lg:pt-24 relative">
-        <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
+        <div class="Edoovipx-4 mx-auto px-6 lg:px-8 max-w-7xl">
             <div class="grid grid-cols-1  sm:grid-cols-2 md:grid-cols-3 md:gap-y-16 gap-y-10 gap-x-12">
                 <div class=" lg:pr-8">
                     <a href="../../index.php">
