@@ -146,7 +146,7 @@
                 <h2 class="font-semibold text-2xl md:text-4xl md:leading-tight">
                     Our Journey
                 </h2>
-                <p class="mt-1 text-lg">
+                <p class="mt-1 sm:text-lg text-base">
                     Launched in 2002, Edoovi provides an end-to-end cloud management solution for educational institutions.
                 </p>
             </div>
@@ -220,7 +220,7 @@
                             </div>
                         </div>
 
-                        <div class="grow pt-0.5 pb-8 sm:pb-12">
+                        <div class="grow pt-0.5 ">
                             <p class="text-sm md:text-base">
                                 Edoovi ERP is used by most of the reputed educational institutes in 23+states and 8+ countries worldwide.
                             </p>
@@ -348,13 +348,14 @@
     <!-- why us section ends -->
 
     <!-- testimonial section start -->
-    <div class=" relative md:py-16 py-10">
-        <div class="absolute -z-10 -top-10 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
+    <div class="absolute -z-10 -top-10 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
+    <div class="relative mx-auto max-w-7xl lg:px-8 px-6">
+        <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
-        <div class="relative max-w-[85rem] px-4  sm:px-6 lg:px-8 mx-auto">
+        <div class="relative sm:py-10 py-7 lg:py-14 mx-auto">
             <div class="w-full md:max-w-2xl md:w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
                 <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10">
-                    <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
+                    <p class="text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                         <span class="font-semibold">Why Institutes Love </span>
                         <span class="font-bold text-slate-900">Edoovi ERP System?</span>
                     </p>
@@ -368,10 +369,10 @@
             <div class="swiper testimonailSwiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="relative overflow-hidden">
+                        <div class="relative overflow-hidden rounded-3xl">
                             <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
                                 <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
+                                    <div class="rounded-3xl border-white border overflow-hidden bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
@@ -415,7 +416,7 @@
                         <div class="relative overflow-hidden">
                             <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
                                 <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
+                                    <div class="rounded-3xl bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
@@ -459,7 +460,7 @@
                         <div class="relative overflow-hidden">
                             <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
                                 <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
+                                    <div class="rounded-3xl bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
@@ -503,7 +504,7 @@
                         <div class="relative overflow-hidden">
                             <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
                                 <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
+                                    <div class="rounded-3xl bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
