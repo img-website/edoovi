@@ -135,18 +135,22 @@
 
 
     <!-- testimonial section start -->
-    <div class="overflow-hidden">
-        <div class="relative max-w-[85rem] px-4 py-6 sm:py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
-            <div class="max-w-2xl w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
-                <div class="relative container mx-auto max-w-7xl md:px-6 lg:px-8 z-10">
-                    <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
-                        <span class="font-semibold">Why Institutes Love Edoovi ERP System?</span>
+    <div class="overflow-hidden relative">
+        <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
+
+        <div class="relative max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
+            <div class="w-full md:max-w-2xl md:w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
+                <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10">
+                    <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
+                        <span class="font-semibold">Why Institutes Love </span>
+                        <span class="font-bold text-slate-900">Edoovi ERP System?</span>
                     </p>
                     <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
                         Our Client Says
                     </div>
                 </div>
             </div>
+
 
             <div class="swiper testimonailSwiper">
                 <div class="swiper-wrapper">
@@ -158,87 +162,7 @@
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7]">
-                                        <img class="rounded-3xl size-full" src="../assets/img/tesimonial01.jpg" alt="Avatar">
-                                    </div>
-
-                                    <div class="lg:col-span-4">
-                                        <blockquote>
-
-                                            <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
-                                                "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact."
-                                            </p>
-
-                                            <footer class="mt-6">
-                                                <div class="flex items-center">
-                                                    <div class="lg:hidden shrink-0">
-                                                        <img class="size-12 rounded-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
-                                                    </div>
-                                                    <div class="ms-4 lg:ms-0">
-                                                        <p class="font-medium text-gray-800">
-                                                            Jaimin raj
-                                                        </p>
-                                                        <p class="text-sm text-gray-600">
-                                                            Director, P.P. Savani School, Surat
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </footer>
-                                        </blockquote>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="relative overflow-hidden">
-                            <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
-                                <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
-                                </div>
-
-                                <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7]">
-                                        <img class="rounded-3xl size-full" src="../assets/img/militryLogo.svg" alt="Avatar">
-                                    </div>
-
-                                    <div class="lg:col-span-4">
-                                        <blockquote>
-
-                                            <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
-                                                "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact. The statistics speak volumes about this digital revolution. According to recent surveys, mobile banking users in India are expected to surpass 800 million by the end of 2023, underscoring the role of fintech apps in our daily financial activities. As technology continues to influence every aspect."
-                                            </p>
-
-                                            <footer class="mt-6">
-                                                <div class="flex items-center">
-                                                    <div class="lg:hidden shrink-0">
-                                                        <img class="size-12 rounded-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
-                                                    </div>
-                                                    <div class="ms-4 lg:ms-0">
-                                                        <p class="font-medium text-gray-800">
-                                                            Mr. Viral Shah
-                                                        </p>
-                                                        <p class="text-sm text-gray-600">
-                                                            Trustee, A-one School, Jaipur
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </footer>
-                                        </blockquote>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="relative overflow-hidden">
-                            <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
-                                <div aria-hidden="true" class="flex -z-[1] absolute start-0">
-                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
-                                </div>
-
-                                <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7]">
+                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
                                         <img class="rounded-3xl size-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
                                     </div>
 
@@ -265,10 +189,14 @@
                                                 </div>
                                             </footer>
                                         </blockquote>
+                                        <!-- End Blockquote -->
                                     </div>
+                                    <!-- End Col -->
                                 </div>
+                                <!-- End Grid -->
                             </div>
                         </div>
+                        <!-- End Testimonials -->
                     </div>
                     <div class="swiper-slide">
                         <div class="relative overflow-hidden">
@@ -278,7 +206,7 @@
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7]">
+                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
                                         <img class="rounded-3xl size-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
                                     </div>
 
@@ -305,10 +233,102 @@
                                                 </div>
                                             </footer>
                                         </blockquote>
+                                        <!-- End Blockquote -->
                                     </div>
+                                    <!-- End Col -->
                                 </div>
+                                <!-- End Grid -->
                             </div>
                         </div>
+                        <!-- End Testimonials -->
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="relative overflow-hidden">
+                            <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
+                                <div aria-hidden="true" class="flex -z-[1] absolute start-0">
+                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
+                                </div>
+
+                                <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
+                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
+                                        <img class="rounded-3xl size-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
+                                    </div>
+
+                                    <div class="lg:col-span-4">
+                                        <blockquote>
+
+                                            <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
+                                                "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact."
+                                            </p>
+
+                                            <footer class="mt-6">
+                                                <div class="flex items-center">
+                                                    <div class="lg:hidden shrink-0">
+                                                        <img class="size-12 rounded-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
+                                                    </div>
+                                                    <div class="ms-4 lg:ms-0">
+                                                        <p class="font-medium text-gray-800">
+                                                            Jaimin raj
+                                                        </p>
+                                                        <p class="text-sm text-gray-600">
+                                                            Director, P.P. Savani School, Surat
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </footer>
+                                        </blockquote>
+                                        <!-- End Blockquote -->
+                                    </div>
+                                    <!-- End Col -->
+                                </div>
+                                <!-- End Grid -->
+                            </div>
+                        </div>
+                        <!-- End Testimonials -->
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="relative overflow-hidden">
+                            <div class="max-w-[85rem] px-4 py-12 sm:px-6 lg:px-8 lg:py-16 mx-auto">
+                                <div aria-hidden="true" class="flex -z-[1] absolute start-0">
+                                    <div class="bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
+                                </div>
+
+                                <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
+                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
+                                        <img class="rounded-3xl size-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
+                                    </div>
+
+                                    <div class="lg:col-span-4">
+                                        <blockquote>
+
+                                            <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
+                                                "In the ever-evolving landscape of financial technology, India stands at the forefront of innovation, with a myriad of fintech app development companies paving the way for ground-breaking solutions. As we step into 2024, the significance of mobile applications in the financial sector has reached unprecedented heights, reshaping the way we manage, invest, and transact. The statistics speak volumes about this digital revolution. According to recent surveys, mobile banking users in India are expected to surpass 800 million by the end of 2023, underscoring the role of fintech apps in our daily financial activities. As technology continues to influence every aspect."
+                                            </p>
+
+                                            <footer class="mt-6">
+                                                <div class="flex items-center">
+                                                    <div class="lg:hidden shrink-0">
+                                                        <img class="size-12 rounded-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
+                                                    </div>
+                                                    <div class="ms-4 lg:ms-0">
+                                                        <p class="font-medium text-gray-800">
+                                                            Mr. Viral Shah
+                                                        </p>
+                                                        <p class="text-sm text-gray-600">
+                                                            Trustee, A-one School, Jaipur
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </footer>
+                                        </blockquote>
+                                        <!-- End Blockquote -->
+                                    </div>
+                                    <!-- End Col -->
+                                </div>
+                                <!-- End Grid -->
+                            </div>
+                        </div>
+                        <!-- End Testimonials -->
                     </div>
                 </div>
 

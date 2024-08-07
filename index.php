@@ -586,10 +586,10 @@
     <!-- testimonial section start -->
     <div class="overflow-hidden">
         <div class="relative max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
-            <div class="max-w-2xl w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
+            <div class="w-full md:max-w-2xl md:w-3/4 lg:w-1/2 mb-6 sm:mb-10 md:mb-8">
                 <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10">
                     <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
-                        <span class="font-semibold">Why Institutes Love </span> <br>
+                        <span class="font-semibold">Why Institutes Love </span>
                         <span class="font-bold text-slate-900">Edoovi ERP System?</span>
                     </p>
                     <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
@@ -609,7 +609,7 @@
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7]">
+                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
                                         <img class="rounded-3xl size-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
                                     </div>
 
@@ -653,7 +653,7 @@
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7]">
+                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
                                         <img class="rounded-3xl size-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
                                     </div>
 
@@ -697,7 +697,7 @@
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7]">
+                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
                                         <img class="rounded-3xl size-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
                                     </div>
 
@@ -741,7 +741,7 @@
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7]">
+                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
                                         <img class="rounded-3xl size-full" src="https://edoovi.com/uploads/client/1704785350.svg" alt="Avatar">
                                     </div>
 
@@ -966,9 +966,9 @@
         </div>
         <div class="container mx-auto max-w-7xl px-6 lg:px-8 py-10 sm:px-6 ">
 
-            <div class="relative p-6 md:p-16">
+            <div class="relative pb-5 md:p-5 md:px-10">
                 <div class="relative z-10 lg:grid lg:grid-cols-12 lg:items-center">
-                    <div class="mb-5 sm:mb-10 lg:mb-0 lg:col-span-7 lg:order-2 bg-purple-50 px-4 sm:px-8 md:px-16 py-12 rounded-3xl">
+                    <div class="mb-5 sm:mb-10 lg:mb-0 lg:col-span-7 lg:order-2 bg-purple-50 px-4 sm:px-8 md:px-16 py-5 sm:py-8 md:py-12 rounded-3xl">
                         <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10">
                             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance tracking-[-0.04em] text-slate-900  font-semibold">
                                 <span class="font-semibold">We Provide </span>
@@ -978,7 +978,7 @@
 
                         <nav class="grid gap-4 mt-5 md:mt-10" aria-label="Tabs" role="tablist" aria-orientation="vertical">
                             <button type="button" class="text-start hover:bg-white shadow-xl focus:outline-none  p-4 md:px-6 md:py-8 rounded-3xl active bg-white border-transparent text-blue-600" id="tabs-with-card-item-1" aria-selected="true" data-hs-tab="#tabs-with-card-1" aria-controls="tabs-with-card-1" role="tab">
-                                <span class="flex gap-x-6">
+                                <span class="flex gap-x-6 gap-y-4 sm:gap-y-0 items-center sm:items-start text-center sm:text-start flex-col sm:flex-row">
                                     <svg class="shrink-0 mt-2 size-6 md:size-7 text-gray-800" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M16.3303 13.497C17.9562 12.2151 19 10.2278 19 7.9967H21C21 10.9687 19.5595 13.6043 17.3385 15.2432L19.8661 19.6211C20.4183 20.5776 20.0906 21.8008 19.134 22.3531L15.6073 16.2447C14.5029 16.7283 13.2828 16.9967 12 16.9967C10.7172 16.9967 9.49712 16.7283 8.39278 16.2447L4.86606 22.3531C3.90947 21.8008 3.58172 20.5776 4.13401 19.6211L9.19751 10.8508C8.45844 10.125 8.00003 9.11439 8.00003 7.9967C8.00003 6.13286 9.2748 4.56676 11 4.12272V1.9967H13V4.12272C14.7253 4.56676 16 6.13286 16 7.9967C16 9.11439 15.5416 10.125 14.8025 10.8508L16.3303 13.497ZM14.599 14.4983L13.071 11.8517C12.7302 11.9462 12.371 11.9967 12 11.9967C11.6291 11.9967 11.2699 11.9462 10.929 11.8517L9.40101 14.4983C10.2046 14.8198 11.0817 14.9967 12 14.9967C12.9184 14.9967 13.7955 14.8198 14.599 14.4983ZM12 8.9967C12.5523 8.9967 13 8.54899 13 7.9967C13 7.44442 12.5523 6.9967 12 6.9967C11.4477 6.9967 11 7.44442 11 7.9967C11 8.54899 11.4477 8.9967 12 8.9967Z"></path>
                                     </svg>
@@ -991,7 +991,7 @@
                             </button>
 
                             <button type="button" class="text-start hover:bg-white shadow-xl focus:outline-none  p-4 md:px-6 md:py-8 rounded-3xl" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-2" aria-controls="tabs-with-card-2" role="tab">
-                                <span class="flex gap-x-6">
+                                <span class="flex gap-x-6 gap-y-4 sm:gap-y-0 items-center sm:items-start text-center sm:text-start flex-col sm:flex-row">
                                     <svg class="shrink-0 mt-2 size-6 md:size-7 text-gray-800" stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                                         <path stroke-linecap="round" stroke-linejoin="round" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4"></path>
                                     </svg>
@@ -1004,7 +1004,7 @@
                             </button>
 
                             <button type="button" class="text-start hover:bg-white shadow-xl focus:outline-none  p-4 md:px-6 md:py-8 rounded-3xl" id="tabs-with-card-item-3" aria-selected="false" data-hs-tab="#tabs-with-card-3" aria-controls="tabs-with-card-3" role="tab">
-                                <span class="flex gap-x-6">
+                                <span class="flex gap-x-6 gap-y-4 sm:gap-y-0 items-center sm:items-start text-center sm:text-start flex-col sm:flex-row">
                                     <svg class="shrink-0 mt-2 size-6 md:size-7 text-gray-800" stroke="currentColor" fill="currentColor" stroke-width="0" role="img" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M12 0a12 12 0 1012 12A12 12 0 0012 0zm-.412 1.377A10.648 10.648 0 0122.664 12 10.648 10.648 0 0112 22.664a10.648 10.648 0 01-.412-21.287zM12 1.9a.184.184 0 00-.172.131l-.883 2.526a.39.39 0 000 .097.3.3 0 00.133.25.926.926 0 01.074 1.465 2.345 2.345 0 00-.82 1.79v.903L5.865 6.498l-.547.953 4.987 2.877v.692l-.602.347-4.978-2.88-.551.954L8.602 12l-.782.45a2.345 2.345 0 00-1.127 1.616.93.93 0 01-1.312.668.293.293 0 00-.277 0 .324.324 0 00-.079.063l-1.742 2.037a.188.188 0 00.176.305l2.633-.493a.36.36 0 00.09-.035.3.3 0 00.152-.238.926.926 0 011.232-.781 2.345 2.345 0 001.954-.184l.78-.451v5.104h1.098v-5.756l.598-.344.598.344v5.756h1.1v-5.123l.78.45a2.345 2.345 0 001.954.184.926.926 0 011.234.782.285.285 0 00.149.238.36.36 0 00.09.035l2.634.492a.184.184 0 00.176-.305l.004.02-1.744-2.037a.39.39 0 00-.075-.063.3.3 0 00-.28 0 .938.938 0 01-.864-.035.93.93 0 01-.434-.633 2.368 2.368 0 00-1.14-1.609l-.782-.45 4.436-2.558-.549-.955-4.98 2.873-.602-.347v-.692l4.985-2.877-.547-.953L13.7 9.062v-.904a2.345 2.345 0 00-.803-1.789.922.922 0 01.079-1.465.309.309 0 00.128-.25.27.27 0 000-.097L12.18 2.03a.184.184 0 00-.18-.13zm.021 5.512a.598.598 0 01.58.598V9.7l-.597.347-.598-.348V8.01a.598.598 0 01.615-.597zm-.017 3.818l.687.391v.781l-.687.391-.688-.39v-.782zm2.299 1.403l1.46.847a.598.598 0 01.223.817v.004a.602.602 0 01-.82.219l-1.465-.844v-.696zm-4.596.004l.602.347v.692l-1.465.844a.598.598 0 11-.598-1.036z"></path>
                                     </svg>
@@ -1018,7 +1018,7 @@
                             </button>
 
                             <button type="button" class="text-start hover:bg-white shadow-xl focus:outline-none  p-4 md:px-6 md:py-8 rounded-3xl" id="tabs-with-card-item-4" aria-selected="false" data-hs-tab="#tabs-with-card-4" aria-controls="tabs-with-card-4" role="tab">
-                                <span class="flex gap-x-6">
+                                <span class="flex gap-x-6 gap-y-4 sm:gap-y-0 items-center sm:items-start text-center sm:text-start flex-col sm:flex-row">
                                     <svg class="shrink-0 mt-2 size-6 md:size-7 text-gray-800" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                         <path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z" />
                                         <path d="M5 3v4" />
