@@ -139,25 +139,25 @@
 
    
     <!-- form section start -->
-    <section class="relative md:mb-20 mb-10 overflow-hidden ">
-        <div class="absolute sm:block hidden  top-0 !right-0 [background:radial-gradient(circle,_rgba(255,231,_186,_0.7),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
+    <section class="relative md:mb-20 mb-10  ">
+        <div class="absolute sm:block hidden  -top-8 !right-0 [background:radial-gradient(circle,_rgba(255,231,_186,_0.7),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
         <div class="mx-auto max-w-7xl lg:px-8 px-6">
             <div class="flex justify-center items-center relative z-10">
                 <!-- COMPONENT CODE -->
                 <div class="">
 
-                    <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-64 mr-auto rounded-2xl shadow-2xl">
+                    <div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-64 mr-auto rounded-2xl shadow-2xl bg-white">
                         <div class="flex">
                             <h1 class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold text-balance">Get in touch for any kind of help and informations</h1>
                         </div>
-                        <div class="grid grid-cols-1 gap-5 md:grid-cols-2 mt-5">
-                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" type="text" placeholder="First Name*" />
-                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" type="text" placeholder="Last Name*" />
-                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" type="email" placeholder="Email*" />
-                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" type="number" placeholder="Phone*" />
+                        <div class="grid grid-cols-1 sm:gap-5 gap-3 md:grid-cols-2 mt-5">
+                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline text-sm" type="text" placeholder="First Name*" />
+                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline text-sm" type="text" placeholder="Last Name*" />
+                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline text-sm" type="email" placeholder="Email*" />
+                            <input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline text-sm" type="number" placeholder="Phone*" />
                         </div>
                         <div class="my-4">
-                            <textarea placeholder="Message*" class="w-full h-32 bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"></textarea>
+                            <textarea placeholder="Message*" class="w-full h-32 bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline text-sm"></textarea>
                         </div>
                         <div class="my-2 w-1/2 lg:w-1/4">
                             <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">
