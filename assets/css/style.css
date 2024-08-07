@@ -3244,10 +3244,6 @@ video {
   padding: 1.75rem;
 }
 
-.p-8{
-  padding: 2rem;
-}
-
 .px-1{
   padding-left: 0.25rem;
   padding-right: 0.25rem;
@@ -3336,11 +3332,6 @@ video {
 .py-6{
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
-}
-
-.py-7{
-  padding-top: 1.75rem;
-  padding-bottom: 1.75rem;
 }
 
 .py-8{
@@ -5263,14 +5254,6 @@ body{
     padding-right: 0.5rem;
   }
 
-  .max-sm\:pb-5{
-    padding-bottom: 1.25rem;
-  }
-
-  .max-sm\:pb-8{
-    padding-bottom: 2rem;
-  }
-
   .max-sm\:pt-0{
     padding-top: 0px;
   }
@@ -5335,14 +5318,14 @@ body{
     grid-column: span 6 / span 6;
   }
 
-  .sm\:my-10{
-    margin-top: 2.5rem;
-    margin-bottom: 2.5rem;
-  }
-
   .sm\:mx-auto{
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .sm\:my-10{
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
   }
 
   .sm\:mb-0{
@@ -6193,10 +6176,6 @@ body{
 
   .lg\:to-transparent{
     --tw-gradient-to: transparent var(--tw-gradient-to-position);
-  }
-
-  .lg\:p-8{
-    padding: 2rem;
   }
 
   .lg\:px-10{

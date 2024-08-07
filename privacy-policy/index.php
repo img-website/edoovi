@@ -14,12 +14,12 @@
     <!-- header start  -->
 
     <header class="bg-white  w-full fixed top-0 z-[9999] shadow-sm">
-    <div class=" max-w-7xl mx-auto py-3 px-6 lg:px-8 flex items-center  justify-between">
-  <a href="../index.php" class="md:size-16 size-10 *:size-full">
-    <img src="../assets/img/edoovi.webp" alt="">
-  </a>
- <div class="md:flex items-center gap-8 hidden ">
- <ul class="flex gap-8">
+        <div class=" max-w-7xl mx-auto py-3 px-6 lg:px-8 flex items-center  justify-between">
+            <a href="../index.php" class="md:size-16 size-10 *:size-full">
+                <img src="../assets/img/edoovi.webp" alt="">
+            </a>
+            <div class="md:flex items-center gap-8 hidden ">
+                <ul class="flex gap-8">
                     <li><a href="../index.php" class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base  text-slate-600">Home</a></li>
                     <li><a href="../about" class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">About Us</a></li>
                     <li class="relative group">
@@ -33,16 +33,16 @@
                         <div class="bg-white  shadow-md border-gray-100 z-50 border translate-y-10  opacity-0 invisible duration-300 !w-60 absolute group-hover:translate-y-0  group-hover:opacity-100 group-hover:visible">
                             <ul>
                                 <li class="">
-                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/school-software">School Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/school-software">School Software</a>
                                 </li>
                                 <li class="">
-                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/insitute-software">Insitute Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/insitute-software">Insitute Software</a>
                                 </li>
                                 <li class="">
-                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/college-software">College Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/college-software">College Software</a>
                                 </li>
                                 <li class="">
-                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/university-software">University Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/university-software">University Software</a>
                                 </li>
                             </ul>
                         </div>
@@ -50,85 +50,88 @@
                     <li><a href="../blogs" class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Blogs</a></li>
                     <li><a href="../clients" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Clients</a></li>
                 </ul>
-  <a href="../contact" class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</a >
- </div>
- 
-    <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
-    
-   <label for="sideToggle" class="-m-2.5 inline-flex items-center md:hidden justify-center rounded-md p-2.5 ">
-        <span class="sr-only">Open menu</span>
-        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
-        </svg>
-      </label>
-    <div class="fixed flex flex-col inset-y-0 right-0 z-[1011] w-full select-none text-white bg-white/60 backdrop-blur-lg peer-checked/sideToggle:translate-x-0 peer-checked/sideToggle:opacity-100
-     -translate-x-full opacity-0 ms-auto duration-300 h-dvh">
-    <div class=" flex flex-col  border-l h-[100vh]  overflow-hidden sm:w-1/2">
-   <nav class="sticky w-full top-0 bg-white  py-3 px-6  shadow-lg flex items-center justify-between">
-   <a href="../index.php" class="*:size-10">
-    <img src="../assets/img/edoovi.webp" alt="">
-  </a>
-  <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
-      <span class="sr-only *:">Close menu</span>
-      <svg class="h-6 w-6 text-slate-900" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
-      </svg>
-    </label>
-   </nav>
-   <div class="flex flex-col bg-white pb-40   h-screen overflow-y-auto !content-between">
-   <ul xlass="h-max bg-white">
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../index.php" >Home</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../about" >About Us</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/school-software" >School Software</a>
-  </li>
-  
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/insitute-software" >Institute Software</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/college-software" >College Software</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/university-software" >University Software</a>
-  </li>
-  
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../blogs" >Blog</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../clients" >Clients</a>
-  </li>
- </ul>
- <div class="fixed overflow-hidden sm:w-1/2 w-full bottom-0 bg-white shadow-lg rotate-180 flex items-center justify-between">
- <div class="flex overflow-hidden justify-between py-5 px-4 rotate-180 bg-white w-full">
- <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</button>
- <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Email Us</button>
-   </div>
- </div>
- </div>
- 
-   </div>
-</div>
-    </div>
-    
+                <a href="../contact" class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</a>
+            </div>
 
-  </header>
+            <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
+
+            <label for="sideToggle" class="-m-2.5 inline-flex items-center md:hidden justify-center rounded-md p-2.5 ">
+                <span class="sr-only">Open menu</span>
+                <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
+                </svg>
+            </label>
+            <div class="fixed flex flex-col inset-y-0 right-0 z-[1011] w-full select-none text-white bg-white/60 backdrop-blur-lg peer-checked/sideToggle:translate-x-0 peer-checked/sideToggle:opacity-100
+     -translate-x-full opacity-0 ms-auto duration-300 h-dvh">
+                <div class=" flex flex-col  border-l h-[100vh]  overflow-hidden sm:w-1/2">
+                    <nav class="sticky w-full top-0 bg-white  py-3 px-6  shadow-lg flex items-center justify-between">
+                        <a href="../index.php" class="*:size-10">
+                            <img src="../assets/img/edoovi.webp" alt="">
+                        </a>
+                        <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
+                            <span class="sr-only *:">Close menu</span>
+                            <svg class="h-6 w-6 text-slate-900" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
+                            </svg>
+                        </label>
+                    </nav>
+                    <div class="flex flex-col bg-white pb-40   h-screen overflow-y-auto !content-between">
+                        <ul xlass="h-max bg-white">
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../index.php">Home</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../about">About Us</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/school-software">School Software</a>
+                            </li>
+
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/insitute-software">Institute Software</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/college-software">College Software</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/university-software">University Software</a>
+                            </li>
+
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../blogs">Blog</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../clients">Clients</a>
+                            </li>
+                        </ul>
+                        <div class="fixed overflow-hidden sm:w-1/2 w-full bottom-0 bg-white shadow-lg rotate-180 flex items-center justify-between">
+                            <div class="flex overflow-hidden justify-between py-5 px-4 rotate-180 bg-white w-full">
+                                <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</button>
+                                <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Email Us</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+    </header>
     <!-- header end  -->
 
     <!-- hero section start -->
-    <div class="relative lg:h-full md:pt-28 pt-24 pb-6 sm:pb-10 px-3 lg:px-5">
-        <div class="grid p-7 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center mx-auto max-w-7xl lg:px-8 px-6 h-full ">
-            <div class="md:col-span-4">
-                <div class="text-slate-900 md:text-6xl sm:text-5xl text-4xl font-semibold "> Privacy  <span class="text-orange-500">policy</span></div>
-            </div>
+    
+    <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
+        <div class="mx-auto max-w-7xl lg:px-8 px-6">
+            <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
+                <div class="md:col-span-4">
+                    <div class="text-slate-900 xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-semibold "> Privacy <span class="text-orange-500">Policy</span></div>
+                </div>
 
-            <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0 border-[10px] border-[solid] border-white rounded-3xl overflow-hidden">
-                <img class="size-full rounded-3xl object-cover object-top overflow-hidden" src="../assets/img/privacy-policyHero.jpg" alt="Hero Image">
+                <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
+                    <img class="size-full rounded-3xl object-cover border-8 border-white" src="../assets/img/privacy-policyHero.jpg" alt="Hero Image">
+                </div>
             </div>
         </div>
     </div>

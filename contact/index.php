@@ -12,12 +12,12 @@
 <body>
     <!-- header start  -->
     <header class="bg-white  w-full fixed top-0 z-[9999] shadow-sm">
-    <div class=" max-w-7xl mx-auto py-3 px-6 lg:px-8 flex items-center  justify-between">
-  <a href="../index.php" class="md:size-16 size-10 *:size-full">
-    <img src="../assets/img/edoovi.webp" alt="">
-  </a>
- <div class="md:flex items-center gap-8 hidden ">
- <ul class="flex gap-8">
+        <div class=" max-w-7xl mx-auto py-3 px-6 lg:px-8 flex items-center  justify-between">
+            <a href="../index.php" class="md:size-16 size-10 *:size-full">
+                <img src="../assets/img/edoovi.webp" alt="">
+            </a>
+            <div class="md:flex items-center gap-8 hidden ">
+                <ul class="flex gap-8">
                     <li><a href="../index.php" class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base  text-slate-600">Home</a></li>
                     <li><a href="../about" class=" [&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">About Us</a></li>
                     <li class="relative group">
@@ -31,16 +31,16 @@
                         <div class="bg-white  shadow-md border-gray-100 z-50 border translate-y-10  opacity-0 invisible duration-300 !w-60 absolute group-hover:translate-y-0  group-hover:opacity-100 group-hover:visible">
                             <ul>
                                 <li class="">
-                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/school-software">School Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/school-software">School Software</a>
                                 </li>
                                 <li class="">
-                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/insitute-software">Insitute Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/insitute-software">Insitute Software</a>
                                 </li>
                                 <li class="">
-                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/college-software">College Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/college-software">College Software</a>
                                 </li>
                                 <li class="">
-                                     <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/university-software">University Software</a>
+                                    <a class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 hover:bg-violet-400 w-full duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 inline-flex " href="../oursolutions/university-software">University Software</a>
                                 </li>
                             </ul>
                         </div>
@@ -48,74 +48,74 @@
                     <li><a href="../blogs" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Blogs</a></li>
                     <li><a href="../clients" class="[&.active]:text-slate-950 [&.active]:border-b-[2px] [&.active]:border-b-slate-900 inline-flex font-medium text-base active:text-slate-900 text-slate-600">Clients</a></li>
                 </ul>
-  <a href="../contact" class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</a >
- </div>
- 
-    <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
-    
-   <label for="sideToggle" class="-m-2.5 inline-flex items-center md:hidden justify-center rounded-md p-2.5 ">
-        <span class="sr-only">Open menu</span>
-        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
-        </svg>
-      </label>
-    <div class="fixed flex flex-col inset-y-0 right-0 z-[1011] w-full select-none text-white bg-white/60 backdrop-blur-lg peer-checked/sideToggle:translate-x-0 peer-checked/sideToggle:opacity-100
-     -translate-x-full opacity-0 ms-auto duration-300 h-dvh">
-    <div class=" flex flex-col  border-l h-[100vh]  overflow-hidden sm:w-1/2">
-   <nav class="sticky w-full top-0 bg-white  py-3 px-6  shadow-lg flex items-center justify-between">
-   <a href="../index.php" class="*:size-10">
-    <img src="../assets/img/edoovi.webp" alt="">
-  </a>
-  <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
-      <span class="sr-only *:">Close menu</span>
-      <svg class="h-6 w-6 text-slate-900" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
-      </svg>
-    </label>
-   </nav>
-   <div class="flex flex-col bg-white pb-40   h-screen overflow-y-auto !content-between">
-   <ul xlass="h-max bg-white">
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../index.php" >Home</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../about" >About Us</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/school-software" >School Software</a>
-  </li>
-  
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/insitute-software" >Institute Software</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/college-software" >College Software</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/university-software" >University Software</a>
-  </li>
-  
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../blogs" >BLog</a>
-  </li>
-  <li class="w-full">
-    <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../clients" >Clients</a>
-  </li>
- </ul>
- <div class="fixed overflow-hidden sm:w-1/2 w-full bottom-0 bg-white shadow-lg rotate-180 flex items-center justify-between">
- <div class="flex overflow-hidden justify-between py-5 px-4 rotate-180 bg-white w-full">
- <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</button>
- <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Email Us</button>
-   </div>
- </div>
- </div>
- 
-   </div>
-</div>
-    </div>
-    
+                <a href="../contact" class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium text-base text-white">Contant Us</a>
+            </div>
 
-  </header>
+            <input type="checkbox" class="peer/sideToggle hidden" name="sideToggle" id="sideToggle">
+
+            <label for="sideToggle" class="-m-2.5 inline-flex items-center md:hidden justify-center rounded-md p-2.5 ">
+                <span class="sr-only">Open menu</span>
+                <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
+                </svg>
+            </label>
+            <div class="fixed flex flex-col inset-y-0 right-0 z-[1011] w-full select-none text-white bg-white/60 backdrop-blur-lg peer-checked/sideToggle:translate-x-0 peer-checked/sideToggle:opacity-100
+     -translate-x-full opacity-0 ms-auto duration-300 h-dvh">
+                <div class=" flex flex-col  border-l h-[100vh]  overflow-hidden sm:w-1/2">
+                    <nav class="sticky w-full top-0 bg-white  py-3 px-6  shadow-lg flex items-center justify-between">
+                        <a href="../index.php" class="*:size-10">
+                            <img src="../assets/img/edoovi.webp" alt="">
+                        </a>
+                        <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
+                            <span class="sr-only *:">Close menu</span>
+                            <svg class="h-6 w-6 text-slate-900" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path>
+                            </svg>
+                        </label>
+                    </nav>
+                    <div class="flex flex-col bg-white pb-40   h-screen overflow-y-auto !content-between">
+                        <ul xlass="h-max bg-white">
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../index.php">Home</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../about">About Us</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/school-software">School Software</a>
+                            </li>
+
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/insitute-software">Institute Software</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/college-software">College Software</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../oursolutions/university-software">University Software</a>
+                            </li>
+
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../blogs">BLog</a>
+                            </li>
+                            <li class="w-full">
+                                <a class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex" href="../clients">Clients</a>
+                            </li>
+                        </ul>
+                        <div class="fixed overflow-hidden sm:w-1/2 w-full bottom-0 bg-white shadow-lg rotate-180 flex items-center justify-between">
+                            <div class="flex overflow-hidden justify-between py-5 px-4 rotate-180 bg-white w-full">
+                                <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Contact Us</button>
+                                <button class="text-nowrap bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl shadow-violet-200/95 font-medium sm:text-base text-sm text-white duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">Email Us</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+    </header>
     <!-- header end  -->
 
     <!-- hero section start -->
@@ -123,10 +123,10 @@
         <div class="mx-auto max-w-7xl lg:px-8 px-6">
             <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
                 <div class="md:col-span-4">
-                    <div class="text-slate-900 xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-semibold "> School Management Software  <span class="text-orange-500">With Cloud
-                    Based School ERP</span></div>
+                    <div class="text-slate-900 xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-semibold "> School Management Software <span class="text-orange-500">With Cloud
+                            Based School ERP</span></div>
                 </div>
-    
+
                 <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
                     <img class="size-full rounded-3xl object-cover border-8 border-white" src="../assets/img/contact.avif" alt="Hero Image">
                 </div>
@@ -136,7 +136,7 @@
     <!-- hero section ends -->
 
 
-   
+
     <!-- form section start -->
     <section class="relative md:mb-20 mb-10  ">
         <div class="absolute sm:block hidden  -top-8 !right-0 [background:radial-gradient(circle,_rgba(255,231,_186,_0.7),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
@@ -210,19 +210,26 @@
 
                                     <a href="#!" type="button" class="rounded-full bg-[#55acee] sm:p-3 p-2 flex items-center justify-center uppercase leading-normal text-white shadow-dark-3 border border-white sm:size-10 size-8 shadow-black/30 transition duration-150 ease-in-out hover:scale-95 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white" data-twe-ripple-init data-twe-ripple-color="light">
                                         <span class="mx-auto flex items-center justify-center">
-                                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>
+                                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path>
+                                            </svg>
                                         </span>
                                     </a>
 
                                     <a href="#!" type="button" class="rounded-full bg-[#dd4b39] sm:p-3 p-2 flex items-center justify-center uppercase leading-normal text-white shadow-dark-3 border border-white sm:size-10 size-8 shadow-black/30 transition duration-150 ease-in-out hover:scale-95 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white" data-twe-ripple-init data-twe-ripple-color="light">
                                         <span class="mx-auto flex items-center justify-center">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M349.33 69.33a93.62 93.62 0 0 1 93.34 93.34v186.66a93.62 93.62 0 0 1-93.34 93.34H162.67a93.62 93.62 0 0 1-93.34-93.34V162.67a93.62 93.62 0 0 1 93.34-93.34h186.66m0-37.33H162.67C90.8 32 32 90.8 32 162.67v186.66C32 421.2 90.8 480 162.67 480h186.66C421.2 480 480 421.2 480 349.33V162.67C480 90.8 421.2 32 349.33 32z"></path><path d="M377.33 162.67a28 28 0 1 1 28-28 27.94 27.94 0 0 1-28 28zM256 181.33A74.67 74.67 0 1 1 181.33 256 74.75 74.75 0 0 1 256 181.33m0-37.33a112 112 0 1 0 112 112 112 112 0 0 0-112-112z"></path></svg>
+                                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M349.33 69.33a93.62 93.62 0 0 1 93.34 93.34v186.66a93.62 93.62 0 0 1-93.34 93.34H162.67a93.62 93.62 0 0 1-93.34-93.34V162.67a93.62 93.62 0 0 1 93.34-93.34h186.66m0-37.33H162.67C90.8 32 32 90.8 32 162.67v186.66C32 421.2 90.8 480 162.67 480h186.66C421.2 480 480 421.2 480 349.33V162.67C480 90.8 421.2 32 349.33 32z"></path>
+                                                <path d="M377.33 162.67a28 28 0 1 1 28-28 27.94 27.94 0 0 1-28 28zM256 181.33A74.67 74.67 0 1 1 181.33 256 74.75 74.75 0 0 1 256 181.33m0-37.33a112 112 0 1 0 112 112 112 112 0 0 0-112-112z"></path>
+                                            </svg>
                                         </span>
                                     </a>
 
                                     <a href="#!" type="button" class="rounded-full bg-[#ac2bac] sm:p-3 p-2 flex items-center justify-center  uppercase leading-normal text-white shadow-dark-3 border border-white sm:size-10 size-8 shadow-black/30 transition duration-150 ease-in-out hover:scale-95 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white" data-twe-ripple-init data-twe-ripple-color="light">
                                         <span class="mx-auto flex items-center justify-center">
-                                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg>
+                                            <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path>
+                                            </svg>
                                         </span>
                                     </a>
 
@@ -237,43 +244,43 @@
 
     <!-- form section end  -->
 
-<!-- card section  -->
+    <!-- card section  -->
 
-<section class="md:pb-16 pb-10">
-  <div class="mx-auto max-w-7xl lg:px-10 px-6">
-    <div class="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 lg:gap-8 gap-5">
-      <div>
-          <div id="contact-card" class="overflow-hidden z-20 bg-purple-800 h-full text-white p-6 rounded-lg shadow-lg relative after:absolute after:inset-0 after:bg-[url('../../assets/img/dot.png')] after:-z-10 duration-300 hover:scale-95 before:absolute before:size-24 before:bg-slate-50/10 before:rounded-full before:-right-5 before:-bottom-5">
-            <h2 class="text-2xl font-bold pb-6 relative before:absolute before:left-0 before:bottom-4 before:min-w-12 before:h-[1px] before:bg-white">India Office</h2>
-            <p class="mb-2 sm:text-sm text-xs">100 Franklin Ave, Nutley, NJ 07110, United States</p>
-            <p class="mb-2 sm:text-sm text-xs">Mon – Fri: 8:30am – 6pm
-            Sat: 10am – 2pm</p>
-            <p class="mb-2 sm:text-sm text-xs">For Sales Inquiry: <span id="phone">+ (123) 1800-567-8990</span></p>
+    <section class="md:pb-16 pb-10">
+        <div class="mx-auto max-w-7xl lg:px-10 px-6">
+            <div class="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 lg:gap-8 gap-5">
+                <div>
+                    <div id="contact-card" class="overflow-hidden z-20 bg-purple-800 h-full text-white p-6 rounded-lg shadow-lg relative after:absolute after:inset-0 after:bg-[url('../../assets/img/dot.png')] after:-z-10 duration-300 hover:scale-95 before:absolute before:size-24 before:bg-slate-50/10 before:rounded-full before:-right-5 before:-bottom-5">
+                        <h2 class="text-2xl font-bold pb-6 relative before:absolute before:left-0 before:bottom-4 before:min-w-12 before:h-[1px] before:bg-white">India Office</h2>
+                        <p class="mb-2 sm:text-sm text-xs">100 Franklin Ave, Nutley, NJ 07110, United States</p>
+                        <p class="mb-2 sm:text-sm text-xs">Mon – Fri: 8:30am – 6pm
+                            Sat: 10am – 2pm</p>
+                        <p class="mb-2 sm:text-sm text-xs">For Sales Inquiry: <span id="phone">+ (123) 1800-567-8990</span></p>
+                    </div>
+                </div>
+                <div>
+                    <div id="contact-card" class="overflow-hidden z-20 bg-blue-800 h-full text-white p-6 rounded-lg shadow-lg relative after:absolute after:inset-0 after:bg-[url('../../assets/img/dot.png')] after:-z-10 duration-300 hover:scale-95 before:absolute before:size-24 before:bg-slate-50/10 before:rounded-full before:-right-5 before:-bottom-5">
+                        <h2 class="text-2xl font-bold pb-6 relative before:absolute before:left-0 before:bottom-4 before:min-w-12 before:h-[1px] before:bg-white">India Office</h2>
+                        <p class="mb-2 sm:text-sm text-xs">372 King’s Road, London, SW3 5UZ</p>
+                        <p class="mb-2 sm:text-sm text-xs">Mon – Fri: 8:30am – 6pm
+                            Sat: 10am – 2pm</p>
+                        <p class="mb-2 sm:text-sm text-xs">For Sales Inquiry: <span id="phone">+ (123) 1800-567-8990</span></p>
+                    </div>
+                </div>
+                <div>
+                    <div id="contact-card" class="overflow-hidden z-20 bg-pink-800 h-full text-white p-6 rounded-lg shadow-lg relative after:absolute after:inset-0 after:bg-[url('../../assets/img/dot.png')] after:-z-10 duration-300 hover:scale-95 before:absolute before:size-24 before:bg-slate-50/10 before:rounded-full before:-right-5 before:-bottom-5">
+                        <h2 class="text-2xl font-bold pb-6 relative before:absolute before:left-0 before:bottom-4 before:min-w-12 before:h-[1px] before:bg-white">India Office</h2>
+                        <p class="mb-2 sm:text-sm text-xs">372 King’s Road, London, SW3 5UZ</p>
+                        <p class="mb-2 sm:text-sm text-xs">Mon – Fri: 8:30am – 6pm
+                            Sat: 10am – 2pm</p>
+                        <p class="mb-2 sm:text-sm text-xs">For Sales Inquiry: <span id="phone">+ (123) 1800-567-8990</span></p>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-      <div>
-          <div id="contact-card" class="overflow-hidden z-20 bg-blue-800 h-full text-white p-6 rounded-lg shadow-lg relative after:absolute after:inset-0 after:bg-[url('../../assets/img/dot.png')] after:-z-10 duration-300 hover:scale-95 before:absolute before:size-24 before:bg-slate-50/10 before:rounded-full before:-right-5 before:-bottom-5">
-            <h2 class="text-2xl font-bold pb-6 relative before:absolute before:left-0 before:bottom-4 before:min-w-12 before:h-[1px] before:bg-white">India Office</h2>
-            <p class="mb-2 sm:text-sm text-xs">372 King’s Road, London, SW3 5UZ</p>
-            <p class="mb-2 sm:text-sm text-xs">Mon – Fri: 8:30am – 6pm
-            Sat: 10am – 2pm</p>
-            <p class="mb-2 sm:text-sm text-xs">For Sales Inquiry: <span id="phone">+ (123) 1800-567-8990</span></p>
-        </div>
-      </div>
-      <div>
-          <div id="contact-card" class="overflow-hidden z-20 bg-pink-800 h-full text-white p-6 rounded-lg shadow-lg relative after:absolute after:inset-0 after:bg-[url('../../assets/img/dot.png')] after:-z-10 duration-300 hover:scale-95 before:absolute before:size-24 before:bg-slate-50/10 before:rounded-full before:-right-5 before:-bottom-5">
-            <h2 class="text-2xl font-bold pb-6 relative before:absolute before:left-0 before:bottom-4 before:min-w-12 before:h-[1px] before:bg-white">India Office</h2>
-            <p class="mb-2 sm:text-sm text-xs">372 King’s Road, London, SW3 5UZ</p>
-            <p class="mb-2 sm:text-sm text-xs">Mon – Fri: 8:30am – 6pm
-            Sat: 10am – 2pm</p>
-            <p class="mb-2 sm:text-sm text-xs">For Sales Inquiry: <span id="phone">+ (123) 1800-567-8990</span></p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+    </section>
 
- <!-- end  -->
+    <!-- end  -->
 
 
 
