@@ -65,7 +65,7 @@
                 <div class="ms-auto overflow-y-auto w-full border-l h-screen  sm:w-1/2">
                     <nav class="sticky top-0 bg-white  p-3 ms-auto shadow-lg flex items-center justify-between">
                         <a href="/" class="*:size-14">
-                            <img src="./assets/img/edoovi.webp" alt="">
+                            <img src="../assets/img/edoovi.webp" alt="">
                         </a>
                         <label for="sideToggle" type="button" class="-m-2.5 rounded-md p-2.5 text-gray-200">
                             <span class="sr-only *:">Close menu</span>
