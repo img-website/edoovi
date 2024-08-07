@@ -3193,10 +3193,6 @@ video {
   padding: 0px;
 }
 
-.p-1{
-  padding: 0.25rem;
-}
-
 .p-2{
   padding: 0.5rem;
 }
@@ -3227,6 +3223,10 @@ video {
 
 .p-8{
   padding: 2rem;
+}
+
+.p-1{
+  padding: 0.25rem;
 }
 
 .px-1{
@@ -3711,11 +3711,6 @@ video {
   color: rgb(71 85 105 / var(--tw-text-opacity));
 }
 
-.text-slate-700{
-  --tw-text-opacity: 1;
-  color: rgb(51 65 85 / var(--tw-text-opacity));
-}
-
 .text-slate-800{
   --tw-text-opacity: 1;
   color: rgb(30 41 59 / var(--tw-text-opacity));
@@ -3738,6 +3733,11 @@ video {
 
 .text-white\/90{
   color: rgb(255 255 255 / 0.9);
+}
+
+.text-slate-700{
+  --tw-text-opacity: 1;
+  color: rgb(51 65 85 / var(--tw-text-opacity));
 }
 
 .underline{
@@ -4345,14 +4345,14 @@ body{
   height: 1.75rem;
 }
 
-.\*\:size-8 > *{
-  width: 2rem;
-  height: 2rem;
-}
-
 .\*\:size-full > *{
   width: 100%;
   height: 100%;
+}
+
+.\*\:size-8 > *{
+  width: 2rem;
+  height: 2rem;
 }
 
 .\*\:object-cover > *{
@@ -5497,11 +5497,6 @@ body{
     height: 1.5rem;
   }
 
-  .sm\:\*\:size-12 > *{
-    width: 3rem;
-    height: 3rem;
-  }
-
   .sm\:\*\:size-14 > *{
     width: 3.5rem;
     height: 3.5rem;
@@ -5510,6 +5505,11 @@ body{
   .sm\:\*\:size-9 > *{
     width: 2.25rem;
     height: 2.25rem;
+  }
+
+  .sm\:\*\:size-12 > *{
+    width: 3rem;
+    height: 3rem;
   }
 
   .sm\:after\:right-7::after{
