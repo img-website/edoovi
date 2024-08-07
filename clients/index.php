@@ -138,10 +138,10 @@
 
     <!-- testimonial section start -->
     <div class="absolute -z-10 -top-10 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
-    <div class="relative mx-auto max-w-7xl lg:px-8 px-6">
+    <div class="relative mx-auto max-w-7xl lg:px-8 px-6  lg:pb-16 sm:pb-10 pb-8 ">
         <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
-        <div class="relative lg:py-16 sm:py-10 py-8 mx-auto">
+        <div class="relative  mx-auto">
             <div class="w-full md:max-w-2xl md:w-3/4 lg:w-2/5 mb-6 sm:mb-10 md:mb-8">
                 <div class="relative container mx-auto max-w-7xl z-10">
                     <p class="text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
@@ -350,7 +350,7 @@
                         </div>
                     </div>
                     <div class="md:mt-10 mt-5 flex items-center gap-x-6 empty:hidden max-sm:justify-center">
-                        <button class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl  font-medium text-base text-white">Contant Us</button>
+                        <a href="../contact/" class="bg-gradient-to-b from-violet-300 to-violet-500/90 py-2 px-4 rounded-full shadow-xl  font-medium text-base text-white">Contant Us</a>
                     </div>
                 </div>
             </div>
