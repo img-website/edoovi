@@ -136,7 +136,7 @@
     <!-- hero section ends -->
 
     <!-- about Section start -->
-    <section class="relative lg:py-16 sm:py-10 py-8">
+    <section class="relative lg:pb-16 sm:pb-10 pb-8">
         <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
         <div class="absolute -z-10 bottom-0 !left-0 [background:radial-gradient(circle,_rgba(255,281,_231,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
@@ -145,7 +145,7 @@
                 <h2 class="font-semibold text-2xl md:text-4xl md:leading-tight">
                     Our Journey
                 </h2>
-                <p class="mt-1 sm:text-lg text-base">
+                <p class="md:text-base text-sm text-black/70 mt-2 font-bold">
                     Launched in 2002, Edoovi provides an end-to-end cloud management solution for educational institutions.
                 </p>
             </div>
@@ -233,13 +233,13 @@
     <!-- about Section ends -->
 
     <!-- mission section start -->
-    <div class="relative isolate lg:py-16 sm:py-10 py-8">
+    <div class="relative isolate lg:pb-16 sm:pb-10 pb-8">
         <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,281,_231,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
         <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
             <div class="w-full md:w-1/2 lg:w-2/3">
                 <div class=" relative z-20 mx-auto lg:max-w-3xl lg:mx-0 lg:w-3xl lg:flex-none lg:pr-4">
-                    <p class="mt-4 max-md:text-3xl max-xl:text-5xl text-5xl text-gray-800 tracking-wide"><span class="font-semibold">Our Mission</p>
+                    <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold mt-4"><span class="font-semibold">Our Mission</p>
                     <p class="py-3 md:mt-4 text-sm md:text-lg leading-[130%] text-gray-800">
                         Our Mission is to deliver cost-effective and reasonable ERP solutions for educational institutions worldwide. With maximum attention, we aim to provide an outstanding ERP system to educational institutions for enhancing and streamlining their day-to-day tasks.
                     </p>
@@ -260,7 +260,7 @@
                 </div>
                 <div class="w-full md:w-1/2 lg:w-2/3 md:ps-10 mt-7 md:mt-0">
                     <div class=" relative z-20 mx-auto max-w-3xl lg:mx-0 lg:w-3xl lg:flex-none lg:pr-4">
-                        <p class="mt-7 max-md:text-3xl max-xl:text-5xl text-5xl tracking-wide"><span class="font-semibold">Our Vision</p>
+                        <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold mt-4"><span class="font-semibold">Our Vision</p>
                         <p class="mt-4 text-sm md:text-lg leading-[130%]">
                             "Empower educational services in an ever-changing environment to provide students and instructors with improved possibilities for continual improvement."
                         </p>
@@ -312,15 +312,12 @@
     <!-- mission section ends -->
 
     <!-- why us section start -->
-    <div class="relative lg:py-16 sm:py-10 py-8 overflow-hidden">
+    <div class="relative lg:pb-16 sm:pb-10 pb-8 overflow-hidden">
         <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
             <div class="select-none relative">
                 <div class="flex w-full h-auto items-center flex-wrap lg:gap-0 gap-3">
                     <div class="lg:w-[60%] lg:pe-10 pe-0 w-[100%] lg:order-1 order-2">
-                        <p class="
-                    max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black
-
-                    first:*:font-semibold
+                        <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black first:*:font-semibold
 
                     
                 "> <span>Why Us?</span>
@@ -351,7 +348,7 @@
     <div class="relative mx-auto max-w-7xl lg:px-8 px-6">
         <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
-        <div class="relative lg:py-16 sm:py-10 py-8 mx-auto">
+        <div class="relative lg:pb-16 sm:pb-10 pb-8 mx-auto">
             <div class="w-full md:max-w-2xl md:w-3/4 lg:w-2/5 mb-6 sm:mb-10 md:mb-8">
                 <div class="relative container mx-auto max-w-7xl z-10">
                     <p class="text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">

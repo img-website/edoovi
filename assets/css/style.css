@@ -2640,10 +2640,6 @@ video {
   border-width: 8px;
 }
 
-.border-\[10px\]{
-  border-width: 10px;
-}
-
 .border-\[20px\]{
   border-width: 20px;
 }
@@ -3238,10 +3234,6 @@ video {
 
 .p-6{
   padding: 1.5rem;
-}
-
-.p-7{
-  padding: 1.75rem;
 }
 
 .px-1{
@@ -6186,11 +6178,6 @@ body{
   .lg\:px-24{
     padding-left: 6rem;
     padding-right: 6rem;
-  }
-
-  .lg\:px-5{
-    padding-left: 1.25rem;
-    padding-right: 1.25rem;
   }
 
   .lg\:px-8{
