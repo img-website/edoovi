@@ -21,7 +21,7 @@
 
   <!-- -------schl-softwre -->
 
-  <section class="py-10 lg:py-16 relative overflow-hidden">
+  <section class="py-10  lg:py-16 relative overflow-hidden">
     <div class="absolute inset-0 size-full ">
       <img src="https://html.hixstudio.net/acadia-prev/acadia/assets/img/bg/banner-3-bg-1.png" alt="" class="size-full">
     </div>
@@ -74,7 +74,7 @@ class="mb-10 max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-bal
 
   <!-- --------user-friendly-sec -->
 
-  <section class="py-6 md:py-8 lg:py-10">
+  <section class="overflow-hidden py-6 md:py-8 lg:py-10">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
       <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
       <div class="relative container mx-auto max-w-7xl  z-10 pb-10 ">
@@ -165,7 +165,7 @@ class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance t
   <!-- --------user-friendly-sec -->
   <!-- why us section start -->
 
-  <div class="relative py-8 md:py-10 lg:py-16 overflow-hidden">
+  <div class=" relative py-8 md:py-10 lg:py-16 overflow-hidden">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
 
       <div class=" relative">
@@ -195,7 +195,7 @@ class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance t
   <!-- why us section ends -->
 
   <!-- counter-start---- -->
-  <section class="py-6 md:py-8 lg:py-10">
+  <section class="py-6 md:py-8 lg:py-10 overflow-hidden">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
       <div class="grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 gap-5 mx-auto  relative">
         <div  data-aos="fade-right" data-aos-duration="2500" class="col-auto group">
@@ -347,7 +347,7 @@ class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance t
 
 
   <!-- tabs start -->
-  <div class="container mx-auto max-w-7xl px-6 lg:px-8 py-8 md:py-10 lg:py-16">
+  <div class="container overflow-hidden mx-auto max-w-7xl px-6 lg:px-8 py-8 md:py-10 lg:py-16">
     <div class="  ">
       <div class=" mx-auto max-w-7xl z-10 mb-4">
         <p data-aos="fade-right" data-aos-duration="1000"
@@ -2478,10 +2478,10 @@ class="mb-5 sm:mb-10 lg:mb-0  lg:order-2 bg-orange-50 px-4 sm:px-8 rounded-3xl">
 
   <!-- accordion start  -->
 
-  <section class="bg-white py-6 md:py-8 lg:py-10">
+  <section class="bg-white py-6 md:py-8 lg:py-10 overflow-hidden">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 ">
       <div data-aos="fade-up"
-      data-aos-duration="3000" class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden  rounded-3xl">
+      data-aos-duration="3000" class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden rounded-3xl">
         <img  class="w-full aspect-[3/1] object-cover !absolute inset-0 !z-10 rounded-3xl shadow-xl h-full shadow-gray-900/50 overflow-hidden" src="  ../../assets/img/faq.jpg">
         <div class="md:w-5/12 w-full shrink-0 h-full">
         </div>
@@ -2684,7 +2684,7 @@ class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.0
 
   <!-- logo section end  -->
   <!-- cta start -->
-  <div  class="md:py-16 sm:py-10 py-8 select-none">
+  <div  class="md:py-16 overflow-hidden sm:py-10 py-8 select-none">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div data-aos="zoom-out-right" data-aos-duration="1000" class="relative isolate overflow-hidden bg-gray-900 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:gap-x-20 lg:px-24 bg-[url('../../assets/img/school-cta.jpg')] bg-cover bg-left after:absolute after:top-0 after:left-0 after:bg-black/60 after:size-full">
         <div class="max-w-3xl lg:mx-0 lg:flex-auto py-6 md:py-8 lg:py-10 lg:text-left relative z-[1]">
