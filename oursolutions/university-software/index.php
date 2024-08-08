@@ -1,7 +1,8 @@
 <?php include('../../layouts/header.php') ?>
 
-  <!-- hero section start -->
-  <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
+
+   <!-- hero section start -->
+   <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
     <div class="mx-auto max-w-7xl lg:px-8 px-6">
       <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
         <div class="md:col-span-4">
@@ -24,13 +25,16 @@
     <div class="absolute inset-0 size-full ">
       <img src="https://html.hixstudio.net/acadia-prev/acadia/assets/img/bg/banner-3-bg-1.png" alt="" class="size-full">
     </div>
-    <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full relative z-10">
-      <p class="mb-10 max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance tracking-[-0.04em] text-slate-900  font-semibold">
+    <div   class="mx-auto max-w-7xl px-6 lg:px-8 w-full relative z-10">
+      <p data-aos="fade-right" data-aos-duration="1000"
+
+
+class="mb-10 max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance tracking-[-0.04em] text-slate-900  font-semibold">
         <span class="font-semibold">We Offer End-To-End Solutions For</span> <br>
         <span class="font-bold text-slate-900">Every Phase Of School Management.</span>
       </p>
       <div class="grid grid-cols-12 items-center gap-y-10 lg:gap-8 group">
-        <div class="col-span-12 lg:col-span-6">
+        <div data-aos="fade-right"  data-aos-duration="1000" class="col-span-12 lg:col-span-6">
           <div class="size-full relative flex items-center justify-center group">
             <div class=" h-full w-[70%]">
               <img class="aspect-[1/1]  object-cover rounded-3xl" src="../../assets/img/students.avif" alt="">
@@ -44,12 +48,12 @@
             </div>
           </div>
         </div>
-        <div class="col-span-12 lg:col-span-6">
+        <div data-aos="fade-left"  data-aos-duration="1000" class="col-span-12 lg:col-span-6">
           <div class="size-full">
             <div class="text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold pb-4">
               What is School Management Software?
             </div>
-            <div class="md:text-base text-sm text-black/70 mt-2 font-boldtext-ellipsis line-clamp-[10] overflow-hidden">
+            <div data-aos="zoom-out-up" data-aos-duration="1000" class="md:text-base text-sm text-black/70 mt-2 font-boldtext-ellipsis line-clamp-[10] overflow-hidden">
               School management software introduces a new platform by embedding new-edge technology into the educational
               sector. The digital platform is capable of managing the school management activities making them smarter.
               The comprehensive features of school management software not only reduce the workload of the institution’s
@@ -74,16 +78,17 @@
     <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
       <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
       <div class="relative container mx-auto max-w-7xl  z-10 pb-10 ">
-        <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance tracking-[-0.04em] text-slate-900  font-semibold">
+        <p data-aos="fade-right" data-aos-duration="1000"
+class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance tracking-[-0.04em] text-slate-900  font-semibold">
           <span class="font-semibold">We Offer End-To-End Solutions For & </span> <br>
           <span class="font-bold text-slate-900">Every Phase Of School Management.</span>
         </p>
-        <div class="md:text-base text-sm text-black/70 mt-2 font-bold text-balance">
+        <div data-aos="zoom-out-up" data-aos-duration="1500" class="md:text-base text-sm text-black/70 mt-2 font-bold text-balance">
           An integrated school management system called Edoovi is created specifically to cater to the requirements of all administrative personnel working in educational institutions. The organization is given a comprehensive and priceless toolkit to handle all school-related operations by the School Management System components.
         </div>
       </div>
-      <div class="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-4 bg-gradient-to-b from-violet-300 to-violet-500/90 rounded-3xl">
-        <div class="col-auto">
+      <div data-aos="flip-up" data-aos-duration="1000" class="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-4 bg-gradient-to-b from-violet-300 to-violet-500/90 rounded-3xl">
+        <div class="col-auto ">
           <div class="size-full p-6 border-r max-lg:border-b
             hover:-translate-y-6 hover:bg-gradient-to-b from-slate-500 to-slate-900 hover:scale-105 duration-300 hover:border-0 hover:rounded-3xl">
             <div class="text-white *:sm:size-14 *:size-10 ">
@@ -102,7 +107,7 @@
             </div>
           </div>
         </div>
-        <div class="col-auto">
+        <div class="col-auto ">
           <div class="size-full p-6 border-r max-lg:border-b
               hover:-translate-y-6 hover:bg-gradient-to-b from-slate-500 to-slate-900 hover:scale-105 duration-300 hover:border-0 hover:rounded-3xl">
             <div class="text-white *:sm:size-14 *:size-10 ">
@@ -118,7 +123,7 @@
             </div>
           </div>
         </div>
-        <div class="col-auto">
+        <div class="col-auto ">
           <div class="size-full p-6 border-r max-sm:border-b
           hover:-translate-y-6 hover:bg-gradient-to-b from-slate-500 to-slate-900 hover:scale-105 duration-300 hover:border-0 hover:rounded-3xl">
             <div class="text-white *:sm:size-14 *:size-10 ">
@@ -134,7 +139,7 @@
             </div>
           </div>
         </div>
-        <div class="col-auto">
+        <div class="col-auto ">
           <div class="size-full p-6 border-r  max-sm:border-b
               hover:-translate-y-6 hover:bg-gradient-to-b from-slate-500 to-slate-900 hover:scale-105 duration-300 hover:border-0 hover:rounded-3xl">
             <div class="text-white *:sm:size-14 *:size-10 ">
@@ -165,12 +170,12 @@
 
       <div class=" relative">
         <div class="flex w-full h-auto items-center flex-wrap">
-          <div class="lg:w-[40%] flex items-center justify-center w-[100%]  overflow-hidden rounded-3xl">
+          <div data-aos="flip-left" data-aos-duration="1000" class="lg:w-[40%] flex items-center justify-center w-[100%]  overflow-hidden rounded-3xl">
             <div class="aspect-[3/2.8] object-cover size-full *:size-full *:object-cover"> <img src="../../assets/img/managment.jfif" alt="img">
 
             </div>
           </div>
-          <div class="lg:w-[60%] pt-4 md:pt-0 lg:ps-10 pe-0 w-[100%]">
+          <div data-aos="zoom-in-down"  data-aos-duration="1000" class="lg:w-[60%] pt-4 md:pt-0 lg:ps-10 pe-0 w-[100%]">
             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance tracking-[-0.04em] text-slate-900  font-semibold">
               <span class="font-semibold">The Importance Of The School Management System? </span> <br>
               <span class="font-bold text-slate-900"></span>
@@ -193,7 +198,7 @@
   <section class="py-6 md:py-8 lg:py-10">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
       <div class="grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 gap-5 mx-auto  relative">
-        <div class="col-auto group">
+        <div  data-aos="fade-right" data-aos-duration="2500" class="col-auto group">
           <div class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#ff7600]  border-2 border-orange-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-orange-500 after:-bottom-2 after:-left-2">
             <div class="flex flex-col justify-center items-center group-hover:scale-105 duration-300 w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
               <div class="*:size-14  text-orange-500 text-center">
@@ -224,7 +229,7 @@
             </div>
           </div>
         </div>
-        <div class="col-auto group">
+        <div  data-aos="fade-right" data-aos-duration="2000" class="col-auto group">
           <div class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#06b6d4]  border-2 border-cyan-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-cyan-500 after:-bottom-2 after:-left-2">
             <div class="flex flex-col justify-center group-hover:scale-105 duration-300 items-center w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
               <div class="*:size-14  text-cyan-500 text-center">
@@ -251,7 +256,7 @@
             </div>
           </div>
         </div>
-        <div class="col-auto group">
+        <div  data-aos="fade-right" data-aos-duration="1500" class="col-auto group">
           <div class="size-full bg-white flex relative  border-2 group-hover:[box-shadow:0px_0px_18px_-5px_#f4375e]  border-rose-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-rose-500 after:-bottom-2 after:-left-2">
             <div class="flex flex-col justify-center items-center group-hover:scale-105 duration-300 w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
               <div class="*:size-14  text-rose-500 text-center">
@@ -280,7 +285,7 @@
             </div>
           </div>
         </div>
-        <div class="col-auto group">
+        <div  data-aos="fade-right" data-aos-duration="1000" class="col-auto group">
           <div class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#d956ef]  border-2 border-fuchsia-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-fuchsia-500 after:-bottom-2 after:-left-2">
             <div class="flex flex-col justify-center items-center group-hover:scale-105 duration-300 w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
               <div class="*:size-14  text-fuchsia-500 text-center">
@@ -306,7 +311,7 @@
             </div>
           </div>
         </div>
-        <div class="col-auto group">
+        <div  data-aos="fade-right" data-aos-duration="500" class="col-auto group">
           <div class="size-full bg-white flex relative group-hover:[box-shadow:0px_0px_18px_-5px_#ec4899]  border-2 border-pink-500 before:absolute before:w-1/3 before:h-1/2 rounded-3xl   after:absolute after:size-[40%] after:rounded-bl-3xl after:border-l-[12px] after:border-b-[12px] after:border-pink-500 after:-bottom-2 after:-left-2">
             <div class="flex flex-col justify-center items-center group-hover:scale-105 duration-300 w-full p-2 border-r-4 border-b-4 border-slate-200  bg-slate-100 rounded-3xl  m-4">
               <div class="*:size-14  text-pink-500 text-center">
@@ -345,7 +350,8 @@
   <div class="container mx-auto max-w-7xl px-6 lg:px-8 py-8 md:py-10 lg:py-16">
     <div class="  ">
       <div class=" mx-auto max-w-7xl z-10 mb-4">
-        <p class= " text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
+        <p data-aos="fade-right" data-aos-duration="1000"
+class= " text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black">
           <span class="font-semibold">The Key Benefit Is You Can Save Money, </span>
       
           <span class="font-semibold"> Save Lots Of Time & Making Best Of Resources.</span>
@@ -353,7 +359,10 @@
 
       </div>
       <div class="">
-        <div class="mb-5 sm:mb-10 lg:mb-0  lg:order-2 bg-orange-50 px-4 sm:px-8 rounded-3xl">
+        <div data-aos="fade-left" data-aos-duration="1000"
+
+
+class="mb-5 sm:mb-10 lg:mb-0  lg:order-2 bg-orange-50 px-4 sm:px-8 rounded-3xl">
           <div class="relative">
 
           </div>
@@ -429,7 +438,7 @@
           <div id="tabs-with-card-1" role="tabpanel" class="" aria-labelledby="tabs-with-card-item-1">
             <div class="grid xl:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-2">
 
-              <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
+              <div data-aos="flip-right" data-aos-duration="500" class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
                 <div class="absolute blur duration-500 group-hover:blur-none w-72 h-72 rounded-full group-hover:translate-x-12 group-hover:translate-y-12 bg-violet-400/50 right-1 -bottom-24">
                 </div>
                 <div class="absolute  bg-orange-400/50  blur duration-500 group-hover:blur-none w-12 h-12 rounded-full group-hover:translate-x-12 group-hover:translate-y-2 group-hover:bg-orange-400/50 right-12 bottom-12">
@@ -496,7 +505,7 @@
                   </div>
                 </div>
               </div>
-              <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
+              <div data-aos="flip-right" data-aos-duration="1000" class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
                 <div class="absolute blur duration-500 group-hover:blur-none w-72 h-72 rounded-full group-hover:translate-x-12 group-hover:translate-y-12 bg-violet-400/50 right-1 -bottom-24">
                 </div>
                 <div class="absolute  bg-orange-400/50  blur duration-500 group-hover:blur-none w-12 h-12 rounded-full group-hover:translate-x-12 group-hover:translate-y-2 group-hover:bg-orange-400/50 right-12 bottom-12">
@@ -563,7 +572,7 @@
                   </div>
                 </div>
               </div>
-              <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
+              <div data-aos="flip-right" data-aos-duration="1500" class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
                 <div class="absolute blur duration-500 group-hover:blur-none w-72 h-72 rounded-full group-hover:translate-x-12 group-hover:translate-y-12 bg-violet-400/50 right-1 -bottom-24">
                 </div>
                 <div class="absolute  bg-orange-400/50  blur duration-500 group-hover:blur-none w-12 h-12 rounded-full group-hover:translate-x-12 group-hover:translate-y-2 group-hover:bg-orange-400/50 right-12 bottom-12">
@@ -630,7 +639,7 @@
                   </div>
                 </div>
               </div>
-              <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
+              <div data-aos="flip-right" data-aos-duration="1000" class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
                 <div class="absolute blur duration-500 group-hover:blur-none w-72 h-72 rounded-full group-hover:translate-x-12 group-hover:translate-y-12 bg-violet-400/50 right-1 -bottom-24">
                 </div>
                 <div class="absolute  bg-orange-400/50  blur duration-500 group-hover:blur-none w-12 h-12 rounded-full group-hover:translate-x-12 group-hover:translate-y-2 group-hover:bg-orange-400/50 right-12 bottom-12">
@@ -697,7 +706,7 @@
                   </div>
                 </div>
               </div>
-              <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
+              <div data-aos="flip-right" data-aos-duration="1500" class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
                 <div class="absolute blur duration-500 group-hover:blur-none w-72 h-72 rounded-full group-hover:translate-x-12 group-hover:translate-y-12 bg-violet-400/50 right-1 -bottom-24">
                 </div>
                 <div class="absolute  bg-orange-400/50  blur duration-500 group-hover:blur-none w-12 h-12 rounded-full group-hover:translate-x-12 group-hover:translate-y-2 group-hover:bg-orange-400/50 right-12 bottom-12">
@@ -764,7 +773,7 @@
                   </div>
                 </div>
               </div>
-              <div class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
+              <div data-aos="flip-right" data-aos-duration="1500" class="p-4 duration-500 shadow-2xl group bg-white overflow-hidden z-50 relative rounded-3xl text-neutral-900 flex flex-col justify-evenly before:absolute before:size-full before:bg-white/70 before:inset-0 before:backdrop-blur-sm before:z-10">
                 <div class="absolute blur duration-500 group-hover:blur-none w-72 h-72 rounded-full group-hover:translate-x-12 group-hover:translate-y-12 bg-violet-400/50 right-1 -bottom-24">
                 </div>
                 <div class="absolute  bg-orange-400/50  blur duration-500 group-hover:blur-none w-12 h-12 rounded-full group-hover:translate-x-12 group-hover:translate-y-2 group-hover:bg-orange-400/50 right-12 bottom-12">
@@ -2473,11 +2482,12 @@
 
   <section class="bg-white py-6 md:py-8 lg:py-10">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 ">
-      <div class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14 rounded-3xl">
-        <img class="w-full aspect-[3/1] object-cover !absolute inset-0 !z-10 rounded-3xl shadow-xl h-full shadow-gray-900/50 overflow-hidden" src="  ../../assets/img/faq.jpg">
+      <div  class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14 rounded-3xl">
+        <img  class="w-full aspect-[3/1] object-cover !absolute inset-0 !z-10 rounded-3xl shadow-xl h-full shadow-gray-900/50 overflow-hidden" src="  ../../assets/img/faq.jpg">
         <div class="md:w-5/12 w-full shrink-0 h-full">
         </div>
-        <div class="grow md:p-7 p-4 bg-white backdrop-blur-md rounded-l-3xl">
+      <div data-aos="zoom-in" data-aos-duration="1500" class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14 rounded-3xl">
+      <div  class="grow md:p-7 p-4 bg-white backdrop-blur-md rounded-l-3xl">
           <div class="w-full">
             <div class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold text-balance">
               Get access to frequently asked & questions and answers</div>
@@ -2550,11 +2560,12 @@
 
   <div class="overflow-hidden py-6 md:py-8 lg:py-10">
     <div class="relative container mx-auto max-w-7xl px-6 lg:px-8 z-10 mb-10">
-      <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
+      <p data-aos="fade-right" data-aos-duration="1000"
+class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
         <span class="font-semibold">Our Esteemed </span>
         <span class="font-bold text-slate-900">Clients</span>
       </p>
-      <div class="md:text-base text-sm text-black/70 mt-2 font-bold">
+      <div data-aos="flip-up" data-aos-duration="1000"  class="md:text-base text-sm text-black/70 mt-2 font-bold">
         Embark on an Automation Journey with Us
       </div>
     </div>
@@ -2674,7 +2685,7 @@
 
   <!-- logo section end  -->
   <!-- cta start -->
-  <div class="md:py-16 sm:py-10 py-8 select-none">
+  <div data-aos="zoom-out-right" data-aos-duration="1000" class="md:py-16 sm:py-10 py-8 select-none">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="relative isolate overflow-hidden bg-gray-900 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:gap-x-20 lg:px-24 bg-[url('../../assets/img/school-cta.jpg')] bg-cover bg-left after:absolute after:top-0 after:left-0 after:bg-black/60 after:size-full">
         <div class="max-w-3xl lg:mx-0 lg:flex-auto py-6 md:py-8 lg:py-10 lg:text-left relative z-[1]">
@@ -2694,11 +2705,11 @@
 
   <section class="container px-6 lg:px-8 mx-auto max-w-7xl lg:pb-16 pb-10 overflow-hidden">
         <div class="relative z-10 mb-8 md:mb-12">
-            <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
+            <p data-aos="fade-right" data-aos-duration="1000" class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                 <span class="font-semibold">Explore Tech Insights</span>
                 <span class="font-semibold">Fresh Blogs, News, and More!</span>
             </p>
-            <div class="md:text-base text-sm text-black/70 mt-2 font-semibold text-balance">
+            <div data-aos="flip-up" data-aos-duration="1000" class="md:text-base text-sm text-black/70 mt-2 font-semibold text-balance">
                 Edoovi school management system has grabbed the best school ERP software award, Best digital transformation award, Best innovative school erp award, Education Excellence Award for consecutive 3 years 2017-2019 by various well recognized associations.
             </div>
         </div>
@@ -2912,4 +2923,6 @@
     </section>
 
   <!-- blog end  -->
+
+
   <?php include('../../layouts/footer.php') ?>
