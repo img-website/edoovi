@@ -2481,7 +2481,7 @@ class="mb-5 sm:mb-10 lg:mb-0  lg:order-2 bg-orange-50 px-4 sm:px-8 rounded-3xl">
   <section class="bg-white py-6 md:py-8 lg:py-10">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 ">
       <div data-aos="fade-up"
-      data-aos-duration="3000" class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14 rounded-3xl">
+      data-aos-duration="3000" class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden  rounded-3xl">
         <img  class="w-full aspect-[3/1] object-cover !absolute inset-0 !z-10 rounded-3xl shadow-xl h-full shadow-gray-900/50 overflow-hidden" src="  ../../assets/img/faq.jpg">
         <div class="md:w-5/12 w-full shrink-0 h-full">
         </div>
