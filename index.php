@@ -797,7 +797,7 @@
 
                         Comprehensive, Easy To Use Web Based School ERP System Helps You To Move Faster, Save Money, Integrate On-Premises Apps And Data Anytime Anywhere Explore the online school ERP with built-in School App features and start the new education administration journey with the new-edge technology! Along with School App, We offer Management App - bringing the entire school in the palm of your hand, making the whole school management experience effortless.</div>
                     <p class="text-lg font-semibold text-white text-start mt-4 mb-2">Available on the</p>
-                    <div class="flex gap-4">
+                    <div class="flex sm:gap-4 gap-3">
 
                         <button class="sm:text-lg  text-sm lg:w-44  text-white rounded-full px-4 py-2 justify-center font-sembold border-white border  flex duration-300 hover:[box-shadow:0px_0px_10px_0px_#e39943] hover:bg-gradient-to-r hover:from-[#fdad50] hover:via-[#ffa944] hover:to-[#ff971d]">
                             Google Play
