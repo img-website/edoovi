@@ -118,7 +118,7 @@
         </div>
         <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full">
             <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 sm:gap-5  gap-3 py-5">
-                <div class="col-auto ">
+                <div class="col-auto" data-aos="fade-right">
                     <div class="size-full hover:[box-shadow:0px_0px_23px_0px_#f378a2] duration-300   px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-3xl   bg-gradient-to-r from-[#ed6190] via-[#ff5890] to-[#ff3679]
                         before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#fd97b8]">
                         <div class="*:size-7 sm:*:size-9 text-white pb-4">
@@ -135,7 +135,7 @@
                 </div>
                 <div class="col-auto ">
                     <div class="size-full hover:[box-shadow:0px_0px_23px_0px_#a194e7] duration-300 px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-3xl     bg-gradient-to-r from-[#8f7ceb]/90 via-[#856dfb] to-[#8777e3]
-                before:absolute before:inset-10 before:bg- before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#a497e5]">
+                            before:absolute before:inset-10 before:bg- before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#a497e5]">
                         <div class=" *:size-7 sm:*:size-9 text-white pb-4">
                             <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 256 256" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M216,40H40A16,16,0,0,0,24,56V200a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A16,16,0,0,0,216,40ZM92.8,145.6a8,8,0,1,1-9.6,12.8l-32-24a8,8,0,0,1,0-12.8l32-24a8,8,0,0,1,9.6,12.8L69.33,128Zm58.89-71.4-32,112a8,8,0,1,1-15.38-4.4l32-112a8,8,0,0,1,15.38,4.4Zm53.11,60.2-32,24a8,8,0,0,1-9.6-12.8L186.67,128,163.2,110.4a8,8,0,1,1,9.6-12.8l32,24a8,8,0,0,1,0,12.8Z">
@@ -165,7 +165,7 @@
                 </div>
                 <div class="col-auto ">
                     <div class="size-full hover:[box-shadow:0px_0px_23px_0px_#e39943] duration-300 px-5 pt-2 sm:pt-4 lg:pt-6 pb-4 sm:pb-7 relative rounded-3xl   bg-gradient-to-r from-[#fdad50] via-[#ffa944] to-[#ff971d]
-            before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#ffb55f]">
+                        before:absolute before:inset-10 before:bg-transparent before:bottom-3 before:-z-10 before:shadow-xl before:shadow-[#ffb55f]">
                         <div class=" *:size-7 sm:*:size-9 text-white pb-4">
                             <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M3 16v-6a2 2 0 1 1 4 0v6"></path>
