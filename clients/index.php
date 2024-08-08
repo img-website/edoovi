@@ -2,7 +2,7 @@
 
 
     <!-- hero section start -->
-    <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
+    <div class="relative lg:h-full md:pt-28 pt-24 pb-10 overflow-hidden">
         <div class="mx-auto max-w-7xl lg:px-8 px-6">
             <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
                 <div class="md:col-span-4" data-aos="zoom-in-right" data-aos-duration="1000">
@@ -24,7 +24,7 @@
     <div class="relative mx-auto max-w-7xl lg:px-8 px-6  lg:pb-16 sm:pb-10 pb-8 ">
         <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
-        <div class="relative  mx-auto">
+        <div class="relative  mx-auto overflow-hidden">
             <div class="w-full md:max-w-2xl md:w-3/4 lg:w-2/5 mb-6 sm:mb-10 md:mb-8">
                 <div class="relative container mx-auto max-w-7xl z-10" data-aos="fade-right" data-aos-duration="1000">
                     <p class="text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
@@ -38,7 +38,7 @@
             </div>
 
 
-            <div class="swiper testimonailSwiper">
+            <div class="swiper testimonailSwiper overflow-hidden">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="relative overflow-hidden rounded-3xl">
