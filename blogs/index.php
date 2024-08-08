@@ -6,12 +6,12 @@
     <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
         <div class="mx-auto max-w-7xl lg:px-8 px-6">
             <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
-                <div class="md:col-span-4">
+                <div class="md:col-span-4" data-aos="zoom-in-right" data-aos-duration="1000">
                     <div class="text-slate-900 xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-semibold "> School Management Software <span class="text-orange-500">With Cloud
                             Based School ERP</span></div>
                 </div>
 
-                <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
+                <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0" data-aos="zoom-in-left" data-aos-duration="1000">
                     <img class="size-full rounded-3xl object-cover border-8 border-white" src="../assets/img/blogsHero.jpg" alt="Hero Image">
                 </div>
             </div>
@@ -34,7 +34,7 @@
         </div>
         <div class="" data-aos="fade-up" data-aos-duration="1000">
             <div class="grid grid-cols-12 gap-x-2 gap-y-4  lg:gap-6">
-                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3" data-aos="fade-right" data-aos-duration="1000">
                     <div class="size-full rounded-3xl p-4 relative max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                         <div class=" w-full rounded-3xl">
                             <img class="size-full object-cover rounded-3xl" src="../assets/img/award2.png" alt="">
@@ -80,7 +80,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-6 lg:row-span-2">
+                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-6 lg:row-span-2" data-aos="zoom-in"   data-aos-duration="1000">
                     <div class="relative size-full rounded-3xl p-4  max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                         <div class=" w-full rounded-3xl">
                             <img class="size-full lg:aspect-[1/.8] object-cover rounded-3xl" src="../assets/img/award1.png" alt="">
@@ -126,7 +126,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3" data-aos="fade-left" data-aos-duration="1000">
                     <div class="relative size-full rounded-3xl p-4  max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                         <div class=" w-full rounded-3xl">
                             <img class="size-full object-cover rounded-3xl" src="../assets/img/award2.png" alt="">
@@ -172,7 +172,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3" data-aos="fade-right" data-aos-duration="1000">
                     <div class="relative size-full rounded-3xl p-4  max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                         <div class=" w-full rounded-3xl">
                             <img class="size-full object-cover rounded-3xl" src="../assets/img/award1.png" alt="">
@@ -218,7 +218,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+                <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3" data-aos="fade-left" data-aos-duration="1000">
                     <div class="relative size-full rounded-3xl p-4  max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                         <div class=" w-full rounded-3xl">
                             <img class="size-full object-cover rounded-3xl" src="../assets/img/award2.png" alt="">
