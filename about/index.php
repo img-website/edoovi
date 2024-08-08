@@ -3,7 +3,7 @@
 <?php include('./../layouts/header.php') ?>
 
 <!-- hero section start -->
-<div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
+<div class="relative lg:h-full md:pt-28 pt-24 pb-10 overflow-hidden">
     <div class="mx-auto max-w-7xl lg:px-8 px-6">
         <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
             <div class="md:col-span-4" data-aos="zoom-in-right" data-aos-duration="1000">
@@ -19,7 +19,7 @@
 <!-- hero section ends -->
 
 <!-- about Section start -->
-<section class="relative lg:pb-16 sm:pb-10 pb-8">
+<section class="relative lg:pb-16 sm:pb-10 pb-8 overflow-hidden">
     <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
     <div class="absolute -z-10 bottom-0 !left-0 [background:radial-gradient(circle,_rgba(255,281,_231,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
@@ -116,7 +116,7 @@
 <!-- about Section ends -->
 
 <!-- mission section start -->
-<div class="relative isolate lg:pb-16 sm:pb-10 pb-8">
+<div class="relative isolate lg:pb-16 sm:pb-10 pb-8 overflow-hidden">
     <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,281,_231,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
     <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between ">
@@ -229,7 +229,7 @@
 
 <!-- testimonial section start -->
 <div class="absolute -z-10 -top-10 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
-<div class="relative mx-auto max-w-7xl lg:px-8 px-6">
+<div class="relative mx-auto max-w-7xl lg:px-8 px-6 overflow-hidden">
     <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
     <div class="relative pb-10 mx-auto">
