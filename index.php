@@ -8,7 +8,8 @@
     </div>
     <div class="mx-auto max-w-7xl lg:px-8 px-6 h-full relative z-10">
         <div class="flex items-center flex-wrap lg:h-full max-lg:flex-col-reverse lg:gap-0 gap-5">
-            <div class="lg:w-1/2 w-full lg:pe-5 max-lg:text-center">
+            <div class="lg:w-1/2 w-full lg:pe-5 max-lg:text-center" data-aos="fade-up" data-aos-duration="1000"
+            data-aos-anchor-placement="center-bottom">
                 <div class="text-slate-900 xl:text-7xl md:text-6xl sm:text-5xl text-4xl font-semibold "> Investing in knowledge and <span class="text-orange-500">Your Future</span></div>
                 <div class="text-gray-500 text-sm mt-3 font-medium leading-normal pe-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident animi veniam cupiditate et nobis, omnis similique distinctio iste maxime enim quo. Quod autem dolorem dolores?</div>
                 <div class="grid grid-cols-3 items-center mt-5">
@@ -37,7 +38,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="sm:flex hidden duration-300 hover:scale-95 bg-white shadow-md rounded-xl overflow-hidden absolute sm:top-20 top-12 lg:left-0 sm:left-32 left-16 ">
+                <div data-aos="zoom-in" data-aos-duration="1000" class="sm:flex hidden duration-300 hover:scale-95 bg-white shadow-md rounded-xl overflow-hidden absolute sm:top-20 top-12 lg:left-0 sm:left-32 left-16 ">
                     <div class="relative flex flex-col-reverse bg-white p-4  dark:bg-slate-800 dark:highlight-white/5">
 
                         <figcaption class="flex items-center space-x-4">
@@ -58,7 +59,7 @@
                         </figcaption>
                     </div>
                 </div>
-                <div class="sm:flex hidden duration-300 hover:scale-95 bg-white shadow-md rounded-xl overflow-hidden absolute sm:bottom-28 bottom-20 lg:left-0 sm:left-20 left-10 ">
+                <div data-aos="zoom-in" data-aos-duration="1000" class="sm:flex hidden duration-300 hover:scale-95 bg-white shadow-md rounded-xl overflow-hidden absolute sm:bottom-28 bottom-20 lg:left-0 sm:left-20 left-10 ">
                     <div class="relative flex flex-col-reverse bg-white p-4  dark:bg-slate-800 dark:highlight-white/5">
 
                         <figcaption class="flex items-center space-x-4">
@@ -77,7 +78,7 @@
                         </figcaption>
                     </div>
                 </div>
-                <div class="sm:flex hidden duration-300 hover:scale-95 bg-white shadow-md rounded-xl overflow-hidden absolute bottom-1/2 lg:right-0 sm:right-20 right-10">
+                <div data-aos="zoom-in" data-aos-duration="1000" class="sm:flex hidden duration-300 hover:scale-95 bg-white shadow-md rounded-xl overflow-hidden absolute bottom-1/2 lg:right-0 sm:right-20 right-10">
                     <div class="relative flex flex-col-reverse bg-white p-4  dark:bg-slate-800 dark:highlight-white/5">
 
                         <figcaption class="flex items-center space-x-4">
@@ -956,7 +957,7 @@
     </div>
     <div class="">
         <div class="grid grid-cols-12 gap-x-2 gap-y-4  lg:gap-6 mt-5">
-            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3" data-aos="fade-right" data-aos-duration="1000">
                 <div class="size-full rounded-3xl p-4 relative max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                     <div class=" w-full rounded-3xl">
                         <img class="size-full object-cover rounded-3xl" src="./assets/img/award2.png" alt="">
@@ -1002,7 +1003,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-6 lg:row-span-2">
+            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-6 lg:row-span-2" data-aos="zoom-in" data-aos-duration="1000">
                 <div class="relative size-full rounded-3xl p-4  max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                     <div class=" w-full rounded-3xl">
                         <img class="size-full lg:aspect-[1/.8] object-cover rounded-3xl" src="./assets/img/award1.png" alt="">
@@ -1048,7 +1049,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3" data-aos="fade-left" data-aos-duration="1000">
                 <div class="relative size-full rounded-3xl p-4  max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                     <div class=" w-full rounded-3xl">
                         <img class="size-full object-cover rounded-3xl" src="./assets/img/award2.png" alt="">
@@ -1094,7 +1095,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3" data-aos="fade-right" data-aos-duration="1000">
                 <div class="relative size-full rounded-3xl p-4  max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                     <div class=" w-full rounded-3xl">
                         <img class="size-full object-cover rounded-3xl" src="./assets/img/award1.png" alt="">
@@ -1140,7 +1141,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
+            <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3" data-aos="fade-left" data-aos-duration="1000">
                 <div class="relative size-full rounded-3xl p-4  max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
                     <div class=" w-full rounded-3xl">
                         <img class="size-full object-cover rounded-3xl" src="./assets/img/award2.png" alt="">
@@ -1223,7 +1224,8 @@
                     </div>
                 </div>
 
-                <div class="w-full lg:-mt-[400px] lg:w-2/5 sm:p-10 p-5 ml-auto bg-gradient-to-r from-[#8f7ceb]/90 via-[#856dfb] to-[#8777e3] rounded-3xl">
+                <div class="w-full lg:-mt-[400px] lg:w-2/5 sm:p-10 p-5 ml-auto bg-gradient-to-r from-[#8f7ceb]/90 via-[#856dfb] to-[#8777e3] rounded-3xl" data-aos="zoom-in"
+                data-aos-anchor-placement="center-bottom" data-aos-duration="1000">
                     <div class="flex flex-col text-white">
                         <h1 class="font-bold uppercase sm:text-4xl text-3xl my-4">Drop in our office</h1>
                         <p class="text-white/90 sm:text-base text-sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
