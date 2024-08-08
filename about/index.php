@@ -23,8 +23,8 @@
     <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
     <div class="absolute -z-10 bottom-0 !left-0 [background:radial-gradient(circle,_rgba(255,281,_231,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
-    <div class="max-w-7xl px-6 lg:px-8  mx-auto">
-        <div class="max-w-3xl mb-10 lg:mb-14">
+    <div class="max-w-7xl px-6 lg:px-8  mx-auto overflow-x-hidden">
+        <div class="max-w-3xl mb-10 lg:mb-14" data-aos="fade-right" data-aos-duration="1000">
             <h2 class="font-semibold text-2xl md:text-4xl md:leading-tight">
                 Our Journey
             </h2>
@@ -33,19 +33,19 @@
             </p>
         </div>
 
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 lg:items-center">
-            <div class="aspect-[22/9] lg:aspect-square">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 lg:items-center overflow-x-hidden">
+            <div class="aspect-[22/9] lg:aspect-square " data-aos="zoom-in"   data-aos-duration="500">
                 <img class="size-full object-cover rounded-3xl" src="../assets/img/about-about.jpg" alt="Features Image">
             </div>
 
-            <div>
-                <div class="mb-4">
+            <div >
+                <div class="mb-4" >
                     <h3 class="text-theme1 text-sm font-medium">
                         Milestones
                     </h3>
                 </div>
 
-                <div class="flex gap-x-5 ms-1">
+                <div class="flex gap-x-5 ms-1 overflow-x-hidden">
                     <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
                         <div class="relative z-10 size-8 flex justify-center items-center">
                             <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
@@ -54,14 +54,14 @@
                         </div>
                     </div>
 
-                    <div class="grow pt-0.5 pb-8 sm:pb-12">
+                    <div class="grow pt-0.5 pb-8 sm:pb-12 " data-aos="fade-left"   data-aos-duration="500"">
                         <p class="text-sm lg:text-base">
                             Fully lined with Office 365, Google G-Suite, LMS, and various other systems, our comprehensive ERP platform meets all of the educational institution’s demands via a variety of capabilities.
                         </p>
                     </div>
                 </div>
 
-                <div class="flex gap-x-5 ms-1">
+                <div class="flex gap-x-5 ms-1 overflow-x-hidden">
                     <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
                         <div class="relative z-10 size-8 flex justify-center items-center">
                             <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
@@ -70,14 +70,14 @@
                         </div>
                     </div>
 
-                    <div class="grow pt-0.5 pb-8 sm:pb-12">
+                    <div class="grow pt-0.5 pb-8 sm:pb-12 " data-aos="fade-left"   data-aos-duration="500">
                         <p class="text-sm lg:text-base">
                             Our ERP software also helps build strong communication and collaboration channels with teachers, students, parents, candidates, and alumni.
                         </p>
                     </div>
                 </div>
 
-                <div class="flex gap-x-5 ms-1">
+                <div class="flex gap-x-5 ms-1 overflow-x-hidden" >
                     <div class="relative last:after:hidden after:absolute after:top-8 after:bottom-0 after:start-4 after:w-px after:-translate-x-[0.5px] after:bg-neutral-800">
                         <div class="relative z-10 size-8 flex justify-center items-center">
                             <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
@@ -86,14 +86,14 @@
                         </div>
                     </div>
 
-                    <div class="grow pt-0.5 pb-8 sm:pb-12">
+                    <div class="grow pt-0.5 pb-8 sm:pb-12 " data-aos="fade-left"   data-aos-duration="500">
                         <p class="text-sm md:text-base">
                             Since its launch, 1800+ educational institutions have been using this software to manage admissions, sales, registration, timetabling, academic, learning, finance, payments, transportation, and library operations effectively.
                         </p>
                     </div>
                 </div>
 
-                <div class="flex gap-x-5 ms-1">
+                <div class="flex gap-x-5 ms-1 ">
                     <div class="relative">
                         <div class="relative z-10 size-8 flex justify-center items-center">
                             <span class="flex shrink-0 justify-center items-center size-8 border border-neutral-800 text-theme1 font-semibold text-sm uppercase rounded-full">
@@ -102,7 +102,7 @@
                         </div>
                     </div>
 
-                    <div class="grow pt-0.5 ">
+                    <div class="grow pt-0.5 " data-aos="fade-left"   data-aos-duration="500">
                         <p class="text-sm md:text-base">
                             Edoovi ERP is used by most of the reputed educational institutes in 23+states and 8+ countries worldwide.
                         </p>
@@ -119,30 +119,30 @@
 <div class="relative isolate lg:pb-16 sm:pb-10 pb-8">
     <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,281,_231,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
-    <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
-        <div class="w-full md:w-1/2 lg:w-2/3">
-            <div class=" relative z-20 mx-auto lg:max-w-3xl lg:mx-0 lg:w-3xl lg:flex-none lg:pr-4">
+    <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between ">
+        <div class="w-full md:w-1/2 lg:w-2/3" >
+            <div class=" relative z-20 mx-auto lg:max-w-3xl lg:mx-0 lg:w-3xl lg:flex-none lg:pr-4 ">
                 <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold mt-4"><span class="font-semibold">Our Mission</p>
                 <p class="py-3 md:mt-4 text-sm md:text-lg leading-[130%] text-gray-800">
                     Our Mission is to deliver cost-effective and reasonable ERP solutions for educational institutions worldwide. With maximum attention, we aim to provide an outstanding ERP system to educational institutions for enhancing and streamlining their day-to-day tasks.
                 </p>
             </div>
         </div>
-        <div class="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 -mb-24 lg:-mb-36 mx-auto">
-            <div class="aspect-[5/4] rounded-3xl overflow-hidden border-[20px] border-[solid] border-white">
+        <div class="w-full sm:w-2/3 md:w-1/2 lg:w-1/3 -mb-24 lg:-mb-36 mx-auto overflow-x-hidden" >
+            <div class="aspect-[5/4] rounded-3xl overflow-hidden border-[20px] border-[solid] border-white " data-aos="zoom-in"   data-aos-duration="500">
                 <img src="../assets/img/vision.jpg" alt="" class="size-full object-center rounded-2xl">
             </div>
         </div>
     </div>
     <div class="w-full bg-purple-50 py-14 lg:py-16">
         <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full flex flex-wrap items-center justify-between">
-            <div class="w-2/3 md:w-1/2 lg:w-1/3 rounded-3xl overflow-hidden hidden md:flex -mb-72">
-                <div class="aspect-[3/2.7] rounded-3xl overflow-hidden border-[20px] border-[solid] border-white">
+            <div class="w-2/3 md:w-1/2 lg:w-1/3 rounded-3xl overflow-hidden hidden md:flex -mb-72 overflow-x-hidden" >
+                <div class="aspect-[3/2.7] rounded-3xl overflow-hidden border-[20px] border-[solid] border-white" data-aos="zoom-in"   data-aos-duration="500">
                     <img src="../assets/img/mission.jpg" alt="" class="size-full object-cover object-center rounded-2xl overflow-hidden">
                 </div>
             </div>
-            <div class="w-full md:w-1/2 lg:w-2/3 md:ps-10 mt-7 md:mt-0">
-                <div class=" relative z-20 mx-auto max-w-3xl lg:mx-0 lg:w-3xl lg:flex-none lg:pr-4">
+            <div class="w-full md:w-1/2 lg:w-2/3 md:ps-10 mt-7 md:mt-0 overflow-hidden">
+                <div class=" relative z-20 mx-auto max-w-3xl lg:mx-0 lg:w-3xl lg:flex-none lg:pr-4" >
                     <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold mt-4"><span class="font-semibold">Our Vision</p>
                     <p class="mt-4 text-sm md:text-lg leading-[130%]">
                         "Empower educational services in an ever-changing environment to provide students and instructors with improved possibilities for continual improvement."
@@ -155,7 +155,7 @@
                                 </svg>
                             </span>
                             <div class="grow">
-                                <span class="text-sm sm:text-base">
+                                <span class="text-sm sm:text-base" >
                                     We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
                                 </span>
                             </div>
@@ -168,7 +168,7 @@
                                 </svg>
                             </span>
                             <div class="grow">
-                                <span class="text-sm sm:text-base">
+                                <span class="text-sm sm:text-base" >
                                     We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
                                 </span>
                             </div>
@@ -181,7 +181,7 @@
                                 </svg>
                             </span>
                             <div class="grow">
-                                <span class="text-sm sm:text-base">
+                                <span class="text-sm sm:text-base" >
                                     We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
                                 </span>
                             </div>
@@ -197,9 +197,9 @@
 <!-- why us section start -->
 <div class="relative lg:pb-16 sm:pb-10 pb-8 overflow-hidden">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 z-[1] relative">
-        <div class="select-none relative">
+        <div class="select-none relative"  >
             <div class="flex w-full h-auto items-center flex-wrap lg:gap-0 gap-3">
-                <div class="lg:w-[60%] lg:pe-10 pe-0 w-[100%] lg:order-1 order-2">
+                <div class="lg:w-[60%] lg:pe-10 pe-0 w-[100%] lg:order-1 order-2" data-aos="fade-right"   data-aos-duration="500">
                     <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-black first:*:font-semibold
 
                     
@@ -216,7 +216,8 @@
                     </div>
                 </div>
                 <div class="lg:w-[40%] flex items-center justify-center w-[100%] lg:order-2 order-1 overflow-hidden rounded-3xl">
-                    <div class="aspect-[3/2.8] object-cover size-full *:size-full"> <img src="../assets/img/whyUs.jpg" alt="Why Choose IMG Global Infotech for On-demand Food Delivery App Development?">
+                    <div class="aspect-[3/2.8] object-cover size-full *:size-full" data-aos="zoom-in"   data-aos-duration="500"> 
+                        <img src="../assets/img/whyUs.jpg" alt="Why Choose IMG Global Infotech for On-demand Food Delivery App Development?">
 
                     </div>
                 </div>
@@ -232,8 +233,8 @@
     <div class="absolute -z-10 top-0 !right-0 [background:radial-gradient(circle,_rgba(255,200,_200,_0.5),rgba(255,200,_200,_0.5))] blur-2xl size-72"></div>
 
     <div class="relative pb-10 mx-auto">
-        <div class="w-full md:max-w-2xl md:w-3/4 lg:w-2/5 mb-6 sm:mb-10 md:mb-8">
-            <div class="relative container mx-auto max-w-7xl z-10">
+        <div class="w-full md:max-w-2xl md:w-3/4 lg:w-2/5 mb-6 sm:mb-10 md:mb-8 overflow-x-hidden">
+            <div class="relative container mx-auto max-w-7xl z-10 "  data-aos="fade-right" data-aos-duration="1000">
                 <p class="text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                     <span class="font-semibold">Why Institutes Love </span>
                     <span class="font-bold text-slate-900">Edoovi ERP System?</span>
@@ -254,12 +255,12 @@
                                 <div class="rounded-3xl border-white border overflow-hidden bg-purple-400 opacity-20 blur-3xl w-[1036px] h-[300px]"></div>
                             </div>
 
-                            <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
+                            <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center ">
+                                <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white" data-aos="zoom-in"   data-aos-duration="1000">
                                     <img class="rounded-3xl size-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
                                 </div>
 
-                                <div class="lg:col-span-4">
+                                <div class="lg:col-span-4"  data-aos="flip-left" data-aos-duration="1000">
                                     <blockquote>
 
                                         <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">

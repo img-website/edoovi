@@ -6,11 +6,11 @@
     <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
         <div class="mx-auto max-w-7xl lg:px-8 px-6">
             <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
-                <div class="md:col-span-4">
+                <div class="md:col-span-4" data-aos="zoom-in-right" data-aos-duration="1000">
                     <div class="text-slate-900 xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-semibold "> Privacy <span class="text-orange-500">Policy</span></div>
                 </div>
 
-                <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0">
+                <div class="md:col-span-3 aspect-[1/0.5] md:aspect-[1/0.9] mt-5 md:mt-0" data-aos="zoom-in-left" data-aos-duration="1000">
                     <img class="size-full rounded-3xl object-cover border-8 border-white" src="../assets/img/privacy-policyHero.jpg" alt="Hero Image">
                 </div>
             </div>
