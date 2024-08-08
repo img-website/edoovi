@@ -141,7 +141,7 @@
                     <img src="../assets/img/mission.jpg" alt="" class="size-full object-cover object-center rounded-2xl overflow-hidden">
                 </div>
             </div>
-            <div class="w-full md:w-1/2 lg:w-2/3 md:ps-10 mt-7 md:mt-0">
+            <div class="w-full md:w-1/2 lg:w-2/3 md:ps-10 mt-7 md:mt-0 overflow-hidden">
                 <div class=" relative z-20 mx-auto max-w-3xl lg:mx-0 lg:w-3xl lg:flex-none lg:pr-4" >
                     <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold mt-4"><span class="font-semibold">Our Vision</p>
                     <p class="mt-4 text-sm md:text-lg leading-[130%]">
@@ -155,7 +155,7 @@
                                 </svg>
                             </span>
                             <div class="grow">
-                                <span class="text-sm sm:text-base" data-aos="fade-left"   data-aos-duration="1000">
+                                <span class="text-sm sm:text-base" >
                                     We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
                                 </span>
                             </div>
@@ -168,7 +168,7 @@
                                 </svg>
                             </span>
                             <div class="grow">
-                                <span class="text-sm sm:text-base" data-aos="fade-left"   data-aos-duration="1000">
+                                <span class="text-sm sm:text-base" >
                                     We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
                                 </span>
                             </div>
@@ -181,7 +181,7 @@
                                 </svg>
                             </span>
                             <div class="grow">
-                                <span class="text-sm sm:text-base" data-aos="fade-left"   data-aos-duration="1000">
+                                <span class="text-sm sm:text-base" >
                                     We are committed to growing and becoming a market leader in the educational sector by delivering high-quality institutional features.
                                 </span>
                             </div>

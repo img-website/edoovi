@@ -48,7 +48,7 @@
                         </div>
                     </div>
 
-                    <div class="w-full lg:-mt-[400px] lg:w-2/5 sm:p-10 p-5 ml-auto bg-gradient-to-r from-[#8f7ceb]/90 via-[#856dfb] to-[#8777e3] rounded-3xl">
+                    <div class="w-full lg:-mt-[400px] lg:w-2/5 sm:p-10 p-5 ml-auto bg-gradient-to-r from-[#8f7ceb]/90 via-[#856dfb] to-[#8777e3] rounded-3xl" data-aos="zoom-in" data-aos-duration="1000">
                         <div class="flex flex-col text-white">
                             <h1 class="font-bold uppercase sm:text-4xl text-3xl my-4">Drop in our office</h1>
                             <p class="text-white/90 sm:text-base text-sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
@@ -129,10 +129,10 @@
 
     <!-- card section  -->
 
-    <section class="md:pb-16 pb-10">
+    <section class="md:pb-16 pb-10 overflow-hidden">
         <div class="mx-auto max-w-7xl lg:px-10 px-6">
             <div class="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 lg:gap-8 gap-5">
-                <div>
+                <div data-aos="fade-right" data-aos-duration="1000">
                     <div id="contact-card" class="overflow-hidden z-20 bg-purple-800 h-full text-white p-6 rounded-lg shadow-lg relative after:absolute after:inset-0 after:bg-[url('../../assets/img/dot.png')] after:-z-10 duration-300 hover:scale-95 before:absolute before:size-24 before:bg-slate-50/10 before:rounded-full before:-right-5 before:-bottom-5">
                         <h2 class="text-2xl font-bold pb-6 relative before:absolute before:left-0 before:bottom-4 before:min-w-12 before:h-[1px] before:bg-white">India Office</h2>
                         <p class="mb-2 sm:text-sm text-xs">100 Franklin Ave, Nutley, NJ 07110, United States</p>
@@ -141,7 +141,7 @@
                         <p class="mb-2 sm:text-sm text-xs">For Sales Inquiry: <span id="phone">+ (123) 1800-567-8990</span></p>
                     </div>
                 </div>
-                <div>
+                <div data-aos="fade-up" data-aos-duration="1000">
                     <div id="contact-card" class="overflow-hidden z-20 bg-blue-800 h-full text-white p-6 rounded-lg shadow-lg relative after:absolute after:inset-0 after:bg-[url('../../assets/img/dot.png')] after:-z-10 duration-300 hover:scale-95 before:absolute before:size-24 before:bg-slate-50/10 before:rounded-full before:-right-5 before:-bottom-5">
                         <h2 class="text-2xl font-bold pb-6 relative before:absolute before:left-0 before:bottom-4 before:min-w-12 before:h-[1px] before:bg-white">India Office</h2>
                         <p class="mb-2 sm:text-sm text-xs">372 King’s Road, London, SW3 5UZ</p>
@@ -150,7 +150,7 @@
                         <p class="mb-2 sm:text-sm text-xs">For Sales Inquiry: <span id="phone">+ (123) 1800-567-8990</span></p>
                     </div>
                 </div>
-                <div>
+                <div data-aos="fade-left" data-aos-duration="1000">
                     <div id="contact-card" class="overflow-hidden z-20 bg-pink-800 h-full text-white p-6 rounded-lg shadow-lg relative after:absolute after:inset-0 after:bg-[url('../../assets/img/dot.png')] after:-z-10 duration-300 hover:scale-95 before:absolute before:size-24 before:bg-slate-50/10 before:rounded-full before:-right-5 before:-bottom-5">
                         <h2 class="text-2xl font-bold pb-6 relative before:absolute before:left-0 before:bottom-4 before:min-w-12 before:h-[1px] before:bg-white">India Office</h2>
                         <p class="mb-2 sm:text-sm text-xs">372 King’s Road, London, SW3 5UZ</p>

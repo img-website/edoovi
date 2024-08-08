@@ -23,7 +23,7 @@
     <!-- blog section  -->
 
     <section class="container px-6 lg:px-8 mx-auto max-w-7xl lg:pb-16 pb-10 overflow-hidden">
-        <div class="relative z-10 mb-8 md:mb-12">
+        <div class="relative z-10 mb-8 md:mb-12" data-aos="fade-right" data-aos-duration="1000">
             <p class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                 <span class="font-semibold">Explore Tech Insights</span>
                 <span class="font-semibold">Fresh Blogs, News, and More!</span>
@@ -32,7 +32,7 @@
                 Edoovi school management system has grabbed the best school ERP software award, Best digital transformation award, Best innovative school erp award, Education Excellence Award for consecutive 3 years 2017-2019 by various well recognized associations.
             </div>
         </div>
-        <div class="">
+        <div class="" data-aos="fade-up" data-aos-duration="1000">
             <div class="grid grid-cols-12 gap-x-2 gap-y-4  lg:gap-6">
                 <div class="col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3">
                     <div class="size-full rounded-3xl p-4 relative max-sm:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)] sm:hover:[box-shadow:0px_0px_32px_0px_rgba(36,40,46,.12)]">
