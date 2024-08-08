@@ -4,7 +4,7 @@
    <!-- hero section start -->
    <div class="relative lg:h-full md:pt-28 pt-24 pb-10 ">
     <div class="mx-auto max-w-7xl lg:px-8 px-6">
-      <div class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
+      <div  class="grid sm:p-7 p-5 bg-purple-50 rounded-3xl md:grid-cols-7 md:gap-x-8 xl:gap-x-12 md:items-center h-full ">
         <div class="md:col-span-4">
           <div class="text-slate-900 xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-semibold "> School Management Software <span class="text-orange-500">With Cloud
               Based School ERP</span></div>
@@ -83,12 +83,12 @@ class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance t
           <span class="font-semibold">We Offer End-To-End Solutions For & </span> <br>
           <span class="font-bold text-slate-900">Every Phase Of School Management.</span>
         </p>
-        <div data-aos="zoom-out-up" data-aos-duration="1500" class="md:text-base text-sm text-black/70 mt-2 font-bold text-balance">
+        <div data-aos="flip-up" data-aos-duration="1000" class="md:text-base text-sm text-black/70 mt-2 font-bold text-balance">
           An integrated school management system called Edoovi is created specifically to cater to the requirements of all administrative personnel working in educational institutions. The organization is given a comprehensive and priceless toolkit to handle all school-related operations by the School Management System components.
         </div>
       </div>
       <div data-aos="flip-up" data-aos-duration="1000" class="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-4 bg-gradient-to-b from-violet-300 to-violet-500/90 rounded-3xl">
-        <div class="col-auto ">
+        <div  class="col-auto">
           <div class="size-full p-6 border-r max-lg:border-b
             hover:-translate-y-6 hover:bg-gradient-to-b from-slate-500 to-slate-900 hover:scale-105 duration-300 hover:border-0 hover:rounded-3xl">
             <div class="text-white *:sm:size-14 *:size-10 ">
@@ -107,7 +107,7 @@ class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance t
             </div>
           </div>
         </div>
-        <div class="col-auto ">
+        <div  class="col-auto">
           <div class="size-full p-6 border-r max-lg:border-b
               hover:-translate-y-6 hover:bg-gradient-to-b from-slate-500 to-slate-900 hover:scale-105 duration-300 hover:border-0 hover:rounded-3xl">
             <div class="text-white *:sm:size-14 *:size-10 ">
@@ -123,7 +123,7 @@ class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance t
             </div>
           </div>
         </div>
-        <div class="col-auto ">
+        <div  class="col-auto">
           <div class="size-full p-6 border-r max-sm:border-b
           hover:-translate-y-6 hover:bg-gradient-to-b from-slate-500 to-slate-900 hover:scale-105 duration-300 hover:border-0 hover:rounded-3xl">
             <div class="text-white *:sm:size-14 *:size-10 ">
@@ -139,7 +139,7 @@ class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-balance t
             </div>
           </div>
         </div>
-        <div class="col-auto ">
+        <div  class="col-auto">
           <div class="size-full p-6 border-r  max-sm:border-b
               hover:-translate-y-6 hover:bg-gradient-to-b from-slate-500 to-slate-900 hover:scale-105 duration-300 hover:border-0 hover:rounded-3xl">
             <div class="text-white *:sm:size-14 *:size-10 ">
@@ -359,16 +359,14 @@ class= " text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight
 
       </div>
       <div class="">
-        <div data-aos="fade-left" data-aos-duration="1000"
-
-
+        <div 
 class="mb-5 sm:mb-10 lg:mb-0  lg:order-2 bg-orange-50 px-4 sm:px-8 rounded-3xl">
           <div class="relative">
 
           </div>
 
-          <nav class="flex flex-nowrap overflow-x-auto py-4 gap-4 my-5" aria-label="Tabs" role="tablist" aria-orientation="vertical">
-            <button type="button" class="text-start lg:hover:bg-purple-50 shadow-xl focus:outline-none px-4 py-2 rounded-full focus:text-white bg-violet-50 focus:bg-gradient-to-b focus:from-violet-300 focus:to-violet-500/90" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-1" aria-controls="tabs-with-card-1" role="tab">
+          <nav  class="flex flex-nowrap overflow-x-auto py-4 gap-4 my-5" aria-label="Tabs" role="tablist" aria-orientation="vertical">
+            <button data-aos="fade-left" data-aos-duration="1000" type="button" class="text-start lg:hover:bg-purple-50 shadow-xl focus:outline-none px-4 py-2 rounded-full focus:text-white bg-violet-50 focus:bg-gradient-to-b focus:from-violet-300 focus:to-violet-500/90" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-1" aria-controls="tabs-with-card-1" role="tab">
               <span class="flex gap-x-3 items-center flex-nowrap">
                 <svg class="shrink-0 size-6 md:size-7 " stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4">
@@ -381,7 +379,7 @@ class="mb-5 sm:mb-10 lg:mb-0  lg:order-2 bg-orange-50 px-4 sm:px-8 rounded-3xl">
               </span>
             </button>
 
-            <button type="button" class="text-start lg:hover:bg-purple-50 shadow-xl focus:outline-none px-4 py-2 rounded-full focus:text-white bg-violet-50 focus:bg-gradient-to-b focus:from-violet-300 focus:to-violet-500/90" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-2" aria-controls="tabs-with-card-2" role="tab">
+            <button data-aos="fade-left" data-aos-duration="1000" type="button" class="text-start lg:hover:bg-purple-50 shadow-xl focus:outline-none px-4 py-2 rounded-full focus:text-white bg-violet-50 focus:bg-gradient-to-b focus:from-violet-300 focus:to-violet-500/90" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-2" aria-controls="tabs-with-card-2" role="tab">
               <span class="flex gap-x-3 items-center flex-nowrap">
                 <svg class="shrink-0 size-6 md:size-7 " stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4">
@@ -394,7 +392,7 @@ class="mb-5 sm:mb-10 lg:mb-0  lg:order-2 bg-orange-50 px-4 sm:px-8 rounded-3xl">
               </span>
             </button>
 
-            <button type="button" class="text-start lg:hover:bg-purple-50 shadow-xl focus:outline-none px-4 py-2 rounded-full focus:text-white bg-violet-50 focus:bg-gradient-to-b focus:from-violet-300 focus:to-violet-500/90" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-3" aria-controls="tabs-with-card-3" role="tab">
+            <button data-aos="fade-left" data-aos-duration="1000" type="button" class="text-start lg:hover:bg-purple-50 shadow-xl focus:outline-none px-4 py-2 rounded-full focus:text-white bg-violet-50 focus:bg-gradient-to-b focus:from-violet-300 focus:to-violet-500/90" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-3" aria-controls="tabs-with-card-3" role="tab">
               <span class="flex gap-x-3 items-center flex-nowrap">
                 <svg class="shrink-0 size-6 md:size-7 " stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4">
@@ -407,7 +405,7 @@ class="mb-5 sm:mb-10 lg:mb-0  lg:order-2 bg-orange-50 px-4 sm:px-8 rounded-3xl">
               </span>
             </button>
 
-            <button type="button" class="text-start lg:hover:bg-purple-50 shadow-xl focus:outline-none px-4 py-2 rounded-full focus:text-white bg-violet-50 focus:bg-gradient-to-b focus:from-violet-300 focus:to-violet-500/90" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-4" aria-controls="tabs-with-card-4" role="tab">
+            <button data-aos="fade-left" data-aos-duration="1000" type="button" class="text-start lg:hover:bg-purple-50 shadow-xl focus:outline-none px-4 py-2 rounded-full focus:text-white bg-violet-50 focus:bg-gradient-to-b focus:from-violet-300 focus:to-violet-500/90" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-4" aria-controls="tabs-with-card-4" role="tab">
               <span class="flex gap-x-3 items-center flex-nowrap">
                 <svg class="shrink-0 size-6 md:size-7 " stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4">
@@ -419,7 +417,7 @@ class="mb-5 sm:mb-10 lg:mb-0  lg:order-2 bg-orange-50 px-4 sm:px-8 rounded-3xl">
                 </span>
               </span>
             </button>
-            <button type="button" class="text-start lg:hover:bg-purple-50 shadow-xl focus:outline-none px-4 py-2 rounded-full focus:text-white bg-violet-50 focus:bg-gradient-to-b focus:from-violet-300 focus:to-violet-500/90" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-5" aria-controls="tabs-with-card-5" role="tab">
+            <button type="button" data-aos="fade-left" data-aos-duration="1000" class="text-start lg:hover:bg-purple-50 shadow-xl focus:outline-none px-4 py-2 rounded-full focus:text-white bg-violet-50 focus:bg-gradient-to-b focus:from-violet-300 focus:to-violet-500/90" id="tabs-with-card-item-2" aria-selected="false" data-hs-tab="#tabs-with-card-5" aria-controls="tabs-with-card-5" role="tab">
               <span class="flex gap-x-3 items-center flex-nowrap">
                 <svg class="shrink-0 size-6 md:size-7 " stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4">
@@ -2482,11 +2480,12 @@ class="mb-5 sm:mb-10 lg:mb-0  lg:order-2 bg-orange-50 px-4 sm:px-8 rounded-3xl">
 
   <section class="bg-white py-6 md:py-8 lg:py-10">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 ">
-      <div  class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14 rounded-3xl">
+      <div data-aos="fade-up"
+      data-aos-duration="3000" class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14 rounded-3xl">
         <img  class="w-full aspect-[3/1] object-cover !absolute inset-0 !z-10 rounded-3xl shadow-xl h-full shadow-gray-900/50 overflow-hidden" src="  ../../assets/img/faq.jpg">
         <div class="md:w-5/12 w-full shrink-0 h-full">
         </div>
-      <div data-aos="zoom-in" data-aos-duration="1500" class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14 rounded-3xl">
+      <div class="flex max-md:flex-col gap-5 items-center relative *:relative *:z-20 overflow-hidden sm:py-16 py-14 rounded-3xl">
       <div  class="grow md:p-7 p-4 bg-white backdrop-blur-md rounded-l-3xl">
           <div class="w-full">
             <div class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold text-balance">
@@ -2685,9 +2684,9 @@ class="max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.0
 
   <!-- logo section end  -->
   <!-- cta start -->
-  <div data-aos="zoom-out-right" data-aos-duration="1000" class="md:py-16 sm:py-10 py-8 select-none">
+  <div  class="md:py-16 sm:py-10 py-8 select-none">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
-      <div class="relative isolate overflow-hidden bg-gray-900 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:gap-x-20 lg:px-24 bg-[url('../../assets/img/school-cta.jpg')] bg-cover bg-left after:absolute after:top-0 after:left-0 after:bg-black/60 after:size-full">
+      <div data-aos="zoom-out-right" data-aos-duration="1000" class="relative isolate overflow-hidden bg-gray-900 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:gap-x-20 lg:px-24 bg-[url('../../assets/img/school-cta.jpg')] bg-cover bg-left after:absolute after:top-0 after:left-0 after:bg-black/60 after:size-full">
         <div class="max-w-3xl lg:mx-0 lg:flex-auto py-6 md:py-8 lg:py-10 lg:text-left relative z-[1]">
           <div class="max-sm:text-xl max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight text-white font-normal empty:hidden max-sm:text-center">Still Have Any Query?
             <div class="font-bold text-white mt-2">We would love to answer. Let’s schedule free demonstration of Edoovi School ERP Software.
