@@ -21,6 +21,8 @@ if ($_SERVER["HTTP_HOST"] == "localhost") {
     <link rel="stylesheet" href="<?php echo f_path ?>/assets/css/style.css">
     <!-- swiper link  -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 
 </head>
 
