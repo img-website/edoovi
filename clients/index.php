@@ -26,7 +26,7 @@
 
         <div class="relative  mx-auto">
             <div class="w-full md:max-w-2xl md:w-3/4 lg:w-2/5 mb-6 sm:mb-10 md:mb-8">
-                <div class="relative container mx-auto max-w-7xl z-10">
+                <div class="relative container mx-auto max-w-7xl z-10" data-aos="fade-right" data-aos-duration="1000">
                     <p class="text-balance max-md:text-2xl/tight max-xl:text-3xl/tight text-4xl/tight tracking-[-0.04em] text-slate-900  font-semibold">
                         <span class="font-semibold">Why Institutes Love </span>
                         <span class="font-bold text-slate-900">Edoovi ERP System?</span>
@@ -48,11 +48,11 @@
                                 </div>
 
                                 <div class="lg:grid lg:grid-cols-6 lg:gap-8 lg:items-center">
-                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white">
+                                    <div class="hidden lg:col-span-2 shadow-2xl rounded-3xl lg:flex items-center justify-center aspect-[1/0.7] bg-white" data-aos="zoom-in"   data-aos-duration="1000">
                                         <img class="rounded-3xl size-full" src="https://images.unsplash.com/photo-1671726203390-cdc4354ee2eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=560&q=80" alt="Avatar">
                                     </div>
 
-                                    <div class="lg:col-span-4">
+                                    <div class="lg:col-span-4"  data-aos="flip-left"   data-aos-duration="1000">
                                         <blockquote>
 
                                             <p class="text-lg font-medium text-gray-800  lg:leading-normal text-ellipsis line-clamp-5">
