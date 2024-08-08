@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-/*
-! tailwindcss v3.4.7 | MIT License | https://tailwindcss.com
-*/
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'); */
+
+/* ! tailwindcss v3.4.7 | MIT License | https://tailwindcss.com */
 
 /*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
@@ -1279,11 +1279,6 @@ video {
   height: 3rem;
 }
 
-.size-14{
-  width: 3.5rem;
-  height: 3.5rem;
-}
-
 .size-20{
   width: 5rem;
   height: 5rem;
@@ -1559,11 +1554,6 @@ video {
 
 .-translate-x-full{
   --tw-translate-x: -100%;
-  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-}
-
-.translate-x-full{
-  --tw-translate-x: 100%;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
@@ -3403,10 +3393,6 @@ video {
   padding-top: 6rem;
 }
 
-.pt-32{
-  padding-top: 8rem;
-}
-
 .pt-4{
   padding-top: 1rem;
 }
@@ -4277,8 +4263,12 @@ video {
   box-shadow: 0px 0px 32px 0px rgba(36,40,46,.12);
 }
 
-body{
+/* body{
   font-family: "Roboto", sans-serif;
+} */
+
+body{
+  font-family: "Noto Sans", sans-serif;
 }
 
 @media (min-width: 640px){
@@ -5235,6 +5225,10 @@ body{
     padding-right: 0.5rem;
   }
 
+  .max-sm\:pb-8{
+    padding-bottom: 2rem;
+  }
+
   .max-sm\:pt-0{
     padding-top: 0px;
   }
@@ -5353,11 +5347,6 @@ body{
   .sm\:size-12{
     width: 3rem;
     height: 3rem;
-  }
-
-  .sm\:size-16{
-    width: 4rem;
-    height: 4rem;
   }
 
   .sm\:size-5{
@@ -5498,6 +5487,11 @@ body{
     padding-bottom: 3rem;
   }
 
+  .sm\:py-14{
+    padding-top: 3.5rem;
+    padding-bottom: 3.5rem;
+  }
+
   .sm\:py-16{
     padding-top: 4rem;
     padding-bottom: 4rem;
@@ -5535,6 +5529,10 @@ body{
 
   .sm\:pt-16{
     padding-top: 4rem;
+  }
+
+  .sm\:pt-32{
+    padding-top: 8rem;
   }
 
   .sm\:pt-4{
@@ -6359,17 +6357,7 @@ body{
   border-bottom-color: rgb(15 23 42 / var(--tw-border-opacity));
 }
 
-.\[\&\.active\]\:bg-violet-400.active{
-  --tw-bg-opacity: 1;
-  background-color: rgb(167 139 250 / var(--tw-bg-opacity));
-}
-
 .\[\&\.active\]\:text-slate-950.active{
   --tw-text-opacity: 1;
   color: rgb(2 6 23 / var(--tw-text-opacity));
-}
-
-.\[\&\.active\]\:text-white.active{
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
