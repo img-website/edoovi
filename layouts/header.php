@@ -142,18 +142,18 @@ if ($_SERVER["HTTP_HOST"] == "localhost") {
             <div class="md:flex items-center gap-8 hidden">
                 <ul class="flex gap-8">
                     <li>
-                        <a href="<?php echo f_path ?>" class="inline-flex font-medium text-base      <?php echo basename($_SERVER['REQUEST_URI']) == 'edoovi' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                        <a href="<?php echo f_path ?>" class="inline-flex font-medium text-base      <?php echo basename($_SERVER['REQUEST_URI']) == 'edoovi' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                             Home
                         </a>
                     </li>
                     <li>
                         <a href="<?php echo f_path ?>about" class="inline-flex font-medium text-base
-                     <?php echo basename($_SERVER['REQUEST_URI']) == 'about' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                     <?php echo basename($_SERVER['REQUEST_URI']) == 'about' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                             About Us
                         </a>
                     </li>
                     <li class="relative group">
-                        <a href="javascript:;" class="flex items-center font-medium text-base <?php echo basename($_SERVER['PHP_SELF']) == 'school-software.php' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                        <a href="javascript:;" class="flex items-center font-medium text-base <?php echo basename($_SERVER['PHP_SELF']) == 'school-software.php' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                             Our Solutions
                             <span class="*:size-6 *:group-hover:rotate-180 *:duration-300">
                                 <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg">
@@ -191,12 +191,12 @@ if ($_SERVER["HTTP_HOST"] == "localhost") {
                         </div>
                     </li>
                     <li>
-                        <a href="<?php echo f_path ?>blogs" class="inline-flex font-medium text-base <?php echo basename($_SERVER['REQUEST_URI']) == 'blogs' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                        <a href="<?php echo f_path ?>blogs" class="inline-flex font-medium text-base <?php echo basename($_SERVER['REQUEST_URI']) == 'blogs' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                             Blogs
                         </a>
                     </li>
                     <li>
-                        <a href="<?php echo f_path ?>clients" class="inline-flex font-medium text-base <?php echo basename($_SERVER['REQUEST_URI']) == 'clients' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                        <a href="<?php echo f_path ?>clients" class="inline-flex font-medium text-base <?php echo basename($_SERVER['REQUEST_URI']) == 'clients' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                             Clients
                         </a>
                     </li>
@@ -231,42 +231,42 @@ if ($_SERVER["HTTP_HOST"] == "localhost") {
                     <div class="flex flex-col bg-white pb-40 h-screen overflow-y-auto !content-between">
                         <ul class="h-full overflow-y-auto bg-white">
                             <li class="w-full">
-                                <a href="<?php echo f_path ?>" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'index.php' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                                <a href="<?php echo f_path ?>" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'index.php' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                                     Home
                                 </a>
                             </li>
                             <li class="w-full">
-                                <a href="<?php echo f_path ?>about" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'about.php' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                                <a href="<?php echo f_path ?>about" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'about.php' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                                     About Us
                                 </a>
                             </li>
                             <li class="w-full">
-                                <a href="<?php echo f_path ?>oursolutions/school-software" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'school-software.php' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                                <a href="<?php echo f_path ?>oursolutions/school-software" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'school-software.php' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                                     School Software
                                 </a>
                             </li>
                             <li class="w-full">
-                                <a href="<?php echo f_path ?>oursolutions/institute-software" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'institute-software.php' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                                <a href="<?php echo f_path ?>oursolutions/institute-software" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'institute-software.php' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                                     Institute Software
                                 </a>
                             </li>
                             <li class="w-full">
-                                <a href="<?php echo f_path ?>oursolutions/college-software" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'college-software.php' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                                <a href="<?php echo f_path ?>oursolutions/college-software" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'college-software.php' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                                     College Software
                                 </a>
                             </li>
                             <li class="w-full">
-                                <a href="<?php echo f_path ?>oursolutions/university-software" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'university-software.php' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                                <a href="<?php echo f_path ?>oursolutions/university-software" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'university-software.php' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                                     University Software
                                 </a>
                             </li>
                             <li class="w-full">
-                                <a href="<?php echo f_path ?>blogs" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'blogs.php' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                                <a href="<?php echo f_path ?>blogs" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'blogs.php' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                                     Blogs
                                 </a>
                             </li>
                             <li class="w-full">
-                                <a href="<?php echo f_path ?>clients" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'clients.php' ? 'text-red-600 border-b-2 border-red-600' : ''; ?>">
+                                <a href="<?php echo f_path ?>clients" class="hover:bg-violet-400 duration-300 text-slate-600 font-semibold px-4 py-2 hover:text-white border-b border-slate-200 w-full inline-flex <?php echo basename($_SERVER['PHP_SELF']) == 'clients.php' ? ' text-theme1 border-b-2 border-theme1 ' : ''; ?>">
                                     Clients
                                 </a>
                             </li>
