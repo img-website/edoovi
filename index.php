@@ -776,7 +776,7 @@
 <!-- card end -->
 
 <!-- cta start  -->
-<section class="lg:pb-16 pb-10">
+<section class="lg:pb-16 pb-10 overflow-hidden">
     <div class="  mx-auto max-w-7xl px-6 lg:px-8">
         <div class="relative sm:py-14 py-10 isolate  text-center justify-center :relative :z-10 bg-gray-900/70 px-6 shadow-2xl rounded-2xl sm:rounded-3xl sm:px-16 lg:flex lg:px-24">
             <img class="rounded-3xl !absolute !z-0 inset-0 size-full mix-blend-overlay object-cover object-center" src="https://www.imgglobalinfotech.com/public/tailwind/img/cta/school-cta-2.webp?id=7a2551bcc85c9d67d2863e9d0af57dd0">
